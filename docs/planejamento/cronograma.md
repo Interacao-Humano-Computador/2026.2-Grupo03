@@ -4,8 +4,8 @@ O cronograma deve ser atualizado sempre que houver uma mudanca aprovada. As data
 
 | Etapa/entrega | Inicio | Fim | Responsavel | Revisor | Gravacao de video | Buffer para ajustes e correcoes | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Avaliacao dos sites candidatos | _dd/mm/aaaa_ | _dd/mm/aaaa_ | _Nome_ | _Nome_ | _link_ | _dd/mm a dd/mm_ | _Nao iniciada_ |
-| Selecao do site e escopo | _dd/mm/aaaa_ | _dd/mm/aaaa_ | _Nome_ | _Nome_ | _link_ | _dd/mm a dd/mm_ | _Nao iniciada_ |
+| Avaliacao dos sites candidatos | 03/09/2026 | 06/09/2026 | Grupo 3 | Henrique Schneider | [link] | _dd/mm a dd/mm_ | Finalizada |
+| Selecao do site e escopo | 03/09/2026 | - | Grupo 3 | - |  | _dd/mm a dd/mm_ | Em andamento |
 | Fundamentacao teorica | _dd/mm/aaaa_ | _dd/mm/aaaa_ | _Nome_ | _Nome_ | _link_ | _dd/mm a dd/mm_ | _Nao iniciada_ |
 | Analise e requisitos | _dd/mm/aaaa_ | _dd/mm/aaaa_ | _Nome_ | _Nome_ | _link_ | _dd/mm a dd/mm_ | _Nao iniciada_ |
 | Ideacao e prototipacao | _dd/mm/aaaa_ | _dd/mm/aaaa_ | _Nome_ | _Nome_ | _link_ | _dd/mm a dd/mm_ | _Nao iniciada_ |

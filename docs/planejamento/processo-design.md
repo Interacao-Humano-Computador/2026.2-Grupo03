@@ -2,7 +2,7 @@
 
 ## Processo escolhido
 
-**Processo:** _Preencher nome do processo escolhido._
+**Processo:** Inspeção Heurística
 
 ## Justificativa
 

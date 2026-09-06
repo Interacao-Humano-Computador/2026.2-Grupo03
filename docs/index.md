@@ -1,26 +1,26 @@
 # Projeto de Interacao Humano-Computador
 
-## Apresentacao
+## Apresentação
 
-Este site documenta, de forma rastreavel e acessivel, o projeto academico de Interacao Humano-Computador desenvolvido pelo Grupo 03. Aqui estao reunidos o planejamento, as decisoes de design, os artefatos produzidos, as atas de reuniao e as evidencias de contribuicao da equipe.
+Este site documenta de forma rastreável e acessível o projeto acadêmico de Interação Humano-Computador (IHC) desenvolvido pelo Grupo 03. O espaço reúne o planejamento estratégico, as decisões de design, os artefatos produzidos, as atas de reunião e as evidências de contribuição da equipe.
 
-## Motivacao
+## Motivação
 
-O projeto busca aplicar metodos de IHC para analisar criticamente uma experiencia digital existente e propor melhorias fundamentadas em evidencias, necessidades dos usuarios e literatura especializada.
+A iniciativa aplica métodos de IHC para analisar criticamente uma experiência digital existente, propondo melhorias fundamentadas em evidências empíricas, necessidades reais dos usuários e literatura especializada da área.
 
 ## Sites avaliados
 
 | Site | Contexto | Principais observacoes | Evidencia |
 | --- | --- | --- | --- |
-| _Preencher_ | _Preencher_ | _Preencher_ | _Adicionar link_ |
+| Época Cosméticos | Comunidade de Beleza | Bloqueios grandes por conta de login desnecessário | [Baixar Relatório em PDF](./planejamento/sites%20avaliados/Henrique%20Schneider%20Fernandes%20da%20Rosa/ProjetoParteIndividualMetodoeAvalição.pdf) |
 | _Preencher_ | _Preencher_ | _Preencher_ | _Adicionar link_ |
 | _Preencher_ | _Preencher_ | _Preencher_ | _Adicionar link_ |
 
 ## Site escolhido
 
-**Site selecionado:** _Preencher nome e URL do site escolhido._
+**Site selecionado:** [Detran-DF](https://www.detran.df.gov.br/)
 
-A escolha deve ser justificada com base nos criterios abaixo e sustentada pelos registros de avaliacao realizados pela equipe.
+O portal foi escolhido democraticamente pelo grupo por apresentar barreiras severas de usabilidade, falhas comunicativas em formulários de consulta e inconsistências no fluxo de emissão de taxas e documentos, impactando negativamente a satisfação do cidadão.
 
 ## Criterios de escolha
 
