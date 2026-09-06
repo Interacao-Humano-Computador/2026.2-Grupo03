@@ -1,0 +1,56 @@
+site_name: Projeto de IHC | Grupo 03
+site_description: Documentacao academica do projeto de Interacao Humano-Computador.
+site_url: https://interacao-humano-computador.github.io/2026.2-Grupo03/
+repo_url: https://github.com/Interacao-Humano-Computador/2026.2-Grupo03
+repo_name: Interacao-Humano-Computador/2026.2-Grupo03
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Alternar para o modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Alternar para o modo claro
+  font:
+    text: Atkinson Hyperlegible
+    code: JetBrains Mono
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Inicio: index.md
+  - A Equipe: equipe.md
+  - Planejamento:
+      - Cronograma: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Processo de Design: planejamento/processo-design.md
+  - Reunioes:
+      - Atas: reunioes/index.md
+
+copyright: Projeto academico de IHC | Grupo 03
