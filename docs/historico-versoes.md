@@ -4,7 +4,7 @@ Esta tabela registra as versões dos documentos, o que foi alterado, a pessoa au
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 06/09/2026  | 1.6 | agradecimento e uso de IA [Ver commit]() | [Eduardo Ribeiro](https://github.com/EduardoRGS) | Não registrado |
+| 06/09/2026  | 1.6 | agradecimento e uso de IA [Ver commit](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/8205c95e614efa432a4ba335833f052dc6e5d55f) | [Eduardo Ribeiro](https://github.com/EduardoRGS) | Não registrado |
 | 06/09/2026  | 1.5 | acrescentar a documentação referente ao site avaliado  [Ver commit](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/968f18d65c23de5ce5ed990a0f919258947bff9a) | [João Vitor](https://github.com/Vt010)/[Alexandre Vilar](https://github.com/AlexandreVvF14) | Não registrado |
 | 06/09/2026  | 1.4 | Adicionar o cronograma detalhado,aprimorar a redação dos sites avaliados e suas justificativas evidenciados em tabela e detalhamento das ferramentas utilizadas. [Ver commit](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/b35dc60e07239bd1fc878fb9400cb8de905b8d01) | [Camile Barbosa](https://github.com/Camile0318) | Não registrado |
 | 06/09/2026  | 1.3 | Adicionar o processo de design, registrar as alterações nas ferramentas utilizadas, acrescentar a documentação referente ao site avaliado e ajuste de data no histórico de versões  [Ver commit](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/7f93ba5b5b3bb62099692a477f76390dc31716fd) | [Eduardo Ribeiro](https://github.com/EduardoRGS) | Não registrado |
