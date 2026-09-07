@@ -10,8 +10,8 @@ Este site documenta de forma rastreável e acessível o projeto acadêmico de In
 | --- | --- | --- | --- |
 | Época Cosméticos | Comunidade de Beleza | Bloqueios grandes por conta de login desnecessário | [Baixar Relatório em PDF](./planejamento/sites%20avaliados/Henrique%20Schneider%20Fernandes%20da%20Rosa/ProjetoParteIndividualMetodoeAvalição.pdf) |
 | Meu SUS Digital | Saúde digital acessível | Falha ao editar dados do usuário |  [Baixar Relatório em PDF](./planejamento/sites%20avaliados/Henrique%20Schneider%20Fernandes%20da%20Rosa/avaliaoMeuSUSDigital.pdf) |
-| _Preencher_ | _Preencher_ | _Preencher_ | _Adicionar link_ |
-| _Preencher_ | _Preencher_ | _Preencher_ | _Adicionar link_ |
+|Detran DF | Serviços públicos de trânsito | Falhas de validação no login e fluxo de agendamento confuso | [Baixar Relatório em PDF](./planejamento/sites%20avaliados/João%20Vitor%20Tavares%20de%20Sá%20Lima/PlojetoParteIndividualMetodoeAvalição.pdf) |
+| SouGov | Portal do servidor público federal | Problemas de interação | [Baixar Relatório em PDF](./planejamento/sites%20avaliados/João%20Vitor%20Tavares%20de%20Sá%20Lima/SouGovMetodoeAvalição.pdf) |
 | _Preencher_ | _Preencher_ | _Preencher_ | _Adicionar link_ |
 
 ## Site escolhido
