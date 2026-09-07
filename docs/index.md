@@ -29,3 +29,12 @@ O portal foi escolhido democraticamente pelo grupo por apresentar barreiras seve
 - Viabilidade de propor melhorias no escopo e no prazo da disciplina.
 - Diversidade de fluxos, conteudos e componentes para analise.
 - Disponibilidade de fontes e referencias para fundamentacao.
+
+
+## Agradecimentos
+
+Agradecemos à equipe do Grupo 03 pela dedicação na análise dos diferentes portais avaliados e na seleção colaborativa do Detran-DF, cujas barreiras de usabilidade e falhas em formulários motivaram o desenvolvimento deste projeto acadêmico de Interação Humano-Computador (IHC).
+
+## Uso de Inteligência Artificial
+
+O uso de ferramentas de Inteligência Artificial Generativa foi empregado exclusivamente para o refinamento ortográfico, padronização da linguagem acadêmica e formatação da estrutura Markdown (tabelas e tópicos) deste documento. A escolha do método, a argumentação de projeto e as validações técnicas são de inteira responsabilidade e autoria intelectual da equipe.
