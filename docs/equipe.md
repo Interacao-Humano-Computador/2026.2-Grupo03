@@ -1,6 +1,6 @@
 # A Equipe
 
-## Integrantes
+## Integrantes do Grupo
 
 | Foto | Nome | Papel principal |
 | --- | --- | --- |
@@ -12,23 +12,18 @@
 
 ## Disponibilidade da equipe
 
-O quadro abaixo apresenta a disponibilidade semanal consolidada da equipe. Ele e carregado diretamente do When2Meet e pode ser atualizado pelos integrantes sem precisar alterar o GitHub Pages.
+A **Figura 1** apresenta o quadro consolidado de disponibilidade semanal dos integrantes, utilizado para o planejamento das reuniões e alinhamento de horários do grupo.
 
+**Figura 1** - Quadro de disponibilidade semanal da equipe no When2Meet
 <iframe
-	src="https://www.when2meet.com/?38373487-SW1oI"
-	title="Quadro de disponibilidade da equipe no When2Meet"
-	width="100%"
-	height="720"
-	loading="lazy"
-	style="border: 1px solid var(--md-default-fg-color--lightest); border-radius: 4px;"
+    src="https://www.when2meet.com/?38373487-SW1oI"
+    title="Quadro de disponibilidade da equipe no When2Meet"
+    width="100%"
+    height="720"
+    loading="lazy"
+    style="border: 1px solid var(--md-default-fg-color--lightest); border-radius: 4px;"
 ></iframe>
 
 [Abrir o quadro de disponibilidade no When2Meet](https://www.when2meet.com/?38373487-SW1oI){ .md-button target="_blank" rel="noopener" }
 
-| Faixa de horario | Segunda | Terca | Quarta | Quinta | Sexta |
-| --- | --- | --- | --- | --- | --- |
-| Manha | _Preencher_ | _Preencher_ | _Preencher_ | _Preencher_ | _Preencher_ |
-| Tarde | _Preencher_ | _Preencher_ | _Preencher_ | _Preencher_ | _Preencher_ |
-| Noite | _Preencher_ | _Preencher_ | _Preencher_ | _Preencher_ | _Preencher_ |
-
-*Fonte: levantamento interno de disponibilidade da equipe, atualizado em _data_.*
+*(Fonte: Elaborado pelos autore/integrantes do grupos a partir de dados coletados via When2Meet, 2026)*
