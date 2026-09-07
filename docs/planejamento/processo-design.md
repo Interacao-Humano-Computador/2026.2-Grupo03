@@ -6,7 +6,7 @@
 
 ## 2. Justificativa
 
-A equipe selecionou a Engenharia de Usabilidade de Mayhew devido à sua abordagem holística e altamente estruturada em fases claras de engenharia, o que se adequa perfeitamente à complexidade do portal do **Detran-DF**. Por se tratar de um sistema governamental com alta densidade de informações e fluxos burocráticos, o reprojeto exige uma análise de requisitos metódica antes de qualquer ideação visual. 
+A equipe selecionou a Engenharia de Usabilidade de Mayhew devido à sua abordagem holística e altamente estruturada em fases claras de engenharia, o que se adequa perfeitamente à complexidade do portal do **Detran-DF**. Por se tratar de um sistema governamental com alta densidade de informações e fluxos burocráticos, o reprojeto exige uma análise de requisitos antes de qualquer ideação visual. 
 
 A divisão do modelo em níveis incrementais de design e avaliação facilita a modelagem rigorosa dos processos e requisitos não-funcionais da interface. Essa característica iterativa e técnica permite integrar metodologias de testes estruturados ao longo do ciclo de vida, garantindo que as metas de usabilidade sejam validadas sistematicamente (de fluxos conceituais ao detalhamento de tela) antes da entrega final.
 
