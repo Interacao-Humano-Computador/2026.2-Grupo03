@@ -16,8 +16,10 @@ As gravacoes devem ser hospedadas como **nao listadas** e compartilhadas apenas 
 | ----------------------------------------- | ------------------------------------------------------ |
 | [Entrega 1][video-entrega-1]              | [Baixar o documento da entrega 1][documento-entrega-1] |
 | [Inspeção 1 (Grupo 05)][video-inspecao-1] | [Baixar o documento de inspeção][documento-inspecao-1] |
+| [Slides][slides-entrega-1]                |                                                        |
 
 [video-entrega-1]: https://unbbr-my.sharepoint.com/personal/251035022_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F251035022_aluno_unb_br%2FDocuments%2FGrava%C3%A7%C3%B5es%2FAlexandre%2C%20Eduardo%20e%20Joao-20260907_224104-Grava%C3%A7%C3%A3o%20da%20Reuni%C3%A3o.mp4&ga=1&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.bfed74bb-e9b7-4016-a954-b5aba567717a
 [documento-entrega-1]: ../planejamento/entregas/Projeto%20de%20Interação%20Humano%20Computador%20-%202026.pdf
+[slides-entrega-1]: https://www.canva.com/design/DAHUjL3ND-o/NyeDPJoKl3vCB5C3SUNhJQ/edit
 [video-inspecao-1]: https://unbbr-my.sharepoint.com/personal/251035022_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F251035022_aluno_unb_br%2FDocuments%2FGrava%C3%A7%C3%B5es%2FAlexandre%2C%20Eduardo%20e%20Joao-20260907_222628-Grava%C3%A7%C3%A3o%20da%20Reuni%C3%A3o.mp4&ga=1&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.243630db-e852-44fe-ba0e-e8c849c60b1b
 [documento-inspecao-1]: ../planejamento/entregas/Inspeção%20do%20Grupo%20+%201%20-%20Planejamento%20do%20Projeto%20-%20GRUPO%203.pdf
