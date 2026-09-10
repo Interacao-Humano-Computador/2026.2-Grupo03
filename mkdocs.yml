@@ -44,14 +44,31 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Inicio: index.md
-  - A Equipe: equipe.md
-  - Planejamento:
-      - Cronograma: planejamento/cronograma.md
-      - Ferramentas: planejamento/ferramentas.md
-      - Processo de Design: planejamento/processo-design.md
-  - Reunioes:
-      - Atas: reunioes/index.md
-  - Historico de versoes: historico-versoes.md
+  - Entregas:
+      - Etapa 1 - Planejamento Geral: 
+          - Artefatos: etapas/Etapa 1 - Planejamento Geral/Artefatos/artefatos.md
+          - Avaliações: etapas/Etapa 1 - Planejamento Geral/Avaliacoes/avaliacoes.md
+          - Ferramentas: etapas/Etapa 1 - Planejamento Geral/Outros/ferramentas.md
+          - Processo de Design: etapas/Etapa 1 - Planejamento Geral/Processo de Design/processo-design.md
+          - Cronograma: etapas/Etapa 1 - Planejamento Geral/Reunioes/cronograma.md
+          - Reuniões Planejamento: etapas/Etapa 1 - Planejamento Geral/Reunioes/reunioes.md
+      - Etapa 2 - Requisitos e Tarefas: 
+          - Análise de Tarefas: etapas/Etapa 2 - Requisitos e Tarefas/Análise de Tarefas/tarefas.md
+          - Aspectos Éticos: etapas/Etapa 2 - Requisitos e Tarefas/Aspectos Éticos/etica.md
+          - Cenários de Uso: etapas/Etapa 2 - Requisitos e Tarefas/Cenários de Uso/uso.md
+          - Perfil do Usuário: etapas/Etapa 2 - Requisitos e Tarefas/Perfil do Usuário/perfil.md
+          - Reuniões Requisitos e Tarefas: etapas/Etapa 2 - Requisitos e Tarefas/Reuniões/reunioes.md
+      # - Etapa 3 - Design e Estilo: 
+      # - Etapa 4 - Planejamento da Avaliação: 
+  - Inspeções Grupo + 1:
+      - Grupo 5: Inspeção Grupo + 1/Grupo 5/index.md
+      # - Grupo 6: Inspeção Grupo + 1/Grupo 6/
+      # - Grupo 7: Inspeção Grupo + 1/Grupo 7/
+      # - Grupo 8: Inspeção Grupo + 1/Grupo 8/
+      # - Grupo 1: Inspeção Grupo + 1/Grupo 1/
+      # - Grupo 2: Inspeção Grupo + 1/Grupo 2/
+  - Histórico de Versões: historico-versoes.md
+  - Sobre o Projeto: index.md
+  - Equipe: etapas/Etapa 1 - Planejamento Geral/Equipe/equipe.md
 
 copyright: Projeto academico de IHC | Grupo 03
