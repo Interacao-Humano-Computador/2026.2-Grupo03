@@ -1,4 +1,4 @@
-site_name: Projeto de IHC | Grupo 03
+site_name: INTERAÇÃO HUMANO COMPUTADOR | Grupo 03
 site_description: Documentacao academica do projeto de Interacao Humano-Computador.
 site_url: https://interacao-humano-computador.github.io/2026.2-Grupo03/
 repo_url: https://github.com/Interacao-Humano-Computador/2026.2-Grupo03
@@ -12,10 +12,17 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
     - navigation.top
+    - navigation.footer
     - search.highlight
+    - search.suggest
+    - toc.follow
     - content.action.edit
     - content.code.copy
+    - content.tooltips
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -28,10 +35,14 @@ theme:
         icon: material/weather-night
         name: Alternar para o modo claro
   font:
-    text: Atkinson Hyperlegible
-    code: JetBrains Mono
+    text: DM Sans
+    code: IBM Plex Mono
   icon:
     repo: fontawesome/brands/github
+    logo: material/steering
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
@@ -39,19 +50,34 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
   - tables
   - toc:
       permalink: true
 
 nav:
   - Inicio: index.md
-  - A Equipe: equipe.md
-  - Planejamento:
-      - Cronograma: planejamento/cronograma.md
-      - Ferramentas: planejamento/ferramentas.md
-      - Processo de Design: planejamento/processo-design.md
-  - Reunioes:
-      - Atas: reunioes/index.md
-  - Historico de versoes: historico-versoes.md
 
-copyright: Projeto academico de IHC | Grupo 03
+  - Planejamento:
+    - Site Escolhido: planejamento/site escolhido/site_escolhido.md
+    - Sites Avaliados: planejamento/sites avaliados/sites_avaliados.md
+    - Heatmap: planejamento/heatmap/heatmap.md
+    - Ferramentas: planejamento/ferramentas/ferramentas_utilizadas.md
+    - Processo de Design: planejamento/processo/processo_de_design.md
+    - Cronograma: planejamento/cronograma/cronograma_planejado.md
+
+  - Verificação:
+    - Índice: verificacao/index.md
+    - Inspeção do Nosso grupo:
+      - Índice: verificacao/grupo-03/index.md
+      - Entrega 1: verificacao/grupo-03/entrega-1/lista-verificacao.md
+    - Inspeção do Grupo 05:
+      - Índice: verificacao/grupo-05/index.md
+      - Entrega 1: verificacao/grupo-05/entrega-1/lista-verificacao.md
+  
+  - Atas: atas.md
+  - Apresentaçòes: apresentacoes.md
+
+copyright: INTERAÇÃO HUMANO COMPUTADOR | Grupo 03
