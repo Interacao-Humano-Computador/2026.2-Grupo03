@@ -17,7 +17,7 @@ Os dados foram coletados por meio do When2Meet, ferramenta utilizada para compar
 
 **Figura 1 – Heatmap de disponibilidade dos integrantes**
 
-![Heatmap de disponibilidade dos quatro integrantes do Grupo 3](../../../assets/heapmap.png)
+![Heatmap de disponibilidade dos quatro integrantes do Grupo 3](../../assets/heapmap.png)
 
 *Fonte: elaborado pelos autores (2026), com dados coletados no When2Meet (WHEN2MEET, 2026).*
 

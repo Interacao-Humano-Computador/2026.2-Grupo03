@@ -51,7 +51,7 @@ Esse método foi escolhido por permitir uma análise sistemática sem recrutamen
 
 O escopo incluiu a versão web para desktop, a autenticação via Conta gov.br, a página inicial, a lista de serviços, o fluxo de consulta e programação de recesso e o assistente virtual. Os dados desta síntese foram extraídos do relatório individual de avaliação (FONSECA, 2026).
 
-[Abrir PDF da avaliação](../../../assets/pdfs/SouGovMetodoeAvalição.pdf){ target="_blank" rel="noopener" } · [Abrir SouGov.br](https://sougov.sigepe.gov.br/){ target="_blank" rel="noopener" }
+[Abrir PDF da avaliação](../../assets/pdfs/SouGovMetodoeAvalição.pdf){ target="_blank" rel="noopener" } · [Abrir SouGov.br](https://sougov.sigepe.gov.br/){ target="_blank" rel="noopener" }
 
 Foram identificados cinco problemas:
 
@@ -67,7 +67,7 @@ O relatório classificou três problemas como graves e dois como simples. Os ach
 
 O escopo ficou concentrado na edição dos dados cadastrais do perfil, verificando se o usuário consegue alterar, salvar e confirmar a persistência das informações (SILVA, 2026).
 
-[Abrir PDF da avaliação](../../../assets/pdfs/avaliaoMeuSUSDigital.pdf){ target="_blank" rel="noopener" } · [Abrir Meu SUS Digital](https://meususdigital.saude.gov.br/){ target="_blank" rel="noopener" }
+[Abrir PDF da avaliação](../../assets/pdfs/avaliaoMeuSUSDigital.pdf){ target="_blank" rel="noopener" } · [Abrir Meu SUS Digital](https://meususdigital.saude.gov.br/){ target="_blank" rel="noopener" }
 
 Foram identificados dois problemas:
 
@@ -80,7 +80,7 @@ O primeiro problema foi classificado como grave e o segundo como simples. Em con
 
 O escopo contemplou o fluxo de compra, a navegação por categorias, os filtros, as ofertas, os favoritos e o checkout do comércio eletrônico (ROSA, 2026).
 
-[Abrir PDF da avaliação](../../../assets/pdfs/ProjetoParteIndividualMetodoEAvalição.pdf){ target="_blank" rel="noopener" } · [Abrir Época Cosméticos](https://www.epocacosmeticos.com.br/){ target="_blank" rel="noopener" }
+[Abrir PDF da avaliação](../../assets/pdfs/ProjetoParteIndividualMetodoEAvalição.pdf){ target="_blank" rel="noopener" } · [Abrir Época Cosméticos](https://www.epocacosmeticos.com.br/){ target="_blank" rel="noopener" }
 
 Foram identificados três grupos de problemas:
 
@@ -94,7 +94,7 @@ O relatório conclui que essas falhas impactam a eficiência, a satisfação e a
 
 O escopo incluiu a página inicial, a consulta de credenciadas, o agendamento de atendimento presencial, o assistente virtual DET e a tela de login. Os aplicativos Detran Digital e CDT ficaram fora da avaliação (LIMA, 2026).
 
-[Abrir PDF da avaliação](../../../assets/pdfs/PlojetoParteIndividualMetodoeAvalição.pdf){ target="_blank" rel="noopener" } · [Abrir Portal de Serviços do Detran-DF](https://portal.detran.df.gov.br/){ target="_blank" rel="noopener" }
+[Abrir PDF da avaliação](../../assets/pdfs/PlojetoParteIndividualMetodoeAvalição.pdf){ target="_blank" rel="noopener" } · [Abrir Portal de Serviços do Detran-DF](https://portal.detran.df.gov.br/){ target="_blank" rel="noopener" }
 
 Foram identificados cinco problemas:
 
