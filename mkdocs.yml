@@ -68,6 +68,15 @@ nav:
     - Processo de Design: planejamento/processo/processo_de_design.md
     - Cronograma: planejamento/cronograma/cronograma_planejado.md
 
+  - Perfil de Usuário, Análise de Tarefas e Aspectos Éticos:
+    - Perfis de Usuário e Personas: perfil-de-usuario/personas/perfisEpersonas.md
+    - Análise de tarefas: perfil-de-usuario/analise/fluxos.md
+    - Aspectos Éticos:
+      - Termo de Consentimento Livre e Esclarecido: perfil-de-usuario/aspectos-eticos/termo/TCLE.md
+    - Registro de investigação:
+      - Entrevistas: perfil-de-usuario/entrevistas/entrevistas.md
+      - Questionários: perfil-de-usuario/questionarios/questionarios.md
+
   - Verificação:
     - Índice: verificacao/index.md
     - Inspeção do Nosso grupo:

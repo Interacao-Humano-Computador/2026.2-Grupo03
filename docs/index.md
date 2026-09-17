@@ -41,8 +41,8 @@ Esta documentação apresenta o planejamento da avaliação de Interação Human
 
 <div class="team-grid">
 <a class="team-card" href="https://github.com/AlexandreVvF14" target="_blank" rel="noopener">
-<img src="assets/alexandre.jpg" alt="Foto de Alexandre Vilar Valadares Fonseca">
-<strong>Alexandre Vilar</strong>
+<img src="assets/alexandre.jpg" alt=" Foto de João Vitor Tavares de Sá Lima">
+<strong>João Vitor</strong>
 </a>
 <a class="team-card" href="https://github.com/EduardoRGS" target="_blank" rel="noopener">
 <img src="assets/eduardo.jpg" alt="Foto de Eduardo Ribeiro Gomes da Silva">
@@ -53,8 +53,12 @@ Esta documentação apresenta o planejamento da avaliação de Interação Human
 <strong>Henrique Schneider</strong>
 </a>
 <a class="team-card" href="https://github.com/Vt010" target="_blank" rel="noopener">
-<img src="assets/joao.png" alt="Foto de João Vitor Tavares de Sá Lima">
-<strong>João Vitor</strong>
+<img src="assets/joao.png" alt="Foto de Alexandre Vilar Valadares Fonseca">
+<strong>Alexandre Vilar</strong>
+</a>
+<a class="team-card" href="https://github.com/Gabrielxcx" target="_blank" rel="noopener">
+<img src="assets/gabriel.jpg" alt="Foto de Gabriel Robson Nunes Neiva da Silva">
+<strong>Gabriel Robson</strong>
 </a>
 </div>
 
@@ -64,6 +68,7 @@ Esta documentação apresenta o planejamento da avaliação de Interação Human
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
+ 17/09/2026 | 1.2 | Criação das páginas da segunda entrega "Perfil de Usuários, Aspectos Éticos e Análise de Tarefas" e adição do novo integrante do Grupo 3 -> Gabriel Robson | Henrique Schneider | - |  
 | 10/09/2026 | 1.1 | Atualização da apresentação do Grupo 03, dos acessos principais e do registro de contribuições da página inicial. | Grupo 03 | A definir |
 | 10/09/2026 | 1.0 | Criação da página inicial do projeto e apresentação do Portal de Serviços do Detran-DF. | Grupo 03 | A definir |
 
@@ -71,6 +76,6 @@ Esta documentação apresenta o planejamento da avaliação de Interação Human
 
 ## Referências
 
-DISTRITO FEDERAL. Departamento de Trânsito do Distrito Federal. **Portal do Detran-DF**. Disponível em: <https://www.detran.df.gov.br/>. Acesso em: 10 set. 2026.
+DISTRITO FEDERAL. Departamento de Trânsito do Distrito Federal. **Portal do Detran-DF**. Disponível em: <https://www.detran.df.gov.br/>. Acesso em: 17 set. 2026.
 
 SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
