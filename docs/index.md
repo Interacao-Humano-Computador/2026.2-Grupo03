@@ -41,8 +41,8 @@ Esta documentação apresenta o planejamento da avaliação de Interação Human
 
 <div class="team-grid">
 <a class="team-card" href="https://github.com/AlexandreVvF14" target="_blank" rel="noopener">
-<img src="assets/alexandre.jpg" alt=" Foto de João Vitor Tavares de Sá Lima">
-<strong>João Vitor</strong>
+<img src="assets/alexandre.jpg" alt=" Foto de Alexandre Vilar Valadares Fonsêca">
+<strong>Alexandre Vilar</strong>
 </a>
 <a class="team-card" href="https://github.com/EduardoRGS" target="_blank" rel="noopener">
 <img src="assets/eduardo.jpg" alt="Foto de Eduardo Ribeiro Gomes da Silva">
@@ -53,8 +53,8 @@ Esta documentação apresenta o planejamento da avaliação de Interação Human
 <strong>Henrique Schneider</strong>
 </a>
 <a class="team-card" href="https://github.com/Vt010" target="_blank" rel="noopener">
-<img src="assets/joao.png" alt="Foto de Alexandre Vilar Valadares Fonseca">
-<strong>Alexandre Vilar</strong>
+<img src="assets/joao.png" alt="Foto de João Vitor Tavares de Sá Lima">
+<strong>João Vitor</strong>
 </a>
 <a class="team-card" href="https://github.com/Gabrielxcx" target="_blank" rel="noopener">
 <img src="assets/gabriel.jpg" alt="Foto de Gabriel Robson Nunes Neiva da Silva">
