@@ -68,6 +68,7 @@ Esta documentação apresenta o planejamento da avaliação de Interação Human
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
+|24/0/2026 | 1.3 | adição Adição da seção 2.1 "Aspectos Éticos e Termo de Consentimento Livre e Esclarecido (TCLE)". | João Vitor Tavares | - |
  17/09/2026 | 1.2 | Criação das páginas da segunda entrega "Perfil de Usuários, Aspectos Éticos e Análise de Tarefas" e adição do novo integrante do Grupo 3 -> Gabriel Robson | Henrique Schneider | - |  
 | 10/09/2026 | 1.1 | Atualização da apresentação do Grupo 03, dos acessos principais e do registro de contribuições da página inicial. | Grupo 03 | A definir |
 | 10/09/2026 | 1.0 | Criação da página inicial do projeto e apresentação do Portal de Serviços do Detran-DF. | Grupo 03 | A definir |
