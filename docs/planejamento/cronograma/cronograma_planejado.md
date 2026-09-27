@@ -8,6 +8,7 @@ Quadro 1 – Histórico de Versões do Cronograma.
 | :---: | :---: | :--- | :--- | :--- |
 | 10/09/2026 | 1.0 | Consolidação das atividades, responsáveis, prazos e marcos do projeto. | A definir | A definir |
 | 17/09/2026 | 1.1 | Alteração de autores e adequação ás mudanças descritas em aula. | Henrique | Henrique |
+| 24/09/2026 | 1.2 | Alteração do autor da tarefa: "Redigir o Termo de Consentimento (TCLE)" e finalização da tarefa | Henrique | João Vitor |
 
 
 Fonte: Elaborado pelos autores (2026).
@@ -56,7 +57,7 @@ Quadro 4 – Cronograma do Perfil do Usuário e Análise de Tarefas.
 | Tarefa | Responsável | Início | Término | Dependências | Situação | Feito |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
 | Definir personas/perfis de usuário do Detran-DF | Alexandre | 08/09 | 18/09 | Planejamento do projeto | Em andamento | [ ] |
-| Redigir o Termo de Consentimento (TCLE) | Eduardo | 17/09 | 20/09 | Perfil do usuário | Em andamento | [ ] |
+| Redigir o Termo de Consentimento (TCLE) | João Vitor | 17/09 | 20/09 | Perfil do usuário | Finalizado | [x] |
 | Realizar análise de tarefas hierárquica (HTA) | Gabriel | 17/09 | 26/09 | Perfil do usuário | Em andamento | [ ] |
 | Redigir relatório da fase | Henrique | 17/09 | 26/09 | Análise de tarefas | Em andamento | [ ] |
 | Revisão e ajustes finais | Todos os integrantes | 26/09 | 27/09 | Relatório da fase | Não iniciado | [ ] |

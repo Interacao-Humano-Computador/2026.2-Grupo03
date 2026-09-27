@@ -40,7 +40,7 @@ Quadro 1 – Histórico de Versões do Documento de Fluxos de Trabalho.
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :---: | :---: | :--- | :--- | :--- |
-| 17/09/2026 | 1.0 | elaboração do TCLE. | João Vitor Tavares | - |
+| 17/09/2026 | 1.0 | elaboração do TCLE. | João Vitor Tavares | Henrique Schneider |
 
 Fonte: Elaborado pelos autores (2026).
 

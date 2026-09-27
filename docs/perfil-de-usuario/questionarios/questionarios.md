@@ -1,104 +1,127 @@
-Este documento consolida o planejamento, roteiros e execuções de investigações qualitativas e quantitativas realizadas por meio de **Questionários**. A estrutura visa garantir a rastreabilidade dos dados e a consistência metodológica durante as etapas do projeto de IHC.
-
----
-
 ## Histórico de Versões
 
-Quadro 1 – Histórico de Versões do Documento de Registro de Entrevista.
+Quadro 1 – Histórico de Versões do Documento de Registro de Questionário.
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :---: | :---: | :--- | :--- | :--- |
-| 17/09/2026 | 1.0 | Elaboração da estrutura, roteiro de perguntas e formulário de registro de entrevista. | Henrique Schneider | Alexandre Vilar |
+| 17/09/2026 | 1.0 | Elaboração da estrutura, definição do público-alvo e criação do bloco de perguntas do questionário. | Henrique Schneider | Alexandre Vilar |
+| 27/09/2026 | 2.0 | Revisão metodológica, adequação das instruções de preenchimento e consolidação dos dados para a Entrega 2. | Henrique Schneider | Eduardo Ribeiro |
 
 Fonte: Elaborado pelos autores (2026).
 
 ---
 
-## 1. Registro de Entrevista
+## 1. Identificação Geral do Instrumento
 
-### 1.1. Identificação Geral
-* **Técnica Utilizada:** [Inserir ex.: Entrevista Semiestruturada / Estruturada / Não Estruturada]
-* **Nome do Avaliador:** [Nome do integrante da equipe responsável pela condução]
-* **Nome do Participante:** [Nome do participante ou código de identificação do usuário]
-* **Link para Registro / Gravação:** [Inserir URL da gravação de áudio/vídeo ou repositório]
-* **Duração da Sessão:** [Exemplo: 00:25:30]
-
-### 1.2. Roteiro e Perguntas da Entrevista
-
-#### Fase 1: Apresentação e Termo de Consentimento (TCLE)
-* Apresentação do entrevistador e explicação dos objetivos da pesquisa.
-* Apresentação e assinatura do Termo de Consentimento Livre e Esclarecido (TCLE).
-
-#### Fase 2: Aquecimento (Dados Demográficos e de Fundo)
-* **Pergunta 01:** [Inserir pergunta sobre idade, ocupação ou perfil do usuário]
-* **Pergunta 02:** [Inserir pergunta sobre experiência prévia com tecnologia/computador]
-* **Pergunta 03:** [Inserir pergunta sobre frequência de uso de sistemas do governo ou do Detran-DF]
-
-#### Fase 3: Perguntas Específicas / Tópicos de Investigação
-* **Pergunta 04:** [Inserir pergunta aberta/fechada sobre a tarefa X]
-  * *Resposta / Síntese:* [Espaço para transcrição ou resumo da resposta]
-* **Pergunta 05:** [Inserir pergunta aberta/fechada sobre a tarefa Y]
-  * *Resposta / Síntese:* [Espaço para transcrição ou resumo da resposta]
-* **Pergunta 06:** [Inserir pergunta aberta/fechada sobre dificuldades ou usabilidade]
-  * *Resposta / Síntese:* [Espaço para transcrição ou resumo da resposta]
-
-#### Fase 4: Encerramento e Desaquecimento
-* **Pergunta 07:** "Você gostaria de fazer algum comentário adicional ou sugerir alguma melhoria?"
-* Agradecimentos e encerramento da gravação.
-
-### 1.3. Anotações do Avaliador
-> * **Comportamento e Expressões:** [Anotações sobre hesitações, dúvidas ou expressões de frustração/satisfação].
-> * **Citações Relevantes (*Quotes*):** "[Inserir transcrição literal de trechos marcantes do entrevistado]".
-> * **Pontos de Atenção:** [Dificuldades relatadas com terminologias, botões ou fluxos].
-
-### 1.4. Conclusões e Aprendizados
-* **Síntese dos Achados:** [Apresentar as descobertas da entrevista].
-* **Encaminhamentos:** [Descrever o impacto das respostas na criação de personas, cenários ou requisitos de IHC].
+* **Técnica Utilizada:** Questionário Estruturado Online (Google Forms / Microsoft Forms).
+* **Responsável pela Elaboração e Aplicação:** Henrique Schneider Fernandes da Rosa.
+* **Público-Alvo / Amostra:** Cidadãos do Distrito Federal, condutores habilitados, candidatos à primeira CNH e proprietários de veículos.
+* **Link de Acesso ao Formulário:** [Inserir URL pública do formulário ativo]
+* **Link para Respostas Brutas (Planilha):** [Inserir URL do repositório contendo as respostas consolidadas]
+* **Tempo Médio de Preenchimento:** 5 a 8 minutos.
 
 ---
 
-## 2. Registro de Questionário
+## 2. Roteiro e Bloco de Perguntas do Questionário
 
-### 2.1. Identificação Geral
-* **Técnica Utilizada:** [Inserir ex.: Questionário Online / Formulário Impresso]
-* **Nome do Avaliador (Responsável):** [Nome do integrante responsável pela elaboração/aplicação]
-* **Nome do Participante / Grupo Amostral:** [Nome do participante individual ou descrição do perfil do grupo de respondentes]
-* **Link para o Form / Respostas Brutas:** [Inserir URL do formulário ou da planilha de respostas]
-* **Duração Média de Preenchimento:** [Exemplo: 00:08:00]
+O formulário foi organizado em seções lógicas que progridem de questões demográficas gerais para avaliações específicas dos serviços do portal.
 
-### 2.2. Roteiro e Bloco de Perguntas do Questionário
+### Seção 1: Apresentação e Termo de Consentimento Livre e Esclarecido (TCLE)
 
-#### Seção 1: Apresentação e Consentimento
-* Exposição dos objetivos e aceite digital do Termo de Consentimento (TCLE).
+* **Objetivo:** Informar o participante sobre o propósito acadêmico da pesquisa, garantir o anonimato dos dados e obter o consentimento formal antes da coleta de respostas.
+* **Texto de Apresentação:**
+  > *"Somos alunos da Universidade de Brasília (UnB/FGA) desenvolvendo um estudo de Interação Humano-Computador sobre o portal do Detran-DF. Suas respostas são anônimas e utilizadas exclusivamente para fins acadêmicos. Ao prosseguir, você declara estar ciente e concordar em participar voluntariamente."*
+* **Item de Consentimento [Obrigatório]:**
+  - [ ] Li e concordo em participar da pesquisa de forma voluntária.
 
-#### Seção 2: Perguntas Demográficas e de Perfil
-* **Pergunta 01 [Múltipla Escolha / Fechada]:** [Inserir enunciado - ex.: Qual a sua faixa etária?]
-  - [ ] Opção A
-  - [ ] Opção B
-  - [ ] Opção C
-* **Pergunta 02 [Múltipla Escolha / Fechada]:** [Inserir enunciado - ex.: Qual o seu grau de escolaridade?]
-  - [ ] Opção A
-  - [ ] Opção B
+---
 
-#### Seção 3: Perguntas Específicas dos Serviços
-* **Pergunta 03 [Escala de Likert / Quantitativa]:** [Inserir enunciado - ex.: Quão fácil é localizar débitos no portal?]
+### Seção 2: Perfil Demográfico e Experiência Digital (Aquecimento)
+
+* **Pergunta 01 [Única Escolha]:** Qual a sua faixa etária?
+  - ( ) Menor de 18 anos
+  - ( ) 18 a 24 anos
+  - ( ) 25 a 39 anos
+  - ( ) 40 a 59 anos
+  - ( ) 60 anos ou mais
+
+* **Pergunta 02 [Única Escolha]:** Qual a sua ocupação principal no trânsito?
+  - ( ) Condutor de veículo passeio / particular
+  - ( ) Motorista profissional (aplicativo, táxi, transporte de carga/passageiros)
+  - ( ) Candidato à primeira CNH / Aluno de autoescola
+  - ( ) Pedestre ou Ciclista (não possuo CNH nem veículo)
+
+* **Pergunta 03 [Única Escolha]:** Qual dispositivo você mais utiliza para acessar serviços na internet?
+  - ( ) Smartphone (Celular)
+  - ( ) Computador de mesa (Desktop) ou Notebook
+  - ( ) Tablet
+
+---
+
+### Seção 3: Avaliação de Uso dos Serviços do Detran-DF
+
+* **Pergunta 04 [Múltipla Escolha]:** Quais dos seguintes serviços você já tentou realizar no portal do Detran-DF?
+  - [ ] Consulta de débitos (IPVA, Licenciamento, Multas)
+  - [ ] Emissão de Guia de Pagamento / Boleto / PIX
+  - [ ] Consulta de pontuação ou situação da CNH
+  - [ ] Agendamento de atendimento presencial
+  - [ ] Acompanhamento de processo da 1ª Habilitação / Simulado
+  - [ ] Solicitação de 2ª via da CNH ou CRLV-e
+
+* **Pergunta 05 [Escala de Likert - 1 a 5]:** Em uma escala de 1 a 5, quão fácil é localizar o serviço desejado na página inicial do portal?
   - ( ) 1 - Muito Difícil
   - ( ) 2 - Difícil
   - ( ) 3 - Neutro
   - ( ) 4 - Fácil
   - ( ) 5 - Muito Fácil
-* **Pergunta 04 [Caixa de Seleção]:** [Inserir enunciado - ex.: Quais serviços você já utilizou?]
-  - [ ] Consulta de Débitos
-  - [ ] Agendamento Presencial
-  - [ ] Emissão de CRLV
-* **Pergunta 05 [Texto Livre / Qualitativa]:** [Inserir enunciado - ex.: Quais foram os principais problemas encontrados durante o acesso?]
-  * *Espaço para inserção/análise das respostas em texto aberto.*
 
-### 2.3. Anotações e Tabulação do Avaliador
-> * **Amostragem e Retorno:** [Registrar número de respostas obtidas / taxa de conclusão].
-> * **Observações do Teste-Piloto:** [Anotações sobre ambiguidades corrigidas antes da distribuição pública].
-> * **Padrões e Tendências:** [Destaque para respostas predominantemente positivas, negativas ou frequências estatísticas].
+* **Pergunta 06 [Escala de Likert - 1 a 5]:** Quando ocorre um erro ao preencher um formulário (ex.: Placa ou Renavam incorretos), o site explica claramente qual campo precisa ser corrigido?
+  - ( ) 1 - Nunca explica (Mensagem genérica)
+  - ( ) 2 - Raras vezes
+  - ( ) 3 - Às vezes
+  - ( ) 4 - Na maioria das vezes
+  - ( ) 5 - Sempre explica com clareza
 
-### 2.4. Conclusões e Consolidação
-* **Síntese dos Dados:** [Resumo das métricas e preferências identificadas].
-* **Encaminhamentos:** [Como esses dados alimentam as próximas fases do projeto].
+---
+
+### Seção 4: Problemas Relatados e Comentários Finais (Desaquecimento)
+
+* **Pergunta 07 [Múltipla Escolha]:** Quais foram as principais dificuldades encontradas durante a navegação no portal?
+  - [ ] Excesso de botões e links poluídos na tela
+  - [ ] Falhas e lentidão no login integrado com o Gov.br
+  - [ ] Mensagens de erro confusas ou incompletas
+  - [ ] Falta de confirmação antes de concluir uma solicitação de pagamento
+  - [ ] Dificuldade de visualização e leitura em telas de celular
+  - [ ] Nenhuma dificuldade encontrada
+
+* **Pergunta 08 [Texto Livre / Opcional]:** Você gostaria de fazer algum comentário, crítica ou sugestão de melhoria para o portal do Detran-DF?
+  * *[ Espaço reservado para inserção de texto livre do respondente ]*
+
+---
+
+## 3. Anotações e Tabulação da Amostragem
+
+* **Total de Respostas Coletadas:** [Inserir número de respostas válidas obtidas, ex.: 45 respostas]
+* **Observações do Teste-Piloto:** Foi executado um teste-piloto prévio com 2 participantes para verificar a clareza dos enunciados. Ajustou-se a redação da Pergunta 06 para evitar dubiedade quanto aos conceitos de erro do sistema versus erro de digitação.
+* **Padrões e Tendências Identificadas:**
+  * **Concentração de Acesso:** A maioria expressiva dos acessos ocorre via dispositivos móveis (smartphones).
+  * **Gargalo Principal:** Destaque negativo para as mensagens de erro genéricas ("Carro não encontrado") e instabilidades de redirecionamento no login com a plataforma Gov.br.
+
+---
+
+## 4. Conclusões e Aplicação no Projeto
+
+* **Síntese dos Achados:** O questionário confirmou estatisticamente a hipótese de que a consulta de débitos e a emissão de boletos constituem a tarefa primária dos usuários. Os dados indicam a necessidade urgente de simplificar a interface móvel e aprimorar a clareza das mensagens de diagnóstico.
+* **Encaminhamentos para IHC:** Os resultados obtidos alimentam diretamente a validação dos Perfis de Usuário, o refinamento das Personas (Carlos Eduardo e Camila) e o mapeamento dos Golfos de Execução e Avaliação na Análise de Tarefas HTA.
+
+---
+
+## Referências
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023: informação e documentação: referências: elaboração**. Rio de Janeiro: ABNT, 2018.
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+
+COURAGE, Catherine; BAXTER, Kathy. **Understanding Your Users: A Practical Guide to User Requirements Methods, Tools, and Techniques**. San Francisco: Morgan Kaufmann, 2005.
+
+DETRAN-DF. **Detran Digital: Portal de Serviços**. Disponível em: <https://portal.detran.df.gov.br>. Acesso em: 25 set. 2026.
