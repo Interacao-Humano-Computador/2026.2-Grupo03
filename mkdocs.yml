@@ -59,7 +59,8 @@ markdown_extensions:
 
 nav:
   - Inicio: index.md
-  - Plano de Ensino: outros/plano-de-ensino/plano.md
+  - Plano de Ensino: outros/plano de ensino/plano.md
+  - Lista de Verificação: outros/plano de ensino/lista.md
 
   - Planejamento:
     - Site Escolhido: planejamento/site escolhido/site_escolhido.md
