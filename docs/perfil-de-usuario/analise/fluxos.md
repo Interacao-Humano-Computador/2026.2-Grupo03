@@ -7,6 +7,7 @@ Quadro 1 – Histórico de Versões do Documento de Fluxos de Trabalho.
 | Data | Versão | Descrição | Autor | Revisor |
 | :---: | :---: | :--- | :--- | :--- |
 | 17/09/2026 | 1.0 | Catalogação e mapeamento dos fluxos de trabalho do usuário no portal do Detran-DF para a Entrega 2. | Henrique Schneider | Gabriel Robson |
+| 27/09/2026 | 1.1 | Correção da sequência e da identificação da tarefa 2 no fluxo de consulta de débitos. | Gabriel Robson | A definir |
 
 Fonte: Elaborado pelos autores (2026).
 
@@ -44,7 +45,7 @@ Quadro 2 – Tabela HTA do Fluxo de Consulta de Débitos e Emissão de Guia.
 | :--- | :--- | :--- | :--- |
 | **0. Consultar débitos e emitir guia de pagamento** | Acessar o portal e gerar o documento financeiro | Erros recorrentes de integração com o portal Gov.br travam a autenticação inicial. | Tratar exceções da API de login e incluir opção de reconexão sem exigir reinício do navegador. |
 | **1. Localizar o serviço de veículos** | 1.1. Acessar a *Home* do Detran-DF<br>1.2. Clicar no menu ou atalho "Veículos" / "Consulta de Débitos" | Rótulos de atalhos e menus às vezes variam entre subpáginas. | Padronizar os termos de navegação na barra superior fixa. |
-| **2. Autenticar ou informar dados do veículo** | 2.1. Inserir a Placa do veículo<br>2.2. Inserir o número do Renavam<br>2.3. Submeter o formulário de consulta | Ausência de máscaras e dicas visuais sobre o formato exato da placa (ex.: padrão Mercosul). Mensagem genérica "Carro não encontrado" em caso de erro. | Inserir máscaras automáticas nos campos e destacar o campo exato com erro no preenchimento. |
+| **2. Informar dados do veículo** | 2.1. Inserir a Placa do veículo<br>2.2. Inserir o número do Renavam<br>2.3. Submeter o formulário de consulta | Ausência de máscaras e dicas visuais sobre o formato exato da placa (ex.: padrão Mercosul). Mensagem genérica "Carro não encontrado" em caso de erro. | Inserir máscaras automáticas nos campos e destacar o campo exato com erro no preenchimento. |
 | **3. Selecionar e conferir os débitos** | 3.1. Visualizar o extrato detalhado de débitos<br>3.2. Marcar os débitos que deseja quitar | Dificuldade em identificar a discriminação exata de juros ou vencimentos de cada taxa. | Exibir o detalhamento de valores de forma expansível com estética minimalista. |
 | **4. Gerar o documento de pagamento** | 4.1. Selecionar o formato (PIX ou Boleto PDF)<br>4.2. Confirmar a geração<br>4.3. Baixar PDF ou copiar código PIX | Botão de emissão não especifica claramente o tipo do documento antes do clique. | Alterar o rótulo para "Emitir Boleto (PDF)" e fornecer modal de confirmação prévia com *toast* de sucesso. |
 
@@ -52,7 +53,7 @@ Fonte: Elaborado pelos autores (2026).
 
 #### 3.1.2. Plano de Ação (Diagrama Lógico HTA)
 
-* **Plano 0:** Fazer 1; se não estiver autenticado, fazer 2; em seguida, fazer 3; por fim, fazer 4.
+* **Plano 0:** Fazer 1 para localizar o serviço; em seguida, fazer 2 para informar os dados do veículo e enviar a consulta. Se os dados forem rejeitados, corrigir os campos e repetir 2. Após a exibição dos débitos, fazer 3 para conferir e selecionar os valores desejados; por fim, fazer 4 para obter a guia ou o código PIX.
 * **Plano 2:** Preencher Placa (2.1) e Renavam (2.2); submeter (2.3). Se houver erro de digitação, corrigir o campo sinalizado e reenviar.
 * **Plano 4:** Selecionar PIX ou Boleto (4.1); confirmar (4.2); se optar por PIX, utilizar botão "Copiar Código"; se Boleto, efetuar download do PDF (4.3).
 
