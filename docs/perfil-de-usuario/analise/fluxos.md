@@ -2,23 +2,31 @@
 
 ## Histórico de Versões
 
-Quadro 1 – Histórico de Versões do Documento de Fluxos de Trabalho.
+<p align="center"><b>Tabela 1</b> – Histórico de alterações do documento de Análise de Tarefas e Fluxos de Trabalho.</p>
 
-| Data | Versão | Descrição | Autor | Revisor |
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
 | 17/09/2026 | 1.0 | Catalogação e mapeamento dos fluxos de trabalho do usuário no portal do Detran-DF para a Entrega 2. | Henrique Schneider | Gabriel Robson |
-| 27/09/2026 | 1.1 | Correção da sequência e da identificação da tarefa 2 no fluxo de consulta de débitos. | Gabriel Robson | A definir |
+| 27/09/2026 | 1.1 | Correção da sequência e da identificação da tarefa 2 no fluxo de consulta de débitos. | Gabriel Robson | Henrique Schneider |
+| 27/09/2026 | 1.2 | Inclusão da introdução fundamentando a relevância da Análise de Tarefas (HTA) e dos Golfos de Interação no contexto de IHC. | Henrique Schneider | Gabriel Robson |
 
-Fonte: Elaborado pelos autores (2026).
-
----
-
-## 1. Introdução
-
-Este documento apresenta a catalogação e o mapeamento detalhado dos fluxos de trabalho executados pelos cidadãos no portal do Detran-DF. O mapeamento do fluxo de tarefas permite compreender a jornada do usuário, identificar as sequências de ações necessárias para atingir um objetivo e mapear os gargalos operacionais que afetam os Golfos de Execução e de Avaliação durante a interação.
+<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
 ---
 
+## 1. Introdução e Importância no Contexto de IHC
+
+A **Análise de Tarefas** e o mapeamento dos fluxos de trabalho constituem uma das etapas centrais no processo de Engenharia de Usabilidade e Design de Interação 3. Segundo Barbosa e Silva (2010, Cap. 6, p. 192), a análise de tarefas estuda o desempenho de um sistema de trabalho completo — composto pela pessoa (usuário) e pelo sistema computacional (Portal Detran-DF) —, investigando como as pessoas atingem seus objetivos e por que executam determinadas sequências de ações 3.
+
+Diferente de uma simples descrição de funcionalidades, a análise funcional de tarefas baseia-se na decomposição de objetivos psicológicos dos usuários em subobjetivos, operações e planos de ação condicionais 3. No contexto do Portal Detran-DF, a aplicação de técnicas formais como a **Análise Hierárquica de Tarefas (HTA – *Hierarchical Task Analysis*)** é fundamental para 3:
+
+1. **Mapeamento da Jornada Real:** Compreender os passos e tomadas de decisão necessários para concluir serviços essenciais (como consulta de débitos, pontuação da CNH e agendamentos) 3.
+2. **Diagnóstico dos Golfos de Norman:** Identificar falhas nos **Golfos de Execução** (quando o cidadão não descobre como agir ou quais dados preencher) e nos **Golfos de Avaliação** (quando o sistema falha em fornecer feedbacks diagnósticos e claros sobre o estado da solicitação) 3.
+3. **Prevenção e Correção de Falhas de Interação:** Determinar os pontos onde o custo e a probabilidade de erros são elevados, permitindo propor recomendações de redesign de IHC antes da implementação 3.
+
+ Deste modo, este artefato fornece a base analítica necessária para guiar o desenvolvimento de protótipos e orientar as avaliações de usabilidade nas etapas subsequentes do projeto 3.
+
+---
 ## 2. Metodologia
 
 Para a análise e estruturação dos fluxos de trabalho, foi utilizada a **Análise Hierárquica de Tarefas (HTA – *Hierarchical Task Analysis*)**, fundamentada na literatura de Interação Humano-Computador (BARBOSA; SILVA, 2010). A HTA permite decompor os objetivos principais do cidadão em subobjetivos, operações e planos de ação condicionais.

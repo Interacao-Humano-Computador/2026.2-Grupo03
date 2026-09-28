@@ -1,14 +1,33 @@
-Para assegurar o cumprimento das diretrizes éticas em pesquisas envolvendo seres humanos, foi elaborado o Termo de Consentimento Livre e Esclarecido (TCLE) apresentado nesta seção. Este documento é apresentado e disponibilizado a todos os participantes antes de qualquer atividade envolvendo a coleta de dados.
+# Aspectos Éticos e Termo de Consentimento Livre e Esclarecido (TCLE)
 
-A aplicação do TCLE visa garantir:
+## Histórico de Versões
 
-* **Explicitação dos objetivos e procedimentos:** Esclarecer previamente ao participante como será a coleta de dados, a duração estimada, os métodos de análise e responder prontamente a quaisquer dúvidas.
-* **Confidencialidade e privacidade:** Garantir que os dados brutos fiquem restritos apenas aos pesquisadores responsáveis.
-* **Anonimato dos participantes:** Assegurar a preservação das suas imagens e a utilização cuidadosa das informações coletadas.
-* **Autorização para registros:** Obter autorização prévia e explícita do participante caso haja necessidade de gravar áudio ou imagem durante as atividades.
-* **Consentimento livre e esclarecido:** Assegurar que todo participante tenha o direito de saber o objetivo do estudo, a duração estimada, os procedimentos de coleta de dados, o uso das informações coletadas, seus direitos e quaisquer riscos ou desconfortos.
-* **Conforto dos participantes:** Tratar o participante com respeito, evitando desconfortos físicos ou psicológicos e ressaltando que é o sistema que está sendo avaliado, e não a pessoa.
-* **Direito e liberdade de se recusar a participar:** Garantir a liberdade do participante para recusar-se a participar ou retirar seu consentimento a qualquer momento sem penalidades, cabendo ao pesquisador interromper a atividade caso perceba qualquer constrangimento ou incômodo.
+<p align="center"><b>Tabela 1</b> – Histórico de alterações do documento de Aspectos Éticos e TCLE.</p>
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+| :---: | :---: | :--- | :--- | :--- |
+| 17/09/2026 | 1.0 | Elaboração inicial das diretrizes éticas e estruturação do TCLE para pesquisas no Portal Detran-DF. | João Vitor | Henrique Schneider |
+| 27/09/2026 | 1.1 | Ajustes nas cláusulas de salvaguarda de anonimato e direito de desistência do participante. | Henrique Schneider | João Vitor |
+| 27/09/2026 | 1.2 | Inclusão de texto introdutório fundamentando a importância teórica dos 4 princípios éticos e do TCLE em IHC. | Henrique Schneider | João Vitor |
+
+<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
+
+---
+
+## 1. Introdução e Importância no Contexto de IHC
+
+A consideração dos **Aspectos Éticos** em Interação Humano-Computador (IHC) é um requisito obrigatório e indispensável em qualquer pesquisa ou avaliação que envolva direta ou indiretamente a participação de seres humanos (BARBOSA; SILVA, 2010, Cap. 5, p. 138-141). Durante a condução de estudos de campo, entrevistas, aplicação de questionários ou testes de usabilidade no Portal do Detran-DF, a equipe de design tem o dever moral e legal de proteger o bem-estar físico, psicológico, moral e social dos participantes.
+
+Inspirado na Resolução nº 196/96 do Conselho Nacional de Saúde e na conduta ética da *Association for Computing Machinery* (ACM) e do IEEE, a conduta ética em IHC apoia-se em quatro princípios fundamentais (BARBOSA; SILVA, 2010, p. 139):
+
+1. **Princípio da Autonomia:** Assegura o consentimento livre e esclarecido dos indivíduos para participar do estudo, respeitando sua dignidade e protegendo sujeitos vulneráveis.
+2. **Princípio da Beneficência:** Compromete os pesquisadores com a ponderação entre riscos e benefícios, garantindo o máximo de proveito científico/social com o mínimo de danos e impactos indesejados.
+3. **Princípio da Não Maleficência:** Garante a prevenção de danos previsíveis, constrangimentos, estresse ou prejuízos à reputação e autoestima do participante, tanto imediatos quanto tardios.
+4. **Princípio da Justiça e Equidade:** Assegura a distribuição justa dos benefícios da pesquisa e a igual consideração dos direitos de todos os participantes envolvidos.
+
+No âmbito do projeto do Portal Detran-DF, o **Termo de Consentimento Livre e Esclarecido (TCLE)** materializa essas garantias éticas. Ele atua como um contrato transparente em que o participante é plenamente informado sobre os objetivos da investigação, a natureza voluntária da sua colaboração, o anonimato das suas informações e imagens, a autorização para gravações de mídia e a garantia irrestrita de retirar seu consentimento a qualquer momento, sem qualquer tipo de penalidade ou constrangimento.
+
+---
 
 ## Termo de Consentimento
 
@@ -34,14 +53,10 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 | ___________________________________ | ___________________________________ |
 | **[Nome do Entrevistador]** | **[Nome do Entrevistado]** |
 
-## Histórico de Versões
-
-Quadro 1 – Histórico de Versões do Documento de Fluxos de Trabalho.
-
-| Data | Versão | Descrição | Autor | Revisor |
-| :---: | :---: | :--- | :--- | :--- |
-| 17/09/2026 | 1.0 | elaboração do TCLE. | João Vitor Tavares | Henrique Schneider |
-
-Fonte: Elaborado pelos autores (2026).
-
 ---
+
+## Referências Bibliográficas
+
+* ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023**: informação e documentação – referências – elaboração. Rio de Janeiro: ABNT, 2018.
+* BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+* CONSELHO NACIONAL DE SAÚDE. **Resolução nº 196/96** sobre pesquisas envolvendo seres humanos. Brasília, DF: CNS, 1996.

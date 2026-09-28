@@ -112,10 +112,10 @@ O estudante será aprovado se $NF \ge 5$ e $\text{frequência} \ge 75\%$.
 ---
 
 ### 7. PROJETO FINAL DA DISCIPLINA
-A apresentação do projeto final da disciplina de IHC deve possuir os seguintes tópicos (dificuldades encontradas no uso das ferramentas, consolidação de artefatos e histórico de evolução)[cite: 1].
+A apresentação do projeto final da disciplina de IHC deve possuir os seguintes tópicos (dificuldades encontradas no uso das ferramentas, consolidação de artefatos e histórico de evolução).
 
-* **Tabela de Atividades:** Acompanhamento da tabela de controle de atividades desenvolvidas por estudante no grupo durante todo o projeto (link oficial da planilha do Google Docs)[cite: 1].
-* **Tempo de Apresentação:** O tempo da vídeo-apresentação final deve ser rigorosamente entre **20 e 30 minutos** (tempo mínimo e máximo)[cite: 1].
+* **Tabela de Atividades:** Acompanhamento da tabela de controle de atividades desenvolvidas por estudante no grupo durante todo o projeto (link oficial da planilha do Google Docs).
+* **Tempo de Apresentação:** O tempo da vídeo-apresentação final deve ser rigorosamente entre **20 e 30 minutos** (tempo mínimo e máximo).
 
 ---
 
