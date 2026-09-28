@@ -56,11 +56,11 @@ Quadro 4 – Cronograma do Perfil do Usuário e Análise de Tarefas.
 
 | Tarefa | Responsável | Início | Término | Dependências | Situação | Feito |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
-| Definir personas/perfis de usuário do Detran-DF | Alexandre | 08/09 | 18/09 | Planejamento do projeto | Em andamento | [ ] |
-| Redigir o Termo de Consentimento (TCLE) | João Vitor | 17/09 | 20/09 | Perfil do usuário | Finalizado | [x] |
-| Realizar análise de tarefas hierárquica (HTA) | Gabriel | 17/09 | 26/09 | Perfil do usuário | Em andamento | [ ] |
-| Redigir relatório da fase | Henrique | 17/09 | 26/09 | Análise de tarefas | Em andamento | [ ] |
-| Revisão e ajustes finais | Todos os integrantes | 26/09 | 27/09 | Relatório da fase | Não iniciado | [ ] |
+| Definir personas/perfis de usuário do Detran-DF | Alexandre | 08/09 | 25/09 | Planejamento do projeto | Finalizado | [x] |
+| Redigir o Termo de Consentimento (TCLE) | João Vitor | 17/09 | 25/09 | Perfil do usuário | Finalizado | [x] |
+| Realizar análise de tarefas hierárquica (HTA) | Gabriel | 17/09 | 26/09 | Perfil do usuário | Finalizado | [x] |
+| Redigir relatório da fase | Henrique | 17/09 | 27/09 | Análise de tarefas | Finalizado | [x] |
+| Revisão e ajustes finais | Todos os integrantes | 26/09 | 27/09 | Relatório da fase | Finalizado | [x] |
 
 Fonte: Elaborado pelos autores (2026).
 

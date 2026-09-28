@@ -41,7 +41,7 @@ Esta documentação apresenta o planejamento da avaliação de Interação Human
 
 <div class="team-grid">
 <a class="team-card" href="https://github.com/AlexandreVvF14" target="_blank" rel="noopener">
-<img src="assets/alexandre.png" alt=" Foto de Alexandre Vilar Valadares Fonsêca">
+<img src="assets/alexandre.jpg" alt=" Foto de Alexandre Vilar Valadares Fonsêca">
 <strong>Alexandre Vilar</strong>
 </a>
 <a class="team-card" href="https://github.com/EduardoRGS" target="_blank" rel="noopener">
@@ -53,7 +53,7 @@ Esta documentação apresenta o planejamento da avaliação de Interação Human
 <strong>Henrique Schneider</strong>
 </a>
 <a class="team-card" href="https://github.com/Vt010" target="_blank" rel="noopener">
-<img src="assets/alexandre.jpg" alt="Foto de João Vitor Tavares de Sá Lima">
+<img src="assets/joao.png" alt="Foto de João Vitor Tavares de Sá Lima">
 <strong>João Vitor</strong>
 </a>
 <a class="team-card" href="https://github.com/Gabrielxcx" target="_blank" rel="noopener">
@@ -68,6 +68,7 @@ Esta documentação apresenta o planejamento da avaliação de Interação Human
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
+|27/09/2026 | 1.5 | alteração das fotos dos integrantes (agora está correto). | Henrique Schneider | - |
 |24/09/2026 | 1.4 | alteração das fotos dos integrantes. | Henrique Schneider | - |
 |24/09/2026 | 1.3 | adição Adição da seção 2.1 "Aspectos Éticos e Termo de Consentimento Livre e Esclarecido (TCLE)". | João Vitor Tavares | - |
  17/09/2026 | 1.2 | Criação das páginas da segunda entrega "Perfil de Usuários, Aspectos Éticos e Análise de Tarefas" e adição do novo integrante do Grupo 3 -> Gabriel Robson | Henrique Schneider | - |  
