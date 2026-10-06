@@ -25,7 +25,7 @@ A Tabela 2 apresenta o detalhamento de cada artefato produzido, a identificaçã
 | Integrante | Atividades / Artefatos Realizados | Período de Execução Real | Revisor(es) | Link / Evidência de Contribuição |
 | :--- | :--- | :---: | :--- | :---: |
 | **Alexandre Vilar Valadares Fonsêca** |  |  |  | []() |
-| **Gabriel Robson** |  |  |  | []() |
+| **Gabriel Robson** | Elaboração do guia de estilo do reprojeto, com padrões de interface, interação, vocabulário e rastreabilidade; apoio de IA declarado no artefato. | 06/10/2026 | Revisão humana pendente | [Guia de Estilo](../guia/guia.md) |
 | **Henrique Schneider Fernandes da Rosa** |  |  |  | []() |
 | **João Vitor Tavares de Sá Lima** |  |  |  | []() |
 
