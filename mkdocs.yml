@@ -78,7 +78,13 @@ nav:
     - Registro de investigação:
       - Entrevistas: perfil-de-usuario/entrevistas/entrevistas.md
       - Questionários: perfil-de-usuario/questionarios/questionarios.md
-    - Constribuições: perfil-de-usuario/contribuicao/contrib.md
+    - Contribuições: perfil-de-usuario/contribuicao/contrib.md
+
+  - Principios Gerais de Projeto, Metas de usabilidade e Guia de estilo:
+    - Principios Gerais: guia-estilo/principios/principios.md
+    - Metas de Usabilidade: guia-estilo/metas/metas.md
+    - Guia de Estilo: guia-estilo/guia/guia.md
+    - Contribuições: guia-estilo/contribuicao/contrib.md
 
   - Verificação:
     - Índice: verificacao/index.md
