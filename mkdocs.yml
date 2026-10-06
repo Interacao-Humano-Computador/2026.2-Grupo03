@@ -86,6 +86,14 @@ nav:
     - Guia de Estilo: guia-estilo/guia/guia.md
     - Contribuições: guia-estilo/contribuicao/contrib.md
 
+  - Planejamento de Storyboard, Análise de Tarefas e Planejamento de Relatos, Análise de Tarefas:
+    - Planejamento: 
+      - Avaliação Storyboard: storyboard/planejamento/story.md
+      - Análise de Tarefas: storyboard/planejamento/analise.md
+    - Relatos:
+      - Avaliação Storyboard: storyboard/relatos/story.md
+      - Análise de Tarefas: storyboard/relatos/analise.md
+
   - Verificação:
     - Índice: verificacao/index.md
     - Inspeção do Nosso grupo:
