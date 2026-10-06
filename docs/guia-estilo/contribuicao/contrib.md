@@ -11,6 +11,7 @@ Este documento consolida a distribuição de tarefas, responsabilidades, partici
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
 | 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Integrantes do grupo |
+| 06/10/2026 | 1.1 | Adição dos princípios gerais do projeto e conformidades do Detran-DF | Henrique Schneider | Alexandre Vilar |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
@@ -26,7 +27,7 @@ A Tabela 2 apresenta o detalhamento de cada artefato produzido, a identificaçã
 | :--- | :--- | :---: | :--- | :---: |
 | **Alexandre Vilar Valadares Fonsêca** |  |  |  | []() |
 | **Gabriel Robson** |  |  |  | []() |
-| **Henrique Schneider Fernandes da Rosa** |  |  |  | []() |
+| **Henrique Schneider Fernandes da Rosa** | Redação do relatório de entrega e Estrutura do GitPages; Contribuição nos princípios gerais de projeto  | 06/10/2026 - 06/10/2026 | Alexandre Vilar | []() |
 | **João Vitor Tavares de Sá Lima** |  |  |  | []() |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
@@ -62,7 +63,7 @@ A Tabela 2 apresenta o detalhamento de cada artefato produzido, a identificaçã
 
 | Ferramenta de IA Utilizada | Vantagens Identificadas | Desvantagens / Cuidados Tomados |
 | :--- | :--- | :--- |
-
+| **Gemini (Google)** | Auxílio na revisão sintática, padronização de estruturas Markdown, verificação de consistência bibliográfica ABNT e aceleração na formatação de tabelas. | Necessidade de verificação independente e validação conceitual para evitar inconsistências nas citações e dados. |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
