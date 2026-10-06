@@ -28,6 +28,8 @@ A Tabela 2 apresenta o detalhamento de cada artefato produzido, a identificaçã
 | **Alexandre Vilar Valadares Fonsêca** |  |  |  | []() |
 | **Gabriel Robson** |  |  |  | []() |
 | **Henrique Schneider Fernandes da Rosa** | Redação do relatório de entrega e Estrutura do GitPages; Contribuição nos princípios gerais de projeto  | 06/10/2026 - 06/10/2026 | Alexandre Vilar | []() |
+| **Gabriel Robson** | Elaboração do guia de estilo do reprojeto, com padrões de interface, interação, vocabulário e rastreabilidade; apoio de IA declarado no artefato. | 06/10/2026 | Revisão humana pendente | [Guia de Estilo](../guia/guia.md) |
+| **Henrique Schneider Fernandes da Rosa** |  |  |  | []() |
 | **João Vitor Tavares de Sá Lima** |  |  |  | []() |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
