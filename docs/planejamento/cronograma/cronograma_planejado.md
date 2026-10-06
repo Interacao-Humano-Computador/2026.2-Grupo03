@@ -7,8 +7,9 @@ Quadro 1 – Histórico de Versões do Cronograma.
 | Data | Versão | Descrição | Autor | Revisor |
 | :---: | :---: | :--- | :--- | :--- |
 | 10/09/2026 | 1.0 | Consolidação das atividades, responsáveis, prazos e marcos do projeto. | A definir | A definir |
-| 17/09/2026 | 1.1 | Alteração de autores e adequação ás mudanças descritas em aula. | Henrique | Henrique |
+| 17/09/2026 | 1.1 | Alteração de autores e adequação ás mudanças descritas em aula. | Henrique | - |
 | 24/09/2026 | 1.2 | Alteração do autor da tarefa: "Redigir o Termo de Consentimento (TCLE)" e finalização da tarefa | Henrique | João Vitor |
+| 06/10/2026 | 1.3 | Alteração de autores e de prazos da entrega 3 | Henrique | - |
 
 
 Fonte: Elaborado pelos autores (2026).
@@ -84,10 +85,10 @@ Quadro 6 – Cronograma de Princípios Gerais, Metas e Guia de Estilo.
 
 | Tarefa | Responsável | Início | Término | Dependências | Situação | Feito |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
-| Definir princípios gerais de projeto | Eduardo, Henrique e Alexandre | 03/10 | 05/10 | Perfil e análise de tarefas | Não iniciado | [ ] |
-| Definir metas de usabilidade | João Vitor | 03/10 | 05/10 | Perfil e análise de tarefas | Não iniciado | [ ] |
-| Elaborar guia de estilo | Alexandre | 06/10 | 08/10 | Princípios e metas | Não iniciado | [ ] |
-| Consolidação e revisão final | Gabriel | 05/10 | 08/10 | Elaboração do guia | Não iniciado | [ ] |
+| Definir princípios gerais de projeto | Henrique Schneider, Alexandre Vilar | 06/10 | 06/10 | Perfil e análise de tarefas | Não Finalizado | [ ] |
+| Definir metas de usabilidade | João Vitor | 06/10 | 06/10 | Perfil e análise de tarefas | Não Finalizado | [ ] |
+| Elaborar guia de estilo | Gabriel | 06/10 | 06/10 | Princípios e metas | Não Finalizado | [ ] |
+| Consolidação e revisão final | Henrique Schneder | 06/10 | 06/10 | Elaboração do guia | Não Finalizado | [ ] |
 
 Fonte: Elaborado pelos autores (2026).
 
@@ -99,7 +100,7 @@ Quadro 7 – Cronograma da Inspeção do Grupo + 1 (Etapa 3).
 
 | Tarefa | Responsável | Início | Término | Dependências | Situação | Feito |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
-| Revisar entrega do grupo designado e preencher formulário de inspeção | Todos os integrantes | 09/10 | 12/10 | Entrega 3 | Não iniciado | [ ] |
+| Revisar entrega do grupo designado e preencher formulário de inspeção | Todos os integrantes | 09/10 | 11/10 | Entrega 3 | Não iniciado | [ ] |
 
 Fonte: Elaborado pelos autores (2026).
 
