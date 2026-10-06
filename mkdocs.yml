@@ -72,6 +72,7 @@ nav:
 
   - Perfil de Usuário, Análise de Tarefas e Aspectos Éticos:
     - Perfis de Usuário e Personas: perfil-de-usuario/personas/perfisEpersonas.md
+    - Cenários: perfil-de-usuario/cenarios/cenarios.md
     - Análise de tarefas: perfil-de-usuario/analise/fluxos.md
     - Aspectos Éticos:
       - Termo de Consentimento Livre e Esclarecido: perfil-de-usuario/aspectos-eticos/termo/TCLE.md

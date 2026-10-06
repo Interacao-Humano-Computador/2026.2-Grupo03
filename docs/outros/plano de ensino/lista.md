@@ -51,6 +51,7 @@ A Tabela 2 sintetiza a avaliação dos itens de conteúdo teórico e de desenvol
 | **10** | Figuras, diagramas e tabelas possuem títulos/legendas na parte superior, indicação de fonte na parte inferior e chamadas diretas no texto? | **Sim** | Inclusão correta de legenda superior, indicação de fonte (`Fonte: Elaborado pelos autores`) e chamadas diretas no texto. |
 | **11** | Cada página/artefato inicia com um texto introdutório que fundamenta a sua importância teórica e objetivo no projeto? | **Sim** | Introduções redigidas fundamentando o objetivo e a relevância de cada artefato em IHC. |
 | **12** | O Cronograma Executado da Entrega 2 apresenta quem realizou cada tarefa com as datas reais de início e término? | **Sim** | Cronograma executado preenchido com as datas reais de término e responsáveis pelas tarefas. |
+| **13** | O Github Pages contém os Cenários? | **Não** | Aba de cenários recém adicionada | 
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
