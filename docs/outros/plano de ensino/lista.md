@@ -57,6 +57,27 @@ A Tabela 2 sintetiza a avaliação dos itens de conteúdo teórico e de desenvol
 
 ---
 
+## 3. Tabela de Verificação: Entrega 3 (Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo)
+
+<p align="center"><b>Tabela 3</b>: Lista de verificação para os artefatos da Entrega 3.</p>
+
+| Item | Pergunta de Verificação | Resposta | Justificativa / Ação Corretiva Necessária |
+| :---: | :--- | :---: | :--- |
+| **1** | O GitHub Pages possui todos os 10 itens do Desenvolvimento do projeto avaliados para o próprio grupo e para o grupo +1? | | |
+| **2** | O documento descreve as características da plataforma para o projeto? (Item 10) | | |
+| **3** | Os Princípios Gerais do Projeto que serão utilizados estão definidos, contendo a referência bibliográfica da fonte, a foto do texto original e o nome do autor do item? (Item 11) | **Sim** | |
+| **4** | Os Princípios Gerais do Projeto contemplam os 8 tópicos exigidos (1- correspondência com expectativas; 2- simplicidade; 3- equilíbrio entre controle e liberdade; 4- consistência e padronização; 5- antecipação; 6- visibilidade e reconhecimento; 7- conteúdo adequado; 8- projeto para erros), com referência bibliográfica, foto do texto e autor do item? (Item 12) | **Sim** | |
+| **5** | As metas de usabilidade que devem ser alcançadas ou os objetivos de uma avaliação de IHC estão estabelecidos, acompanhados de referência bibliográfica, foto do texto original e autor do item? (Item 13) | | |
+| **6** | A razão da seleção das metas de usabilidade está devidamente justificada? (Item 14) | | |
+| **7** | O Guia de Estilo do projeto está presente, contendo referência bibliográfica da fonte explicando o que é um guia de estilo, a foto do texto e o autor do item? (Item 15) | | |
+| **8** | O Guia de Estilo possui a estrutura completa exigida (1. Introdução; 2. Resultados de análise; 3. Elementos de interface; 4. Elementos de interação; 5. Elementos de ação; 6. Vocabulário e padrões), com referência bibliográfica da fonte, foto do texto e autor do item? (Item 16) | | |
+| **9** | O Guia de Estilo desenvolvido corresponde efetivamente ao site avaliado no projeto? (Item 17) | | |
+| **10** | Cada integrante da equipe elaborou ao menos 1 (um) item de conteúdo da disciplina com a devida referência bibliográfica da fonte e foto do texto da referência? | | |
+
+<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
+
+---
+
 ## Bibliografia
 
 * ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023**: informação e documentação – referência – elaboração. Rio de Janeiro: ABNT, 2025.
