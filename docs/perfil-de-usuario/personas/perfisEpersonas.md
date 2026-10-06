@@ -13,6 +13,7 @@ Este documento apresenta a caracterização dos **Perfis de Usuário** e do elen
 | 17/09/2026 | 1.0 | Estruturação e catalogação inicial dos perfis de usuário e elenco de personas. | Alexandre Vilar | Eduardo Ribeiro |
 | 27/09/2026 | 2.0 | Atualização e consolidação com os 3 perfis/personas do estudo (Condutor, Candidato e Agente). | Henrique Schneider | Alexandre Vilar |
 | 27/09/2026 | 2.1 | Releitura e refinamento do documento, padronização ABNT de citações e adição das referências de comprovação visual do livro de IHC. | Henrique Schneider | Alexandre Vilar, Gabriel Robson |
+| 06/10/2026 | 2.2 | Inclusão dos cenários em seção própria. | Alexandre Vilar | A preencher |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
@@ -122,6 +123,7 @@ A caracterização das tarefas agrupa as atividades de interação conforme sua 
 5. Guarda o registro disponível e sabe como retomar a consulta.
 * **Resultado Esperado:** Resumo claro da situação, explicação de termos técnicos e boa usabilidade em dispositivos móveis.
 
+
 ---
 
 ### 4.2. Perfil 2: Candidato à Habilitação
@@ -147,6 +149,7 @@ A caracterização das tarefas agrupa as atividades de interação conforme sua 
 4. Consulta credenciadas ou recursos de preparação quando pertinentes.
 5. Confirma a próxima ação e guarda as orientações.
 * **Resultado Esperado:** Linguagem acessível, explicação de siglas e indicação explícita da próxima etapa obrigatória.
+
 
 ---
 
@@ -174,6 +177,7 @@ A caracterização das tarefas agrupa as atividades de interação conforme sua 
 5. Em caso de falha, segue o procedimento de suporte sem repetir o envio.
 * **Resultado Esperado:** Validação de campos, distinção transparente entre registro pendente e enviado, e prevenção de duplicidades.
 
+
 ---
 
 ## 5. Síntese Comparativa dos Perfis e Personas
@@ -190,7 +194,80 @@ A caracterização das tarefas agrupa as atividades de interação conforme sua 
 
 ---
 
-## 6. Validação Proposta e Próximos Passos
+## 6. Cenários de Uso das Personas
+
+Os cenários a seguir descrevem situações de uso das três proto-personas e organizam cada narrativa pelos sete elementos característicos de um cenário: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação.
+
+### 6.1. Cenário de João Paulo
+**Consulta da Situação da CNH Durante uma Pausa no Trabalho**
+
+> **Natureza do cenário:** Situação hipotética construída a partir da proto-persona. Os acontecimentos e as respostas do sistema são propostos para análise de IHC e precisam de validação; não descrevem telas ou procedimentos reais do Detran-DF.
+
+**Narrativa do Cenário**
+
+Durante uma pausa entre corridas, João Paulo estaciona o táxi em um local seguro e utiliza o celular para consultar a situação de sua CNH no canal oficial do Detran-DF. Como depende da habilitação para trabalhar, deseja entender se existe alguma informação que exija uma providência.
+
+Ele localiza a consulta de CNH, realiza a identificação solicitada e acessa o resultado. Ao encontrar um termo administrativo que não conhece, procura uma explicação nas orientações disponíveis. Nesse momento, a conexão móvel oscila e interrompe o carregamento. João retoma o acesso, confere novamente as informações e identifica o canal adequado para esclarecer sua dúvida. Antes de voltar ao trabalho, guarda as orientações para consultá-las depois.
+
+**Elementos Característicos do Cenário**
+
+* **Ambiente ou Contexto:** João está em uma pausa de sua jornada como taxista, com o veículo estacionado. Utiliza um celular com dados móveis e dispõe de pouco tempo. Sua necessidade é acompanhar a própria habilitação, independentemente de ser proprietário do veículo que dirige.
+* **Atores:** João Paulo, de 43 anos, morador de Ceilândia, taxista autônomo e com ensino médio completo. Possui experiência intermediária com aplicativos, conhece a prática da condução e tem dúvidas sobre procedimentos administrativos menos frequentes. Prefere linguagem direta e tenta resolver suas demandas sozinho.
+* **Objetivos:** Consultar a situação da CNH, compreender o resultado e identificar possíveis providências ou canais de atendimento, reduzindo o tempo de interrupção do trabalho.
+* **Planejamento:** João decide começar pela consulta de CNH no canal oficial. Pretende verificar o resultado, procurar explicações para termos desconhecidos e guardar as informações. Caso a dúvida permaneça, planeja buscar atendimento em outro momento.
+* **Ações:** Acessa o canal oficial, localiza o serviço, realiza a identificação exigida, lê o resultado e consulta as orientações. Após a interrupção, retoma o acesso, verifica as informações e guarda o conteúdo relevante.
+* **Eventos:** O serviço apresenta o resultado da consulta e um termo administrativo desconhecido por João. A conexão móvel oscila, interrompendo o carregamento. Quando o acesso é restabelecido, ele consegue continuar a consulta.
+* **Avaliação:** João interpreta as informações para decidir se precisa tomar alguma providência. Percebe que realizar uma consulta não significa ter feito uma solicitação. Considera a tarefa concluída quando entende sua situação e sabe onde esclarecer a dúvida restante.
+
+### 6.2. Cenário de Camila
+**Identificação dos Primeiros Passos para Obter a Primeira CNH**
+
+> **Natureza do cenário:** Situação hipotética construída a partir da proto-persona. Os acontecimentos e as respostas do sistema são propostos para análise de IHC e precisam de validação; não descrevem telas ou procedimentos reais do Detran-DF.
+
+**Narrativa do Cenário**
+
+Em casa, depois do estágio, Camila acessa pelo celular o canal oficial do Detran-DF para descobrir como iniciar o processo de obtenção da primeira CNH. Ela utiliza aplicativos com facilidade, mas ainda não conhece os procedimentos de habilitação e precisa organizar seus próximos passos de acordo com seu orçamento.
+
+Durante a navegação, encontra informações sobre primeira habilitação e CNH definitiva. Inicialmente, fica em dúvida sobre qual opção corresponde à sua situação. Ao ler as orientações, identifica a seção de primeira habilitação e passa a anotar os requisitos informados e as dúvidas que precisa esclarecer.
+
+Camila também encontra um recurso de simulado teórico e cogita se ele faz parte do início da solicitação. Após consultar a descrição, distingue a preparação para a prova da solicitação do serviço. Para ler os textos mais longos, utiliza o notebook. Ao terminar, guarda as orientações e identifica o canal indicado para confirmar a próxima ação.
+
+**Elementos Característicos do Cenário**
+
+* **Ambiente ou Contexto:** Camila está em casa, após o estágio, planejando obter sua primeira habilitação. Começa pelo celular e utiliza o notebook para leituras mais longas. Seu orçamento é limitado, e ela precisa compreender o processo antes de organizar as etapas.
+* **Atores:** Camila, de 19 anos, moradora de Taguatinga, com ensino médio completo, estudante de graduação e estagiária. Tem facilidade com aplicativos e formulários, mas é iniciante nos serviços de trânsito. Prefere agir com autonomia e confirmar dúvidas em canais oficiais.
+* **Objetivos:** Compreender como iniciar a primeira habilitação, identificar os requisitos informados, organizar os próximos passos e localizar o canal adequado para esclarecer dúvidas.
+* **Planejamento:** Camila decide consultar primeiro as informações oficiais, identificar o serviço correspondente à sua situação e anotar requisitos e dúvidas. Pretende consultar recursos de preparação e credenciadas quando forem pertinentes, antes de confirmar a próxima ação.
+* **Ações:** Acessa o canal oficial, procura primeira habilitação, lê as orientações e compara as opções encontradas. Anota informações, consulta a descrição do simulado, continua a leitura no notebook e guarda as orientações e o canal de atendimento.
+* **Eventos:** O portal apresenta opções relacionadas à primeira habilitação e à CNH definitiva, além de um recurso de simulado teórico. Essas informações provocam dúvidas iniciais sobre o serviço adequado e sobre a função do simulado.
+* **Avaliação:** Camila conclui que primeira habilitação corresponde à sua situação. Compreende que um recurso de preparação não representa, por si só, uma solicitação de serviço. Avalia que conseguiu se orientar quando pode explicar qual é a próxima ação e onde confirmar as dúvidas restantes.
+
+### 6.3. Cenário de Ricardo
+**Verificação de um Registro Após Interrupção da Conexão**
+
+> **Natureza do cenário:** Situação hipotética construída a partir da proto-persona. Os acontecimentos e as respostas do sistema são propostos para análise de IHC e precisam de validação; não descrevem telas ou procedimentos reais do Detran-DF.
+
+**Narrativa do Cenário**
+
+Durante uma atividade externa de fiscalização, Ricardo utiliza um equipamento institucional autorizado para registrar informações de uma ocorrência. Ele acessa o sistema restrito correspondente à sua função e preenche os dados necessários.
+
+Antes de confirmar a operação, revisa as informações. O sistema apresenta um aviso sobre um campo que precisa ser conferido. Ricardo verifica o dado e faz a correção. Ao confirmar a operação, a conexão é interrompida antes que ele consiga visualizar o resultado do envio.
+
+Como não sabe se a operação foi concluída, Ricardo decide verificar o estado do registro antes de tentar novamente. Quando consegue retomar o acesso, consulta as informações disponíveis sobre a operação. Se o estado permanecer indefinido, procura o suporte institucional e segue o encaminhamento indicado. Seu propósito é garantir a precisão do registro e evitar um envio duplicado.
+
+**Elementos Característicos do Cenário**
+
+* **Ambiente ou Contexto:** Ricardo está em uma atividade externa de fiscalização, sujeito a interrupções e variações de conexão. Utiliza equipamento institucional e sistema restrito autorizado para suas atribuições. O registro da ocorrência acontece nesse ambiente profissional.
+* **Atores:** Ricardo, de 39 anos, morador de Sobradinho, com ensino superior e agente de trânsito. Possui conhecimento profissional do domínio e experiência intermediária a avançada com ferramentas institucionais. A equipe de suporte participa caso ele precise esclarecer um impedimento técnico.
+* **Objetivos:** Registrar corretamente as informações da ocorrência, confirmar o estado da operação, evitar duplicidade e manter a possibilidade de localizar e acompanhar o registro.
+* **Planejamento:** Ricardo decide preencher os dados e revisá-los antes da confirmação. Planeja tratar os avisos apresentados e verificar o resultado da operação. Caso ocorra uma falha, pretende consultar o estado do registro antes de repetir qualquer envio e buscar suporte se necessário.
+* **Ações:** Acessa o sistema autorizado, localiza a função pertinente, preenche os dados, revisa os campos e corrige a informação indicada pelo aviso. Confirma a operação, retoma o acesso após a interrupção e consulta o estado do registro. Se a dúvida persistir, aciona o suporte institucional.
+* **Eventos:** O sistema apresenta um aviso de validação. Depois da correção e da confirmação, a conexão é interrompida antes da visualização do resultado. Ao retomar o acesso, Ricardo encontra as informações disponíveis sobre o estado da operação ou identifica que precisa de suporte para esclarecê-lo.
+* **Avaliação:** Ricardo interpreta o aviso para identificar a correção necessária. Após a interrupção, reconhece que a ausência de confirmação visível não permite concluir se o envio ocorreu. Avalia a tarefa como concluída quando consegue verificar o estado do registro e sua correção; se isso não for possível, identifica o encaminhamento institucional adequado.
+
+---
+
+## 7. Validação Proposta e Próximos Passos
 
 Como estas personas foram inicialmente modeladas como **proto-personas** (hipóteses de trabalho), recomenda-se a execução das seguintes etapas em entregas futuras:
 
