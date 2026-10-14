@@ -17,6 +17,24 @@ Este documento consolida o planejamento, os roteiros e a estrutura de registro p
 
 ---
 
+## Agenda proposta de entrevistas — outubro de 2026
+
+Em alinhamento em 13/10/2026, o grupo estabeleceu que cada integrante deve registrar sua data de entrevista, com limite informado de **25/10/2026**. As datas a seguir são **propostas para confirmação**, não registros de entrevistas já realizadas.
+
+| Entrevistador | Data proposta | Horário | Participante | Situação |
+| :--- | :---: | :---: | :--- | :--- |
+| Alexandre Vilar | 15/10/2026 | A confirmar | A definir (código) | A agendar |
+| Eduardo Ribeiro | 16/10/2026 | A confirmar | A definir (código) | A agendar |
+| Gabriel Robson | 17/10/2026 | A confirmar | A definir (código) | A agendar |
+| Henrique Schneider | 18/10/2026 | A confirmar | A definir (código) | A agendar |
+| João Vitor | 19/10/2026 | A confirmar | A definir (código) | A agendar |
+
+Após o agendamento e a entrevista, preencher neste documento a data e o horário efetivos, código do participante, técnica, roteiro, duração e síntese das observações. Obter o consentimento previsto no TCLE antes da coleta e não expor informações pessoais dos participantes no repositório público. A agenda para o storyboard está no [planejamento correspondente](../../storyboard/planejamento/story.md).
+
+*Fonte: proposta de organização elaborada por Gabriel Robson com base no alinhamento do grupo de 13/10/2026.*
+
+---
+
 ## 1. Introdução e Importância no Contexto de IHC
 
 O levantamento de dados por meio de **Entrevistas** e **Questionários** constitui o pilar fundamental para a investigação de necessidades, atitudes e expectativas dos usuários no Design Centrado no Usuário (BARBOSA; SILVA, 2010, Cap. 5, p. 145-151). Na disciplina de IHC, a combinação de métodos qualitativos e quantitativos garante uma compreensão abrangente sobre como o cidadão interage com o Portal Detran-DF.
