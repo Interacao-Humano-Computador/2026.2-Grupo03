@@ -183,6 +183,24 @@ Fonte: Elaborado pelos autores (2026).
 
 ---
 
+## 4.9.1. Agenda individual de entrevistas e storyboard (até 25/10/2026)
+
+Conforme alinhamento do grupo em 13/10/2026, cada integrante deve realizar uma entrevista e uma atividade de storyboard/avaliação relacionada ao Portal de Serviços do Detran-DF, registrando a data de sua sessão. **25/10/2026 é o prazo máximo informado pelo grupo, não uma data individual confirmada.** A agenda abaixo constitui uma proposta de organização, sujeita à confirmação com participantes e integrantes; nenhuma sessão está registrada como realizada.
+
+| Integrante | Entrevista (data proposta) | Sessão de storyboard (data proposta) | Prazo máximo | Situação |
+| :--- | :---: | :---: | :---: | :--- |
+| Alexandre Vilar | 15/10/2026 | 19/10/2026 | 25/10/2026 | A confirmar |
+| Eduardo Ribeiro | 16/10/2026 | 20/10/2026 | 25/10/2026 | A confirmar |
+| Gabriel Robson | 17/10/2026 | 21/10/2026 | 25/10/2026 | A confirmar |
+| Henrique Schneider | 18/10/2026 | 22/10/2026 | 25/10/2026 | A confirmar |
+| João Vitor | 19/10/2026 | 23/10/2026 | 25/10/2026 | A confirmar |
+
+Cada integrante deve confirmar sua data e horário, registrar o participante por código (sem publicar dados pessoais), documentar consentimento e evidências da entrevista, bem como o roteiro, o registro e os resultados da sessão de storyboard. Após as sessões, o grupo deverá consolidar os relatos até 25/10/2026. Os registros detalhados estão previstos nas páginas [Entrevistas](../../perfil-de-usuario/entrevistas/entrevistas.md) e [Planejamento do Storyboard](../../storyboard/planejamento/story.md).
+
+*Fonte: planejamento proposto por Gabriel Robson a partir do alinhamento do grupo em 13/10/2026 e das responsabilidades do projeto; datas individuais ainda não confirmadas.*
+
+---
+
 ### 4.10. Inspeção do Grupo - 1 (Grupo 1) — Relato Storyboard e Planejamento Protótipo de Papel — Vencimento: 26/10/2026
 
 Quadro 11 – Cronograma da Inspeção do Grupo - 1 (Etapa 5).
