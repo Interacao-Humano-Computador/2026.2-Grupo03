@@ -88,12 +88,10 @@ nav:
     - Contribuições: guia-estilo/contribuicao/contrib.md
 
   - Planejamento de Storyboard, Análise de Tarefas e Planejamento de Relatos, Análise de Tarefas:
-    - Planejamento: 
-      - Avaliação Storyboard: storyboard/planejamento/story.md
-      - Análise de Tarefas: storyboard/planejamento/analise.md
-    - Relatos:
-      - Avaliação Storyboard: storyboard/relatos/story.md
-      - Análise de Tarefas: storyboard/relatos/analise.md
+    - Alexandre Vilar: storyboard/planejamento/Alexandre_Vilar_Valadares_Fonseca.md
+    - Gabriel Robson: storyboard/planejamento/Gabriel_Robson.md
+    - Henrique Schneider: storyboard/planejamento/Henrique_Schneider.md
+    - João Vitor: storyboard/planejamento/Joao_Vitor_Tavares.md
 
   - Verificação:
     - Índice: verificacao/index.md
