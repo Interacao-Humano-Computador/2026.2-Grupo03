@@ -94,6 +94,41 @@ Fonte: Elaborado pelos autores (2026).
 
 ---
 
+## 4.5.1. Planejamento Colaborativo da Entrega 3 — Princípios Gerais, Metas de Usabilidade e Guia de Estilo
+
+Esta seção apresenta a organização coletiva das atividades da Entrega 3, com a identificação dos responsáveis, das dependências e da participação da equipe na revisão. Trata-se de um **planejamento registrado retrospectivamente**, tomando como referência a distribuição de responsabilidades já documentada pelo Grupo 03. As datas abaixo são as datas planejadas, e não uma confirmação da execução individual de cada atividade.
+
+**Objeto de estudo:** Portal de Serviços do Detran-DF.  
+**Prazo previsto no plano de ensino:** 06/10/2026 (entrega) e 08/10/2026 (apresentação).  
+**Equipe:** Alexandre Vilar, Eduardo Ribeiro, Gabriel Robson, Henrique Schneider e João Vitor.
+
+Quadro 6-A – Planejamento coletivo da Entrega 3.
+
+| Atividade planejada | Responsável(is) | Início planejado | Término planejado | Dependência ou produto esperado |
+| :--- | :--- | :---: | :---: | :--- |
+| Analisar o perfil de usuários, as personas e a análise de tarefas da etapa anterior | Todos os integrantes | 03/10/2026 | 04/10/2026 | Documentos da Entrega 2 consultados para fundamentar as decisões de design |
+| Selecionar e justificar princípios gerais de projeto aplicáveis ao Portal do Detran-DF | Henrique Schneider e Alexandre Vilar | 04/10/2026 | 06/10/2026 | Perfil dos usuários e bibliografia de IHC; documento de princípios |
+| Definir metas de usabilidade, explicitando os objetivos que devem orientar a avaliação da interface | João Vitor | 04/10/2026 | 06/10/2026 | Análise de tarefas e necessidades dos usuários; documento de metas |
+| Elaborar e documentar o guia de estilo, incluindo orientações de interface coerentes com os princípios e metas definidos | Gabriel Robson | 04/10/2026 | 06/10/2026 | Princípios gerais e metas de usabilidade; guia de estilo |
+| Verificar a coerência entre os três artefatos e conferir suas referências | Eduardo Ribeiro, com apoio de todos os integrantes | 06/10/2026 | 06/10/2026 | Documentos de princípios, metas e guia de estilo disponíveis para revisão |
+| Consolidar os arquivos no repositório e conferir a navegação no GitHub Pages | Henrique Schneider, com apoio da equipe | 06/10/2026 | 06/10/2026 | Artefatos revisados, links funcionais e páginas organizadas |
+| Organizar a apresentação e distribuir as falas conforme as contribuições de cada autor | Todos os integrantes | 07/10/2026 | 08/10/2026 | Versão consolidada da Entrega 3 |
+
+*Fonte: elaborado pelo autor (2026), com base no cronograma do Grupo 03 e no plano de ensino da disciplina. A distribuição complementar e as datas de preparação desta seção são propostas de planejamento e devem ser validadas pela equipe.*
+
+### Critérios de acompanhamento da equipe
+
+A equipe deve conferir se cada artefato possui identificação dos autores, histórico de versões, fundamentação na bibliografia da disciplina e coerência com o Portal de Serviços do Detran-DF. O responsável por cada atividade registra sua contribuição, enquanto os demais podem participar da revisão. A situação real das tarefas deve ser atualizada com base em evidências do GitHub, sem marcar atividades como concluídas apenas por terem sido planejadas.
+
+### Registro da contribuição
+
+- **Autor desta atualização do planejamento:** Gabriel Robson.
+- **Escopo da contribuição:** organização coletiva das atividades, dos responsáveis, das dependências, dos prazos e dos critérios de acompanhamento da Entrega 3.
+- **Revisão pelo grupo:** pendente de validação.
+- **Observação:** este registro de planejamento não substitui a atribuição de autoria dos artefatos individuais da equipe.
+
+---
+
 ### 4.6. Inspeção do Grupo + 1 — Princípios Gerais, Metas de Usabilidade e Guia de Estilo — Vencimento: 12/10/2026
 
 Quadro 7 – Cronograma da Inspeção do Grupo + 1 (Etapa 3).
