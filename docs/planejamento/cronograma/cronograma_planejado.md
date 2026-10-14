@@ -183,24 +183,52 @@ Fonte: Elaborado pelos autores (2026).
 
 ---
 
-## 4.9.1. Agenda individual de entrevistas e storyboard (até 25/10/2026)
+## 4.9.1. Planejamento individual da Entrega 4 — entrevistas, storyboard e HTA (até 25/10/2026)
 
-Conforme alinhamento do grupo em 13/10/2026, cada integrante deve realizar uma entrevista e uma atividade de storyboard/avaliação relacionada ao Portal de Serviços do Detran-DF, registrando a data de sua sessão. **25/10/2026 é o prazo máximo informado pelo grupo, não uma data individual confirmada.** A agenda abaixo constitui uma proposta de organização, sujeita à confirmação com participantes e integrantes; nenhuma sessão está registrada como realizada.
+O documento *Planejamento Entrega 4* discrimina as atividades de Henrique, João Vitor e Alexandre. Os períodos de Gabriel e Eduardo foram sugeridos para completar o cronograma coletivo; devem ser aprovados pelo grupo. **Os intervalos não representam sessões efetivamente agendadas ou concluídas.**
 
-| Integrante | Entrevista (data proposta) | Sessão de storyboard (data proposta) | Prazo máximo | Situação |
-| :--- | :---: | :---: | :---: | :--- |
-| Alexandre Vilar | 15/10/2026 | 19/10/2026 | 25/10/2026 | A confirmar |
-| Eduardo Ribeiro | 16/10/2026 | 20/10/2026 | 25/10/2026 | A confirmar |
-| Gabriel Robson | 17/10/2026 | 21/10/2026 | 25/10/2026 | A confirmar |
-| Henrique Schneider | 18/10/2026 | 22/10/2026 | 25/10/2026 | A confirmar |
-| João Vitor | 19/10/2026 | 23/10/2026 | 25/10/2026 | A confirmar |
+| Integrante | Entrevista guiada / avaliação storyboard | Inspeção HTA | Entrega do relato / publicação |
+| :--- | :--- | :--- | :--- |
+| Henrique Schneider | 20–22/10/2026 (documentado) | 18–20/10/2026 (documentado) | 24–25/10/2026 |
+| João Vitor | 21–24/10/2026 (documentado) | 21–22/10/2026 (documentado) | 24–25/10/2026 |
+| Alexandre Vilar | 21–24/10/2026 (documentado) | 21–22/10/2026 (documentado) | 23–25/10/2026 |
+| Gabriel Robson | 21–23/10/2026 (**proposta**) | 20–22/10/2026 (**proposta**) | 24–25/10/2026 (**proposta**) |
+| Eduardo Ribeiro | 22–24/10/2026 (**proposta**) | 21–23/10/2026 (**proposta**) | 25/10/2026 (**proposta**) |
 
-Cada integrante deve confirmar sua data e horário, registrar o participante por código (sem publicar dados pessoais), documentar consentimento e evidências da entrevista, bem como o roteiro, o registro e os resultados da sessão de storyboard. Após as sessões, o grupo deverá consolidar os relatos até 25/10/2026. Os registros detalhados estão previstos nas páginas [Entrevistas](../../perfil-de-usuario/entrevistas/entrevistas.md) e [Planejamento do Storyboard](../../storyboard/planejamento/story.md).
+O detalhamento das etapas de preparação, teste-piloto, avaliação, análise e revisão encontra-se a seguir.
 
-*Fonte: planejamento proposto por Gabriel Robson a partir do alinhamento do grupo em 13/10/2026 e das responsabilidades do projeto; datas individuais ainda não confirmadas.*
+## Cronograma da Entrega 4 — planejamento da avaliação e relato (13 a 25/10/2026)
+
+**Base documental:** *Planejamento Entrega 4*, Grupo 03, páginas 6 a 12. Para Henrique Schneider, João Vitor e Alexandre Vilar, os intervalos foram transcritos do documento fornecido. **Gabriel Robson e Eduardo Ribeiro não possuem cronogramas individuais nesse documento**; suas datas abaixo são **propostas de complementação**, ainda sujeitas à confirmação. As datas de entrevistas referem-se à **condução das sessões de avaliação do storyboard com participantes**, e não a entrevistas realizadas.
+
+| Integrante | Planejamento / preparação storyboard | Teste-piloto storyboard | Sessões com participantes (entrevista guiada + storyboard) | Análise e relato | Revisão e publicação |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Henrique Schneider | 13–19/10 | 19–20/10 | **20–22/10** | 22–24/10 | 24–25/10 |
+| João Vitor | 15–21/10 | 21–24/10 | **21–24/10** | 21–24/10 | 24–25/10 |
+| Alexandre Vilar | 15–21/10 | 20–24/10 | **21–24/10** | 21–24/10 | 23–25/10 |
+| Gabriel Robson *(proposta)* | 14–19/10 | 19–20/10 | **21–23/10** | 23–24/10 | 24–25/10 |
+| Eduardo Ribeiro *(proposta)* | 14–19/10 | 19–21/10 | **22–24/10** | 24–25/10 | 25/10 |
+
+**Prazo máximo para a conclusão das atividades:** 25/10/2026 (conforme alinhamento do grupo). **Horários, participantes, datas efetivas e resultados:** pendentes de confirmação e registro. Não são informados dados pessoais dos participantes nesta página pública.
+
+### Planejamento de inspeção da HTA (conforme o documento)
+
+| Integrante | Preparação da avaliação HTA | Teste-piloto HTA | Inspeção HTA | Relatório de problemas | Publicação |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Henrique Schneider | 11–17/10 | 17–18/10 | 18–20/10 | 20–22/10 | 23–25/10 |
+| João Vitor | 14–19/10 | 19–20/10 | 21–22/10 | 22–23/10 | 24–25/10 |
+| Alexandre Vilar | 14–19/10 | 19–20/10 | 21–22/10 | 22–23/10 | 24–25/10 |
+| Gabriel Robson *(proposta)* | 14–19/10 | 19–20/10 | 20–22/10 | 22–24/10 | 24–25/10 |
+| Eduardo Ribeiro *(proposta)* | 14–19/10 | 19–20/10 | 21–23/10 | 23–24/10 | 24–25/10 |
+
+A avaliação do storyboard usa entrevista guiada/semiestruturada e inspeção; a HTA prevê inspeção técnica de diagramas e tabelas. Cada integrante deve registrar as evidências e utilizar o TCLE quando houver participantes externos, seguindo o planejamento DECIDE. As datas propostas não indicam conclusão de trabalho.
+
+*Fonte: Grupo 03, Planejamento Entrega 4 (2026), p. 6–12; complementações propostas por Gabriel Robson em 13/10/2026.*
+
+
+Para cada sessão, confirmar previamente dia e horário, participante codificado, consentimento, técnica utilizada, roteiro, evidências e resultados. **25/10/2026 é o limite informado pelo grupo**, não a confirmação de data individual.
 
 ---
-
 ### 4.10. Inspeção do Grupo - 1 (Grupo 1) — Relato Storyboard e Planejamento Protótipo de Papel — Vencimento: 26/10/2026
 
 Quadro 11 – Cronograma da Inspeção do Grupo - 1 (Etapa 5).
