@@ -2,21 +2,25 @@
 
 ---
 
-## Agenda proposta das sessões de storyboard — outubro de 2026
+## Cronograma individual da Entrega 4 — avaliação do storyboard
 
-O grupo alinhou em 13/10/2026 que cada integrante deve informar a data de sua participação na atividade de storyboard, **até 25/10/2026**. As datas indicadas a seguir são propostas de agendamento, **não confirmações de realização**.
+Este cronograma utiliza os intervalos do documento *Planejamento Entrega 4* (p. 6–10), para Henrique, João Vitor e Alexandre. Para Gabriel e Eduardo, os períodos são propostas de complementação, ainda não confirmadas. O **limite para realização e consolidação é 25/10/2026**, conforme alinhamento da equipe.
 
-| Integrante | Data proposta | Horário | Participante | Status |
-| :--- | :---: | :---: | :--- | :--- |
-| Alexandre Vilar | 19/10/2026 | A confirmar | A definir (código) | A agendar |
-| Eduardo Ribeiro | 20/10/2026 | A confirmar | A definir (código) | A agendar |
-| Gabriel Robson | 21/10/2026 | A confirmar | A definir (código) | A agendar |
-| Henrique Schneider | 22/10/2026 | A confirmar | A definir (código) | A agendar |
-| João Vitor | 23/10/2026 | A confirmar | A definir (código) | A agendar |
+| Integrante | Objetivos, método e logística | Teste-piloto | Entrevista guiada com storyboard / coleta | Consolidação e análise | Publicação |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Henrique Schneider | 13–19/10 | 19–20/10 | 20–22/10 | 22–24/10 | 24–25/10 |
+| João Vitor | 15–21/10 | 21–24/10 | 21–24/10 | 21–24/10 | 24–25/10 |
+| Alexandre Vilar | 15–21/10 | 20–24/10 | 21–24/10 | 21–24/10 | 23–25/10 |
+| Gabriel Robson — *proposta* | 14–19/10 | 19–20/10 | 21–23/10 | 23–24/10 | 24–25/10 |
+| Eduardo Ribeiro — *proposta* | 14–19/10 | 19–21/10 | 22–24/10 | 24–25/10 | 25/10 |
 
-**Prazo máximo:** 25/10/2026. Após confirmar a sessão, cada responsável deverá preencher a data e o horário reais, o código do participante, o fluxo/tarefa do Portal Detran-DF abordado, o material usado e o local/link do relato. A agenda de entrevistas correspondente pode ser consultada no [cronograma coletivo](../../planejamento/cronograma/cronograma_planejado.md).
+As entrevistas são sessões de avaliação com apoio visual do storyboard, conforme o método de investigação por entrevista guiada/semiestruturada e inspeção proposto no documento. **As datas são intervalos planejados, e não entrevistas confirmadas ou realizadas.** Os integrantes devem completar o agendamento efetivo, código do participante, aplicação de TCLE, notas e relato, sem divulgar dados pessoais no repositório público.
 
-*Fonte: proposta de organização elaborada por Gabriel Robson com base no alinhamento do grupo de 13/10/2026.*
+### Estrutura do relato de resultados
+
+Conforme as páginas 9–10 do planejamento: Henrique (18–25/10), João Vitor (18–25/10) e Alexandre (19–25/10) planejam, em períodos parcialmente sobrepostos, a estrutura do relatório, tabelas de problemas, critérios de categorização, recomendações e fechamento. Gabriel e Eduardo deverão adequar seus relatos ao cronograma proposto acima, sujeito a validação.
+
+*Fonte: Grupo 03, Planejamento Entrega 4 (2026), p. 3–10; propostas complementares para Gabriel e Eduardo elaboradas em 13/10/2026.*
 
 ---
 
