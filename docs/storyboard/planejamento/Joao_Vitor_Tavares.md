@@ -6,24 +6,47 @@ Prof. Dr. André Barros de Sales — **Grupo 03**
 
 Integrantes do grupo: Alexandre Vilar, Eduardo Ribeiro, Gabriel Robson, Henrique Schneider e João Vitor.
 
----
+## Tabela de contribuição
 
-## Histórico de Versões
+**Tabela 1 – Contribuições no artefato Planejamento da Entrega 4 – João Vitor Tavares**
 
-<p align="center"><b>Tabela 1</b> – Histórico de Versões do Documento de Análise de Tarefas.</p>
+| Integrante | Contribuição | Atividade (link) | Gravação (link) |
+| --- | --- | --- | --- |
+| Alexandre Vilar Valadares Fonsêca | Não se aplica (página individual de João Vitor Tavares) | — | — |
+| Eduardo Ribeiro Gomes da Silva | Não se aplica (página individual de João Vitor Tavares) | — | — |
+| Gabriel Robson | Não se aplica (página individual de João Vitor Tavares) | — | — |
+| Henrique Schneider Fernandes da Rosa | Publicação da página no site | [Commit 661c014](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/661c014) | — |
+| João Vitor Tavares de Sá Lima | Cronogramas individuais do planejamento da avaliação do storyboard, do relato dos resultados e da HTA (Relatório da Entrega 4, pp. 7–14); storyboard **[VERIFICAR]** | [Relatório da Entrega 4](../../assets/pdfs/entregas/relatorio-entrega-4-grupo-03.pdf) | **[VERIFICAR: apresentação da Entrega 4]** |
+
+Fonte: elaborado pelos autores (2026).
+
+## Histórico de versões
+
+**Tabela 2 – Histórico de versões do artefato Planejamento da Entrega 4 – João Vitor Tavares**
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
-| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Integrantes do grupo |
-| 13/10/2026 | 2.0 | Atualização do Documento | Henrique Schneider | Integrantes do grupo |
+| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Integrantes do grupo") |
+| 13/10/2026 | 2.0 | Atualização do Documento | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Integrantes do grupo") |
+| 15/10/2026 | 2.1 | Padronização da estrutura no modelo da disciplina (tabela de contribuição, legenda do histórico corrigida, introdução, seções numeradas, legendas dos cronogramas, seções do storyboard e da relação com a análise de tarefas com marcadores de pendência) e inclusão da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
-<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
+Fonte: elaborado pelos autores (2026).
 
----
+<!-- TODO(VERIFICAR): as versões 1.0 e 2.0 registram Henrique Schneider como autor, como na página dele. Confirmar se o histórico foi copiado e quem é o autor do planejamento de João Vitor Tavares. -->
 
-## 1. Framework DECIDE
+## 1. Introdução
+
+Esta página reúne o planejamento individual de João Vitor Tavares para a Entrega 4: o storyboard sob sua responsabilidade e os cronogramas do planejamento da avaliação do storyboard, do relato dos resultados e da avaliação da análise de tarefas (HTA). O planejamento comum do grupo, pelo framework DECIDE, está na página [Planejamento da Avaliação (DECIDE)](decide.md).
+
+**[VERIFICAR: introdução escrita por João Vitor Tavares, com o fluxo do Detran-DF escolhido para o storyboard e a persona envolvida.]**
+
+## 2. Framework DECIDE
 
 O planejamento da avaliação de Interação Humano-Computador (IHC) deste projeto é estruturado com base no framework **DECIDE**, proposto por Sharp, Rogers e Preece (2007) e sistematizado por Barbosa e Silva (2010). O objetivo do framework é orientar e documentar, de maneira metódica, rigorosa e iterativa, a condução da avaliação por meio de seis etapas ordenadas:
+
+A Tabela 3 apresenta essas seis etapas.
+
+**Tabela 3 – Etapas do framework DECIDE**
 
 | Letra | Etapa | Descrição |
 |:-----:|-------|-----------|
@@ -34,13 +57,15 @@ O planejamento da avaliação de Interação Humano-Computador (IHC) deste proje
 | **D** | Decidir como Lidar com as Questões Éticas (*Decide on ethical issues*) | Garante a salvaguarda e o respeito à dignidade dos participantes por meio do Termo de Consentimento Livre e Esclarecido (TCLE), assegurando anonimato, privacidade e direito de desistência sem penalidades (quando houver envolvimento de usuários reais). |
 | **E** | Avaliar, Interpretar e Apresentar os Dados (*Evaluate, analyze, and present data*) | Estabelece como os dados brutos coletados serão consolidados, categorizados e interpretados, servindo de base para o diagnóstico de problemas e a elaboração de recomendações de redesign. |
 
-> **Fonte:** Barbosa & Silva (2010), *Interação Humano-Computador*, p. 312-313.
+Fonte: elaborado pelos autores (2026), com base em Barbosa e Silva (2010, cap. 9, seç. 9.8, p. 312-313).
 
----
+## 3. Cronogramas de João Vitor Tavares
 
-## 2. Cronogramas de João Vitor Tavares
+As Tabelas 4 a 6 apresentam os cronogramas individuais.
 
-### 2.1 Cronograma do planejamento da Avaliação de Storyboard
+### 3.1 Cronograma do planejamento da Avaliação de Storyboard
+
+**Tabela 4 – Cronograma do planejamento da avaliação do storyboard – João Vitor Tavares**
 
 | Nº | Nome da Tarefa | Integrante | Data de Início | Data de Fim |
 |:-:|---|---|:-:|:-:|
@@ -55,7 +80,11 @@ O planejamento da avaliação de Interação Humano-Computador (IHC) deste proje
 | 9 | Consolidação, Análise Qualitativa dos Dados e Redação do Relato dos Resultados | João Vitor Tavares | 21/10/2026 | 24/10/2026 |
 | 10 | Revisão Geral, Publicação no GitHub Pages e Gravação do Vídeo da Entrega | João Vitor Tavares | 24/10/2026 | 25/10/2026 |
 
-### 2.2 Cronograma do planejamento do Relato de Resultados da Avaliação
+Fonte: elaborado pelos autores (2026).
+
+### 3.2 Cronograma do planejamento do Relato de Resultados da Avaliação
+
+**Tabela 5 – Cronograma do planejamento do relato dos resultados – João Vitor Tavares**
 
 | Nº | Tarefa | Integrante | Data de Início | Data de Fim |
 |:-:|---|---|:-:|:-:|
@@ -66,7 +95,11 @@ O planejamento da avaliação de Interação Humano-Computador (IHC) deste proje
 | 5 | Revisão cruzada e formatação do planejamento no GitHub Pages | João Vitor Tavares | 22/10/2026 | 23/10/2026 |
 | 6 | Fechamento e publicação final da Entrega 4 | João Vitor Tavares | 24/10/2026 | 25/10/2026 |
 
-### 2.3 Cronograma do planejamento do HTA
+Fonte: elaborado pelos autores (2026).
+
+### 3.3 Cronograma do planejamento do HTA
+
+**Tabela 6 – Cronograma do planejamento da avaliação da HTA – João Vitor Tavares**
 
 | Nº | Tarefa | Integrante | Data de Início | Data de Fim |
 |:-:|---|---|:-:|:-:|
@@ -81,13 +114,35 @@ O planejamento da avaliação de Interação Humano-Computador (IHC) deste proje
 | 9 | Consolidação do Relatório e Lista de Erros Encontrados na HTA | João Vitor Tavares | 22/10/2026 | 23/10/2026 |
 | 10 | Revisão Final, Publicação no GitHub Pages e Formatação Markdown | João Vitor Tavares | 24/10/2026 | 25/10/2026 |
 
----
+Fonte: elaborado pelos autores (2026).
+
+<!-- TODO(VERIFICAR): o item 8 da Entrega 4 pede "Um cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas" (SALES, 2026, p. 13). Os cronogramas acima têm datas, mas não horário nem local. -->
+
+## 4. Storyboard
+
+O item 10 da Entrega 4 pede que a "quantidade de storyboards é igual a quantidade de integrantes do grupo" (SALES, 2026, p. 13).
+
+**[VERIFICAR: storyboard de João Vitor Tavares, com os quadros numerados, legenda e fonte. Sugestão de nome do arquivo: `docs/assets/storyboards/<nome>-quadro-<n>.png`.]**
+
+## 5. Relação dos quadros com a análise de tarefas
+
+O item 9 da Entrega 4 pede que "cada desenho do StoryBoard está relacionado uma especificação do artefato da Análise de Tarefas" (SALES, 2026, p. 13).
+
+**[VERIFICAR: tabela "Quadro do storyboard × tarefa ou subtarefa da HTA" (ver a [Análise de Tarefas](../../perfil-de-usuario/analise/fluxos.md)).]**
 
 ## Referências Bibliográficas
 
-* BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010. Cap. 6 (Análise de Tarefas, p. 192-196), Cap. 9 (Planejamento da Avaliação de IHC, p. 288-313) e Cap. 10 (Métodos de Avaliação de IHC, p. 361).
-* SALES, André Barros de. Plano de Ensino da Disciplina de Interação Humano-Computador. Faculdade UnB Gama (FGA), Universidade de Brasília, 2026.
-* SHARP, Helen; ROGERS, Yvonne; PREECE, Jenny. Interaction Design: Beyond Human-Computer Interaction. 2. ed. John Wiley & Sons, 2007.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
+
+SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
+
+SHARP, Helen; ROGERS, Yvonne; PREECE, Jenny. *Interaction design*: beyond human-computer interaction. 2. ed. Chichester: John Wiley & Sons, 2007.
+
+<!-- TODO(VERIFICAR): conferir o local de publicação de Sharp, Rogers e Preece (2007). A versão anterior citava Barbosa e Silva (2010) "Cap. 6 (Análise de Tarefas, p. 192-196), Cap. 9 (Planejamento da Avaliação de IHC, p. 288-313) e Cap. 10 (Métodos de Avaliação de IHC, p. 361)". -->
+
+## Agradecimentos e uso de IA generativa
+
+**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no mesmo modelo das demais páginas individuais da Entrega 4: tabela de contribuição, correção da legenda do histórico (antes "Documento de Análise de Tarefas"), introdução, legendas e fontes das tabelas, seções do storyboard e da relação com a análise de tarefas com marcadores **[VERIFICAR]** e padronização das referências. A tabela do DECIDE e as datas dos cronogramas não foram alteradas. O relatório da Entrega 4 registra o uso do Claude na formatação dos cronogramas individuais e do Gemini na estruturação dos relatórios (Grupo 03, Relatório da Entrega 4, p. 15). A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 ---
 
