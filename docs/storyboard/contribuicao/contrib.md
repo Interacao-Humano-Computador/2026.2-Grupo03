@@ -35,30 +35,8 @@ A Tabela 2 apresenta o detalhamento de cada artefato produzido, a identificaçã
 
 ---
 
-## 2. Sintetização das Técnicas e Ferramentas Utilizadas
 
-<p align="center"><b>Tabela 3</b> – Tabela de técnicas de IHC aplicadas na Entrega 3 e responsáveis por cada execução.</p>
-
-| Técnica de IHC Aplicada | Integrantes Responsáveis | Finalidade no Projeto |
-| :--- | :--- | :--- |
-
-
-<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
-
----
-
-## 3. Síntese do Vídeo de Apresentação e Gravação da Reunião
-
-<p align="center"><b>Tabela 4</b> – Registro dos vídeos de gravação da Entrega 3.</p>
-
-| Etapa / Artefato | Participantes da Gravação | Duração | Link de Acesso ao Vídeo |
-| :--- | :--- | :---: | :---: |
-
-<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
-
----
-
-## 4. Declaração de Uso de Inteligência Artificial Generativa
+## 2. Declaração de Uso de Inteligência Artificial Generativa
 
 <p align="center"><b>Tabela 5</b> – Quadro de utilização responsável de IA Generativa na Entrega 3.</p>
 
