@@ -28,6 +28,8 @@ Relatório pedido pela seção 9 do `Refatoração/CLAUDE.md`. Fica na raiz do r
 
 Os demais marcadores tratam de conteúdo faltante (storyboards, características da plataforma, dados de pesquisa, datas reais, horários de reunião etc.).
 
+Os números acima são da primeira rodada. Depois da segunda rodada (seção 10), o site tem **72 páginas** (16 novas) e **904 marcadores [VERIFICAR]**; o aumento vem das páginas novas, que repetem por integrante e por entrega as pendências já existentes.
+
 ## 2. Decisões e desvios em relação ao CLAUDE.md
 
 | Regra do CLAUDE.md | O que foi feito | Motivo |
@@ -153,7 +155,7 @@ Os nomes desta seção são **sugestões** (CLAUDE.md, seção 7), baseadas no c
 
 1. **Direitos autorais e privacidade em repositório público.** A pasta `Refatoração/` foi enviada a um repositório **público** e contém livros completos ou excertos protegidos (Barbosa e Silva 2010 completo, SWEBOK, *About Face 3*, *Design Thinking*, capítulos de Preece), gravações de reuniões e inspeções com outros grupos (`.mp4` no Git LFS) e transcrições. Ela não é publicada no site, mas qualquer pessoa pode baixá-la do GitHub. Recomenda-se tirar esse material do repositório (o histórico do Git também guarda os arquivos) ou tornar o repositório privado. Nenhuma ação foi tomada sem a decisão do grupo.
 2. **Matrícula exposta no histórico.** O commit `f0d0999` (`docs/reunioes/index.md`) tem links do OneDrive com a matrícula de um integrante no caminho. Os links **não** foram reproduzidos no site. Eles continuam no histórico do Git.
-3. **Avaliação recebida da Entrega 2.** O documento `Refatoração/Entrega 2/_Gupo -3 Atividade avaliativa - IHC - Etapa 2.pdf` (avaliação do site do Grupo 03) foi resumido no Relatório E2, mas não publicado, por ser de terceiros.
+3. **Avaliação recebida da Entrega 2.** O documento `Refatoração/Entrega 2/_Gupo -3 Atividade avaliativa - IHC - Etapa 2.pdf` (avaliação do site do Grupo 03 pela monitoria) foi resumido no Relatório E2 e, na segunda rodada, transcrito em `docs/listas-verificacao/entrega-2.md` (perguntas, respostas, data e hora e observações resumidas). O PDF continua fora do site, por ser documento de terceiros.
 4. **Relatório da Entrega 3** não está no repositório nem na pasta de referências.
 
 ## 7. Matriz de conformidade
@@ -255,8 +257,63 @@ O Claude (Anthropic) executou esta refatoração a pedido de Henrique Schneider:
 - Redirecionamento `verificacao/grupo-06/` → `verificacao/grupo-07/` gerado e testado.
 - Conferência visual no Chromium (Playwright), nos temas claro e escuro, de: página inicial, Acompanhamento (abas), Princípios Gerais (figuras), Inspeção do Grupo 01 (as 7 figuras carregam) e Relatório da Entrega 1.
 
+## 10. Segunda rodada: abas Listas de Verificação, Atas e Integrantes
+
+Pedidos do Henrique em 15/10/2026, depois da primeira rodada: (1) "uma aba com as listas de verificação de cada entrega (as listas do professor mais as listas feitas pelo grupo)"; (2) "uma aba de atas das reuniões […] de acordo com recomendações do próprio professor"; (3) "uma aba do pages com as entregas futuras e antigas por integrante do grupo".
+
+### 10.1 O que mudou
+
+- **Navegação:** as abas agora são Início, Integrantes, Entrega 1, Entrega 2, Entrega 3, Entrega 4, Entregas 5 a 8, Listas de Verificação e Atas. A aba "Verificação" foi incorporada à aba "Listas de Verificação", com as inspeções dentro de cada entrega; a aba "Disciplina", que tinha uma página só, foi removida e o Plano de Ensino foi para "Início"; os rótulos das abas das entregas foram encurtados (o tema continua no título das páginas) porque, com nove abas, "Listas de Verificação" e "Atas" ficavam fora da tela a 1440 px. Nenhuma URL mudou.
+- **Atas:** `docs/atas.md` virou `docs/atas/index.md` (o endereço `/atas/` é o mesmo, e as âncoras antigas das duas reuniões foram mantidas no Quadro 2). Cada ata ganhou página própria, nomeada como no modelo do MCTIC (`ata-reuniao-AAAAMMDD-XX.md`), com as seções na ordem do modelo. O índice reúne as recomendações do Plano (item 9 do planejamento geral; D7, D8 e D9), da monitoria (local e câmera aberta) e do MCTIC, a conformidade de cada ata e as inspeções gravadas sem ata. Foi criado um modelo de ata em Markdown (`docs/atas/modelo.md`), sem telefone, e-mail e assinatura, que o modelo do MCTIC prevê mas que não devem ir para um site público.
+- **Listas de Verificação:** uma página por entrega com (a) a lista do Plano de Ensino transcrita (G1–G9, D1–D11 e itens de conteúdo, pp. 8–13); (b) na Entrega 2, a lista aplicada pela monitoria em 01/10/2026, com respostas e observações; (c) as listas e os itens do grupo (lista de conferência interna, itens 13 a 21, 11 a 22 e N1 a N7, com fonte e autor); (d) as listas por artefato pedidas na atividade "elaborar listas de verificação" (enunciado em `Refatoração/Entrega 2/Materiais de Consulta/Textos/`); (e) as listas individuais do Moodle; (f) as aplicações (autoavaliações, inspeções, monitoria). As Entregas 5 a 8 ficaram numa página só, porque o Plano não traz lista para elas; a Entrega 8 recebeu os 12 itens gerais do modelo de lista de verificação da qualidade de artefatos. O Projeto Final virou uma lista de 15 perguntas (14 tópicos e a duração).
+- **Integrantes:** uma página por integrante, com as Entregas 1 a 4 em abas (planejado no cronograma × registrado como realizado × evidência × reunião × pendência), as próximas tarefas (Cronograma Planejado, cronogramas individuais da Entrega 4 e tarefas de todos), as atividades individuais do Moodle e a lista, página a página, das contribuições ainda marcadas como **[VERIFICAR]**. A visão geral resume a situação por entrega. As páginas foram geradas a partir dos registros do site; nenhuma tarefa foi atribuída pela ferramenta.
+- Links para `atas.md` atualizados em Apresentações, Acompanhamento, Cronograma Executado, Relatórios das Entregas 1 e 4, Matriz da Entrega 4 e Inspeção do Grupo 01, com registro no histórico de cada página. O Acompanhamento ganhou as pendências das listas por artefato e das atas e o link para a aba Integrantes. README atualizado.
+
+### 10.2 Páginas novas
+
+| Página | Conteúdo |
+| --- | --- |
+| `atas/ata-reuniao-20260927-01.md`, `atas/ata-reuniao-20261014-02.md` | Atas das Reuniões 01 e 02 em páginas próprias |
+| `atas/modelo.md` | Modelo de ata (MCTIC + D7 a D9 + monitoria) |
+| `listas-verificacao/index.md` | Visão geral das listas, listas pendentes e itens por integrante |
+| `listas-verificacao/entrega-1.md` a `entrega-4.md` | Listas do professor, da monitoria e do grupo, por entrega |
+| `listas-verificacao/entregas-5-a-8.md`, `projeto-final.md` | Situação das listas das Entregas 5 a 8 e lista do Projeto Final |
+| `integrantes/index.md` e uma página por integrante | Entregas anteriores e próximas de cada integrante |
+
+### 10.3 Pendências novas (com responsável sugerido)
+
+| Pendência | Página | Responsável sugerido |
+| --- | --- | --- |
+| Listas por artefato da Entrega 2 (mínimos da monitoria): técnicas de coleta (5 itens × 3 técnicas) | Listas da Entrega 2, Quadro 5 | Henrique (autor de Entrevistas e Questionários) |
+| … perfil do usuário (10 itens) e personas/elenco (10 itens) | idem | Alexandre (autor dos perfis e personas) |
+| … cenários (8 itens) | idem | Alexandre (autor dos cenários) ou João Vitor |
+| … HTA (8 itens) | idem | Gabriel (autor da HTA) |
+| … CTT (8 itens) | idem | Eduardo (sem contribuição registrada na Entrega 2) |
+| Listas por artefato da Entrega 4: DECIDE e planejamento do resultado | Listas da Entrega 4, Quadro 3 | Alexandre (DECIDE) e João Vitor (autor do item N5, sobre o relato) |
+| Lista do desenvolvimento do projeto × processo de design | Listas da Entrega 1, Quadro 5 | Eduardo (escolha do processo de design) |
+| Publicar as listas individuais do Moodle | Listas de cada entrega | Cada integrante |
+| Transcrever as listas do professor das Entregas 5 a 8 quando forem publicadas no Moodle | Listas das Entregas 5 a 8 | Henrique (ou quem baixar os enunciados para `Refatoração/`) |
+| Confirmar a origem do modelo de lista de verificação da qualidade de artefatos | Listas das Entregas 5 a 8, seção 3 | Henrique |
+| Campos do MCTIC que faltam nas atas (horários previstos, redator, convocados, tipos dos assuntos, próxima reunião) | Atas, Quadro 3 | Henrique (registrou as duas atas) |
+| Atas das inspeções gravadas sem ata (07/09, 02/10, 10/10) | Atas, Quadro 4 | Quem participou de cada sessão |
+| Sigla do projeto para o nome das atas (modelo do MCTIC) | Atas | Grupo |
+| Conferir a própria página e completar a seção 5 (contribuições a **[VERIFICAR]**) | Integrantes | Cada integrante |
+
+### 10.4 O que não foi feito
+
+- O Moodle não foi acessado: a sessão não tem credenciais e não deve usar a senha de um integrante. As listas das Entregas 5 a 8 e as listas individuais ficam como **[VERIFICAR]** até os enunciados serem salvos em `Refatoração/`.
+- Nenhum item de lista de verificação foi criado pela ferramenta. As listas por artefato aparecem só com a estrutura e os mínimos exigidos.
+- O push para `Interacao-Humano-Computador/2026.2-Grupo03` continua bloqueado (HTTP 403: o app do Claude não tem permissão de escrita no repositório). A branch foi enviada ao fork `SchneiderCode1/2026.2-Grupo03-Fork`, com autorização do Henrique.
+
+### 10.5 Validação
+
+- `mkdocs build --strict`: sem avisos. Build com validação de âncoras e links em `warn`: sem avisos.
+- Links locais no HTML gerado: 0 quebrados (fora a página 404, que usa caminhos absolutos do site publicado).
+- Conferência visual no Chromium, nos temas claro e escuro: visão geral e página de integrante (abas por entrega), Listas da Entrega 2 e Atas. As nove abas cabem na barra a 1280 px e a 1440 px.
+
 ## Histórico de versões
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 15/10/2026 | 1.0 | Criação do relatório da refatoração | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | [VERIFICAR: revisor] |
+| 15/10/2026 | 1.1 | Inclusão da seção 10 (abas Listas de Verificação, Atas e Integrantes), da nota sobre os números depois da segunda rodada e da atualização do alerta 3 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | [VERIFICAR: revisor] |

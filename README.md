@@ -19,6 +19,7 @@ Documentação acadêmica do projeto de **Interação Humano-Computador (IHC)** 
 ├── docs/                                ← páginas do site (MkDocs + Material)
 │   ├── index.md                         ← início e equipe
 │   ├── acompanhamento/                  ← pendências e próximas entregas por integrante
+│   ├── integrantes/                     ← entregas anteriores e próximas de cada integrante
 │   ├── relatorios/                      ← relatório consolidado de cada entrega
 │   ├── planejamento/                    ← Entrega 1 (heatmap, sites, ferramentas, processo, cronogramas)
 │   ├── perfil-de-usuario/               ← Entrega 2 (perfis, personas, cenários, tarefas, ética)
@@ -28,8 +29,10 @@ Documentação acadêmica do projeto de **Interação Humano-Computador (IHC)** 
 │   ├── prototipo-alta-fidelidade/       ← Entregas 6 e 7
 │   ├── verificacao-artefatos/           ← Entrega 8
 │   ├── projeto-final/                   ← Projeto Final (14 tópicos do Plano de Ensino)
+│   ├── listas-verificacao/              ← listas do professor, da monitoria e do grupo por entrega
 │   ├── verificacao/                     ← autoavaliação e inspeções de outros grupos
-│   ├── atas.md, apresentacoes.md        ← atas (modelo MCTIC) e vídeos
+│   ├── atas/                            ← uma página por ata (modelo MCTIC) e modelo de ata
+│   ├── apresentacoes.md                 ← vídeos das apresentações, inspeções e reuniões
 │   └── assets/                          ← imagens, PDFs entregues e fotos de referências
 ├── Refatoração/                         ← material de referência da disciplina (fora do site)
 ├── REFATORACAO-RELATORIO.md             ← relatório da refatoração de 15/10/2026 (fora do site)
@@ -85,7 +88,7 @@ Para gerar uma versão estática sem iniciar o servidor, execute `mkdocs build -
 ## Como contribuir
 
 - Crie uma branch curta a partir de `main`.
-- Use como modelo uma página existente da mesma entrega (tabela de contribuição, histórico, introdução, referências e uso de IA) e o modelo de ata do MCTIC já aplicado em `docs/atas.md`.
+- Use como modelo uma página existente da mesma entrega (tabela de contribuição, histórico, introdução, referências e uso de IA) e, para atas, o modelo em `docs/atas/modelo.md` (nome do arquivo `ata-reuniao-AAAAMMDD-XX.md`).
 - Registre histórico de versão, contribuição, fontes, gravações e declaração de uso de IA quando aplicável.
 - Use commits pequenos no padrão `tipo: descrição`, por exemplo: `docs: adiciona ata de 12-03-2026`.
 - Abra um Pull Request com descrição objetiva, evidências e pelo menos um revisor da equipe.

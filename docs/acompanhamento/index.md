@@ -6,7 +6,7 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da página com as pendências das Entregas 1 a 4 e a situação das Entregas 5 a 8 e do Projeto Final por integrante | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.0 | Criação da página com as pendências das Entregas 1 a 4 e a situação das Entregas 5 a 8 e do Projeto Final por integrante; atualização dos links das atas, que passaram para a aba "Atas"; inclusão das pendências das listas de verificação por artefato e das atas, e do link para a aba "Integrantes" | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -35,7 +35,9 @@ Como usar: marque `[x]` quando a pendência for resolvida, registre a mudança n
     | [ ] | Publicar no YouTube, como "não listado", os vídeos de todas as apresentações e confirmar a visibilidade dos vídeos já publicados | [Apresentações](../apresentacoes.md) | D9 |
     | [ ] | Identificar o **autor de cada item de conteúdo** e incluir a **foto do texto** de cada referência em `docs/assets/referencias/` | Todas as páginas de conteúdo | Itens de conteúdo |
     | [ ] | Garantir que cada integrante tenha ao menos um item de conteúdo por entrega | Todas as entregas | "Importante" das listas das Entregas 2 a 4 |
-    | [ ] | Registrar em ata as reuniões das Entregas 1, 3 e 4 que ocorreram, com gravação | [Atas](../atas.md) | D7, D8 |
+    | [ ] | Registrar em ata as reuniões das Entregas 1, 3 e 4 que ocorreram, com gravação | [Atas](../atas/index.md), Quadro 4 | D7, D8 |
+    | [ ] | Completar nas atas os campos do modelo do MCTIC que faltam (horários previstos, redator, convocados, tipos dos assuntos, próxima reunião) | [Atas](../atas/index.md), Quadro 3 | D7 |
+    | [ ] | Publicar as listas de verificação individuais entregues no Moodle | [Listas de Verificação](../listas-verificacao/index.md), Quadro 2 | Atividades individuais |
     | [ ] | Decidir como registrar as contribuições de Camile Barbosa Gonzaga de Oliveira na Entrega 1 | Páginas da Entrega 1 | D10 |
     | [ ] | Incluir as ferramentas usadas depois da Entrega 1 (ChatGPT, Claude, Riverside, Google Drive, Firefox) | [Ferramentas](../planejamento/ferramentas/ferramentas_utilizadas.md) | Projeto Final, tópicos 6 e 14 |
 
@@ -70,9 +72,10 @@ Como usar: marque `[x]` quando a pendência for resolvida, registre a mudança n
     | [ ] | Justificar a persona primária (João Paulo) e a quantidade de personas | [Perfis e Personas](../perfil-de-usuario/personas/perfisEpersonas.md) | Avaliação recebida, OBS 7 |
     | [ ] | Escrever a introdução e a fundamentação dos cenários; decidir se os cenários ganham página própria | [Cenários](../perfil-de-usuario/cenarios/cenarios.md) | Item 9 |
     | [ ] | Informar o e-mail de contato no TCLE | [TCLE](../perfil-de-usuario/aspectos-eticos/termo/TCLE.md) | Item 7 |
-    | [ ] | Completar a ata da Reunião 01 (objetivo, atividades definidas, próxima reunião) e confirmar as contribuições entre colchetes | [Atas](../atas.md) | D7 |
+    | [ ] | Completar a ata da Reunião 01 (objetivo, atividades definidas, próxima reunião) e confirmar as contribuições entre colchetes | [Ata da Reunião 01](../atas/ata-reuniao-20260927-01.md) | D7 |
     | [ ] | Identificar avaliadores e autores dos itens 13 a 21 da inspeção do Grupo 02; corrigir as fontes dos itens 16 a 18 | [Inspeção do Grupo 02](../verificacao/grupo-02/entrega-2/lista-verificacao.md) | Lista da Entrega 2 |
     | [ ] | Conferir os participantes dos vídeos da Entrega 2 | [Contribuições da Entrega 2](../perfil-de-usuario/contribuicao/contrib.md), Tabela 5 | D9, D10 |
+    | [ ] | Elaborar as listas de verificação por artefato (técnicas de coleta, perfil do usuário, persona, elenco de personas, cenários, HTA e CTT), com autor, fonte e foto em cada item | [Listas da Entrega 2](../listas-verificacao/entrega-2.md), Quadro 5 | Atividade de listas de verificação; avaliação da monitoria, itens 10 a 15 |
 
 === "Entrega 3"
 
@@ -107,8 +110,9 @@ Como usar: marque `[x]` quando a pendência for resolvida, registre a mudança n
     | [ ] | Completar a estrutura do relatório de resultados | [Planejamento DECIDE](../storyboard/planejamento/decide.md), seção 2.6 | Item 7 |
     | [ ] | Incluir referência, foto e autor do item sobre os métodos de avaliação | [Planejamento DECIDE](../storyboard/planejamento/decide.md), seção 2.3 | Item 4 |
     | [ ] | Confirmar a autoria das páginas individuais (histórico copiado da página de Henrique) | Páginas individuais, Tabela 2 | D2 |
-    | [ ] | Compromissos da Reunião 02: confirmar vídeo "não listado" (Henrique Schneider) e fundamentação e foto dos itens N6 e N7 (Gabriel Robson) | [Atas](../atas.md), Tabela 11 | D9; lista da inspeção |
+    | [ ] | Compromissos da Reunião 02: confirmar vídeo "não listado" (Henrique Schneider) e fundamentação e foto dos itens N6 e N7 (Gabriel Robson) | [Ata da Reunião 02](../atas/ata-reuniao-20261014-02.md), Tabela 6 | D9; lista da inspeção |
     | [ ] | Aplicar a lista da Entrega 4 ao próprio site (autoavaliação) | [Verificação do Grupo 03](../verificacao/grupo-03/index.md) | "Avaliar: o próprio Grupo" |
+    | [ ] | Elaborar as listas de verificação do planejamento com o DECIDE e do planejamento do resultado da avaliação | [Listas da Entrega 4](../listas-verificacao/entrega-4.md), Quadro 3 | Atividade de listas de verificação |
 
 ## 3. Próximas entregas por integrante
 
@@ -189,6 +193,8 @@ As tabelas abaixo reproduzem as tarefas do [Cronograma Planejado](../planejament
     | João Vitor | Executar avaliação do storyboard e coletar dados (15/10 – 17/10) | Storyboard próprio (Entrega 4); item de conteúdo próprio em cada entrega | Entrega 1: relatório entregue com a linha em branco |
 
     Fonte: elaborado pelos autores (2026), com base no Cronograma Planejado, nas atas e nas tabelas de contribuição.
+
+    A página de cada integrante, na aba [Integrantes](../integrantes/index.md), detalha as entregas anteriores e as próximas e lista, página a página, as contribuições ainda marcadas como **[VERIFICAR]**.
 
 ## Referências
 

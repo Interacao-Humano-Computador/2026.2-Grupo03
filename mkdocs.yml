@@ -74,13 +74,17 @@ nav:
       - Entrega 3: relatorios/entrega-3.md
       - Entrega 4: relatorios/entrega-4.md
     - Apresentações e gravações: apresentacoes.md
-    - Atas: atas.md
-
-  - Disciplina:
     - Plano de Ensino: outros/plano de ensino/plano.md
-    - Lista de Verificação (autoavaliação): outros/plano de ensino/lista.md
 
-  - "Entrega 1: Planejamento":
+  - Integrantes:
+    - Visão geral: integrantes/index.md
+    - Alexandre Vilar: integrantes/alexandre-vilar.md
+    - Eduardo Ribeiro: integrantes/eduardo-ribeiro.md
+    - Gabriel Robson: integrantes/gabriel-robson.md
+    - Henrique Schneider: integrantes/henrique-schneider.md
+    - João Vitor: integrantes/joao-vitor.md
+
+  - "Entrega 1":
     - Heatmap: planejamento/heatmap/heatmap.md
     - Sites Avaliados: planejamento/sites avaliados/sites_avaliados.md
     - Site Escolhido: planejamento/site escolhido/site_escolhido.md
@@ -89,7 +93,7 @@ nav:
     - Cronograma Planejado: planejamento/cronograma/cronograma_planejado.md
     - Cronograma Executado: planejamento/cronograma/cronograma_executado.md
 
-  - "Entrega 2: Perfil e Tarefas":
+  - "Entrega 2":
     - Perfis de Usuário e Personas: perfil-de-usuario/personas/perfisEpersonas.md
     - Cenários: perfil-de-usuario/cenarios/cenarios.md
     - Análise de Tarefas: perfil-de-usuario/analise/fluxos.md
@@ -99,14 +103,14 @@ nav:
       - Questionários: perfil-de-usuario/questionarios/questionarios.md
     - Contribuições: perfil-de-usuario/contribuicao/contrib.md
 
-  - "Entrega 3: Princípios, Metas e Guia":
+  - "Entrega 3":
     - Características da Plataforma: guia-estilo/plataforma/caracteristicas.md
     - Princípios Gerais: guia-estilo/principios/principios.md
     - Metas de Usabilidade: guia-estilo/metas/metas.md
     - Guia de Estilo: guia-estilo/guia/guia.md
     - Contribuições: guia-estilo/contribuicao/contrib.md
 
-  - "Entrega 4: Planejamento da Avaliação":
+  - "Entrega 4":
     - Planejamento da Avaliação (DECIDE): storyboard/planejamento/decide.md
     - Storyboards e cronogramas individuais:
       - Alexandre Vilar: storyboard/planejamento/Alexandre_Vilar_Valadares_Fonseca.md
@@ -116,7 +120,7 @@ nav:
       - João Vitor: storyboard/planejamento/Joao_Vitor_Tavares.md
     - Contribuições: storyboard/contribuicao/contrib.md
 
-  - "Entregas 5 a 8 e Final":
+  - "Entregas 5 a 8":
     - "Entrega 5":
       - Relato do Storyboard: storyboard/relatos/story.md
       - Relato da Análise de Tarefas: storyboard/relatos/analise.md
@@ -130,22 +134,36 @@ nav:
       - Verificação dos Artefatos: verificacao-artefatos/index.md
     - Projeto Final: projeto-final/index.md
 
-  - Verificação:
-    - Visão geral: verificacao/index.md
-    - Grupo 03 (autoavaliação):
-      - Visão geral: verificacao/grupo-03/index.md
-      - Entrega 1 (lista interna): verificacao/grupo-03/entrega-1/lista-verificacao.md
-    - Grupo 05 (Entrega 1):
-      - Visão geral: verificacao/grupo-05/index.md
-      - Inspeção da Entrega 1: verificacao/grupo-05/entrega-1/lista-verificacao.md
-    - Grupo 02 (Entrega 2):
-      - Visão geral: verificacao/grupo-02/index.md
-      - Inspeção da Entrega 2: verificacao/grupo-02/entrega-2/lista-verificacao.md
-    - Grupo 07 (Entrega 3):
-      - Visão geral: verificacao/grupo-07/index.md
-      - Inspeção da Entrega 3: verificacao/grupo-07/entrega-3/lista-verificacao.md
-    - Grupo 01 (Entrega 4):
-      - Visão geral: verificacao/grupo-01/index.md
-      - Inspeção da Entrega 4: verificacao/grupo-01/entrega-4/lista-verificacao.md
+  - Listas de Verificação:
+    - Visão geral: listas-verificacao/index.md
+    - Entrega 1:
+      - Listas do professor e do grupo: listas-verificacao/entrega-1.md
+      - Lista de conferência interna: verificacao/grupo-03/entrega-1/lista-verificacao.md
+      - Inspeção do Grupo 05: verificacao/grupo-05/entrega-1/lista-verificacao.md
+    - Entrega 2:
+      - Listas do professor, da monitoria e do grupo: listas-verificacao/entrega-2.md
+      - Inspeção do Grupo 02: verificacao/grupo-02/entrega-2/lista-verificacao.md
+    - Entrega 3:
+      - Listas do professor e do grupo: listas-verificacao/entrega-3.md
+      - Inspeção do Grupo 07: verificacao/grupo-07/entrega-3/lista-verificacao.md
+    - Entrega 4:
+      - Listas do professor e do grupo: listas-verificacao/entrega-4.md
+      - Inspeção do Grupo 01: verificacao/grupo-01/entrega-4/lista-verificacao.md
+    - Entregas 5 a 8: listas-verificacao/entregas-5-a-8.md
+    - Projeto Final: listas-verificacao/projeto-final.md
+    - Autoavaliação (Entregas 1 a 3): outros/plano de ensino/lista.md
+    - Inspeções por grupo:
+      - Visão geral: verificacao/index.md
+      - Grupo 03: verificacao/grupo-03/index.md
+      - Grupo 05: verificacao/grupo-05/index.md
+      - Grupo 02: verificacao/grupo-02/index.md
+      - Grupo 07: verificacao/grupo-07/index.md
+      - Grupo 01: verificacao/grupo-01/index.md
+
+  - Atas:
+    - Visão geral: atas/index.md
+    - "Reunião 01 – 27/09/2026": atas/ata-reuniao-20260927-01.md
+    - "Reunião 02 – 14/10/2026": atas/ata-reuniao-20261014-02.md
+    - Modelo de ata: atas/modelo.md
 
 copyright: INTERAÇÃO HUMANO COMPUTADOR | Grupo 03
