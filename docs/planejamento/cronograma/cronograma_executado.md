@@ -20,7 +20,7 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da página com as atividades realizadas nas Entregas 1 a 4, a partir dos históricos de versão, dos commits e dos relatórios entregues | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.0 | Criação da página com as atividades realizadas nas Entregas 1 a 4, a partir dos históricos de versão, dos commits e dos relatórios entregues; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -68,7 +68,7 @@ Fonte: elaborado pelos autores (2026), com base nos históricos de versão, nos 
 | Registro de questionário | Henrique Schneider | 17/09/2026 | 27/09/2026 | [Questionários](../../perfil-de-usuario/questionarios/questionarios.md), Tabela 2 |
 | Relatório da Entrega 2 (PDF) | Henrique Schneider (v1.0 e v2.0); João Vitor (v1.1) | 17/09/2026 | 27/09/2026 | [Relatório da Entrega 2](../../assets/pdfs/entregas/relatorio-entrega-2-grupo-03.pdf), p. 17 |
 | Autoavaliação (lista de verificação das Entregas 1 e 2) | Henrique Schneider | 27/09/2026 | 27/09/2026 | [Lista de Verificação](../../outros/plano%20de%20ensino/lista.md), Tabela 1 |
-| Reunião 01 (gravação e validação das contribuições) | Henrique Schneider, Alexandre Vilar e Gabriel Robson | 27/09/2026 | 27/09/2026 | [Atas](../../atas.md) |
+| Reunião 01 (gravação e validação das contribuições) | Henrique Schneider, Alexandre Vilar e Gabriel Robson | 27/09/2026 | 27/09/2026 | [Ata da Reunião 01](../../atas/ata-reuniao-20260927-01.md) |
 | Inspeção do Grupo -1 (Grupo 02) | **[VERIFICAR]** | 02/10/2026 | 02/10/2026 | [Inspeção do Grupo 02](../../verificacao/grupo-02/entrega-2/lista-verificacao.md) |
 | Eduardo Ribeiro na Entrega 2 | **[VERIFICAR]** (aparece como revisor da v1.0 de Perfis e Personas e da v2.0 de Questionários) | **[VERIFICAR]** | **[VERIFICAR]** | Históricos das páginas citadas |
 
@@ -101,7 +101,7 @@ Fonte: elaborado pelos autores (2026), com base nos históricos de versão, nos 
 | Planejamento da avaliação (DECIDE) e cronogramas individuais | Henrique Schneider, João Vitor e Alexandre Vilar (cronogramas no relatório) | **[VERIFICAR]** | 13/10/2026 | [Relatório da Entrega 4](../../assets/pdfs/entregas/relatorio-entrega-4-grupo-03.pdf), pp. 3–14 |
 | Publicação das páginas de planejamento individual | Henrique Schneider (commit) | 13/10/2026 | 13/10/2026 | [Commit 661c014](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/661c014) |
 | Lista de verificação para a inspeção do Grupo 01 | Henrique Schneider (itens N1–N3); Alexandre Vilar (N4); João Vitor (N5); Gabriel Robson (N6, N7 e v1.2) | 14/10/2026 | 14/10/2026 | [Inspeção do Grupo 01](../../verificacao/grupo-01/entrega-4/lista-verificacao.md), Tabela 1 |
-| Inspeção do Grupo -1 (Grupo 01), gravada | Henrique Schneider, Alexandre Vilar, Gabriel Robson e João Vitor | 14/10/2026 | 14/10/2026 | [Atas](../../atas.md), Reunião 02 |
+| Inspeção do Grupo -1 (Grupo 01), gravada | Henrique Schneider, Alexandre Vilar, Gabriel Robson e João Vitor | 14/10/2026 | 14/10/2026 | [Ata da Reunião 02](../../atas/ata-reuniao-20261014-02.md) |
 | Storyboards de cada integrante | **[VERIFICAR]** (não há storyboards publicados) | **[VERIFICAR]** | **[VERIFICAR]** | — |
 | Eduardo Ribeiro na Entrega 4 | **[VERIFICAR]** (sem cronograma individual no relatório e sem registro na inspeção) | **[VERIFICAR]** | **[VERIFICAR]** | — |
 

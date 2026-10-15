@@ -52,8 +52,8 @@ Fonte: elaborado pelos autores (2026), com base nos relatórios de inspeção e 
 
 | Reunião | Data | Vídeo | Integrantes na gravação |
 | --- | :---: | --- | --- |
-| [Reunião 01 – Gravação e validação das contribuições (Entregas 1 e 2)](atas.md) | 27/09/2026 | [YouTube](https://youtu.be/jhhM3LJIpgA) **[VERIFICAR: "não listado"?]** | Henrique Schneider, Alexandre Vilar e Gabriel Robson |
-| [Reunião 02 – Inspeção da Entrega 4 do Grupo 01](atas.md) | 14/10/2026 | [YouTube](https://www.youtube.com/watch?v=uZxKqHfh_zI) **[VERIFICAR: "não listado"?]** | Henrique Schneider, Alexandre Vilar, Gabriel Robson e João Vitor |
+| [Reunião 01 – Gravação e validação das contribuições (Entregas 1 e 2)](atas/ata-reuniao-20260927-01.md) | 27/09/2026 | [YouTube](https://youtu.be/jhhM3LJIpgA) **[VERIFICAR: "não listado"?]** | Henrique Schneider, Alexandre Vilar e Gabriel Robson |
+| [Reunião 02 – Inspeção da Entrega 4 do Grupo 01](atas/ata-reuniao-20261014-02.md) | 14/10/2026 | [YouTube](https://www.youtube.com/watch?v=uZxKqHfh_zI) **[VERIFICAR: "não listado"?]** | Henrique Schneider, Alexandre Vilar, Gabriel Robson e João Vitor |
 
 Fonte: elaborado pelos autores (2026), com base nas atas.
 

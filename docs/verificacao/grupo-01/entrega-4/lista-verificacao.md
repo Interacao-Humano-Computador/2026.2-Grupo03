@@ -33,7 +33,7 @@ Integrantes do grupo: Alexandre Vilar, Eduardo Ribeiro, Gabriel Robson, Henrique
 | 14/10/2026 | 1.0 | Criação da lista: itens do Plano de Ensino (Entrega 4) e 5 itens adicionais com fundamentação. | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Todos os integrantes do grupo") |
 | 14/10/2026 | 1.1 | Figuras com legenda numerada logo abaixo de cada fonte; seção de Agradecimentos com registro de ferramentas e uso de IA generativa por etapa. | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Todos os integrantes do grupo") |
 | 14/10/2026 | 1.2 | Inclusão dos itens adicionais N6 e N7 e dos autores dos itens adicionais; preenchimento das respostas, evidências (minutos da gravação da inspeção e links) e versão, data e hora da avaliação. | Gabriel Robson | **[VERIFICAR: revisor]** (registrado como "Todos os integrantes do grupo") |
-| 15/10/2026 | 1.3 | Correção do caminho das Figuras 1 a 7 (não apareciam no site publicado), legendas das figuras movidas para cima com a fonte abaixo, inclusão da tabela de contribuição e da seção de uso de IA da refatoração | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.3 | Correção do caminho das Figuras 1 a 7 (não apareciam no site publicado), legendas das figuras movidas para cima com a fonte abaixo, inclusão da tabela de contribuição e da seção de uso de IA da refatoração; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
@@ -45,7 +45,7 @@ Esta lista guia a inspeção por vídeo da Entrega 4 do Grupo -1 (Grupo 1), prev
 
 **Como usar:** para cada item, marque **Sim**, **Não** ou **Incompleto**, anote o minuto do vídeo ou a página do GitHub Pages onde o item aparece e registre versão, data e hora da avaliação. As subseções 1.1 e 1.2 reproduzem a lista sugerida no Plano de Ensino; a seção 2 traz 7 itens novos elaborados pelo grupo inspetor, com a referência de cada um.
 
-Os minutos indicados na coluna **Evidência** referem-se à gravação da reunião de inspeção realizada em 14/10/2026, das 22:38 às 23:08 (ver a [ata da reunião](../../../atas.md#reuniao-02-14102026-inspecao-da-entrega-4-do-grupo-1-grupo-1)); a coluna **Versão, data e hora** indica a versão do GitHub Pages do Grupo 01 avaliada (último commit publicado, de 13/10/2026) e o horário em que cada item começou a ser avaliado.
+Os minutos indicados na coluna **Evidência** referem-se à gravação da reunião de inspeção realizada em 14/10/2026, das 22:38 às 23:08 (ver a [ata da reunião](../../../atas/ata-reuniao-20261014-02.md)); a coluna **Versão, data e hora** indica a versão do GitHub Pages do Grupo 01 avaliada (último commit publicado, de 13/10/2026) e o horário em que cada item começou a ser avaliado.
 
 ---
 

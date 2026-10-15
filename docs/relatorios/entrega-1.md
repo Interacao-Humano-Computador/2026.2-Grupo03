@@ -23,7 +23,7 @@ Fonte: elaborado pelos autores (2026), com base no relatório entregue (Grupo 03
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 06/09/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Relatório da Etapa 1: Planejamento do Projeto") | Grupo 03 (ver seção 6 do PDF) | **[VERIFICAR: revisor]** |
-| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, transcrição da comparação dos sites preliminares, matriz de conformidade com a lista do Plano de Ensino após a refatoração, inspeção e pendências | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, transcrição da comparação dos sites preliminares, matriz de conformidade com a lista do Plano de Ensino após a refatoração, inspeção e pendências; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -112,7 +112,7 @@ A Tabela 6 aplica a lista de verificação da Entrega 1 (SALES, 2026, pp. 8–9)
 | G6 | Planejamento e avaliação dos sites selecionados | Conforme | [Sites Avaliados](../planejamento/sites%20avaliados/sites_avaliados.md) e Tabela 5 deste relatório |
 | G7 | Opção de contraste de cores | Conforme | Botão de alternância claro/escuro (`theme.palette` em `mkdocs.yml`) |
 | G8 | Artefatos do planejamento presentes | Conforme | Tabela 4 |
-| G9 | Página de atas com acesso à gravação | Conforme | [Atas](../atas.md) (não há ata das reuniões da Entrega 1) |
+| G9 | Página de atas com acesso à gravação | Conforme | [Atas](../atas/index.md) (não há ata das reuniões da Entrega 1) |
 | D1 | Histórico de versão padronizado | Conforme | Todas as páginas, Tabela "Histórico de versões" |
 | D2 | Autor(es) e revisor(es) de cada artefato | Não conforme | Revisores **[VERIFICAR]** em todas as páginas da Entrega 1 |
 | D3 | Referências em todos os artefatos | Conforme | Seção "Referências" de cada página |

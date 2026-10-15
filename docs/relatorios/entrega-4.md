@@ -21,7 +21,7 @@ Fonte: elaborado pelos autores (2026), com base no relatório entregue (Grupo 03
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 13/10/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Planejamento Entrega 4") | **[VERIFICAR: autor(es)]** (relatório assinado pelo "Grupo 03") | **[VERIFICAR: revisor]** |
-| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento DECIDE publicado em página própria, artefatos, matriz de conformidade com a lista do Plano de Ensino após a refatoração, inspeção e pendências | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento DECIDE publicado em página própria, artefatos, matriz de conformidade com a lista do Plano de Ensino após a refatoração, inspeção e pendências; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -90,7 +90,7 @@ A Tabela 6 aplica a lista da Entrega 4 (SALES, 2026, pp. 12–13) ao site, na si
 | D4 | Legendas, fontes e chamadas | Conforme | Padronizado em 15/10/2026 |
 | D5 | Introdução | Não conforme | Introduções dos autores nas páginas individuais **[VERIFICAR]** |
 | D6 | Cronograma executado | Não conforme | Datas reais **[VERIFICAR]** |
-| D7 | Atas completas | Conforme | [Reunião 02](../atas.md) (data, horários, participantes, objetivo e atividades definidas) |
+| D7 | Atas completas | Conforme | [Reunião 02](../atas/ata-reuniao-20261014-02.md) (data, horários, participantes, objetivo e atividades definidas) |
 | D8 | Gravação da reunião | Conforme | [Reunião 02](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | D9 | Vídeo de apresentação "não listado" | Não conforme | Link **[VERIFICAR]** |
 | D10 | Tabela de contribuição | Não conforme | Contribuições de Eduardo e Gabriel **[VERIFICAR]** |
@@ -113,7 +113,7 @@ Fonte: elaborado pelos autores (2026), com base em Sales (2026, pp. 12–13).
 
 ## 6. Inspeção realizada
 
-O Grupo 03 inspecionou a Entrega 4 do Grupo 01 em 14/10/2026, em reunião gravada; o registro está em [Inspeção do Grupo 01](../verificacao/grupo-01/entrega-4/lista-verificacao.md), e a ata, na [Reunião 02](../atas.md).
+O Grupo 03 inspecionou a Entrega 4 do Grupo 01 em 14/10/2026, em reunião gravada; o registro está em [Inspeção do Grupo 01](../verificacao/grupo-01/entrega-4/lista-verificacao.md), e a ata, na [Reunião 02](../atas/ata-reuniao-20261014-02.md).
 
 ## 7. Pendências
 
