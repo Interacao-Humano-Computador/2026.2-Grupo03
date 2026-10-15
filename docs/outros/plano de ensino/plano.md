@@ -1,4 +1,29 @@
-# Universidade de Brasília — Campus UnB Gama
+# Plano de Ensino – Interação Humano Computador (FGA0173), 02/2026
+
+## Histórico de versões
+
+**Tabela 1 – Histórico de versões da transcrição do Plano de Ensino**
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+| 27/09/2026 | 1.0 | Criação da página com a transcrição do Plano de Ensino (registro recuperado do commit e86c6be) | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 27/09/2026 | 1.1 | Verificações e formatações finais (registro recuperado do commit 530579c) | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.2 | Inclusão do histórico, do aviso sobre a transcrição parcial, do link para o documento oficial e da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+
+Fonte: elaborado pelos autores (2026).
+
+## Introdução
+
+Esta página reúne, para consulta rápida, as partes do Plano de Ensino mais usadas no projeto: ementa, objetivos, método, avaliação, cronograma, projeto final e bibliografia.
+
+!!! warning "Transcrição parcial"
+    Esta página é uma transcrição resumida do Plano de Ensino, feita pelo grupo para consulta rápida. O documento oficial é o [PDF do Plano de Ensino](plano.pdf). Em caso de divergência, vale o PDF.
+
+    **[VERIFICAR: divergências encontradas ao comparar com o PDF em 15/10/2026: (a) o cronograma da seção 6 omite várias linhas, como a entrega da etapa 2 (27/09), as entregas 5 a 8 (25/10, 03/11, 15/11 e 22/11) e as inspeções correspondentes; (b) a aula 2 está datada de 19/08, mas no PDF a aula 2 é de 13/08 (Verificação dos artefatos); (c) na seção 8, Barbosa e Silva (2010) aparece na bibliografia básica, mas no PDF é o item 1 da bibliografia complementar; (d) a seção 7 resume os 14 tópicos do Projeto Final em dois itens (os 14 tópicos estão na página do [Projeto Final](../../projeto-final/index.md)); (e) a seção 5 não reproduz as listas de verificação das pp. 8–13.]**
+
+## Identificação
+
+Universidade de Brasília — Campus UnB Gama
 **CURSO:** Engenharia de Software  
 **SEMESTRE/ANO:** 02/2026  
 **DISCIPLINA:** Interação Humano Computador  
@@ -131,3 +156,11 @@ A apresentação do projeto final da disciplina de IHC deve possuir os seguintes
 2. CYBIS, Walter; BETIOL, Adriana Holtz; FAUST, Richard. **Ergonomia e Usabilidade - Conhecimentos, Métodos e Aplicações**. 2. ed. São Paulo: Novatec, 2010.
 3. NIELSEN, Jakob. **Projetando Websites**. 1. ed. São Paulo: Campus, 2000.
 4. PRESSMAN, Roger S. **Engenharia de Software: uma abordagem profissional**. 8. ed. Rio de Janeiro: McGraw-Hill, 2016.
+
+## Referências
+
+SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026. Disponível em: [PDF](plano.pdf).
+
+## Agradecimentos e uso de IA generativa
+
+**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para comparar esta transcrição com o PDF do Plano de Ensino, registrar as divergências encontradas, incluir o histórico de versões (a partir dos commits) e o link para o documento oficial. O texto transcrito não foi alterado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

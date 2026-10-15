@@ -1,19 +1,27 @@
-# Entrega 1 – Planejamento do Projeto
+# Entrega 1 – Lista de conferência interna (Planejamento do Projeto)
 
-## Histórico de versões e contribuições
+## Histórico de versões
 
-| Data | Versão | Descrição | Autor | Revisor |
+**Tabela 1 – Histórico de versões da lista de conferência interna da Entrega 1**
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Criação da lista de verificação da Entrega 1. | Grupo 03 | A definir |
+| 10/09/2026 | 1.0 | Criação da lista de verificação da Entrega 1. | **[VERIFICAR: autor]** (registrado como "Grupo 03") | **[VERIFICAR: revisor]** (registrado como "A definir") |
+| 15/10/2026 | 1.1 | Inclusão do aviso de modelo não preenchido, do vínculo com a autoavaliação e da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
-## Identificação da revisão
+Fonte: elaborado pelos autores (2026).
+
+!!! note "Modelo não preenchido"
+    **[VERIFICAR: esta lista foi criada em 10/09/2026 como modelo e nunca foi preenchida. A autoavaliação da Entrega 1 com os itens do Plano de Ensino está na [Lista de Verificação](../../../outros/plano%20de%20ensino/lista.md). Preencher esta lista ou marcá-la como "Não se aplica".]**
+
+## 1. Identificação da revisão
 
 - **Responsável pela conferência:** [preencher].
 - **Data da conferência:** [dd/mm/aaaa].
 - **Versão revisada:** [preencher].
 - **Situação geral:** [Concluída/Pendente].
 
-## Lista de verificação
+## 2. Lista de verificação
 
 | Item | Critério de conferência | Situação | Observações |
 | --- | --- | --- | --- |
@@ -36,18 +44,22 @@
 | 17 | A navegação do `mkdocs.yml` aponta para arquivos existentes. | [ ] | [preencher] |
 | 18 | O comando `mkdocs build` foi executado sem erros. | [ ] | [preencher] |
 
-## Pendências encontradas
+## 3. Pendências encontradas
 
 | Pendência | Página ou item | Responsável | Prazo | Situação |
 | --- | --- | --- | --- | --- |
 | [Descrição] | [página/item] | [nome] | [data] | [Pendente/Concluída] |
 
-## Resultado da revisão
+## 4. Resultado da revisão
 
 [Descreva se a Entrega 1 está pronta para submissão e quais correções ainda precisam ser realizadas.]
 
 ## Referências
 
-GRUPO 03. **Registros de verificação da Entrega 1 – Planejamento geral**. Brasília, 2026. Documento interno.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
 
-ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023: informação e documentação: referências: elaboração**. Rio de Janeiro: ABNT, 2018.
+GRUPO 03. *Registros de verificação da Entrega 1 – Planejamento geral*. Brasília, 2026. Documento interno.
+
+## Agradecimentos e uso de IA generativa
+
+**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o histórico, numerar as seções e incluir o aviso de que a lista ainda é um modelo. Os critérios da lista não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo.

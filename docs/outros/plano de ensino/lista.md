@@ -1,19 +1,44 @@
-# Lista de Verificação do Plano de Ensino - Entregas 1 e 2
+# Lista de Verificação do Plano de Ensino – Autoavaliação das Entregas 1 a 3
 
-## Histórico de Versão
+## Tabela de contribuição
+
+**Tabela 1 – Contribuições no artefato Lista de Verificação (autoavaliação)**
+
+| Integrante | Contribuição | Atividade (link) | Gravação (link) |
+| --- | --- | --- | --- |
+| Alexandre Vilar Valadares Fonsêca | **[VERIFICAR: contribuição]** | — | — |
+| Eduardo Ribeiro Gomes da Silva | **[VERIFICAR: contribuição]** | — | — |
+| Gabriel Robson | **[VERIFICAR: contribuição]** | — | — |
+| Henrique Schneider Fernandes da Rosa | Criação da página e consolidação das listas das Entregas 1 e 2 (v1.0 e v2.0); inclusão da lista da Entrega 3 | [Commit e86c6be](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/e86c6be); [commit 60243ff](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/60243ff); [commit 54c77f2](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/54c77f2) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
+| João Vitor Tavares de Sá Lima | **[VERIFICAR: contribuição]** | — | — |
+
+Fonte: elaborado pelos autores (2026).
+
+## Histórico de versões
+
+**Tabela 2 – Histórico de versões da Lista de Verificação (autoavaliação)**
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
-| 27/09/2026 | 1.0 | Criação da página de verificação e consolidação dos checklists das Entregas 1 e 2 | Henrique Schneider | - |
-| 27/09/2026 | 2.0 | Marcação de última mudanças antes da entrega | Henrique Schneider | - |
+| 27/09/2026 | 1.0 | Criação da página de verificação e consolidação dos checklists das Entregas 1 e 2 | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "-") |
+| 27/09/2026 | 2.0 | Marcação de última mudanças antes da entrega | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "-") |
+| 06/10/2026 | 2.1 | Inclusão da tabela de verificação da Entrega 3 (registro recuperado dos commits 60243ff e 54c77f2) | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 2.2 | Padronização das legendas e do histórico, inclusão da tabela de contribuição, da introdução, de marcadores nas respostas vazias e da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
----
+Fonte: elaborado pelos autores (2026).
+
+## Introdução
+
+Esta página aplica ao próprio site do Grupo 03 as listas de verificação sugeridas no Plano de Ensino para as Entregas 1, 2 e 3 (SALES, 2026, pp. 8–12). A situação atualizada de cada item, depois da refatoração de 15/10/2026, está nos [Relatórios das Entregas](../../relatorios/index.md).
+
+!!! warning "Respostas a conferir"
+    **[VERIFICAR: algumas respostas "Sim" não têm evidência no site. Exemplos: Entrega 1, item 9 (atas com gravações) – em 27/09/2026 havia uma ata; Entrega 2, item 12 (cronograma executado) – não havia página de cronograma executado; Entrega 2, itens 7 e 8 (autores e revisores) – vários históricos tinham revisor "-", "A definir" ou "Integrantes do grupo". A coluna "Versão, data e hora da avaliação" pedida pelo Plano também não existe.]**
 
 ## 1. Tabela de Verificação: Entrega 1 (Planejamento do Projeto)
 
-A Tabela 1 apresenta a avaliação dos itens de planejamento geral do projeto (Entrega 1) conforme o plano de ensino da disciplina de Interação Humano-Computador.
+A Tabela 3 apresenta a avaliação dos itens de planejamento geral do projeto (Entrega 1) conforme o plano de ensino da disciplina de Interação Humano-Computador.
 
-<p align="center"><b>Tabela 1</b>: Lista de verificação para os artefatos da Entrega 1.</p>
+**Tabela 3 – Lista de verificação para os artefatos da Entrega 1**
 
 | Item | Pergunta de Verificação | Resposta | Justificativa / Observações |
 | :---: | :--- | :---: | :--- |
@@ -27,15 +52,14 @@ A Tabela 1 apresenta a avaliação dos itens de planejamento geral do projeto (E
 | **8** | Os artefatos principais da Entrega 1 (Planejamento, Equipe, Lista de Sites, Site Selecionado, Ferramentas, Processo de Design e Cronograma) estão presentes no menu? | **Sim** | Todos os artefatos obrigatórios mapeados e acessíveis na barra lateral. |
 | **9** | Existe uma página específica para as Atas das Reuniões com datas, pautas, participantes e links operacionais para as gravações? | **Sim** | Página de Atas e links de gravação checados e funcionais |
 
-<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
+Fonte: elaborado pelos autores (2026).
 
----
 
 ## 2. Tabela de Verificação: Entrega 2 (Perfil do Usuário, Aspectos Éticos e Análise de Tarefas)
 
-A Tabela 2 sintetiza a avaliação dos itens de conteúdo teórico e de desenvolvimento normativo referentes à Entrega 2.
+A Tabela 4 sintetiza a avaliação dos itens de conteúdo teórico e de desenvolvimento normativo referentes à Entrega 2.
 
-<p align="center"><b>Tabela 2</b>: Lista de verificação para os artefatos da Entrega 2.</p>
+**Tabela 4 – Lista de verificação para os artefatos da Entrega 2**
 
 | Item | Pergunta de Verificação | Resposta | Justificativa / Ação Corretiva Necessária |
 | :---: | :--- | :---: | :--- |
@@ -53,34 +77,41 @@ A Tabela 2 sintetiza a avaliação dos itens de conteúdo teórico e de desenvol
 | **12** | O Cronograma Executado da Entrega 2 apresenta quem realizou cada tarefa com as datas reais de início e término? | **Sim** | Cronograma executado preenchido com as datas reais de término e responsáveis pelas tarefas. |
 | **13** | O Github Pages contém os Cenários? | **Não** | Aba de cenários recém adicionada | 
 
-<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
+Fonte: elaborado pelos autores (2026).
 
----
 
 ## 3. Tabela de Verificação: Entrega 3 (Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo)
 
-<p align="center"><b>Tabela 3</b>: Lista de verificação para os artefatos da Entrega 3.</p>
+A Tabela 5 apresenta a avaliação dos itens da Entrega 3.
+
+**Tabela 5 – Lista de verificação para os artefatos da Entrega 3**
 
 | Item | Pergunta de Verificação | Resposta | Justificativa / Ação Corretiva Necessária |
 | :---: | :--- | :---: | :--- |
-| **1** | O GitHub Pages possui todos os 10 itens do Desenvolvimento do projeto avaliados para o próprio grupo e para o grupo +1? | | |
-| **2** | O documento descreve as características da plataforma para o projeto? (Item 10) | | |
-| **3** | Os Princípios Gerais do Projeto que serão utilizados estão definidos, contendo a referência bibliográfica da fonte, a foto do texto original e o nome do autor do item? (Item 11) | **Sim** | |
-| **4** | Os Princípios Gerais do Projeto contemplam os 8 tópicos exigidos (1- correspondência com expectativas; 2- simplicidade; 3- equilíbrio entre controle e liberdade; 4- consistência e padronização; 5- antecipação; 6- visibilidade e reconhecimento; 7- conteúdo adequado; 8- projeto para erros), com referência bibliográfica, foto do texto e autor do item? (Item 12) | **Sim** | |
-| **5** | As metas de usabilidade que devem ser alcançadas ou os objetivos de uma avaliação de IHC estão estabelecidos, acompanhados de referência bibliográfica, foto do texto original e autor do item? (Item 13) | | |
-| **6** | A razão da seleção das metas de usabilidade está devidamente justificada? (Item 14) | | |
-| **7** | O Guia de Estilo do projeto está presente, contendo referência bibliográfica da fonte explicando o que é um guia de estilo, a foto do texto e o autor do item? (Item 15) | | |
-| **8** | O Guia de Estilo possui a estrutura completa exigida (1. Introdução; 2. Resultados de análise; 3. Elementos de interface; 4. Elementos de interação; 5. Elementos de ação; 6. Vocabulário e padrões), com referência bibliográfica da fonte, foto do texto e autor do item? (Item 16) | | |
-| **9** | O Guia de Estilo desenvolvido corresponde efetivamente ao site avaliado no projeto? (Item 17) | | |
-| **10** | Cada integrante da equipe elaborou ao menos 1 (um) item de conteúdo da disciplina com a devida referência bibliográfica da fonte e foto do texto da referência? | | |
+| **1** | O GitHub Pages possui todos os 10 itens do Desenvolvimento do projeto avaliados para o próprio grupo e para o grupo +1? | **[VERIFICAR]** | **[VERIFICAR]** |
+| **2** | O documento descreve as características da plataforma para o projeto? (Item 10) | **[VERIFICAR]** | **[VERIFICAR]** |
+| **3** | Os Princípios Gerais do Projeto que serão utilizados estão definidos, contendo a referência bibliográfica da fonte, a foto do texto original e o nome do autor do item? (Item 11) | **Sim** | **[VERIFICAR: justificativa]** |
+| **4** | Os Princípios Gerais do Projeto contemplam os 8 tópicos exigidos (1- correspondência com expectativas; 2- simplicidade; 3- equilíbrio entre controle e liberdade; 4- consistência e padronização; 5- antecipação; 6- visibilidade e reconhecimento; 7- conteúdo adequado; 8- projeto para erros), com referência bibliográfica, foto do texto e autor do item? (Item 12) | **Sim** | **[VERIFICAR: justificativa]** |
+| **5** | As metas de usabilidade que devem ser alcançadas ou os objetivos de uma avaliação de IHC estão estabelecidos, acompanhados de referência bibliográfica, foto do texto original e autor do item? (Item 13) | **[VERIFICAR]** | **[VERIFICAR]** |
+| **6** | A razão da seleção das metas de usabilidade está devidamente justificada? (Item 14) | **[VERIFICAR]** | **[VERIFICAR]** |
+| **7** | O Guia de Estilo do projeto está presente, contendo referência bibliográfica da fonte explicando o que é um guia de estilo, a foto do texto e o autor do item? (Item 15) | **[VERIFICAR]** | **[VERIFICAR]** |
+| **8** | O Guia de Estilo possui a estrutura completa exigida (1. Introdução; 2. Resultados de análise; 3. Elementos de interface; 4. Elementos de interação; 5. Elementos de ação; 6. Vocabulário e padrões), com referência bibliográfica da fonte, foto do texto e autor do item? (Item 16) | **[VERIFICAR]** | **[VERIFICAR]** |
+| **9** | O Guia de Estilo desenvolvido corresponde efetivamente ao site avaliado no projeto? (Item 17) | **[VERIFICAR]** | **[VERIFICAR]** |
+| **10** | Cada integrante da equipe elaborou ao menos 1 (um) item de conteúdo da disciplina com a devida referência bibliográfica da fonte e foto do texto da referência? | **[VERIFICAR]** | **[VERIFICAR]** |
 
-<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
+Fonte: elaborado pelos autores (2026).
 
----
 
-## Bibliografia
+## Referências
 
-* ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023**: informação e documentação – referência – elaboração. Rio de Janeiro: ABNT, 2025.
-* ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 10520**: informação e documentação – citações em documentos – apresentação. Rio de Janeiro: ABNT, 2023.
-* BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
-* SALES, André Barros de. **Plano de Ensino da Disciplina de Interação Humano-Computador**. Faculdade UnB Gama (FGA), Universidade de Brasília, 2026.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2025.
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 10520*: informação e documentação: citações em documentos: apresentação. Rio de Janeiro: ABNT, 2023.
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
+
+SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
+
+## Agradecimentos e uso de IA generativa
+
+**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar legendas, histórico e referências, incluir a tabela de contribuição, a introdução, o aviso sobre respostas sem evidência e marcadores nas células vazias da Entrega 3. As perguntas e as respostas registradas pelo grupo não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

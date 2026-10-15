@@ -8,21 +8,38 @@ Integrantes do grupo: Alexandre Vilar, Eduardo Ribeiro, Gabriel Robson, Henrique
 
 ---
 
+## Tabela de contribuição
+
+<p align="center"><b>Tabela 1</b> – Contribuições no artefato Inspeção do Grupo -1 (Grupo 01).</p>
+
+| Integrante | Contribuição | Atividade (link) | Gravação (link) |
+| :--- | :--- | :--- | :--- |
+| Alexandre Vilar Valadares Fonsêca | Autoria do item adicional N4; apoio na localização das evidências | [Item N4](#2-itens-adicionais-do-grupo-inspetor-7-itens) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+| Eduardo Ribeiro Gomes da Silva | **[VERIFICAR: contribuição]** (não identificado na gravação, segundo a ata da Reunião 02) | — | — |
+| Gabriel Robson | Autoria dos itens adicionais N6 e N7; preenchimento das respostas, evidências e horários (v1.2) | [Itens N6 e N7](#2-itens-adicionais-do-grupo-inspetor-7-itens) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+| Henrique Schneider Fernandes da Rosa | Criação da lista e autoria dos itens N1 a N3 (v1.0 e v1.1); condução da inspeção | [Commit 2a95590](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/2a95590) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+| João Vitor Tavares de Sá Lima | Autoria do item adicional N5; apoio na localização das evidências | [Item N5](#2-itens-adicionais-do-grupo-inspetor-7-itens) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+
+<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026), com base na ata da Reunião 02.</p>
+
+---
+
 ## Histórico de Versões
 
-<p align="center"><b>Tabela 1</b> – Histórico de Versões do Documento de Inspeção do Grupo -1.</p>
+<p align="center"><b>Tabela 2</b> – Histórico de Versões do Documento de Inspeção do Grupo -1.</p>
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
-| 14/10/2026 | 1.0 | Criação da lista: itens do Plano de Ensino (Entrega 4) e 5 itens adicionais com fundamentação. | Henrique Schneider | Todos os integrantes do grupo |
-| 14/10/2026 | 1.1 | Figuras com legenda numerada logo abaixo de cada fonte; seção de Agradecimentos com registro de ferramentas e uso de IA generativa por etapa. | Henrique Schneider | Todos os integrantes do grupo |
-| 14/10/2026 | 1.2 | Inclusão dos itens adicionais N6 e N7 e dos autores dos itens adicionais; preenchimento das respostas, evidências (minutos da gravação da inspeção e links) e versão, data e hora da avaliação. | Gabriel Robson | Todos os integrantes do grupo |
+| 14/10/2026 | 1.0 | Criação da lista: itens do Plano de Ensino (Entrega 4) e 5 itens adicionais com fundamentação. | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Todos os integrantes do grupo") |
+| 14/10/2026 | 1.1 | Figuras com legenda numerada logo abaixo de cada fonte; seção de Agradecimentos com registro de ferramentas e uso de IA generativa por etapa. | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Todos os integrantes do grupo") |
+| 14/10/2026 | 1.2 | Inclusão dos itens adicionais N6 e N7 e dos autores dos itens adicionais; preenchimento das respostas, evidências (minutos da gravação da inspeção e links) e versão, data e hora da avaliação. | Gabriel Robson | **[VERIFICAR: revisor]** (registrado como "Todos os integrantes do grupo") |
+| 15/10/2026 | 1.3 | Correção do caminho das Figuras 1 a 7 (não apareciam no site publicado), legendas das figuras movidas para cima com a fonte abaixo, inclusão da tabela de contribuição e da seção de uso de IA da refatoração | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
 ---
 
-## Contexto
+## Introdução (contexto)
 
 Esta lista guia a inspeção por vídeo da Entrega 4 do Grupo -1 (Grupo 1), prevista no cronograma para 14/10/2026. A Entrega 4 cobre o Planejamento da Avaliação do Storyboard e da Análise de Tarefas e o planejamento do relato dos resultados de ambas (Plano de Ensino FIHC 02/2026, Cronograma, aulas 15 e 19).
 
@@ -41,7 +58,7 @@ Os itens abaixo reproduzem a lista sugerida para a apresentação 4 no Plano de 
 Avaliar: o próprio grupo e o Grupo -1 (Grupo 1).
 URL GitHub Pages Grupo 1: <https://interacao-humano-computador.github.io/2026.2-Grupo01/>
 
-<p align="center"><b>Tabela 2</b> – Itens do desenvolvimento do projeto.</p>
+<p align="center"><b>Tabela 3</b> – Itens do desenvolvimento do projeto.</p>
 
 | # | Questão — O GitHub Pages possui: | Resposta (Sim / Não / Incompleto) | Evidência (minuto do vídeo ou link) | Versão, data e hora da avaliação |
 | :---: | :--- | :---: | :--- | :--- |
@@ -63,7 +80,7 @@ URL GitHub Pages Grupo 1: <https://interacao-humano-computador.github.io/2026.2-
 
 Avaliar: o próprio grupo e o Grupo -1 (Grupo 1). A numeração segue o Plano de Ensino, que começa no item 2 desta entrega.
 
-<p align="center"><b>Tabela 3</b> – Itens do conteúdo da disciplina.</p>
+<p align="center"><b>Tabela 4</b> – Itens do conteúdo da disciplina.</p>
 
 | # | Questão — O GitHub Pages possui: | Resposta (Sim / Não / Incompleto) | Evidência (minuto do vídeo ou link) | Versão, data e hora da avaliação |
 | :---: | :--- | :---: | :--- | :--- |
@@ -95,7 +112,7 @@ Os 7 itens abaixo complementam a lista oficial com critérios adicionais. Cobrem
 * Autor do item N5: João Vitor.
 * Autor dos itens N6 e N7: Gabriel Robson.
 
-<p align="center"><b>Tabela 4</b> – Itens adicionais do grupo inspetor.</p>
+<p align="center"><b>Tabela 5</b> – Itens adicionais do grupo inspetor.</p>
 
 | # | Questão — O GitHub Pages possui: | Fonte | Resposta (Sim / Não / Incompleto) | Evidência (minuto do vídeo ou link) | Versão, data e hora da avaliação | Autor do Item |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
@@ -113,51 +130,65 @@ Os 7 itens abaixo complementam a lista oficial com critérios adicionais. Cobrem
 
 **N1 — Elementos de um storyboard.** O slide "Storyboards Should Convey" (vídeo "storyboards.mp4", Scott Klemmer, hci-class.org, aprox. 4:00–5:05) lista: "Setting – People involved, Environment, Task being accomplished"; "Sequence – What steps are involved? What leads someone to use the app? What task is being illustrated?"; "Satisfaction – What motivates people to use this system? What does it enable people to accomplish? What need does the system fill?". Logo depois (aprox. 5:10), o slide "Benefits of Storyboarding" afirma que o storyboard "Helps get all the stakeholders on the same page in terms of the goal".
 
-<p align="center"><img src="docs/verificacao/grupo-01/entrega-4/imagens/figura-1-klemmer-storyboards-should-convey.png" alt="Slide Storyboards Should Convey" width="600"></p>
+<p align="center" id="figura-1"><b>Figura 1</b> — Slide "Storyboards Should Convey", que lista o que um storyboard deve comunicar: Setting (cenário), Sequence (sequência) e Satisfaction (satisfação).</p>
 
-<p align="center" id="figura-1"><i><b>Figura 1</b> — Slide "Storyboards Should Convey", que lista o que um storyboard deve comunicar: Setting (cenário), Sequence (sequência) e Satisfaction (satisfação). Fonte: Klemmer, vídeo "storyboards.mp4", 4:50.</i></p>
+<p align="center"><img src="../imagens/figura-1-klemmer-storyboards-should-convey.png" alt="Figura 1: Slide “Storyboards Should Convey”, que lista o que um storyboard deve comunicar: Setting (cenário), Sequence (sequência) e Satisfaction (satisfação)" width="600"></p>
 
-<p align="center"><img src="imagens/figura-2-klemmer-benefits-of-storyboarding.png" alt="Slide Benefits of Storyboarding" width="600"></p>
+<p align="center">Fonte: Klemmer, vídeo "storyboards.mp4", 4:50.</p>
 
-<p align="center" id="figura-2"><i><b>Figura 2</b> — Slide "Benefits of Storyboarding", com os benefícios do storyboard, entre eles alinhar todos os interessados quanto ao objetivo. Fonte: Klemmer, vídeo "storyboards.mp4", 5:15.</i></p>
+<p align="center" id="figura-2"><b>Figura 2</b> — Slide "Benefits of Storyboarding", com os benefícios do storyboard, entre eles alinhar todos os interessados quanto ao objetivo.</p>
+
+<p align="center"><img src="../imagens/figura-2-klemmer-benefits-of-storyboarding.png" alt="Figura 2: Slide “Benefits of Storyboarding”, com os benefícios do storyboard, entre eles alinhar todos os interessados quanto ao objetivo" width="600"></p>
+
+<p align="center">Fonte: Klemmer, vídeo "storyboards.mp4", 5:15.</p>
 
 **N2 — Avaliação formativa.** "Diversos artefatos que representam partes de uma solução de IHC podem servir de insumo para uma avaliação formativa, tais como: cenários de uso, esboços de tela, storyboards, modelagem da interação e protótipos do sistema […]" (Barbosa e Silva, 2010, cap. 9, seç. 9.3, p. 294, 2º parágrafo). "No planejamento da avaliação, o avaliador deve identificar em que momento no processo de desenvolvimento a avaliação será realizada." (idem, 4º parágrafo).
 
-<p align="center"><img src="imagens/figura-3-barbosa-silva-2010-p294.png" alt="Barbosa e Silva (2010), p. 294" width="500"></p>
+<p align="center" id="figura-3"><b>Figura 3</b> — Seção 9.3, que define avaliação formativa e cita storyboards como insumo dela.</p>
 
-<p align="center" id="figura-3"><i><b>Figura 3</b> — Seção 9.3, que define avaliação formativa e cita storyboards como insumo dela. Fonte: Barbosa e Silva (2010), cap. 9, p. 294.</i></p>
+<p align="center"><img src="../imagens/figura-3-barbosa-silva-2010-p294.png" alt="Figura 3: Seção 9.3, que define avaliação formativa e cita storyboards como insumo dela" width="500"></p>
+
+<p align="center">Fonte: Barbosa e Silva (2010), cap. 9, p. 294.</p>
 
 **N3 — Perguntas por objetivo (DECIDE).** "Para cada objetivo definido, o avaliador deve elaborar perguntas específicas a serem respondidas durante [a] avaliação. Essas perguntas são responsáveis por operacionalizar a investigação e o julgamento de valor a serem realizados. Elas devem considerar o perfil dos usuários-alvo e suas atividades." (Barbosa e Silva, 2010, cap. 9, seç. 9.8, p. 313, atividade "E").
 
-<p align="center"><img src="imagens/figura-4-barbosa-silva-2010-p313.png" alt="Barbosa e Silva (2010), p. 313" width="500"></p>
+<p align="center" id="figura-4"><b>Figura 4</b> — Atividades do framework DECIDE, com destaque para a atividade "E – Explorar perguntas".</p>
 
-<p align="center" id="figura-4"><i><b>Figura 4</b> — Atividades do framework DECIDE, com destaque para a atividade "E – Explorar perguntas". Fonte: Barbosa e Silva (2010), cap. 9, seç. 9.8, p. 313.</i></p>
+<p align="center"><img src="../imagens/figura-4-barbosa-silva-2010-p313.png" alt="Figura 4: Atividades do framework DECIDE, com destaque para a atividade “E – Explorar perguntas”" width="500"></p>
+
+<p align="center">Fonte: Barbosa e Silva (2010), cap. 9, seç. 9.8, p. 313.</p>
 
 **N4 — Material de apoio e duração das tarefas.** O material "costuma incluir: termo de consentimento […]; questionário pré-teste (ou roteiro de entrevista estruturada) […]; roteiro de entrevista pós-teste […]; instruções e cenários para orientar os participantes sobre as tarefas a serem realizadas; roteiro de acompanhamento da observação […]" (Barbosa e Silva, 2010, cap. 9, seç. 9.7.2, p. 306, 1º parágrafo). "O tempo estimado para um participante realizar cada tarefa não deveria ultrapassar 20 minutos." (idem, 2º parágrafo).
 
-<p align="center"><img src="imagens/figura-5-barbosa-silva-2010-p306.png" alt="Barbosa e Silva (2010), p. 306" width="500"></p>
+<p align="center" id="figura-5"><b>Figura 5</b> — Lista do material de apoio de uma avaliação com participantes e limite de 20 minutos por tarefa.</p>
 
-<p align="center" id="figura-5"><i><b>Figura 5</b> — Lista do material de apoio de uma avaliação com participantes e limite de 20 minutos por tarefa. Fonte: Barbosa e Silva (2010), cap. 9, seç. 9.7.2, p. 306.</i></p>
+<p align="center"><img src="../imagens/figura-5-barbosa-silva-2010-p306.png" alt="Figura 5: Lista do material de apoio de uma avaliação com participantes e limite de 20 minutos por tarefa" width="500"></p>
+
+<p align="center">Fonte: Barbosa e Silva (2010), cap. 9, seç. 9.7.2, p. 306.</p>
 
 **N5 — Consolidação e relato.** "[…] os resultados individuais são consolidados e analisados em conjunto, em uma análise denominada de intersujeito ou interparticipante […]. Nessa atividade, os avaliadores buscam recorrências nos resultados de acordo com o método selecionado." (Barbosa e Silva, 2010, cap. 9, seç. 9.7.5, p. 311, 1º parágrafo). Os resultados consolidados "costumam incluir: […] um sumário dos dados coletados, incluindo tabelas e gráficos; um relato da interpretação e análise dos dados; uma lista dos problemas encontrados; um planejamento para o reprojeto do sistema." (idem, p. 312, último parágrafo).
 
-<p align="center"><img src="verificacao/grupo-01/entrega-4/imagens/figura-6-barbosa-silva-2010-p311.png" alt="Barbosa e Silva (2010), p. 311" width="500"></p>
+<p align="center" id="figura-6"><b>Figura 6</b> — Início da seção 9.7.5, que descreve a análise intersujeito na consolidação dos resultados.</p>
 
-<p align="center" id="figura-6"><i><b>Figura 6</b> — Início da seção 9.7.5, que descreve a análise intersujeito na consolidação dos resultados. Fonte: Barbosa e Silva (2010), cap. 9, p. 311.</i></p>
+<p align="center"><img src="../imagens/figura-6-barbosa-silva-2010-p311.png" alt="Figura 6: Início da seção 9.7.5, que descreve a análise intersujeito na consolidação dos resultados" width="500"></p>
 
-<p align="center"><img src="imagens/figura-7-barbosa-silva-2010-p312.png" alt="Barbosa e Silva (2010), p. 312" width="500"></p>
+<p align="center">Fonte: Barbosa e Silva (2010), cap. 9, p. 311.</p>
 
-<p align="center" id="figura-7"><i><b>Figura 7</b> — Itens que o relato dos resultados consolidados costuma incluir, terminando no planejamento para o reprojeto. Fonte: Barbosa e Silva (2010), cap. 9, p. 312.</i></p>
+<p align="center" id="figura-7"><b>Figura 7</b> — Itens que o relato dos resultados consolidados costuma incluir, terminando no planejamento para o reprojeto.</p>
+
+<p align="center"><img src="../imagens/figura-7-barbosa-silva-2010-p312.png" alt="Figura 7: Itens que o relato dos resultados consolidados costuma incluir, terminando no planejamento para o reprojeto" width="500"></p>
+
+<p align="center">Fonte: Barbosa e Silva (2010), cap. 9, p. 312.</p>
 
 ---
 
-## Agradecimentos
+## Agradecimentos e uso de IA generativa
 
 Agradecemos ao Prof. Dr. André Barros de Sales, docente da disciplina Interação Humano Computador (FGA0173, UnB – Faculdade do Gama, 02/2026), pela orientação do projeto e pela lista de verificação do Plano de Ensino que serviu de base para este documento.
 
 ### Registro de ferramentas utilizadas
 
-<p align="center"><b>Tabela 5</b> – Registro de ferramentas utilizadas.</p>
+<p align="center"><b>Tabela 6</b> – Registro de ferramentas utilizadas.</p>
 
 | Ferramenta | Tipo | Uso no projeto |
 | :--- | :--- | :--- |
@@ -173,7 +204,7 @@ Agradecemos ao Prof. Dr. André Barros de Sales, docente da disciplina Interaç�
 
 A IA generativa foi usada exclusivamente como auxílio, conforme o Código de Conduta da SBC citado no Plano de Ensino (p. 3). Todo o conteúdo foi conferido pelo autor, que permanece responsável por ele.
 
-<p align="center"><b>Tabela 6</b> – Uso de IA generativa por etapa.</p>
+<p align="center"><b>Tabela 7</b> – Uso de IA generativa por etapa.</p>
 
 | Etapa | Ferramenta de IA | Auxílio prestado | Verificação humana |
 | :--- | :--- | :--- | :--- |
@@ -184,6 +215,10 @@ A IA generativa foi usada exclusivamente como auxílio, conforme o Código de Co
 | 5. Formatação do documento e das figuras | Claude | Organização das tabelas, figuras e legendas | Revisão final do documento |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
+
+### Uso de IA generativa na refatoração de 15/10/2026
+
+O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para corrigir o caminho das Figuras 1 a 7, que não apareciam no site publicado (o HTML usava caminhos relativos ao arquivo, e não à URL da página), mover as legendas das figuras para cima (com a fonte abaixo, como pede a ABNT), incluir a tabela de contribuição e renumerar as tabelas. Itens, respostas, evidências e fundamentações não foram alterados.
 
 ---
 
