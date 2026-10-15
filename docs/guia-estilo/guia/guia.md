@@ -1,12 +1,40 @@
 # Guia de Estilo do Detran-DF
 
+## Tabela de contribuição
+
+**Tabela 1 – Contribuições no artefato Guia de Estilo**
+
+| Integrante | Contribuição | Atividade (link) | Gravação (link) |
+| --- | --- | --- | --- |
+| Alexandre Vilar Valadares Fonsêca | **[VERIFICAR: contribuição]** (o cronograma da Entrega 1, seção 4.5, atribuía a Alexandre a elaboração do guia de estilo) | — | — |
+| Eduardo Ribeiro Gomes da Silva | **[VERIFICAR: contribuição]** | — | — |
+| Gabriel Robson | Elaboração do guia de reprojeto: estrutura teórica, padrões, rastreabilidade e critérios de validação (v1.1) | [Commit 3687d52](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/3687d52) | — |
+| Henrique Schneider Fernandes da Rosa | Criação do documento (v1.0) | [Commit d803534](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d803534) | — |
+| João Vitor Tavares de Sá Lima | **[VERIFICAR: contribuição]** | — | — |
+
+Fonte: elaborado pelos autores (2026).
+
+## Histórico de versões
+
+**Tabela 2 – Histórico de versões do artefato Guia de Estilo**
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+| 06/10/2026 | 1.0 | Criação do documento | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Integrantes do grupo") |
+| 06/10/2026 | 1.1 | Elaboração do guia de reprojeto: estrutura teórica, padrões, rastreabilidade e critérios de validação | Gabriel Robson, com apoio do ChatGPT na elaboração e conferência documental | **[VERIFICAR: revisor]** (registrado como "Revisão humana pendente") |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição e histórico no início), inclusão de legendas, fontes e chamadas nas Tabelas 3 a 11, do autor do item, da referência ABNT padronizada e reunião das declarações de uso de IA em uma seção final | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+
+Fonte: elaborado pelos autores (2026).
+
 ## 1. Introdução
 
 ### 1.1 Objetivo do guia de estilo
 
 Este guia registra as decisões de interface propostas pelo Grupo 03 para o **reprojeto acadêmico do site do Detran-DF**. Seu objetivo é manter consistência visual, facilitar a localização dos serviços e orientar a criação e a manutenção dos protótipos.
 
-Conforme Barbosa e Silva (2010, seção 8.4, p. 282–284), o guia reúne decisões de design e funciona como instrumento de comunicação entre as equipes. A organização abaixo acompanha a estrutura apresentada pelos autores a partir de Marcus (1992) e Mayhew (1999).
+Conforme Barbosa e Silva (2010, cap. 8, seç. 8.4, p. 282–284), o guia reúne decisões de design e funciona como instrumento de comunicação entre as equipes. A organização abaixo acompanha a estrutura apresentada pelos autores a partir de Marcus (1992) e Mayhew (1999).
+
+**Autor do item:** Gabriel Robson (v1.1 do histórico). **[VERIFICAR: foto da p. 283 de Barbosa e Silva (2010) com a estrutura do guia de estilo, salva em `docs/assets/referencias/barbosa-silva-2010-p283.png` (itens 15 e 16 da Entrega 3)]**
 
 !!! info "Escopo e evidências"
     Este é um guia de produto específico elaborado para o projeto acadêmico, e não um manual oficial do Detran-DF. Os valores de cores, fontes, espaçamentos e componentes abaixo são **decisões propostas**, não medições do CSS do site atual. Em 06/10/2026, não foi possível concluir a inspeção visual ao vivo de `www.detran.df.gov.br` por tempo limite de acesso. O catálogo público indexado do Portal de Serviços foi consultado para contextualizar categorias e nomes de serviços; ele não comprova o comportamento atual dos formulários.
@@ -33,11 +61,17 @@ Atualizar este arquivo por commit e revisão no repositório. Cada alteração d
 
 O projeto descreve condutores, candidatos à habilitação e profissionais do órgão. Os [perfis e personas](../../perfil-de-usuario/personas/perfisEpersonas.md) informam que os personagens e seus contextos são hipóteses de trabalho, ainda dependentes de validação com usuários. Portanto, as necessidades abaixo orientam o reprojeto sem serem apresentadas como resultados comprovados de pesquisa.
 
+A Tabela 3 resume as necessidades de interface de cada perfil.
+
+**Tabela 3 – Necessidades de interface por perfil de usuário**
+
 | Perfil | Contexto previsto | Necessidade de interface |
 | :--- | :--- | :--- |
 | Condutor | Celular, dados móveis e pouco tempo disponível | Consulta direta, resultado resumido e retomada fácil |
 | Candidato à habilitação | Celular e notebook; pouca familiaridade com procedimentos | Explicação das siglas, requisitos e próximo passo |
 | Servidor ou agente | Equipamento corporativo e interrupções durante o trabalho | Revisão dos dados, estado do envio e prevenção de duplicidades |
+
+Fonte: elaborado pelos autores (2026).
 
 O escopo principal é o **portal público institucional**. Telas de trabalho interno não foram inspecionadas e não são descritas como se integrassem o site público. Seus padrões poderão ser adaptados em uma etapa específica.
 
@@ -49,6 +83,10 @@ A [análise de tarefas](../../perfil-de-usuario/analise/fluxos.md) orienta os fl
 
 **Proposta de layout:** cabeçalho institucional, navegação principal, título e caminho de navegação, conteúdo e rodapé. A página inicial deve priorizar acesso aos serviços e busca; notícias ficam em uma seção própria.
 
+A Tabela 4 lista os padrões propostos de disposição espacial e grid.
+
+**Tabela 4 – Padrões propostos de disposição espacial e grid**
+
 | Propriedade | Padrão proposto |
 | :--- | :--- |
 | Largura do conteúdo | Até 1200 px, centralizado |
@@ -58,6 +96,8 @@ A [análise de tarefas](../../perfil-de-usuario/analise/fluxos.md) orienta os fl
 | Espaçamento | Escala de 4, 8, 16, 24, 32 e 48 px |
 | Cards de serviço | 1 por linha no celular; 2 no tablet; até 3 no desktop |
 | Formulário | Uma coluna; largura de leitura de até 640 px |
+
+Fonte: elaborado pelos autores (2026).
 
 A navegação móvel deve abrir por um botão com nome acessível e indicação de expandido/recolhido. Evitar rolagem horizontal da página a 320 px de largura; tabelas extensas podem ter uma região própria de rolagem identificada. Não deslocar o foco ao adaptar o layout.
 
@@ -71,6 +111,10 @@ Usar diálogo modal somente quando uma decisão exige atenção imediata. O diá
 
 A família proposta é `Arial, Helvetica, sans-serif`, escolhida por disponibilidade e leitura sem carregamento de fontes externas. Não representa uma identificação da fonte atualmente usada pelo órgão.
 
+A Tabela 5 apresenta a escala tipográfica proposta.
+
+**Tabela 5 – Escala tipográfica proposta**
+
 | Elemento | Tamanho proposto | Peso / uso |
 | :--- | :--- | :--- |
 | Título da página (H1) | 32 px; 28 px no celular | 700; um título principal |
@@ -78,6 +122,8 @@ A família proposta é `Arial, Helvetica, sans-serif`, escolhida por disponibili
 | Subtítulo (H3) | 20 px | 700 |
 | Texto, campos e botões | 16 px | 400; botões 700 |
 | Ajuda e legenda | 14 px | 400; nunca para a informação principal |
+
+Fonte: elaborado pelos autores (2026).
 
 Usar entrelinha de 1,5, alinhamento à esquerda e parágrafos curtos. Evitar texto justificado, longas frases em caixa alta e informação essencial em imagens. Preservar leitura com ampliação de texto de 200%.
 
@@ -91,6 +137,10 @@ Usar ícones da mesma família visual: traços simples, tamanho de 24 px e espes
 
 A paleta é uma proposta para o protótipo. A equipe deverá confrontá-la com a identidade institucional antes de uma implementação oficial.
 
+A Tabela 6 apresenta a paleta de cores proposta.
+
+**Tabela 6 – Paleta de cores proposta para o protótipo**
+
 | Token | Cor | Aplicação |
 | :--- | :--- | :--- |
 | Primária | `#005A9C` | Botões principais e links |
@@ -103,6 +153,8 @@ A paleta é uma proposta para o protótipo. A equipe deverá confrontá-la com a
 | Sucesso | `#166534` | Confirmação acompanhada de texto |
 | Erro | `#B91C1C` | Mensagem e identificação do campo |
 | Atenção | `#92400E` | Avisos acompanhados de texto |
+
+Fonte: elaborado pelos autores (2026).
 
 Botões primários usam texto branco. Links em conteúdo são sublinhados. O foco usa contorno azul de 3 px com separação clara do controle; em fundo azul, usar contorno branco contrastante. A cor não é o único meio de diferenciar estados.
 
@@ -124,6 +176,10 @@ Usar menus e cards para escolher serviços; formulários para informar dados; li
 
 ### 4.2 Seleção de um estilo
 
+A Tabela 7 indica o componente adequado a cada situação.
+
+**Tabela 7 – Componente indicado por situação de seleção**
+
 | Situação | Componente e regra |
 | :--- | :--- |
 | Escolher serviço | Card ou link com nome da tarefa |
@@ -132,6 +188,8 @@ Usar menus e cards para escolher serviços; formulários para informar dados; li
 | Escolher entre muitas opções | Lista com busca ou select acessível |
 | Executar ação | Botão com verbo e objeto |
 | Navegar a outro conteúdo | Link descritivo |
+
+Fonte: elaborado pelos autores (2026).
 
 Elementos interativos devem apresentar estados normal, hover, foco, pressionado e, quando pertinente, indisponível. Explicar por que uma ação está indisponível; não deixar o usuário interpretar apenas um botão cinza.
 
@@ -145,12 +203,18 @@ A navegação deve funcionar com `Tab` e `Shift+Tab`; botões com `Enter` ou `Es
 
 Rótulos devem permanecer visíveis acima do campo. Informar obrigatoriedade em texto e explicar formato antes do preenchimento. Placeholder não substitui rótulo. Usar máscaras somente quando necessárias, permitindo colar e corrigir dados sem bloquear formatos válidos. Não inventar os requisitos administrativos de um serviço: eles devem ser conferidos na fonte oficial de cada fluxo.
 
+A Tabela 8 traz orientações para campos de exemplo.
+
+**Tabela 8 – Orientações propostas para campos de exemplo**
+
 | Campo de exemplo | Orientação proposta |
 | :--- | :--- |
 | Placa | “Informe a placa do veículo”; aceitar formatos oficialmente aplicáveis |
 | Renavam | “Informe o Renavam indicado no documento do veículo” |
 | Data de atendimento | Exibir datas disponíveis e permitir escolha por teclado |
 | Serviço | Usar nome completo e explicar siglas na primeira ocorrência |
+
+Fonte: elaborado pelos autores (2026).
 
 Validar perto do campo e ao enviar. Exemplo de erro: “Confira a placa informada.” Evitar mensagens genéricas como “Dados inválidos”. Associar a mensagem ao campo com `aria-describedby` e sinalizar erro com `aria-invalid`. No envio inválido, direcionar o foco a um resumo com links para os campos. Preservar valores válidos após um erro, respeitando a privacidade e as regras do serviço.
 
@@ -170,6 +234,10 @@ Durante envio, mostrar estado de processamento e impedir duplicação. Sucesso d
 
 ### 6.1 Terminologia
 
+A Tabela 9 define os padrões de terminologia.
+
+**Tabela 9 – Padrões de terminologia**
+
 | Termo | Padrão de comunicação |
 | :--- | :--- |
 | CNH | Carteira Nacional de Habilitação (CNH) na primeira ocorrência |
@@ -179,9 +247,15 @@ Durante envio, mostrar estado de processamento e impedir duplicação. Sucesso d
 | Consulta | Visualização de informação; não indica pagamento ou solicitação concluída |
 | Emitir / baixar | Distinguir geração do documento e download do arquivo |
 
+Fonte: elaborado pelos autores (2026).
+
 Preferir linguagem direta, frases curtas e tratamento uniforme. O catálogo consultado inclui Veículos, Habilitação, Agendamento e Infração. Os rótulos finais deverão ser reconciliados com o serviço oficial: padronização textual não autoriza alterar requisitos, taxas ou nomes legais.
 
 ### 6.2 Tipos de tela
+
+A Tabela 10 descreve a estrutura proposta para cada tipo de tela.
+
+**Tabela 10 – Estrutura proposta por tipo de tela**
 
 | Tela | Estrutura proposta |
 | :--- | :--- |
@@ -192,6 +266,8 @@ Preferir linguagem direta, frases curtas e tratamento uniforme. O catálogo cons
 | Revisão | Dados da solicitação, opção de editar e confirmação específica |
 | Conclusão | Estado da operação, protocolo quando existente e próximos passos |
 | Falha | Explicação, estado conhecido da operação e recuperação |
+
+Fonte: elaborado pelos autores (2026).
 
 ### 6.3 Sequências de diálogos
 
@@ -210,6 +286,10 @@ Preferir linguagem direta, frases curtas e tratamento uniforme. O catálogo cons
 
 ## 7. Rastreabilidade das decisões
 
+A Tabela 11 registra a origem de cada decisão do guia.
+
+**Tabela 11 – Rastreabilidade das decisões do guia**
+
 | Decisão | Origem | Justificativa | Verificação prevista |
 | :--- | :--- | :--- | :--- |
 | Serviços prioritários e resultado resumido | Perfil do condutor e análise de tarefas | Reduzir esforço de busca | Observar localização e consulta com participantes |
@@ -219,7 +299,7 @@ Preferir linguagem direta, frases curtas e tratamento uniforme. O catálogo cons
 | Contraste, teclado e nomes acessíveis | WCAG 2.2 | Acesso por diferentes modos de interação | Inspeção de contraste, teclado e leitor de tela |
 | Componentes e vocabulário reutilizáveis | Barbosa e Silva (2010, seção 8.4) | Comunicar e preservar decisões | Conferir consistência entre telas |
 
-**Fonte:** elaborado para o projeto com base nos artefatos vinculados e nas referências. A matriz registra a origem das decisões, mas não equivale a uma validação já realizada com usuários.
+Fonte: elaborado pelos autores (2026), com base nos artefatos vinculados e nas referências. A matriz registra a origem das decisões, mas não equivale a uma validação já realizada com usuários.
 
 ## 8. Checklist de aplicação e validação
 
@@ -240,7 +320,7 @@ Utilizar **Conforme / Não conforme / Não se aplica**, registrando tela, evidê
 
 ## Referências bibliográficas
 
-- BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Seção 8.4, p. 282–284. Fundamentação utilizada: trecho fornecido para esta atividade.
+- BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 - MARCUS, Aaron. *Graphic Design for Electronic Documents and User Interfaces*. New York: ACM Press, 1992. Referência citada por Barbosa e Silva (2010); consulta indireta.
 - MAYHEW, Deborah J. *The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design*. San Francisco: Morgan Kaufmann, 1999. Referência citada por Barbosa e Silva (2010); consulta indireta.
 - DETRAN-DF. *Site institucional*. Disponível em: <https://www.detran.df.gov.br/>. Tentativa de acesso em: 6 out. 2026; inspeção visual não concluída.
@@ -249,14 +329,16 @@ Utilizar **Conforme / Não conforme / Não se aplica**, registrando tela, evidê
 - W3C. *Web Content Accessibility Guidelines (WCAG) 2.2*. Disponível em: <https://www.w3.org/TR/WCAG22/>. Critérios 1.4.3, 1.4.11, 2.5.8 e demais critérios aplicáveis.
 - W3C. *Understanding SC 1.4.3: Contrast (Minimum)*. Disponível em: <https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html>. Acesso em: 6 out. 2026.
 - W3C. *Understanding SC 2.5.8: Target Size (Minimum)*. Disponível em: <https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html>. Acesso em: 6 out. 2026.
+- SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
 
-## Histórico de Versões
+<!-- TODO(VERIFICAR): a lista não está em ordem alfabética e mistura notas ("consulta indireta", "inspeção visual não concluída") com as referências. Pela ABNT, Marcus (1992) e Mayhew (1999), consultados por meio de Barbosa e Silva (2010), são citados com "apud" no texto. -->
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-| :---: | :---: | :--- | :--- | :--- |
-| 06/10/2026 | 1.0 | Criação do documento | Henrique Schneider | Integrantes do grupo |
-| 06/10/2026 | 1.1 | Elaboração do guia de reprojeto: estrutura teórica, padrões, rastreabilidade e critérios de validação | Gabriel Robson, com apoio do ChatGPT na elaboração e conferência documental | Revisão humana pendente |
+## Agradecimentos e uso de IA generativa
 
-**Fonte:** elaborado para o projeto (2026).
+### Declaração de uso de IA (Gabriel Robson, versão 1.1)
 
-**Uso de IA:** ChatGPT auxiliou na organização, redação e verificação de coerência documental. Os valores visuais são propostas explícitas; o apoio de IA e a compilação do site não substituem inspeção da interface nem testes com usuários.
+ChatGPT auxiliou na organização, redação e verificação de coerência documental. Os valores visuais são propostas explícitas; o apoio de IA e a compilação do site não substituem inspeção da interface nem testes com usuários.
+
+### Uso de IA generativa na refatoração de 15/10/2026
+
+O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar esta página no modelo de artefato da disciplina (tabela de contribuição e histórico no início), incluir legenda acima, fonte abaixo e chamada no texto das Tabelas 3 a 11, registrar o autor do item, padronizar a referência de Barbosa e Silva (2010) e reunir as declarações de uso de IA nesta seção. Decisões de design, valores e textos do guia não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
