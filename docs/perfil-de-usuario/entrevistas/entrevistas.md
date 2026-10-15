@@ -1,34 +1,47 @@
 # Registro de Investigação: Entrevistas e Questionários
 
-Este documento consolida o planejamento, os roteiros e a estrutura de registro para investigações qualitativas (**Entrevistas**) e quantitativas (**Questionários**). A padronização deste artefato visa garantir a rastreabilidade dos dados e a consistência metodológica ao longo do projeto de Interação Humano-Computador (IHC) para o Portal Detran-DF.
+## Tabela de contribuição
 
----
+**Tabela 1 – Contribuições no artefato Registro de Investigação (Entrevistas)**
 
-## Histórico de Versões
+| Integrante | Contribuição | Atividade (link) | Gravação (link) |
+| --- | --- | --- | --- |
+| Alexandre Vilar Valadares Fonsêca | Revisão das v1.0 e v1.1 | — | — |
+| Eduardo Ribeiro Gomes da Silva | **[VERIFICAR: contribuição]** | — | — |
+| Gabriel Robson | **[VERIFICAR: contribuição]** | — | — |
+| Henrique Schneider Fernandes da Rosa | Estrutura, roteiro de perguntas e formulários de registro (v1.0); introdução e checklist de qualidade (v1.1) | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | — |
+| João Vitor Tavares de Sá Lima | **[VERIFICAR: contribuição]** | — | — |
 
-<p align="center"><b>Tabela 1</b> – Histórico de alterações do documento de Registro de Investigação.</p>
+Fonte: elaborado pelos autores (2026).
+
+## Histórico de versões
+
+**Tabela 2 – Histórico de versões do artefato Registro de Investigação (Entrevistas)**
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
-| :---: | :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | 17/09/2026 | 1.0 | Elaboração da estrutura, roteiro de perguntas e formulários de registro de entrevista e questionário. | Henrique Schneider | Alexandre Vilar |
 | 27/09/2026 | 1.1 | Inclusão de texto introdutório fundamentando a relevância da técnica no contexto de IHC e checklist de qualidade. | Henrique Schneider | Alexandre Vilar |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, legendas), das citações e referências (ABNT), inclusão de avisos de pendência sobre o modelo não preenchido e as respostas da lista de verificação, e da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
-<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
-
----
+Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução e Importância no Contexto de IHC
 
-O levantamento de dados por meio de **Entrevistas** e **Questionários** constitui o pilar fundamental para a investigação de necessidades, atitudes e expectativas dos usuários no Design Centrado no Usuário (BARBOSA; SILVA, 2010, Cap. 5, p. 145-151). Na disciplina de IHC, a combinação de métodos qualitativos e quantitativos garante uma compreensão abrangente sobre como o cidadão interage com o Portal Detran-DF.
+Este documento consolida o planejamento, os roteiros e a estrutura de registro para investigações qualitativas (**Entrevistas**) e quantitativas (**Questionários**). A padronização deste artefato visa garantir a rastreabilidade dos dados e a consistência metodológica ao longo do projeto de Interação Humano-Computador (IHC) para o Portal Detran-DF.
+
+O levantamento de dados por meio de **Entrevistas** e **Questionários** constitui o pilar fundamental para a investigação de necessidades, atitudes e expectativas dos usuários no Design Centrado no Usuário (Barbosa; Silva, 2010, cap. 5, p. 145-151). Na disciplina de IHC, a combinação de métodos qualitativos e quantitativos garante uma compreensão abrangente sobre como o cidadão interage com o Portal Detran-DF.
 
 * **Entrevistas (Qualitativas):** Permitem explorar em profundidade as percepções, motivações e sentimentos dos usuários perante a interface. A condução semiestruturada possibilita ao entrevistador aprofundar problemas e esclarecer dúvidas em tempo real.
 * **Questionários (Quantitativos):** Permitem coletar dados de um grupo amostral ampliado, classificando perfis demográficos e aferindo padrões estatísticos de usabilidade e satisfação com os serviços digitais.
 
 A aplicação dessas técnicas respeita rigorosamente os princípios éticos da pesquisa com seres humanos, assegurando o anonimato, a transparência via Termo de Consentimento Livre e Esclarecido (TCLE) e o direito de desistência voluntária dos participantes.
 
----
 
 ## 2. Registro de Entrevista
+
+!!! warning "Modelo ainda não preenchido"
+    **[VERIFICAR: esta seção é um modelo com campos "[Inserir …]". Ela deve receber os dados das entrevistas realizadas (participante codificado, data, gravação, respostas e síntese) ou ser marcada como "Não se aplica" se nenhuma entrevista foi feita. A página de Perfis e Personas declara que "Não foram realizadas entrevistas, questionários ou observações com usuários nesta etapa".]**
 
 ### 2.1. Identificação Geral
 * **Técnica Utilizada:** [Inserir ex.: Entrevista Semiestruturada / Estruturada / Não Estruturada]
@@ -69,7 +82,6 @@ A aplicação dessas técnicas respeita rigorosamente os princípios éticos da 
 * **Síntese dos Achados:** [Apresentar as descobertas da entrevista].
 * **Encaminhamentos:** [Descrever o impacto das respostas na criação de personas, cenários ou requisitos de IHC].
 
----
 
 ## 3. Registro de Questionário
 
@@ -117,29 +129,38 @@ A aplicação dessas técnicas respeita rigorosamente os princípios éticos da 
 * **Síntese dos Dados:** [Resumo das métricas e preferências identificadas].
 * **Encaminhamentos:** [Como esses dados alimentam as próximas fases do projeto].
 
----
 
 ## 4. Checklist de Verificação de Qualidade das Técnicas (Entrevistas e Questionários)
 
-<p align="center"><b>Tabela 2</b> – Lista de verificação técnica para entrevistas e questionários segundo a literatura de IHC.</p>
+!!! warning "Respostas a conferir"
+    **[VERIFICAR: os itens 26 a 34 estão marcados como "Sim" e citam treinamento, ensaios e teste-piloto, mas a seção 2 não registra nenhuma entrevista realizada. O grupo deve confirmar cada resposta com evidência ou trocá-la por "Não" ou "Não se aplica".]**
+
+A Tabela 3 apresenta a lista de verificação das técnicas de entrevista e questionário.
+
+**Tabela 3 – Lista de verificação técnica para entrevistas e questionários segundo a literatura de IHC**
 
 | Item | Pergunta de Verificação | Resposta | Fonte Teórica / Justificativa |
 | :---: | :--- | :---: | :--- |
-| **26** | A entrevista utilizou um roteiro estruturado/semiestruturado previamente revisado em relação aos objetivos da pesquisa? | **Sim** | Cap. 5, p. 145 (BARBOSA; SILVA, 2010). O roteiro foi alinhado ao escopo de serviços do Detran-DF. |
-| **27** | A condução seguiu as fases padrão: apresentação, aquecimento, parte principal, desaquecimento e conclusão? | **Sim** | Cap. 5, p. 145 (BARBOSA; SILVA, 2010). As etapas foram encadeadas em ordem lógica de acolhimento. |
-| **28** | O entrevistador evitou induzir as respostas do usuário por meio de tom de voz, postura, gestos ou perguntas tendenciosas? | **Sim** | Cap. 5, p. 147 (BARBOSA; SILVA, 2010). Treinamento prévio garantiu neutralidade e imparcialidade. |
-| **29** | Evitou-se o uso de jargões técnicos de informática ou termos jurídicos complexos de trânsito não familiares aos cidadãos? | **Sim** | Cap. 5, p. 147 (BARBOSA; SILVA, 2010). A linguagem foi adaptada ao vocabulário do cidadão comum. |
-| **30** | Os entrevistadores passaram por treinamento prévio para dominar o roteiro e realizar escuta ativa durante a entrevista? | **Sim** | Cap. 5, p. 149 (BARBOSA; SILVA, 2010). Ensaios internos garantiram agilidade e escuta ativa. |
-| **31** | O questionário contém instruções claras sobre como responder cada item e indica se a pergunta admite resposta única ou múltipla? | **Sim** | Cap. 5, p. 149 (BARBOSA; SILVA, 2010). Instruções explícitas evitam erros no preenchimento. |
-| **32** | As perguntas demográficas e de fundo foram colocadas no início do questionário para classificar o perfil dos respondentes? | **Sim** | Cap. 5, p. 151 (BARBOSA; SILVA, 2010). Abertura padronizada facilita a caracterização do perfil. |
-| **33** | As perguntas foram ordenadas de forma lógica, partindo de conceitos gerais para aspectos específicos dos serviços? | **Sim** | Cap. 5, p. 151 (BARBOSA; SILVA, 2010). A sequência encadeada mantém o fluxo cognitivo fluido. |
-| **34** | Foi realizado um teste-piloto do questionário antes do envio em massa para detectar ambiguidades e estimar o tempo? | **Sim** | Cap. 5, p. 149, 171 (BARBOSA; SILVA, 2010). Teste-piloto validou a clareza e o tempo médio de resposta. |
+| **26** | A entrevista utilizou um roteiro estruturado/semiestruturado previamente revisado em relação aos objetivos da pesquisa? | **Sim** | Cap. 5, p. 145 (Barbosa; Silva, 2010). O roteiro foi alinhado ao escopo de serviços do Detran-DF. |
+| **27** | A condução seguiu as fases padrão: apresentação, aquecimento, parte principal, desaquecimento e conclusão? | **Sim** | Cap. 5, p. 145 (Barbosa; Silva, 2010). As etapas foram encadeadas em ordem lógica de acolhimento. |
+| **28** | O entrevistador evitou induzir as respostas do usuário por meio de tom de voz, postura, gestos ou perguntas tendenciosas? | **Sim** | Cap. 5, p. 147 (Barbosa; Silva, 2010). Treinamento prévio garantiu neutralidade e imparcialidade. |
+| **29** | Evitou-se o uso de jargões técnicos de informática ou termos jurídicos complexos de trânsito não familiares aos cidadãos? | **Sim** | Cap. 5, p. 147 (Barbosa; Silva, 2010). A linguagem foi adaptada ao vocabulário do cidadão comum. |
+| **30** | Os entrevistadores passaram por treinamento prévio para dominar o roteiro e realizar escuta ativa durante a entrevista? | **Sim** | Cap. 5, p. 149 (Barbosa; Silva, 2010). Ensaios internos garantiram agilidade e escuta ativa. |
+| **31** | O questionário contém instruções claras sobre como responder cada item e indica se a pergunta admite resposta única ou múltipla? | **Sim** | Cap. 5, p. 149 (Barbosa; Silva, 2010). Instruções explícitas evitam erros no preenchimento. |
+| **32** | As perguntas demográficas e de fundo foram colocadas no início do questionário para classificar o perfil dos respondentes? | **Sim** | Cap. 5, p. 151 (Barbosa; Silva, 2010). Abertura padronizada facilita a caracterização do perfil. |
+| **33** | As perguntas foram ordenadas de forma lógica, partindo de conceitos gerais para aspectos específicos dos serviços? | **Sim** | Cap. 5, p. 151 (Barbosa; Silva, 2010). A sequência encadeada mantém o fluxo cognitivo fluido. |
+| **34** | Foi realizado um teste-piloto do questionário antes do envio em massa para detectar ambiguidades e estimar o tempo? | **Sim** | Cap. 5, p. 149, 171 (Barbosa; Silva, 2010). Teste-piloto validou a clareza e o tempo médio de resposta. |
 
-<p align="center"><b>Fonte</b>: Elaborado pelos autores com base em Barbosa e Silva (2010).</p>
-
----
+Fonte: elaborado pelos autores (2026), com base em Barbosa e Silva (2010).
 
 ## Referências Bibliográficas
 
-* ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023**: informação e documentação – referências – elaboração. Rio de Janeiro: ABNT, 2018.
-* BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
+
+SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
+
+## Agradecimentos e uso de IA generativa
+
+**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, legendas), padronizar citações e referências conforme a ABNT e incluir avisos **[VERIFICAR]** sobre o modelo de entrevista não preenchido e as respostas da lista de verificação sem evidência. Roteiro, perguntas e respostas não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

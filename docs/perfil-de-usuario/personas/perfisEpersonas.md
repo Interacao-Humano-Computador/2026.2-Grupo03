@@ -1,31 +1,42 @@
 # Registro de Perfis de Usuário e Personas
 
-Este documento apresenta a caracterização dos **Perfis de Usuário** e do elenco de **Personas** desenvolvidos para fundamentar o design de Interação Humano-Computador (IHC) do portal do Detran-DF. A definição desses artefatos assegura que as decisões de projeto atendam aos objetivos reais de cidadãos, candidatos à habilitação e servidores do órgão.
+## Tabela de contribuição
 
----
+**Tabela 1 – Contribuições no artefato Perfis de Usuário e Personas**
 
-## Histórico de Versões
+| Integrante | Contribuição | Atividade (link) | Gravação (link) |
+| --- | --- | --- | --- |
+| Alexandre Vilar Valadares Fonsêca | Estruturação e catalogação inicial dos perfis e do elenco de personas (v1.0); inclusão dos cenários (v2.2); revisão das v2.0 e v2.1 | [Commit 749868d](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/749868d) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
+| Eduardo Ribeiro Gomes da Silva | Revisão da v1.0 | — | — |
+| Gabriel Robson | Revisão da v2.1 | — | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
+| Henrique Schneider Fernandes da Rosa | Consolidação dos três perfis e personas (v2.0); padronização das citações e comprovação visual (v2.1) | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
+| João Vitor Tavares de Sá Lima | **[VERIFICAR: contribuição]** | — | — |
 
-<p align="center"><b>Tabela 1</b> – Histórico de Versões do Documento de Perfis e Personas.</p>
+Fonte: elaborado pelos autores (2026).
+
+## Histórico de versões
+
+**Tabela 2 – Histórico de versões do artefato Perfis de Usuário e Personas**
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
-| :---: | :---: | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | 17/09/2026 | 1.0 | Estruturação e catalogação inicial dos perfis de usuário e elenco de personas. | Alexandre Vilar | Eduardo Ribeiro |
 | 27/09/2026 | 2.0 | Atualização e consolidação com os 3 perfis/personas do estudo (Condutor, Candidato e Agente). | Henrique Schneider | Alexandre Vilar |
 | 27/09/2026 | 2.1 | Releitura e refinamento do documento, padronização ABNT de citações e adição das referências de comprovação visual do livro de IHC. | Henrique Schneider | Alexandre Vilar, Gabriel Robson |
-| 06/10/2026 | 2.2 | Inclusão dos cenários em seção própria. | Alexandre Vilar | A preencher |
+| 06/10/2026 | 2.2 | Inclusão dos cenários em seção própria. | Alexandre Vilar | **[VERIFICAR: revisor]** (registrado como "A preencher") |
+| 15/10/2026 | 2.3 | Padronização da estrutura (tabela de contribuição, seções numeradas), correção das páginas citadas após conferência no livro, inclusão das fotos das pp. 135 e 175 como Figuras 1 e 2, substituição do marcador `caminho_imagem…` e inclusão da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
-<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
-
----
+Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução e Escopo
+
+Este documento apresenta a caracterização dos **Perfis de Usuário** e do elenco de **Personas** desenvolvidos para fundamentar o design de Interação Humano-Computador (IHC) do portal do Detran-DF. A definição desses artefatos assegura que as decisões de projeto atendam aos objetivos reais de cidadãos, candidatos à habilitação e servidores do órgão.
 
 O objetivo deste documento é identificar as categorias de usuários do portal do Detran-DF, descrever suas necessidades e vincular uma persona representativa a cada categoria. O perfil caracteriza quem utiliza o serviço e com qual finalidade; a persona apresenta um personagem fictício (*proto-persona*) que torna concretos o contexto, os objetivos, as atitudes e as dificuldades de um integrante desse perfil.
 
 O recorte contempla o portal público do Detran-DF e, conceitualmente, sistemas institucionais restritos associados às atividades de agentes do órgão.
 
-## Importância no Contexto de IHC
+### 1.1 Importância no Contexto de IHC
 
 A caracterização do **Perfil do Usuário** e a construção de **Personas** constituem pilares essenciais no Design Centrado no Usuário e no desenvolvimento de sistemas interativos. Na disciplina de Interação Humano-Computador (IHC), compreender quem são os usuários reais e quais são suas reais necessidades é fundamental para orientar todas as etapas do projeto de forma fundamentada e empática.
 
@@ -38,42 +49,60 @@ A adoção desses artefatos traz os seguintes benefícios para o projeto:
 
 Segundo a literatura de IHC, projetar para o usuário significa garantir que o sistema se adapte ao modo como as pessoas trabalham e interagem, aumentando a comunicabilidade, reduzindo erros de uso e maximizando a usabilidade e a acessibilidade da solução.
 
-> ### Contextualização e Metodologia de Definição dos Perfis e Personas
-> 
-> A estrutura utiliza os critérios normativos sobre demografia, escolaridade, conhecimento do domínio, objetivos, tarefas, frequência de acesso, experiência tecnológica, grau de autonomia e ambiente físico e tecnológico de acesso. 
-> 
-> As informações pessoais e demográficas não definem sozinhas o perfil de usuário: atuam como suporte para contextualizar a persona vinculada. Os personagens, falas (*quotes*) e frequências de uso apresentados são hipóteses de trabalho. Não foram realizadas entrevistas, questionários ou observações com usuários nesta etapa. As personas enquadram-se como **proto-personas**, e os obstáculos mapeados representam hipóteses a serem validadas empiricamente. Os fluxos descrevem ações esperadas segundo a perspectiva do Design Centrado no Usuário, sem reproduzir telas ou estabelecer requisitos administrativos. O portal oficial foi consultado para contextualizar os serviços oferecidos, e a referência institucional sobre o sistema de infrações complementa o recorte do perfil profissional.
+### 1.2 Contextualização e Metodologia de Definição dos Perfis e Personas
 
----
+A estrutura utiliza os critérios normativos sobre demografia, escolaridade, conhecimento do domínio, objetivos, tarefas, frequência de acesso, experiência tecnológica, grau de autonomia e ambiente físico e tecnológico de acesso. 
+
+As informações pessoais e demográficas não definem sozinhas o perfil de usuário: atuam como suporte para contextualizar a persona vinculada. Os personagens, falas (*quotes*) e frequências de uso apresentados são hipóteses de trabalho. Não foram realizadas entrevistas, questionários ou observações com usuários nesta etapa. As personas enquadram-se como **proto-personas**, e os obstáculos mapeados representam hipóteses a serem validadas empiricamente. Os fluxos descrevem ações esperadas segundo a perspectiva do Design Centrado no Usuário, sem reproduzir telas ou estabelecer requisitos administrativos. O portal oficial foi consultado para contextualizar os serviços oferecidos, e a referência institucional sobre o sistema de infrações complementa o recorte do perfil profissional.
 
 ## 2. Fundamentação Teórica dos Atributos do Perfil de Usuário
 
 Segundo a literatura de Interação Humano-Computador, a caracterização do perfil de usuário exige a identificação da sua relação com a tecnologia, do seu conhecimento do domínio e das tarefas que precisará realizar.
 
-> *"Em geral, um perfil de usuário é caracterizado por dados sobre o próprio usuário, dados sobre sua relação com tecnologia, sobre seu conhecimento do domínio do produto e das tarefas que deverá realizar utilizando o produto (Hackos e Redish, 1998; Courage e Baxter, 2005)."*  
-> — **BARBOSA e SILVA (2010, Cap. 5, p. 136 / Cap. 6, p. 175)**.
+> Em geral, um perfil de usuário é caracterizado por dados sobre o próprio usuário, dados sobre sua relação com tecnologia, sobre seu conhecimento do domínio do produto e das tarefas que deverá realizar utilizando o produto (Hackos e Redish, 1998; Courage e Baxter, 2005). (Barbosa; Silva, 2010, cap. 6, seç. 6.1, p. 175).
 
-<p align="center"><b>Tabela 2</b> – Mapeamento dos Atributos do Perfil do Usuário segundo a Literatura de IHC.</p>
+<!-- Citação conferida na Figura 1 (p. 175) em 15/10/2026. A atribuição anterior "Cap. 5, p. 136 / Cap. 6, p. 175" foi corrigida para a página em que o trecho aparece. -->
 
-| Categoria do Atributo | Descrição no Projeto | Citação / Fonte Teórica | Comprovação Visual (Print do Livro) |
+A Tabela 3 relaciona cada atributo do perfil à fonte teórica; os trechos do livro estão nas Figuras 1 e 2.
+
+**Tabela 3 – Mapeamento dos atributos do perfil do usuário segundo a literatura de IHC**
+
+| Categoria do Atributo | Descrição no Projeto | Citação / Fonte Teórica | Comprovação visual (foto do livro) |
 | :--- | :--- | :--- | :--- |
-| **Dados Demográficos** | Faixa etária, sexo, ocupação e status socioeconômico dos cidadãos e condutores do DF. | BARBOSA; SILVA, 2010, Cap. 5, p. 136 / Cap. 6, p. 175. | [Print p. 175 - Seção 6.1](assets/p175_6.1.png) |
-| **Escolaridade e Alfabetismo** | Grau de instrução, interpretação de regras de trânsito e fluência em textos complexos. | BARBOSA; SILVA, 2010, Cap. 6, p. 175. | [Print p. 175 - Seção 6.1](assets/p175_6.1.png) |
-| **Conhecimento do Domínio** | Propriedade sobre legislação de trânsito, pontuação da CNH e débitos veiculares. | BARBOSA; SILVA, 2010, Cap. 5, p. 135. | [Print p. 136 - Conhecimento do Domínio](assets/p135_5.2.png) |
-| **Experiência Tecnológica** | Frequência de uso de plataformas digitais e familiaridade com dispositivos móveis/desktops. | BARBOSA; SILVA, 2010, Cap. 6, p. 175. | [Print p. 175 - Seção 6.1](assets/p175_6.1.png) |
-| **Atitudes e Autonomia** | Perfil de aceitação tecnológica (tecnófilos vs. tecnófobos) e uso autônomo vs. assistido. | BARBOSA; SILVA, 2010, Cap. 6, p. 175. | [Print p. 175 - Seção 6.1](assets/p175_6.1.png) |
-| **Perfil de Tarefas** | Distinção entre tarefas primárias (débitos/CNH) e secundárias (agendamento/simulado). | BARBOSA; SILVA, 2010, Cap. 6, p. 175. | [Print p. 175 - Seção 6.1](assets/p175_6.1.png) |
+| **Dados Demográficos** | Faixa etária, sexo, ocupação e status socioeconômico dos cidadãos e condutores do DF. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 134; cap. 6, p. 175. | [Figura 1 (p. 175)](#figura-1) · **[VERIFICAR: foto da p. 134]** |
+| **Escolaridade e Alfabetismo** | Grau de instrução, interpretação de regras de trânsito e fluência em textos complexos. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 134. | **[VERIFICAR: foto da p. 134]** |
+| **Conhecimento do Domínio** | Propriedade sobre legislação de trânsito, pontuação da CNH e débitos veiculares. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 135. | [Figura 2 (p. 135)](#figura-2) |
+| **Experiência Tecnológica** | Frequência de uso de plataformas digitais e familiaridade com dispositivos móveis/desktops. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 134; cap. 6, p. 175. | [Figura 1 (p. 175)](#figura-1) · **[VERIFICAR: foto da p. 134]** |
+| **Atitudes e Autonomia** | Perfil de aceitação tecnológica (tecnófilos vs. tecnófobos) e uso autônomo vs. assistido. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 135; cap. 6, p. 175. | [Figura 1 (p. 175)](#figura-1); [Figura 2 (p. 135)](#figura-2) |
+| **Perfil de Tarefas** | Distinção entre tarefas primárias (débitos/CNH) e secundárias (agendamento/simulado). | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 135; cap. 6, p. 175. | [Figura 1 (p. 175)](#figura-1); [Figura 2 (p. 135)](#figura-2) |
 
-<p align="center"><b>Fonte</b>: Elaborado pelos autores com base em Barbosa e Silva (2010).</p>
+Fonte: elaborado pelos autores (2026), com base em Barbosa e Silva (2010).
 
----
+<!-- Páginas conferidas no PDF de Barbosa e Silva (2010) em 15/10/2026: dados demográficos, educação e experiência com computadores estão na seç. 5.2, p. 134; atitudes, conhecimento do domínio e tarefas, na p. 135; os grupos de atributos (idade, experiência, atitudes e tarefas primárias), na p. 175. -->
+
+**Autor do item:** **[VERIFICAR: autor do item "atributos do perfil do usuário" (SALES, 2026, p. 9)]**
+
+<a id="figura-1"></a>
+**Figura 1 – Trecho de Barbosa e Silva (2010, cap. 6, p. 175) sobre as características do perfil de usuário e os grupos de atributos**
+
+![Fotografia da página 175 de Barbosa e Silva (2010), com destaque para o trecho que define os grupos de usuários por idade, experiência, atitudes e tarefas primárias](assets/p175_6.1.png)
+
+Fonte: Barbosa e Silva (2010, cap. 6, p. 175).
+
+<a id="figura-2"></a>
+**Figura 2 – Trecho de Barbosa e Silva (2010, cap. 5, seç. 5.2, p. 135) sobre atitudes, conhecimento do domínio, objetivos e tarefas do usuário**
+
+![Fotografia da página 135 de Barbosa e Silva (2010), com destaque para os itens atitudes e valores, conhecimento do domínio, objetivos, tarefas e idiomas e jargões](assets/p135_5.2.png)
+
+Fonte: Barbosa e Silva (2010, cap. 5, seç. 5.2, p. 135).
 
 ## 3. Caracterização e Classificação das Tarefas do Usuário
 
 A caracterização das tarefas agrupa as atividades de interação conforme sua relevância e frequência de execução em **Tarefas Primárias** e **Tarefas Secundárias**.
 
-> *"Tarefas: quais são as tarefas do usuário que precisam ser apoiadas? Quais dessas são consideradas primárias, e quais são secundárias? Há quanto tempo realiza essas tarefas? São tarefas frequentes ou infrequentes?..."*  
-> — **BARBOSA e SILVA (2010, Cap. 5, p. 136 / Cap. 6, p. 175)**.
+> tarefas: quais são as tarefas do usuário que precisam ser apoiadas? Quais dessas são consideradas primárias, e quais são secundárias? Há quanto tempo realiza essas tarefas? São tarefas frequentes ou infrequentes? [...] (Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 135).
+
+<!-- Citação conferida na Figura 2 (p. 135) em 15/10/2026. -->
 
 ### 3.1. Classificação das Tarefas no Portal Detran-DF
 
@@ -87,15 +116,15 @@ A caracterização das tarefas agrupa as atividades de interação conforme sua 
    * **Consulta de Unidades, Postos e Credenciadas (CFCs):** Localização de pontos de atendimento oficial no Distrito Federal.
    * **Simulado Teórico de Habilitação:** Ferramenta de preparação e estudo para a prova teórica de 1ª CNH.
 
-<p align="center"><b>Tabela 3</b> – Fundamentação teórica para classificação das tarefas primárias e secundárias.</p>
+A Tabela 4 apresenta a fonte da classificação entre tarefas primárias e secundárias.
 
-| Categoria da Tarefa | Descrição no Projeto | Fonte Bibliográfica no Livro | Comprovação Visual (Print do Livro) |
+**Tabela 4 – Fundamentação teórica para classificação das tarefas primárias e secundárias**
+
+| Categoria da Tarefa | Descrição no Projeto | Fonte Bibliográfica no Livro | Comprovação visual (foto do livro) |
 | :--- | :--- | :--- | :--- |
-| **Tarefas Primárias e Secundárias** | Definição dos conceitos e identificação das categorias de tarefas apoiadas pelo sistema. | BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010, Cap. 5, p. 136 / Cap. 6, p. 175. | `![Print p. 136 e p. 175 - Decomposição de Tarefas](caminho_imagem_p136_p175.png)` |
+| **Tarefas Primárias e Secundárias** | Definição dos conceitos e identificação das categorias de tarefas apoiadas pelo sistema. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 135; cap. 6, p. 175. | [Figura 2 (p. 135)](#figura-2); [Figura 1 (p. 175)](#figura-1) |
 
-<p align="center"><b>Fonte</b>: Elaborado pelos autores com base em Barbosa e Silva (2010).</p>
-
----
+Fonte: elaborado pelos autores (2026), com base em Barbosa e Silva (2010).
 
 ## 4. Mapeamento de Perfis de Usuário e Personas Vinculadas
 
@@ -123,9 +152,6 @@ A caracterização das tarefas agrupa as atividades de interação conforme sua 
 5. Guarda o registro disponível e sabe como retomar a consulta.
 * **Resultado Esperado:** Resumo claro da situação, explicação de termos técnicos e boa usabilidade em dispositivos móveis.
 
-
----
-
 ### 4.2. Perfil 2: Candidato à Habilitação
 
 #### A. Perfil de Usuário
@@ -149,9 +175,6 @@ A caracterização das tarefas agrupa as atividades de interação conforme sua 
 4. Consulta credenciadas ou recursos de preparação quando pertinentes.
 5. Confirma a próxima ação e guarda as orientações.
 * **Resultado Esperado:** Linguagem acessível, explicação de siglas e indicação explícita da próxima etapa obrigatória.
-
-
----
 
 ### 4.3. Perfil 3: Servidor ou Agente do Detran
 
@@ -177,12 +200,13 @@ A caracterização das tarefas agrupa as atividades de interação conforme sua 
 5. Em caso de falha, segue o procedimento de suporte sem repetir o envio.
 * **Resultado Esperado:** Validação de campos, distinção transparente entre registro pendente e enviado, e prevenção de duplicidades.
 
-
----
+<!-- TODO(VERIFICAR): a inspeção da Entrega 2 feita sobre o Grupo 03 apontou que não foi explicado "por que o João Paulo foi escolhido como principal, nem por que três personas são suficientes" (OBS 7). Sugestão registrada em REFATORACAO-RELATORIO.md. -->
 
 ## 5. Síntese Comparativa dos Perfis e Personas
 
-<p align="center"><b>Tabela 4</b> – Matriz Resumo das Personas do Projeto.</p>
+A Tabela 5 resume o foco e o critério de sucesso de cada persona.
+
+**Tabela 5 – Matriz resumo das personas do projeto**
 
 | Perfil / Persona | Foco Principal da Interação | Critério de Sucesso |
 | :--- | :--- | :--- |
@@ -190,9 +214,7 @@ A caracterização das tarefas agrupa as atividades de interação conforme sua 
 | **Candidato à Habilitação**<br>(Camila) | Aprendizagem e orientação para obtenção da 1ª CNH. | Identifica o próximo passo oficial e o canal adequado para atendimento. |
 | **Servidor / Agente do Detran**<br>(Ricardo) | Execução de atividades institucionais autorizadas. | Verifica o estado e a rastreabilidade da operação sem duplicidade. |
 
-<p align="center"><b>Fonte</b>: Elaborado pelos autores (2026) com base em Rosa (2026).</p>
-
----
+Fonte: elaborado pelos autores (2026), com base em Rosa (2026).
 
 ## 6. Cenários de Uso das Personas
 
@@ -265,8 +287,6 @@ Como não sabe se a operação foi concluída, Ricardo decide verificar o estado
 * **Eventos:** O sistema apresenta um aviso de validação. Depois da correção e da confirmação, a conexão é interrompida antes da visualização do resultado. Ao retomar o acesso, Ricardo encontra as informações disponíveis sobre o estado da operação ou identifica que precisa de suporte para esclarecê-lo.
 * **Avaliação:** Ricardo interpreta o aviso para identificar a correção necessária. Após a interrupção, reconhece que a ausência de confirmação visível não permite concluir se o envio ocorreu. Avalia a tarefa como concluída quando consegue verificar o estado do registro e sua correção; se isso não for possível, identifica o encaminhamento institucional adequado.
 
----
-
 ## 7. Validação Proposta e Próximos Passos
 
 Como estas personas foram inicialmente modeladas como **proto-personas** (hipóteses de trabalho), recomenda-se a execução das seguintes etapas em entregas futuras:
@@ -276,12 +296,22 @@ Como estas personas foram inicialmente modeladas como **proto-personas** (hipót
 3. **Refinamento do Artefato:** Comparar os dados coletados em campo com o comportamento previsto das proto-personas e atualizar as hipóteses.
 4. **Procedimentos Éticos:** Garantir a participação voluntária, assinatura do Termo de Consentimento Livre e Esclarecido (TCLE) e evitar a coleta de dados pessoais sensíveis.
 
----
-
 ## Referências Bibliográficas
 
-* ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023**: informação e documentação – referências – elaboração. Rio de Janeiro: ABNT, 2018.
-* BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
-* COURAGE, Catherine; BAXTER, Kathy. **Understanding Your Users**: A Practical Guide to User Requirements Methods, Tools, and Techniques. San Francisco: Morgan Kaufmann, 2005.
-* DETRAN-DF. **Detran Digital: Portal de Serviços**. Disponível em: <https://portal.detran.df.gov.br>. Acesso em: 25 set. 2026.
-* ROSA, Henrique Schneider Fernandes da. **Lista de verificação: perfil de usuário / PerfilPersonas2**. Projeto de Interação Humano-Computador, UnB/FGA, 2026.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
+
+COURAGE, Catherine; BAXTER, Kathy. *Understanding your users*: a practical guide to user requirements methods, tools, and techniques. San Francisco: Morgan Kaufmann, 2005.
+
+DEPARTAMENTO DE TRÂNSITO DO DISTRITO FEDERAL. *Detran Digital: Portal de Serviços*. Brasília, DF, 2026. Disponível em: https://portal.detran.df.gov.br. Acesso em: 25 set. 2026.
+
+ROSA, Henrique Schneider Fernandes da. *Lista de verificação*: perfil de usuário / PerfilPersonas2. Projeto de Interação Humano-Computador, UnB/FGA, 2026.
+
+SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
+
+<!-- TODO(VERIFICAR): Courage e Baxter (2005) aparece aqui, mas no texto só é citado dentro da citação de Barbosa e Silva (2010, p. 175); nesse caso, a forma ABNT é "apud" e a obra não consultada não precisa entrar na lista. -->
+
+## Agradecimentos e uso de IA generativa
+
+**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para: reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções e legendas); conferir no PDF de Barbosa e Silva (2010) as páginas das citações e corrigir as que estavam divergentes (pp. 134, 135 e 175); exibir as fotos das pp. 135 e 175, que já estavam no repositório, como Figuras 1 e 2; substituir o marcador `caminho_imagem_p136_p175.png` pelas figuras existentes; e marcar com **[VERIFICAR]** o que só o grupo pode completar. Perfis, personas, cenários e argumentos não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
