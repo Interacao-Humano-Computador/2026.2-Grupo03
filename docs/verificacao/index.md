@@ -5,15 +5,21 @@
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 10/09/2026 | 1.0 | Criação da página central de verificação das entregas. | Grupo 03 | A definir |
+| 14/10/2026 | 1.1 | Inclusão da lista de verificação da Entrega 4 do Grupo 01. | Henrique Schneider | A definir |
 
 ## Introdução
 
-Esta seção reúne as listas de verificação utilizadas para conferir as entregas do projeto de Interação Humano-Computador. Os registros organizam as verificações realizadas pelo Grupo 03 e as verificações da entrega do Grupo 05.
+Esta seção reúne as listas de verificação utilizadas para conferir as entregas do projeto de Interação Humano-Computador. Os registros organizam as verificações realizadas pelo Grupo 03 e as verificações das entregas dos Grupos 01 e 05.
 
 ## Nosso grupo
 
 - [Página do Grupo 03](grupo-03/index.md)
 - [Entrega 1 – Lista de verificação](grupo-03/entrega-1/lista-verificacao.md)
+
+## Verificação do Grupo 01
+
+- [Página do Grupo 01](grupo-01/index.md)
+- [Entrega 4 – Lista de verificação](grupo-01/entrega-4/lista-verificacao.md)
 
 ## Verificação do Grupo 05
 
