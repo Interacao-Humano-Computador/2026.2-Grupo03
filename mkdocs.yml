@@ -46,6 +46,10 @@ extra_css:
 
 plugins:
   - search
+  - redirects:
+      redirect_maps:
+        # Página vazia criada em 06/10/2026 para a inspeção da Entrega 3; a inspeção foi feita no Grupo 07.
+        'verificacao/grupo-06/index.md': 'verificacao/grupo-07/index.md'
 
 markdown_extensions:
   - admonition
@@ -53,59 +57,95 @@ markdown_extensions:
   - md_in_html
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - tables
   - toc:
       permalink: true
 
 nav:
-  - Inicio: index.md
-  - Plano de Ensino: outros/plano de ensino/plano.md
-  - Lista de Verificação: outros/plano de ensino/lista.md
+  - Início:
+    - Apresentação do projeto: index.md
+    - Acompanhamento das entregas: acompanhamento/index.md
+    - Relatórios das entregas:
+      - Visão geral: relatorios/index.md
+      - Entrega 1: relatorios/entrega-1.md
+      - Entrega 2: relatorios/entrega-2.md
+      - Entrega 3: relatorios/entrega-3.md
+      - Entrega 4: relatorios/entrega-4.md
+    - Apresentações e gravações: apresentacoes.md
+    - Atas: atas.md
 
-  - Planejamento:
-    - Site Escolhido: planejamento/site escolhido/site_escolhido.md
-    - Sites Avaliados: planejamento/sites avaliados/sites_avaliados.md
+  - Disciplina:
+    - Plano de Ensino: outros/plano de ensino/plano.md
+    - Lista de Verificação (autoavaliação): outros/plano de ensino/lista.md
+
+  - "Entrega 1: Planejamento":
     - Heatmap: planejamento/heatmap/heatmap.md
+    - Sites Avaliados: planejamento/sites avaliados/sites_avaliados.md
+    - Site Escolhido: planejamento/site escolhido/site_escolhido.md
     - Ferramentas: planejamento/ferramentas/ferramentas_utilizadas.md
     - Processo de Design: planejamento/processo/processo_de_design.md
-    - Cronograma: planejamento/cronograma/cronograma_planejado.md
+    - Cronograma Planejado: planejamento/cronograma/cronograma_planejado.md
+    - Cronograma Executado: planejamento/cronograma/cronograma_executado.md
 
-  - Perfil de Usuário, Análise de Tarefas e Aspectos Éticos:
+  - "Entrega 2: Perfil e Tarefas":
     - Perfis de Usuário e Personas: perfil-de-usuario/personas/perfisEpersonas.md
     - Cenários: perfil-de-usuario/cenarios/cenarios.md
-    - Análise de tarefas: perfil-de-usuario/analise/fluxos.md
-    - Aspectos Éticos:
-      - Termo de Consentimento Livre e Esclarecido: perfil-de-usuario/aspectos-eticos/termo/TCLE.md
+    - Análise de Tarefas: perfil-de-usuario/analise/fluxos.md
+    - Aspectos Éticos e TCLE: perfil-de-usuario/aspectos-eticos/termo/TCLE.md
     - Registro de investigação:
       - Entrevistas: perfil-de-usuario/entrevistas/entrevistas.md
       - Questionários: perfil-de-usuario/questionarios/questionarios.md
     - Contribuições: perfil-de-usuario/contribuicao/contrib.md
 
-  - Principios Gerais de Projeto, Metas de usabilidade e Guia de estilo:
-    - Principios Gerais: guia-estilo/principios/principios.md
+  - "Entrega 3: Princípios, Metas e Guia":
+    - Características da Plataforma: guia-estilo/plataforma/caracteristicas.md
+    - Princípios Gerais: guia-estilo/principios/principios.md
     - Metas de Usabilidade: guia-estilo/metas/metas.md
     - Guia de Estilo: guia-estilo/guia/guia.md
     - Contribuições: guia-estilo/contribuicao/contrib.md
 
-  - Planejamento de Storyboard, Análise de Tarefas e Planejamento de Relatos, Análise de Tarefas:
-    - Alexandre Vilar: storyboard/planejamento/Alexandre_Vilar_Valadares_Fonseca.md
-    - Gabriel Robson: storyboard/planejamento/Gabriel_Robson.md
-    - Henrique Schneider: storyboard/planejamento/Henrique_Schneider.md
-    - João Vitor: storyboard/planejamento/Joao_Vitor_Tavares.md
+  - "Entrega 4: Planejamento da Avaliação":
+    - Planejamento da Avaliação (DECIDE): storyboard/planejamento/decide.md
+    - Storyboards e cronogramas individuais:
+      - Alexandre Vilar: storyboard/planejamento/Alexandre_Vilar_Valadares_Fonseca.md
+      - Eduardo Ribeiro: storyboard/planejamento/eduardo-ribeiro.md
+      - Gabriel Robson: storyboard/planejamento/Gabriel_Robson.md
+      - Henrique Schneider: storyboard/planejamento/Henrique_Schneider.md
+      - João Vitor: storyboard/planejamento/Joao_Vitor_Tavares.md
     - Contribuições: storyboard/contribuicao/contrib.md
 
+  - "Entregas 5 a 8 e Final":
+    - "Entrega 5":
+      - Relato do Storyboard: storyboard/relatos/story.md
+      - Relato da Análise de Tarefas: storyboard/relatos/analise.md
+      - Planejamento do Protótipo de Papel: prototipo-papel/planejamento.md
+    - "Entrega 6":
+      - Relato do Protótipo de Papel: prototipo-papel/relato.md
+      - Planejamento da Alta Fidelidade: prototipo-alta-fidelidade/planejamento.md
+    - "Entrega 7":
+      - Relato da Alta Fidelidade: prototipo-alta-fidelidade/relato.md
+    - "Entrega 8":
+      - Verificação dos Artefatos: verificacao-artefatos/index.md
+    - Projeto Final: projeto-final/index.md
+
   - Verificação:
-    - Índice: verificacao/index.md
-    - Inspeção do Nosso grupo:
-      - Índice: verificacao/grupo-03/index.md
-      - Entrega 1: verificacao/grupo-03/entrega-1/lista-verificacao.md
-    - Inspeção do Grupo 01:
-      - Índice: verificacao/grupo-01/index.md
-      - Entrega 4: verificacao/grupo-01/entrega-4/lista-verificacao.md
-    - Inspeção do Grupo 05:
-      - Índice: verificacao/grupo-05/index.md
-      - Entrega 1: verificacao/grupo-05/entrega-1/lista-verificacao.md
-  
-  - Atas: atas.md
+    - Visão geral: verificacao/index.md
+    - Grupo 03 (autoavaliação):
+      - Visão geral: verificacao/grupo-03/index.md
+      - Entrega 1 (lista interna): verificacao/grupo-03/entrega-1/lista-verificacao.md
+    - Grupo 05 (Entrega 1):
+      - Visão geral: verificacao/grupo-05/index.md
+      - Inspeção da Entrega 1: verificacao/grupo-05/entrega-1/lista-verificacao.md
+    - Grupo 02 (Entrega 2):
+      - Visão geral: verificacao/grupo-02/index.md
+      - Inspeção da Entrega 2: verificacao/grupo-02/entrega-2/lista-verificacao.md
+    - Grupo 07 (Entrega 3):
+      - Visão geral: verificacao/grupo-07/index.md
+      - Inspeção da Entrega 3: verificacao/grupo-07/entrega-3/lista-verificacao.md
+    - Grupo 01 (Entrega 4):
+      - Visão geral: verificacao/grupo-01/index.md
+      - Inspeção da Entrega 4: verificacao/grupo-01/entrega-4/lista-verificacao.md
 
 copyright: INTERAÇÃO HUMANO COMPUTADOR | Grupo 03
