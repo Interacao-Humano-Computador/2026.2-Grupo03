@@ -15,22 +15,30 @@ Documentação acadêmica do projeto de **Interação Humano-Computador (IHC)** 
 
 ```text
 .
-├── .github/workflows/deploy.yml
-├── docs/
-│   ├── index.md
-│   ├── equipe.md
-│   ├── planejamento/
-│   │   ├── cronograma.md
-│   │   ├── ferramentas.md
-│   │   └── processo-design.md
-│   ├── reunioes/index.md
-│   └── templates/
-│       ├── artefato/_template.md
-│       └── reuniao/_template.md
+├── .github/workflows/deploy.yml        ← publica o site no GitHub Pages (main)
+├── docs/                                ← páginas do site (MkDocs + Material)
+│   ├── index.md                         ← início e equipe
+│   ├── acompanhamento/                  ← pendências e próximas entregas por integrante
+│   ├── relatorios/                      ← relatório consolidado de cada entrega
+│   ├── planejamento/                    ← Entrega 1 (heatmap, sites, ferramentas, processo, cronogramas)
+│   ├── perfil-de-usuario/               ← Entrega 2 (perfis, personas, cenários, tarefas, ética)
+│   ├── guia-estilo/                     ← Entrega 3 (plataforma, princípios, metas, guia de estilo)
+│   ├── storyboard/                      ← Entrega 4 (DECIDE, planejamentos individuais) e relatos da Entrega 5
+│   ├── prototipo-papel/                 ← Entregas 5 e 6
+│   ├── prototipo-alta-fidelidade/       ← Entregas 6 e 7
+│   ├── verificacao-artefatos/           ← Entrega 8
+│   ├── projeto-final/                   ← Projeto Final (14 tópicos do Plano de Ensino)
+│   ├── verificacao/                     ← autoavaliação e inspeções de outros grupos
+│   ├── atas.md, apresentacoes.md        ← atas (modelo MCTIC) e vídeos
+│   └── assets/                          ← imagens, PDFs entregues e fotos de referências
+├── Refatoração/                         ← material de referência da disciplina (fora do site)
+├── REFATORACAO-RELATORIO.md             ← relatório da refatoração de 15/10/2026 (fora do site)
 ├── mkdocs.yml
 ├── requirements.txt
 └── README.md
 ```
+
+Cada página de artefato segue o modelo da disciplina: tabela de contribuição, histórico de versões, introdução, conteúdo, referências e agradecimentos com o uso de IA generativa. Marcadores **[VERIFICAR]** indicam informações que o grupo ainda precisa completar; a lista de trabalho está na página **Acompanhamento das entregas**.
 
 ## Pré-requisitos
 
@@ -72,12 +80,12 @@ Documentação acadêmica do projeto de **Interação Humano-Computador (IHC)** 
 
 5. Acesse `http://127.0.0.1:8000/`. O servidor recarrega a documentação quando os arquivos Markdown são alterados.
 
-Para gerar uma versão estática sem iniciar o servidor, execute `mkdocs build --strict`.
+Para gerar uma versão estática sem iniciar o servidor, execute `mkdocs build --strict`. O build deve terminar sem avisos.
 
 ## Como contribuir
 
 - Crie uma branch curta a partir de `main`.
-- Copie o template correspondente antes de criar um novo artefato ou uma nova ata.
+- Use como modelo uma página existente da mesma entrega (tabela de contribuição, histórico, introdução, referências e uso de IA) e o modelo de ata do MCTIC já aplicado em `docs/atas.md`.
 - Registre histórico de versão, contribuição, fontes, gravações e declaração de uso de IA quando aplicável.
 - Use commits pequenos no padrão `tipo: descrição`, por exemplo: `docs: adiciona ata de 12-03-2026`.
 - Abra um Pull Request com descrição objetiva, evidências e pelo menos um revisor da equipe.
