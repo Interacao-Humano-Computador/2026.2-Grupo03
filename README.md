@@ -18,22 +18,19 @@ Documentação acadêmica do projeto de **Interação Humano-Computador (IHC)** 
 ├── .github/workflows/deploy.yml        ← publica o site no GitHub Pages (main)
 ├── docs/                                ← páginas do site (MkDocs + Material)
 │   ├── index.md                         ← início e equipe
-│   ├── acompanhamento/                  ← pendências e próximas entregas por integrante
-│   ├── integrantes/                     ← entregas anteriores e próximas de cada integrante
-│   ├── relatorios/                      ← relatório consolidado de cada entrega
-│   ├── planejamento/                    ← Entrega 1 (heatmap, sites, ferramentas, processo, cronogramas)
-│   ├── perfil-de-usuario/               ← Entrega 2 (perfis, personas, cenários, tarefas, ética)
-│   ├── guia-estilo/                     ← Entrega 3 (plataforma, princípios, metas, guia de estilo)
-│   ├── storyboard/                      ← Entrega 4 (DECIDE, planejamentos individuais) e relatos da Entrega 5
-│   ├── prototipo-papel/                 ← Entregas 5 e 6
-│   ├── prototipo-alta-fidelidade/       ← Entregas 6 e 7
-│   ├── verificacao-artefatos/           ← Entrega 8
-│   ├── projeto-final/                   ← Projeto Final (14 tópicos do Plano de Ensino)
-│   ├── listas-verificacao/              ← listas do professor, da monitoria e do grupo por entrega
-│   ├── verificacao/                     ← autoavaliação e inspeções de outros grupos
+│   ├── entrega-1/                       ← Entrega 1: relatório, planejamento/, verificacao/, integrantes/<nome>/
+│   ├── entrega-2/                       ← Entrega 2: relatório, perfil-e-tarefas/, contribuições, verificacao/, integrantes/<nome>/
+│   ├── entrega-3/                       ← Entrega 3: relatório, principios-metas-e-guia/, contribuições, verificacao/, integrantes/<nome>/
+│   ├── entrega-4/                       ← Entrega 4: relatório, planejamento-da-avaliacao/, contribuições, verificacao/, integrantes/<nome>/
+│   ├── trabalhos-avaliativos/           ← trabalhos individuais de cada integrante (listas, exercícios, análises próprias)
+│   ├── listas-verificacao/              ← visão geral das listas, autoavaliação e lista do projeto final
+│   ├── integrantes/                     ← entregas anteriores e próximas de cada integrante; ex-integrantes
 │   ├── atas/                            ← uma página por ata (modelo MCTIC) e modelo de ata
+│   ├── relatorios/                      ← visão geral dos relatórios das entregas
+│   ├── disciplina/                      ← Plano de Ensino
 │   ├── apresentacoes.md                 ← vídeos das apresentações, inspeções e reuniões
 │   └── assets/                          ← imagens, PDFs entregues e fotos de referências
+├── pendencias/                          ← o que falta completar, por entrega e por integrante (fora do site)
 ├── Refatoração/                         ← material de referência da disciplina (fora do site)
 ├── REFATORACAO-RELATORIO.md             ← relatório da refatoração de 15/10/2026 (fora do site)
 ├── mkdocs.yml
@@ -41,7 +38,9 @@ Documentação acadêmica do projeto de **Interação Humano-Computador (IHC)** 
 └── README.md
 ```
 
-Cada página de artefato segue o modelo da disciplina: tabela de contribuição, histórico de versões, introdução, conteúdo, referências e agradecimentos com o uso de IA generativa. Marcadores **[VERIFICAR]** indicam informações que o grupo ainda precisa completar; a lista de trabalho está na página **Acompanhamento das entregas**.
+Em cada entrega, a pasta `integrantes/` tem uma pasta por integrante atual (`alexandre-vilar`, `gabriel-robson`, `henrique-schneider`, `joao-vitor`) com o material dele naquela entrega. Os endereços antigos das páginas redirecionam para os novos (`mkdocs-redirects`, no `mkdocs.yml`).
+
+Cada página de artefato segue o modelo da disciplina: tabela de contribuição, histórico de versões, introdução, conteúdo, referências e agradecimentos com o uso de IA generativa. O que ainda falta completar não aparece no site: está listado nos arquivos da pasta [`pendencias/`](pendencias/README.md).
 
 ## Pré-requisitos
 

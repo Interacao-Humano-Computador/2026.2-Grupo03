@@ -1,4 +1,4 @@
-# João Vitor Tavares de Sá Lima
+# João Vitor
 
 ## Tabela de contribuição
 
@@ -7,9 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Nenhuma até esta versão | — | — |
-| Eduardo Ribeiro Gomes da Silva | Nenhuma até esta versão | — | — |
-| Gabriel Robson | Nenhuma até esta versão | — | — |
-| Henrique Schneider Fernandes da Rosa | Solicitação da página (criada com apoio de IA generativa) | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Nenhuma até esta versão | — | — |
+| Henrique Schneider Fernandes da Rosa | Organização da página a partir dos registros do site | — | — |
 | João Vitor Tavares de Sá Lima | Nenhuma até esta versão | — | — |
 
 Fonte: elaborado pelos autores (2026).
@@ -20,15 +19,16 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da página com as entregas anteriores e as próximas de João Vitor, a partir dos registros do site | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.0 | Criação da página com as entregas anteriores e as próximas de João Vitor, a partir dos registros do site | Henrique Schneider | — |
+| 17/10/2026 | 1.1 | Ligação com o material do integrante em cada entrega e com os trabalhos avaliativos; atualização da equipe e das próximas tarefas | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-Esta página reúne o que João Vitor fez nas entregas já realizadas e as tarefas atribuídas a João Vitor nas próximas entregas, com o link para a evidência de cada registro. Integrante da equipe desde a Entrega 1.
+Esta página reúne o que João Vitor Tavares de Sá Lima fez nas entregas já realizadas e as tarefas atribuídas a João Vitor nas próximas entregas, com o link para a evidência de cada registro. Integrante da equipe desde a Entrega 1.
 
-Ela não substitui as tabelas de contribuição de cada artefato: quando uma contribuição muda, o registro deve ser feito na página do artefato e depois copiado para cá. O Plano de Ensino lembra que o integrante que não participar do desenvolvimento de uma entrega recebe nota zero nela (SALES, 2026, p. 2).
+O material de João Vitor em cada entrega está na pasta do integrante dentro da entrega, e os trabalhos individuais estão reunidos em [Trabalhos Avaliativos – João Vitor](../trabalhos-avaliativos/joao-vitor.md). O Plano de Ensino lembra que o integrante que não participar do desenvolvimento de uma entrega recebe nota zero nela (SALES, 2026, p. 2).
 
 ## 2. Entregas anteriores
 
@@ -40,10 +40,11 @@ Cada aba compara o que o [Cronograma Planejado](../entrega-1/planejamento/cronog
 
     | Item | Registro |
     | --- | --- |
-    | Planejado | Redigir ferramentas do projeto e processo de design, com Alexandre e Eduardo (06/08); definir o site avaliado e inspecionar o Grupo 05, com todos ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadros 1 e 2) |
-    | Registrado como realizado | Avaliação individual do Portal de Serviços do Detran-DF; inspeção do Grupo 05 (formatação e verificação de corretude do relatório); redação de ferramentas e processo de design (cronograma). **[VERIFICAR: o relatório entregue deixa a contribuição de João Vitor em branco (seção 6)]** |
+    | Planejado no cronograma | Redigir ferramentas do projeto e processo de design, com Alexandre e Eduardo (06/08); definir o site avaliado e inspecionar o Grupo 05, com todos ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadros 1 e 2) |
+    | Realizado | Avaliação individual do Portal de Serviços do Detran-DF; inspeção do Grupo 05 (formatação e verificação de corretude do relatório); redação de ferramentas e processo de design (cronograma). |
     | Evidência | [Sites Avaliados](../entrega-1/planejamento/sites-avaliados.md); [Inspeção do Grupo 05](../entrega-1/verificacao/inspecao-grupo-05.md); [Relatório da Entrega 1](../entrega-1/relatorio.md), Tabela 1 |
     | Reunião gravada | — |
+    | Material do integrante | [Entrega 1 – João Vitor](../entrega-1/integrantes/joao-vitor/index.md) |
 
     Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 1](../entrega-1/relatorio.md).
 
@@ -53,122 +54,76 @@ Cada aba compara o que o [Cronograma Planejado](../entrega-1/planejamento/cronog
 
     | Item | Registro |
     | --- | --- |
-    | Planejado | Redigir o Termo de Consentimento – TCLE (17/09 – 25/09) ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 3) |
-    | Registrado como realizado | Elaboração do TCLE e definição das salvaguardas éticas; modelagem HTA/CTT individual da tarefa "Localização e Consulta de CFCs Credenciados"; inclusão das referências NBR 6023/10520 e verificação dos checklists (17/09 a 27/09/2026) |
+    | Planejado no cronograma | Redigir o Termo de Consentimento – TCLE (17/09 – 25/09) ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 3) |
+    | Realizado | Elaboração do TCLE e definição das salvaguardas éticas; modelagem HTA/CTT individual da tarefa "Localização e Consulta de CFCs Credenciados"; inclusão das referências NBR 6023/10520 e verificação dos checklists (17/09 a 27/09/2026) |
     | Evidência | [TCLE](../entrega-2/perfil-e-tarefas/aspectos-eticos-tcle.md); [Matriz de Contribuição da Entrega 2](../entrega-2/contribuicoes.md), Tabela 3 |
     | Reunião gravada | Ausente na [Reunião 01](../atas/ata-reuniao-20260927-01.md) (registrado como "Faltou") |
+    | Material do integrante | [Entrega 2 – João Vitor](../entrega-2/integrantes/joao-vitor/index.md) |
 
     Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 2](../entrega-2/relatorio.md).
 
 === "Entrega 3"
 
-    **Tabela 5 – Entrega 3 – Princípios, Metas e Guia de Estilo: João Vitor**
+    **Tabela 5 – Entrega 3 – Princípios Gerais, Metas de Usabilidade e Guia de Estilo: João Vitor**
 
     | Item | Registro |
     | --- | --- |
-    | Planejado | Definir metas de usabilidade (06/10) ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 5) |
-    | Registrado como realizado | Fundamentação teórica e redação das metas de usabilidade (v1.1 de Metas) (06/10/2026); inspeção em dupla do Grupo 07, com autoria dos itens 16 a 19 (10/10/2026) |
+    | Planejado no cronograma | Definir metas de usabilidade (06/10) ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 5) |
+    | Realizado | Fundamentação teórica e redação das metas de usabilidade (v1.1 de Metas) (06/10/2026); inspeção em dupla do Grupo 07, com autoria dos itens 16 a 19 (10/10/2026) |
     | Evidência | [Metas de Usabilidade](../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md); [Inspeção do Grupo 07](../entrega-3/verificacao/inspecao-grupo-07.md); [Matriz de Contribuição da Entrega 3](../entrega-3/contribuicoes.md), Tabela 3 |
     | Reunião gravada | — |
+    | Material do integrante | [Entrega 3 – João Vitor](../entrega-3/integrantes/joao-vitor/index.md) |
 
     Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 3](../entrega-3/relatorio.md).
 
 === "Entrega 4"
 
-    **Tabela 6 – Entrega 4 – Planejamento da Avaliação: João Vitor**
+    **Tabela 6 – Entrega 4 – Planejamento da Avaliação do Storyboard e da Análise de Tarefas: João Vitor**
 
     | Item | Registro |
     | --- | --- |
-    | Planejado | Revisão do planejamento, com todos (12/10 – 13/10) ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 7) |
-    | Registrado como realizado | Item adicional N5 e participação na inspeção do Grupo 01 (14/10/2026); cronogramas individuais do planejamento da avaliação do storyboard, do relato e da HTA |
+    | Planejado no cronograma | Revisão do planejamento, com todos (12/10 – 13/10) ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 7) |
+    | Realizado | Item adicional N5 e participação na inspeção do Grupo 01 (14/10/2026); cronogramas individuais do planejamento da avaliação do storyboard, do relato e da HTA |
     | Evidência | [Inspeção do Grupo 01](../entrega-4/verificacao/inspecao-grupo-01.md); [Planejamento – João Vitor](../entrega-4/integrantes/joao-vitor/planejamento-individual.md); [Matriz de Contribuição da Entrega 4](../entrega-4/contribuicoes.md), Tabela 3 |
     | Reunião gravada | Presente na [Reunião 02](../atas/ata-reuniao-20261014-02.md) (14/10/2026) |
-    | Pendente | Storyboard próprio (item C10 da lista da Entrega 4) **[VERIFICAR]** |
+    | Material do integrante | [Entrega 4 – João Vitor](../entrega-4/integrantes/joao-vitor/index.md) |
 
     Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 4](../entrega-4/relatorio.md).
 
 ## 3. Próximas entregas
 
-A Tabela 7 junta as tarefas de João Vitor com as tarefas de todos os integrantes, na ordem das entregas. Os períodos são os do Cronograma Planejado e dos cronogramas individuais da Entrega 4; a situação de cada tarefa é acompanhada no [Acompanhamento das entregas](index.md).
+A Tabela 7 junta as tarefas de João Vitor com as tarefas de todos os integrantes e as atividades individuais do Moodle, na ordem das entregas. Os períodos são os do Cronograma Planejado, dos cronogramas individuais da Entrega 4 e do Moodle.
 
 **Tabela 7 – Próximas tarefas de João Vitor**
 
-| Entrega | Tarefa | Período | Origem | Página |
-| :---: | --- | :---: | --- | --- |
-| 5 | Executar avaliação do storyboard e coletar dados | 15/10 – 17/10 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 9 | [Relato do Storyboard](../entrega-4/planejamento-da-avaliacao/decide.md) |
-| 5 | Cronograma individual: planejamento da avaliação do storyboard (10 tarefas) | 15/10 – 25/10 | [Planejamento – João Vitor](../entrega-4/integrantes/joao-vitor/planejamento-individual.md), Tabela 4 | [Relato do Storyboard](../entrega-4/planejamento-da-avaliacao/decide.md) |
-| 5 | Cronograma individual: relato dos resultados (6 tarefas) | 18/10 – 25/10 | [Planejamento – João Vitor](../entrega-4/integrantes/joao-vitor/planejamento-individual.md), Tabela 5 | [Relato do Storyboard](../entrega-4/planejamento-da-avaliacao/decide.md) |
-| 5 | Cronograma individual: avaliação da HTA (10 tarefas) | 14/10 – 25/10 | [Planejamento – João Vitor](../entrega-4/integrantes/joao-vitor/planejamento-individual.md), Tabela 6 | [Relato da Análise de Tarefas](../entrega-4/planejamento-da-avaliacao/decide.md) |
-| 5 | Inspeção do Grupo -1 (Grupo 1) – todos os integrantes | 26/10 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 10 | [Listas de Verificação](../listas-verificacao/index.md) |
-| 6 | Construir protótipo de alta fidelidade, com Eduardo Ribeiro | 31/10 – 01/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 11 | [Planejamento da Alta Fidelidade](../index.md) |
-| 6 | Inspeção do Grupo +1 (Grupo 8) – todos os integrantes | 04/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 12 | [Listas de Verificação](../listas-verificacao/index.md) |
-| 7 | Revisão final – todos os integrantes | 14/11 – 15/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 13 | — |
-| 7 | Inspeção do Grupo -1 – todos os integrantes | 16/11 – 21/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 14 | [Listas de Verificação](../listas-verificacao/index.md) |
-| 8 | Conferir todos os artefatos produzidos nas etapas anteriores | 17/11 – 22/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 15 | [Verificação dos Artefatos](../index.md) |
-| 8 | Revisão cruzada final – todos os integrantes | 21/11 – 22/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 15 | [Verificação dos Artefatos](../index.md) |
-| 8 | Inspeção do Grupo +1 – todos os integrantes | 23/11 – 28/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 16 | [Listas de Verificação](../listas-verificacao/index.md) |
-| Final | Consolidar todos os documentos e artefatos em versão final – todos os integrantes | 24/11 – 29/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 17 | [Projeto Final](../listas-verificacao/projeto-final.md) |
-| Final | Revisão geral e submissão – todos os integrantes | 29/11 – 30/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 17 | [Projeto Final](../listas-verificacao/projeto-final.md) |
-| Final | Facilidades e dificuldades encontradas no projeto (tópico 13) – cada integrante | até 29/11 | Plano de Ensino (SALES, 2026, p. 7) | [Projeto Final](../listas-verificacao/projeto-final.md) |
+| Entrega | Tarefa | Período | Origem |
+| :---: | --- | :---: | --- |
+| 5 | Executar avaliação do storyboard e coletar dados | 15/10 – 17/10 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 9 |
+| 5 | Cronograma individual: planejamento da avaliação do storyboard (10 tarefas) | 15/10 – 25/10 | [Planejamento – João Vitor](../entrega-4/integrantes/joao-vitor/planejamento-individual.md), Tabela 4 |
+| 5 | Cronograma individual: relato dos resultados (6 tarefas) | 18/10 – 25/10 | [Planejamento – João Vitor](../entrega-4/integrantes/joao-vitor/planejamento-individual.md), Tabela 5 |
+| 5 | Cronograma individual: avaliação da HTA (10 tarefas) | 14/10 – 25/10 | [Planejamento – João Vitor](../entrega-4/integrantes/joao-vitor/planejamento-individual.md), Tabela 6 |
+| 5 | Inspeção do Grupo -1 (Grupo 1) – todos os integrantes | 26/10 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 10 |
+| 5 | Lista de verificação – Protótipo de Papel (atividade individual do Moodle) | até 19/10 | Moodle |
+| 5 | Lista de exercícios – Protótipo de Papel (atividade individual do Moodle) | Entrega 5 | Moodle |
+| 6 | Construir protótipo de alta fidelidade | 31/10 – 01/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 11 |
+| 6 | Inspeção do Grupo +1 (Grupo 8) – todos os integrantes | 04/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 12 |
+| 6 | Certificados de participação na SEMUNI (atividade individual do Moodle) | até 30/10 | Moodle |
+| 7 | Revisão final – todos os integrantes | 14/11 – 15/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 13 |
+| 7 | Inspeção do Grupo -1 – todos os integrantes | 16/11 – 21/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 14 |
+| 7 | Lista de verificação – Cenários (atividade individual do Moodle) | até 10/11 | Moodle |
+| 8 | Conferir todos os artefatos produzidos nas etapas anteriores | 17/11 – 22/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 15 |
+| 8 | Revisão cruzada final – todos os integrantes | 21/11 – 22/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 15 |
+| 8 | Inspeção do Grupo +1 – todos os integrantes | 23/11 – 28/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 16 |
+| Final | Consolidar todos os documentos e artefatos em versão final – todos os integrantes | 24/11 – 29/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 17 |
+| Final | Revisão geral e submissão – todos os integrantes | 29/11 – 30/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 17 |
+| Final | Facilidades e dificuldades encontradas no projeto (tópico 13) – cada integrante | até 29/11 | Plano de Ensino (SALES, 2026, p. 7) |
 
-Fonte: elaborado pelos autores (2026), com base no Cronograma Planejado, nos cronogramas individuais da Entrega 4 e no Plano de Ensino.
-
-## 4. Atividades individuais do Moodle
-
-Cada integrante entrega no Moodle as atividades da Tabela 8. Nenhuma das listas de verificação individuais está publicada no site; elas podem ser reunidas nas [Listas de Verificação](../listas-verificacao/index.md) de cada entrega.
-
-**Tabela 8 – Atividades individuais do Moodle de João Vitor**
-
-| Atividade | Prazo | Situação no site |
-| --- | :---: | --- |
-| Lista de verificação – DECIDE | 28/08/2026 | **[VERIFICAR: publicar]** |
-| Planejar a avaliação de um site (DECIDE) | 28/08/2026 | **[VERIFICAR: publicar]** |
-| Executar a avaliação de um site | 02/09/2026 | **[VERIFICAR: publicar]** |
-| Lista de verificação – Métodos de Avaliação | 03/09/2026 | **[VERIFICAR: publicar]** |
-| Lista de verificação – Perfil de Usuário | 15/09/2026 | **[VERIFICAR: publicar]** |
-| Listas de verificação – Personas, Elenco de Personas, HTA e CTT | 22/09/2026 | **[VERIFICAR: publicar]** |
-| Lista de verificação – Storyboard | 13/10/2026 | **[VERIFICAR: publicar]** |
-| Lista de verificação – Protótipo de Papel | 19/10/2026 | A entregar |
-| Lista de exercícios – Protótipo de Papel | **[VERIFICAR: prazo]** | A entregar |
-| Certificados de participação na SEMUNI | 30/10/2026 | A entregar |
-| Lista de verificação – Cenários | 10/11/2026 | A entregar |
-
-Fonte: atividades do Moodle, conforme a transcrição em `Refatoração/Tarefas por Integrante.md`.
-
-## 5. Registros a completar nas Entregas 1 a 4
-
-Nas páginas da Tabela 9, a contribuição de João Vitor está marcada como **[VERIFICAR]**: falta descrever o que foi feito, com o link da atividade, ou registrar que não houve contribuição.
-
-**Tabela 9 – Páginas com a contribuição de João Vitor a completar**
-
-| Entrega | Página |
-| :---: | --- |
-| Todas | [Cronograma Executado](../entrega-1/planejamento/cronograma-executado.md) |
-| 1 | [Ferramentas Utilizadas](../entrega-1/planejamento/ferramentas.md) |
-| 1 | [Heatmap de Disponibilidade](../entrega-1/planejamento/heatmap.md) |
-| 1 | [Processo de Design](../entrega-1/planejamento/processo-de-design.md) |
-| 1 | [Site Escolhido](../entrega-1/planejamento/site-escolhido.md) |
-| 1 a 3 | [Lista de Verificação do Plano de Ensino – Autoavaliação das Entregas 1 a 3](../listas-verificacao/autoavaliacao.md) |
-| 2 | [Análise de Tarefas e Fluxos de Trabalho do Usuário](../entrega-2/perfil-e-tarefas/analise-de-tarefas.md) |
-| 2 | [Cenários](../entrega-2/perfil-e-tarefas/cenarios.md) |
-| 2 | [Entrega 2 – Inspeção do Grupo 02 (Grupo -1)](../entrega-2/verificacao/inspecao-grupo-02.md) |
-| 2 | [Matriz de Contribuição e Sintetização das Atividades — Entrega 2](../entrega-2/contribuicoes.md) |
-| 2 | [Registro de Investigação: Entrevistas e Questionários](../entrega-2/perfil-e-tarefas/questionarios.md) |
-| 2 | [Registro de Investigação: Questionário](../entrega-2/perfil-e-tarefas/questionarios.md) |
-| 2 | [Registro de Perfis de Usuário e Personas](../entrega-2/perfil-e-tarefas/perfis-e-personas.md) |
-| 3 | [Características da Plataforma](../entrega-3/principios-metas-e-guia/principios-gerais.md) |
-| 3 | [Guia de Estilo do Detran-DF](../entrega-3/principios-metas-e-guia/guia-de-estilo.md) |
-| 3 | [Matriz de Contribuição e Sintetização das Atividades — Entrega 3](../entrega-3/contribuicoes.md) |
-| 4 | [Matriz de Contribuição e Sintetização das Atividades — Entrega 4](../entrega-4/contribuicoes.md) |
-| 4 | [Planejamento da Avaliação (DECIDE) – Storyboard e Análise de Tarefas](../entrega-4/planejamento-da-avaliacao/decide.md) |
-| 4 | [Planejamento da Entrega 4 — João Vitor Tavares](../entrega-4/integrantes/joao-vitor/planejamento-individual.md) |
-
-Fonte: elaborado pelos autores (2026), a partir das tabelas de contribuição das páginas.
+Fonte: elaborado pelos autores (2026), com base no Cronograma Planejado, nos cronogramas individuais da Entrega 4, no Moodle e no Plano de Ensino.
 
 ## Referências
 
-SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reunir nesta página os registros já publicados no site sobre João Vitor: tarefas do Cronograma Planejado, matrizes de contribuição, relatórios, atas, inspeções, cronogramas individuais e atividades individuais do Moodle. Nenhuma tarefa foi atribuída e nenhuma contribuição foi acrescentada pela ferramenta: o que não está registrado aparece como **[VERIFICAR]**. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/10 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reunir nesta página os registros já publicados no site sobre João Vitor: tarefas do Cronograma Planejado, matrizes de contribuição, relatórios, atas, inspeções, cronogramas individuais e atividades individuais do Moodle. Nenhuma tarefa foi atribuída e nenhuma contribuição foi acrescentada pela ferramenta. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

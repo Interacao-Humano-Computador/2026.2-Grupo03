@@ -1,5 +1,7 @@
 # Relatório da Refatoração do GitHub Pages – Grupo 03 (IHC 2026.2)
 
+> **Nota de 17/10/2026.** Depois desta refatoração, o site foi reorganizado por entrega (`docs/entrega-N/`), com uma pasta por integrante em cada entrega e a aba Trabalhos Avaliativos. Os caminhos citados abaixo são os de 15/10/2026; os endereços antigos redirecionam para os novos. Os marcadores [VERIFICAR] foram retirados do site e o que falta completar está na pasta [`pendencias/`](pendencias/README.md).
+
 Relatório pedido pela seção 9 do `Refatoração/CLAUDE.md`. Fica na raiz do repositório, fora de `docs/` e da navegação do site.
 
 - **Data:** 15/10/2026

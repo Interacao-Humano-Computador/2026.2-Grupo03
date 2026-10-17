@@ -21,7 +21,7 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 08/2026 | 1.0 | Elaboração do trabalho, entregue no Moodle (mês de entrega; dia não registrado no arquivo) | Alexandre Vilar | — |
+| 08/2026 | 1.0 | Elaboração do trabalho, entregue no Moodle | Alexandre Vilar | — |
 | 17/10/2026 | 1.1 | Publicação no site: transcrição, fotos das fontes, citações e referências no padrão da disciplina | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
