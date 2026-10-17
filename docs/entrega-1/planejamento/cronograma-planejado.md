@@ -6,15 +6,14 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | **[VERIFICAR: contribuição]** | — | — |
+| Alexandre Vilar Valadares Fonsêca | — | — | — |
+| Camile Barbosa Gonzaga de Oliveira | Organização detalhada do cronograma da equipe no relatório entregue (GRUPO 03, 2026, seções 4 e 6) | [Relatório da Entrega 1, seção 6](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
 | Eduardo Ribeiro Gomes da Silva | Migração do cronograma para a estrutura atual do site | [Commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
-| Gabriel Robson | **[VERIFICAR: contribuição]** | — | — |
+| Gabriel Robson Nunes Neiva da Silva | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Alteração de autores e prazos (versões 1.1, 1.2 e 1.3) | [Commit df30e39](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/df30e39); [commit 142c6cb](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/142c6cb); [commit f60769e](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f60769e) | — |
 | João Vitor Tavares de Sá Lima | Revisão da versão 1.2 | — | — |
 
 Fonte: elaborado pelos autores (2026).
-
-<!-- TODO(VERIFICAR): o relatório da Entrega 1 (seção 6, p. 11) atribui a "organização detalhada do cronograma da equipe" a Camile Barbosa Gonzaga de Oliveira, integrante da Entrega 1 (commit b35dc60). A forma de registrar essa contribuição depende de decisão do grupo. -->
 
 ## Histórico de versões
 
@@ -22,11 +21,12 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Consolidação das atividades, responsáveis, prazos e marcos do projeto. | **[VERIFICAR: autor]** (registrado como "A definir") | **[VERIFICAR: revisor]** (registrado como "A definir") |
-| 17/09/2026 | 1.1 | Alteração de autores e adequação ás mudanças descritas em aula. | Henrique | **[VERIFICAR: revisor]** (registrado como "-") |
+| 10/09/2026 | 1.0 | Consolidação das atividades, responsáveis, prazos e marcos do projeto. | — | — |
+| 17/09/2026 | 1.1 | Alteração de autores e adequação ás mudanças descritas em aula. | Henrique | — |
 | 24/09/2026 | 1.2 | Alteração do autor da tarefa: "Redigir o Termo de Consentimento (TCLE)" e finalização da tarefa | Henrique | João Vitor |
-| 06/10/2026 | 1.3 | Alteração de autores e de prazos da entrega 3 | Henrique | **[VERIFICAR: revisor]** (registrado como "-") |
-| 15/10/2026 | 1.4 | Padronização da estrutura (tabela de contribuição, numeração das seções e dos quadros), inclusão do Quadro 18 (gravação e ajustes por etapa), do vínculo com o cronograma executado e da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 06/10/2026 | 1.3 | Alteração de autores e de prazos da entrega 3 | Henrique | — |
+| 15/10/2026 | 1.4 | Padronização da estrutura (tabela de contribuição, numeração das seções e dos quadros), inclusão do Quadro 18 (gravação e ajustes por etapa), do vínculo com o cronograma executado e da seção de uso de IA | Henrique Schneider | — |
+| 17/10/2026 | 1.5 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição; retirada do Quadro 18 | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -39,13 +39,6 @@ O que de fato foi realizado, por quem e em que datas está no [Cronograma Execut
 ## 2. Cronograma detalhado das atividades
 
 Os Quadros 1 a 17 apresentam as tarefas de cada etapa, com responsável, datas e dependências.
-
-<!-- TODO(VERIFICAR): pontos a conferir pelo grupo, sem alteração nesta refatoração:
-  (a) 2.1: a tarefa "Redigir cronograma detalhado da equipe" está com Gabriel, mas o relatório da Entrega 1 (seção 4.1) a atribui a Camile; Gabriel entrou na Entrega 2.
-  (b) 2.4, 2.6 e 2.7: as inspeções dos Grupos 02 (02/10) e 07 (10/10) e a Entrega 4 já ocorreram, mas a coluna "Situação" está como "Não iniciado".
-  (c) 2.8: o título fala em "Grupo + 1 (Grupo 7)", mas a inspeção da Entrega 4 foi feita no Grupo -1 (Grupo 01), em 14/10.
-  (d) Marcos: a Entrega 3 está com 08/10/2026, mas o Plano de Ensino indica a entrega em 06/10 e a apresentação em 08/10 (SALES, 2026, p. 5).
-  (e) 2.7: Eduardo não tem tarefa individual; o relatório da Entrega 4 também não tem cronograma dele nem de Gabriel. -->
 
 ### 2.1 Planejamento do Projeto — Vencimento: 06/09/2026
 
@@ -244,27 +237,7 @@ Fonte: elaborado pelos autores (2026).
 
 Fonte: elaborado pelos autores (2026).
 
-## 3. Períodos de gravação e de ajustes pós-feedback
-
-Os itens 3 e 4 do planejamento geral pedem que o cronograma apresente "um período de gravação da apresentação de cada etapa" e "um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor" (SALES, 2026, p. 8). O Quadro 18 reúne as datas de entrega, inspeção e apresentação definidas no Plano de Ensino e os períodos que o grupo ainda precisa definir.
-
-**Quadro 18 – Gravação e ajustes pós-feedback por etapa**
-
-| Etapa | Entrega (Moodle) | Inspeção | Apresentação em aula | Período de gravação | Período de ajustes pós-feedback |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| Entrega 1 – Planejamento do Projeto | 06/09 | 07/09 | 08/09 | **[VERIFICAR]** | **[VERIFICAR]** |
-| Entrega 2 – Perfil do Usuário, Aspectos Éticos e Análise de Tarefas | 27/09 | 28/09 | 29/09 | **[VERIFICAR]** | **[VERIFICAR]** |
-| Entrega 3 – Princípios Gerais, Metas de Usabilidade e Guia de Estilo | 06/10 | 07/10 | 08/10 | **[VERIFICAR]** | **[VERIFICAR]** |
-| Entrega 4 – Planejamento da Avaliação do Storyboard e da Análise de Tarefas | 13/10 | 14/10 | 15/10 | **[VERIFICAR]** | **[VERIFICAR]** |
-| Entrega 5 – Relato do Storyboard e Planejamento do Protótipo de Papel | 25/10 | 26/10 | 27/10 | **[VERIFICAR]** | **[VERIFICAR]** |
-| Entrega 6 – Relato do Protótipo de Papel e Planejamento da Alta Fidelidade | 03/11 | 04/11 | 05/11 | **[VERIFICAR]** | **[VERIFICAR]** |
-| Entrega 7 – Relato do Protótipo de Alta Fidelidade | 15/11 | 16/11 | 17/11 | **[VERIFICAR]** | **[VERIFICAR]** |
-| Entrega 8 – Verificação dos Artefatos | 22/11 | 23/11 | 24/11 | **[VERIFICAR]** | **[VERIFICAR]** |
-| Projeto Final | 30/11 | — | 01/12, 03/12 ou 08/12 | **[VERIFICAR]** | Não se aplica |
-
-Fonte: elaborado pelos autores (2026), com as datas de entrega, inspeção e apresentação de Sales (2026, pp. 4–6).
-
-## 4. Marcos do projeto
+## 3. Marcos do projeto
 
 - **06/09/2026**: Entrega do Planejamento do Projeto (Entrega 1).
 - **27/09/2026**: Entrega do Perfil do Usuário e da Análise de Tarefas (Entrega 2).
@@ -276,7 +249,7 @@ Fonte: elaborado pelos autores (2026), com as datas de entrega, inspeção e apr
 - **22/11/2026**: Verificação dos Artefatos (Entrega 8).
 - **30/11/2026**: Submissão do Projeto Final (Entrega 9).
 
-## 5. Critérios de acompanhamento
+## 4. Critérios de acompanhamento
 
 O cronograma deve ser revisado a cada reunião do grupo. Alterações de prazo devem registrar a nova data, o motivo e o responsável, mantendo o histórico de versões atualizado.
 
@@ -290,4 +263,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar esta página no modelo de artefato da disciplina (tabela de contribuição, numeração das seções e legendas dos quadros), incluir o Quadro 18 com as datas do Plano de Ensino e campos **[VERIFICAR]** para os períodos que o grupo ainda precisa definir, incluir o vínculo com o cronograma executado e corrigir a grafia de um nome. Tarefas, responsáveis, datas e situações do planejamento não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, numeração das seções e legendas dos quadros), incluir o vínculo com o cronograma executado e corrigir a grafia de um nome. Tarefas, responsáveis, datas e situações do planejamento não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

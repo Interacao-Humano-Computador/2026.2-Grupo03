@@ -2,17 +2,16 @@
 
 ## Tabela de contribuição
 
-<!-- D10: "Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver." (SALES, 2026, p. 9) -->
-
 **Tabela 1 – Contribuições no artefato Site Escolhido**
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | **[VERIFICAR: contribuição]** | — | — |
+| Alexandre Vilar Valadares Fonsêca | — | — | — |
+| Camile Barbosa Gonzaga de Oliveira | Detalhamento da escolha do site no relatório entregue (GRUPO 03, 2026, seções 2 e 6) | [Relatório da Entrega 1, seção 6](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
 | Eduardo Ribeiro Gomes da Silva | Introdução, justificativa da escolha e critérios de seleção (versão 1.0) | [Commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | [Apresentação da Entrega 1](../../apresentacoes.md) |
-| Gabriel Robson | **[VERIFICAR: contribuição]** (integrante a partir da Entrega 2) | — | — |
-| Henrique Schneider Fernandes da Rosa | **[VERIFICAR: contribuição]** | — | — |
-| João Vitor Tavares de Sá Lima | **[VERIFICAR: contribuição]** | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Não se aplica (integrante a partir da Entrega 2) | — | — |
+| Henrique Schneider Fernandes da Rosa | — | — | — |
+| João Vitor Tavares de Sá Lima | — | — | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -22,16 +21,15 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Introdução, justificativa de escolha e critérios | Eduardo Ribeiro | **[VERIFICAR: revisor]** (registrado como "A definir") |
-| 15/10/2026 | 1.1 | Padronização da estrutura (tabela de contribuição, numeração de seções), das referências (ABNT) e inclusão da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 10/09/2026 | 1.0 | Introdução, justificativa de escolha e critérios | Eduardo Ribeiro | — |
+| 15/10/2026 | 1.1 | Padronização da estrutura (tabela de contribuição, numeração de seções), das referências (ABNT) e inclusão da seção de uso de IA | Henrique Schneider | — |
+| 17/10/2026 | 1.2 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
 Após algumas discussões e análises, chegamos a um consenso e escolhemos o **Portal do Departamento de Trânsito do Distrito Federal (Detran-DF)** como foco do nosso trabalho. O principal objetivo é aplicar os métodos de IHC para avaliar a plataforma atual e entender como ela é utilizada pelos cidadãos. Essa abordagem considera a interação entre usuários, objetivos, tarefas e sistema, aspecto central da área de Interação Humano-Computador (Barbosa; Silva, 2010). A seguir, apresentaremos os critérios e motivos que levaram à escolha desse portal.
-
-<!-- TODO(VERIFICAR): as citações de Barbosa e Silva (2010) desta página não indicam capítulo e página. Regra do grupo: incluir cap., seç. e p. (CLAUDE.md, seção 5.1). -->
 
 ## 2. Justificativa da escolha
 
@@ -60,12 +58,12 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Co
 
 DEPARTAMENTO DE TRÂNSITO DO DISTRITO FEDERAL. *Portal do Detran-DF*. Brasília, DF, 2026. Disponível em: https://www.detran.df.gov.br/. Acesso em: 10 set. 2026.
 
+GRUPO 03. *Relatório da Etapa 1: Planejamento do Projeto – Portal do Detran-DF*. Brasília: Universidade de Brasília, 2026. Disponível em: [PDF](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf).
+
 NIELSEN, Jakob. Heuristic evaluation. *In*: NIELSEN, Jakob; MACK, Robert L. (ed.). *Usability inspection methods*. New York: John Wiley & Sons, 1994. p. 25-62.
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
 
-<!-- TODO(VERIFICAR): NIELSEN (1994) está na lista, mas não é citado no texto desta página. Citar no texto ou retirar da lista (CLAUDE.md, seção 5.6). -->
-
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções e desta seção), padronizar as citações e as referências conforme a ABNT e marcar com **[VERIFICAR]** as informações que só o grupo pode confirmar. O texto da introdução, da justificativa e dos critérios não foi alterado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções e desta seção) e padronizar as citações e as referências conforme a ABNT. O texto da introdução, da justificativa e dos critérios não foi alterado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

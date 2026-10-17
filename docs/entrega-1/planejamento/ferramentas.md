@@ -6,11 +6,12 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | Redação das ferramentas do projeto e do processo de design, segundo o cronograma (GRUPO 03, 2026, seção 4.1). **[VERIFICAR: evidência da contribuição]** | — | — |
+| Alexandre Vilar Valadares Fonsêca | Redação das ferramentas do projeto e do processo de design, segundo o cronograma (GRUPO 03, 2026, seção 4.1) | — | — |
+| Camile Barbosa Gonzaga de Oliveira | Detalhamento da justificativa das ferramentas no relatório entregue (GRUPO 03, 2026, seções 3 e 6) | [Relatório da Entrega 1, seção 6](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
 | Eduardo Ribeiro Gomes da Silva | Documentação das ferramentas e de suas finalidades (versão 1.0); atualização das ferramentas e inclusão dos logos (versão 1.1) | [Commit 8205c95](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/8205c95); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
-| Gabriel Robson | **[VERIFICAR: contribuição]** (integrante a partir da Entrega 2) | — | — |
-| Henrique Schneider Fernandes da Rosa | **[VERIFICAR: contribuição]** | — | — |
-| João Vitor Tavares de Sá Lima | Redação das ferramentas do projeto e do processo de design, segundo o cronograma (GRUPO 03, 2026, seção 4.1). **[VERIFICAR: evidência da contribuição]** | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Não se aplica (integrante a partir da Entrega 2) | — | — |
+| Henrique Schneider Fernandes da Rosa | — | — | — |
+| João Vitor Tavares de Sá Lima | Redação das ferramentas do projeto e do processo de design, segundo o cronograma (GRUPO 03, 2026, seção 4.1) | — | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -20,9 +21,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/09/2026 | 1.0 | Documentação das ferramentas usadas no projeto e de suas finalidades. | Eduardo Ribeiro | **[VERIFICAR: revisor]** (registrado como "A definir") |
-| 10/09/2026 | 1.1 | Atualização das ferramentas utilizadas e inclusão dos respectivos logos. | Eduardo Ribeiro | **[VERIFICAR: revisor]** (registrado como "A definir") |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções, legenda da tabela), das referências (ABNT) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 06/09/2026 | 1.0 | Documentação das ferramentas usadas no projeto e de suas finalidades. | Eduardo Ribeiro | — |
+| 10/09/2026 | 1.1 | Atualização das ferramentas utilizadas e inclusão dos respectivos logos. | Eduardo Ribeiro | — |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções, legenda da tabela), das referências (ABNT) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | — |
+| 17/10/2026 | 1.3 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -33,8 +35,6 @@ Para desenvolver o projeto da disciplina de Interação Humano-Computador (IHC) 
 A escolha das plataformas considerou principalmente a facilidade de acesso, a praticidade, a colaboração remota e a possibilidade de integração entre elas. Com isso, foi possível organizar melhor as etapas de análise, síntese e avaliação, além de manter os registros e documentos do projeto centralizados e de fácil acesso para a equipe.
 
 A **Tabela 3** apresenta as ferramentas utilizadas no projeto e explica o motivo da escolha de cada uma, destacando como elas contribuíram para o desenvolvimento das atividades ao longo do projeto.
-
-<!-- TODO(VERIFICAR): a introdução fala em "quatro integrantes"; a equipe atual tem cinco. O relatório da Entrega 1 (seção 3) também cita "ferramentas de prototipagem/wireframing", que não aparecem na Tabela 3. -->
 
 ## 2. Ferramentas e motivo da escolha
 
@@ -52,8 +52,6 @@ A **Tabela 3** apresenta as ferramentas utilizadas no projeto e explica o motivo
 | Visual Studio Code | ![Logo do Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg){ width="42" } | Permite editar os arquivos Markdown, YAML e CSS, além de acompanhar a estrutura do projeto. |
 
 Fonte: elaborado pelos autores (2026), com base nas páginas oficiais das ferramentas (Google, 2026a, 2026b; Git SCM, 2026; GitHub, 2026; Microsoft, 2026a, 2026b; WhatsApp, 2026; YouTube, 2026; MkDocs, 2026) e nos repositórios de logos (Simple Icons, 2026; Icons8, 2026; Devicon, 2026).
-
-<!-- TODO(VERIFICAR): incluir na Tabela 3 as ferramentas usadas depois da Entrega 1 e registradas em outras páginas: ChatGPT (guia de estilo), Claude (inspeção da Entrega 4 e relatório da Entrega 4), Riverside (transcrição da inspeção da Entrega 3), Google Drive e Mozilla Firefox. O Projeto Final pede "uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto" (SALES, 2026, p. 7). -->
 
 ### 2.1 Observações sobre autoria e licenças
 
@@ -97,6 +95,6 @@ Durante o desenvolvimento do projeto, o Google Gemini foi utilizado como ferrame
 
 Todo conteúdo sugerido pela inteligência artificial foi analisado, conferido e adaptado pelos autores. A responsabilidade pelo conteúdo final, pelas interpretações, pelas citações e pelas referências é exclusivamente dos integrantes do Grupo 3. O uso da ferramenta teve finalidade auxiliar e não representa coautoria da inteligência artificial.
 
-### Uso de IA generativa na refatoração de 15/10/2026
+### Uso de IA generativa na padronização da página
 
-O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico em ordem cronológica, numeração das seções e legenda da tabela), padronizar as referências conforme a ABNT e reunir as declarações de uso de IA nesta seção. A tabela de ferramentas e o texto da página não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico em ordem cronológica, numeração das seções e legenda da tabela), padronizar as referências conforme a ABNT e reunir as declarações de uso de IA nesta seção. A tabela de ferramentas e o texto da página não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

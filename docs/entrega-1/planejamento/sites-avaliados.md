@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Avaliação individual do SouGov.br (FONSECA, 2026) | [PDF da avaliação](../../assets/pdfs/SouGovMetodoeAvali%C3%A7%C3%A3o.pdf) | — |
 | Eduardo Ribeiro Gomes da Silva | Avaliação individual do Meu SUS Digital (SILVA, 2026); estruturação dos critérios e do quadro comparativo (versão 1.0) e consolidação das avaliações (versão 2.0) | [PDF da avaliação](../../assets/pdfs/avaliaoMeuSUSDigital.pdf); [commit 4d40b86](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/4d40b86); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
-| Gabriel Robson | **[VERIFICAR: contribuição]** (integrante a partir da Entrega 2) | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Não se aplica (integrante a partir da Entrega 2) | — | — |
 | Henrique Schneider Fernandes da Rosa | Avaliação individual da Época Cosméticos (ROSA, 2026) | [PDF da avaliação](../../assets/pdfs/ProjetoParteIndividualMetodoEAvali%C3%A7%C3%A3o.pdf) | — |
 | João Vitor Tavares de Sá Lima | Avaliação individual do Portal de Serviços do Detran-DF (LIMA, 2026); inclusão na tabela de sites avaliados | [PDF da avaliação](../../assets/pdfs/PlojetoParteIndividualMetodoeAvali%C3%A7%C3%A3o.pdf); [commit 968f18d](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/968f18d) | — |
 
@@ -20,9 +20,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Estruturação inicial dos critérios e do quadro comparativo. | Eduardo Ribeiro | **[VERIFICAR: revisor]** (registrado como "A definir") |
-| 10/09/2026 | 2.0 | Consolidação das avaliações individuais de SouGov.br, Meu SUS Digital, Época Cosméticos e Portal de Serviços do Detran-DF. | Eduardo Ribeiro | **[VERIFICAR: revisor]** (registrado como "A definir") |
-| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, numeração e legendas das tabelas, chamadas no texto), das referências (ABNT) e inclusão da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 10/09/2026 | 1.0 | Estruturação inicial dos critérios e do quadro comparativo. | Eduardo Ribeiro | — |
+| 10/09/2026 | 2.0 | Consolidação das avaliações individuais de SouGov.br, Meu SUS Digital, Época Cosméticos e Portal de Serviços do Detran-DF. | Eduardo Ribeiro | — |
+| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, numeração e legendas das tabelas, chamadas no texto), das referências (ABNT) e inclusão da seção de uso de IA | Henrique Schneider | — |
+| 17/10/2026 | 2.2 | Organização por entrega; revisão da tabela de contribuição e da nota sobre a lista de sites do relatório entregue | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -34,8 +35,7 @@ As avaliações não constituem uma única pesquisa com o mesmo sistema. Cada in
 
 A análise considera a IHC como o estudo da interação entre pessoas, sistemas e tarefas, levando em conta as características e necessidades dos usuários no contexto de uso (Barbosa; Silva, 2010).
 
-!!! note "Outra lista de sites candidatos"
-    O relatório entregue na Entrega 1 (Grupo 03, 2026, seção 2, pp. 3–5) compara outros cinco sites preliminares (Portal do Detran-DF, Portal do GDF, Meu SUS Digital, Meu Gov e Meu INSS). A comparação está transcrita no [Relatório da Entrega 1](../relatorio.md). **[VERIFICAR: o grupo deve indicar como as duas listas se relacionam.]**
+O relatório entregue na Entrega 1 (Grupo 03, 2026, seção 2, pp. 3–5) compara outros cinco sites preliminares (Portal do Detran-DF, Portal do GDF, Meu SUS Digital, Meu Gov e Meu INSS). Essa comparação está transcrita no [Relatório da Entrega 1](../relatorio.md), seção 5.1.
 
 ## 2. Integrantes e sites avaliados
 
@@ -164,4 +164,4 @@ SILVA, Eduardo Ribeiro Gomes da. *Projeto de avaliação de IHC: Meu SUS Digital
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico em ordem cronológica, numeração das seções, legendas e chamadas das tabelas), ordenar e padronizar as referências conforme a ABNT, incluir o aviso sobre a lista de sites do relatório da Entrega 1 e marcar com **[VERIFICAR]** as informações que só o grupo pode confirmar. As sínteses das avaliações individuais não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico em ordem cronológica, numeração das seções, legendas e chamadas das tabelas), ordenar e padronizar as referências conforme a ABNT e incluir a nota sobre a lista de sites do relatório da Entrega 1. As sínteses das avaliações individuais não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
