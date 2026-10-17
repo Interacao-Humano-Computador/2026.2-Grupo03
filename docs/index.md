@@ -19,27 +19,27 @@
 Esta documentação apresenta o planejamento da avaliação de Interação Humano-Computador do Portal do Departamento de Trânsito do Distrito Federal (Detran-DF), desenvolvido pelo Grupo 3 na disciplina de Interação Humano-Computador, turma 01, sob orientação do Prof. Dr. André Barros de Sales.
 
 <div class="project-grid">
-<a class="project-card" href="relatorios/">
+<a class="project-card" href="relatorios">
 <strong>Relatórios das entregas</strong>
 <span>Relatório consolidado de cada entrega: escopo, artefatos, cronogramas, autoavaliação e contribuições.</span>
 </a>
-<a class="project-card" href="acompanhamento/">
+<a class="project-card" href="acompanhamento">
 <strong>Acompanhamento</strong>
 <span>Pendências de cada etapa e situação das próximas entregas por integrante.</span>
 </a>
-<a class="project-card" href="planejamento/site%20escolhido/site_escolhido/">
+<a class="project-card" href="planejamento/site%20escolhido/site_escolhido">
 <strong>Planejamento</strong>
 <span>Objeto de estudo, processo de design, ferramentas, cronograma e demais etapas do planejamento.</span>
 </a>
-<a class="project-card" href="verificacao/">
+<a class="project-card" href="verificacao">
 <strong>Verificação</strong>
 <span>Autoavaliação do Grupo 03 e inspeções realizadas nas entregas dos Grupos 05, 02, 07 e 01.</span>
 </a>
-<a class="project-card" href="atas/">
+<a class="project-card" href="atas">
 <strong>Atas</strong>
 <span>Registros das reuniões, decisões e encaminhamentos do grupo.</span>
 </a>
-<a class="project-card" href="apresentacoes/">
+<a class="project-card" href="apresentacoes">
 <strong>Apresentações</strong>
 <span>Vídeos das apresentações, inspeções e reuniões, com os integrantes de cada gravação.</span>
 </a>

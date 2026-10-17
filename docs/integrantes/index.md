@@ -60,7 +60,7 @@ Fonte: elaborado pelos autores (2026), com base nas páginas de cada integrante.
 | 8 (22/11) | — | — | Padronizar formatação do documento final (20/11 – 22/11) | Corrigir inconsistências apontadas (19/11 – 22/11) | Conferir todos os artefatos produzidos (17/11 – 22/11) |
 | Final (30/11) | — | — | — | Preparar apresentação final e vídeo (27/11 – 29/11) | — |
 
-Fonte: [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadros 9, 11, 13, 15 e 17. As tarefas de todos os integrantes (inspeções, revisões, consolidação final e facilidades e dificuldades) estão na página de cada integrante.
+Fonte: [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadros 9, 11, 13, 15 e 17. As tarefas de todos os integrantes (inspeções, revisões, consolidação final e facilidades e dificuldades) estão na página de cada integrante.
 
 ## Referências
 

@@ -26,7 +26,7 @@ Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-O Plano de Ensino não traz uma lista de verificação para o Projeto Final, mas define os tópicos que a apresentação "deve possuir" e a sua duração (SALES, 2026, pp. 7–8). O Quadro 1 transforma esses tópicos em perguntas de verificação, cada uma ligada à seção da página do [Projeto Final](../projeto-final/index.md) que a atende. Responda cada item com Sim, Não ou Incompleto, com a versão, a data e a hora da avaliação, como nas listas das outras entregas.
+O Plano de Ensino não traz uma lista de verificação para o Projeto Final, mas define os tópicos que a apresentação "deve possuir" e a sua duração (SALES, 2026, pp. 7–8). O Quadro 1 transforma esses tópicos em perguntas de verificação, cada uma ligada à seção da página do [Projeto Final](projeto-final.md) que a atende. Responda cada item com Sim, Não ou Incompleto, com a versão, a data e a hora da avaliação, como nas listas das outras entregas.
 
 ## 2. Itens
 

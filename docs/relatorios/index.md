@@ -20,15 +20,15 @@ O Quadro 1 resume as entregas.
 
 | Entrega | Tema | Prazo | Relatório |
 | --- | --- | :---: | --- |
-| 1 | Planejamento do Projeto | 06/09/2026 | [Relatório da Entrega 1](entrega-1.md) |
-| 2 | Perfil do Usuário, Aspectos Éticos e Análise de Tarefas | 27/09/2026 | [Relatório da Entrega 2](entrega-2.md) |
-| 3 | Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo | 06/10/2026 | [Relatório da Entrega 3](entrega-3.md) |
-| 4 | Planejamento da Avaliação do Storyboard e da Análise de Tarefas | 13/10/2026 | [Relatório da Entrega 4](entrega-4.md) |
-| 5 | Relato do Storyboard e da Análise de Tarefas e Planejamento do Protótipo de Papel | 25/10/2026 | Pendente – ver [Acompanhamento](../acompanhamento/index.md) |
+| 1 | Planejamento do Projeto | 06/09/2026 | [Relatório da Entrega 1](../entrega-1/relatorio.md) |
+| 2 | Perfil do Usuário, Aspectos Éticos e Análise de Tarefas | 27/09/2026 | [Relatório da Entrega 2](../entrega-2/relatorio.md) |
+| 3 | Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo | 06/10/2026 | [Relatório da Entrega 3](../entrega-3/relatorio.md) |
+| 4 | Planejamento da Avaliação do Storyboard e da Análise de Tarefas | 13/10/2026 | [Relatório da Entrega 4](../entrega-4/relatorio.md) |
+| 5 | Relato do Storyboard e da Análise de Tarefas e Planejamento do Protótipo de Papel | 25/10/2026 | Pendente – ver [Acompanhamento](../integrantes/index.md) |
 | 6 | Relato do Protótipo de Papel e Planejamento do Protótipo de Alta Fidelidade | 03/11/2026 | Pendente |
 | 7 | Relato do Protótipo de Alta Fidelidade | 15/11/2026 | Pendente |
 | 8 | Verificação dos Artefatos | 22/11/2026 | Pendente |
-| Final | Projeto Final | 30/11/2026 | Pendente – ver [Projeto Final](../projeto-final/index.md) |
+| Final | Projeto Final | 30/11/2026 | Pendente – ver [Projeto Final](../listas-verificacao/projeto-final.md) |
 
 Fonte: elaborado pelos autores (2026), com os prazos de Sales (2026, pp. 4–6).
 

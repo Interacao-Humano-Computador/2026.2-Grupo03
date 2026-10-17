@@ -100,9 +100,9 @@ As inspeções abaixo foram gravadas, mas não têm ata. O Quadro 4 serve de pon
 
 | Data | Sessão | Gravação | Registro existente |
 | :---: | --- | --- | --- |
-| 07/09/2026 | Inspeção da Entrega 1 do Grupo 05 | Microsoft Teams, no OneDrive de um integrante (link não reproduzido porque contém a matrícula) | [Inspeção do Grupo 05](../verificacao/grupo-05/entrega-1/lista-verificacao.md) |
-| 02/10/2026 | Inspeção da Entrega 2 do Grupo 02 | [YouTube](https://youtu.be/xNhCVgt2FE4) | [Inspeção do Grupo 02](../verificacao/grupo-02/entrega-2/lista-verificacao.md) |
-| 10/10/2026 | Inspeção da Entrega 3 do Grupo 07 (dupla e individual) | [YouTube (dupla)](https://www.youtube.com/watch?v=ObXAAFdPD_I); [YouTube (individual)](https://youtu.be/TYv1vovnuYc) | [Inspeção do Grupo 07](../verificacao/grupo-07/entrega-3/lista-verificacao.md) |
+| 07/09/2026 | Inspeção da Entrega 1 do Grupo 05 | Microsoft Teams, no OneDrive de um integrante (link não reproduzido porque contém a matrícula) | [Inspeção do Grupo 05](../entrega-1/verificacao/inspecao-grupo-05.md) |
+| 02/10/2026 | Inspeção da Entrega 2 do Grupo 02 | [YouTube](https://youtu.be/xNhCVgt2FE4) | [Inspeção do Grupo 02](../entrega-2/verificacao/inspecao-grupo-02.md) |
+| 10/10/2026 | Inspeção da Entrega 3 do Grupo 07 (dupla e individual) | [YouTube (dupla)](https://www.youtube.com/watch?v=ObXAAFdPD_I); [YouTube (individual)](https://youtu.be/TYv1vovnuYc) | [Inspeção do Grupo 07](../entrega-3/verificacao/inspecao-grupo-07.md) |
 
 Fonte: elaborado pelos autores (2026), com base em [Apresentações e gravações](../apresentacoes.md).
 
@@ -113,7 +113,7 @@ Fonte: elaborado pelos autores (2026), com base em [Apresentações e gravaçõe
 1. Copie o [Modelo de Ata](modelo.md) para um arquivo novo nesta pasta, com o nome `ata-reuniao-AAAAMMDD-XX.md` (data da reunião e número sequencial).
 2. Grave a reunião com a câmera aberta, publique o vídeo no YouTube como "não listado" e coloque o link na identificação.
 3. Inclua a ata no Quadro 2 desta página e na navegação (`mkdocs.yml`, aba "Atas").
-4. Registre os compromissos no [Cronograma Executado](../planejamento/cronograma/cronograma_executado.md) e as contribuições nas tabelas de contribuição das páginas afetadas.
+4. Registre os compromissos no [Cronograma Executado](../entrega-1/planejamento/cronograma-executado.md) e as contribuições nas tabelas de contribuição das páginas afetadas.
 
 ## Referências
 

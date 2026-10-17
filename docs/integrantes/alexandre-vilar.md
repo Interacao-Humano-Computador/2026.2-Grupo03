@@ -32,7 +32,7 @@ Ela não substitui as tabelas de contribuição de cada artefato: quando uma con
 
 ## 2. Entregas anteriores
 
-Cada aba compara o que o [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md) atribuía na entrega com o que está registrado como realizado.
+Cada aba compara o que o [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md) atribuía na entrega com o que está registrado como realizado.
 
 === "Entrega 1"
 
@@ -40,12 +40,12 @@ Cada aba compara o que o [Cronograma Planejado](../planejamento/cronograma/crono
 
     | Item | Registro |
     | --- | --- |
-    | Planejado | Redigir ferramentas do projeto e processo de design, com Eduardo e João Vitor (06/08); definir o site avaliado e inspecionar o Grupo 05, com todos ([Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadros 1 e 2) |
+    | Planejado | Redigir ferramentas do projeto e processo de design, com Eduardo e João Vitor (06/08); definir o site avaliado e inspecionar o Grupo 05, com todos ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadros 1 e 2) |
     | Registrado como realizado | Avaliação individual do SouGov.br; inspeção do Grupo 05 (organização e formatação do relatório e checagem das informações); redação de ferramentas e processo de design (cronograma). **[VERIFICAR: o relatório entregue deixa a contribuição de Alexandre em branco (seção 6)]** |
-    | Evidência | [Sites Avaliados](../planejamento/sites%20avaliados/sites_avaliados.md); [Inspeção do Grupo 05](../verificacao/grupo-05/entrega-1/lista-verificacao.md); [Relatório da Entrega 1](../relatorios/entrega-1.md), Tabela 1 |
+    | Evidência | [Sites Avaliados](../entrega-1/planejamento/sites-avaliados.md); [Inspeção do Grupo 05](../entrega-1/verificacao/inspecao-grupo-05.md); [Relatório da Entrega 1](../entrega-1/relatorio.md), Tabela 1 |
     | Reunião gravada | — |
 
-    Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 1](../relatorios/entrega-1.md).
+    Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 1](../entrega-1/relatorio.md).
 
 === "Entrega 2"
 
@@ -53,12 +53,12 @@ Cada aba compara o que o [Cronograma Planejado](../planejamento/cronograma/crono
 
     | Item | Registro |
     | --- | --- |
-    | Planejado | Definir personas/perfis de usuário do Detran-DF (08/09 – 25/09) ([Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 3) |
+    | Planejado | Definir personas/perfis de usuário do Detran-DF (08/09 – 25/09) ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 3) |
     | Registrado como realizado | Definição, caracterização e construção dos Perfis de Usuário e do elenco de Personas; modelagem HTA/CTT individual da tarefa "Emissão de Guia de Débitos do Veículo" (08/09 a 27/09/2026) |
-    | Evidência | [Perfis e Personas](../perfil-de-usuario/personas/perfisEpersonas.md); [Matriz de Contribuição da Entrega 2](../perfil-de-usuario/contribuicao/contrib.md), Tabela 3 |
+    | Evidência | [Perfis e Personas](../entrega-2/perfil-e-tarefas/perfis-e-personas.md); [Matriz de Contribuição da Entrega 2](../entrega-2/contribuicoes.md), Tabela 3 |
     | Reunião gravada | Presente na [Reunião 01](../atas/ata-reuniao-20260927-01.md) (27/09/2026) |
 
-    Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 2](../relatorios/entrega-2.md).
+    Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 2](../entrega-2/relatorio.md).
 
 === "Entrega 3"
 
@@ -66,12 +66,12 @@ Cada aba compara o que o [Cronograma Planejado](../planejamento/cronograma/crono
 
     | Item | Registro |
     | --- | --- |
-    | Planejado | Definir princípios gerais de projeto, com Henrique Schneider (06/10) ([Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 5) |
+    | Planejado | Definir princípios gerais de projeto, com Henrique Schneider (06/10) ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 5) |
     | Registrado como realizado | Princípios gerais e conformidades do Detran-DF (v1.1 de Princípios, com Henrique Schneider); inspeção em dupla do Grupo 07, com autoria dos itens 20 a 22 (06/10 e 10/10/2026) |
-    | Evidência | [Princípios Gerais](../guia-estilo/principios/principios.md); [Inspeção do Grupo 07](../verificacao/grupo-07/entrega-3/lista-verificacao.md); [Matriz de Contribuição da Entrega 3](../guia-estilo/contribuicao/contrib.md), Tabela 3 |
+    | Evidência | [Princípios Gerais](../entrega-3/principios-metas-e-guia/principios-gerais.md); [Inspeção do Grupo 07](../entrega-3/verificacao/inspecao-grupo-07.md); [Matriz de Contribuição da Entrega 3](../entrega-3/contribuicoes.md), Tabela 3 |
     | Reunião gravada | — |
 
-    Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 3](../relatorios/entrega-3.md).
+    Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 3](../entrega-3/relatorio.md).
 
 === "Entrega 4"
 
@@ -79,37 +79,37 @@ Cada aba compara o que o [Cronograma Planejado](../planejamento/cronograma/crono
 
     | Item | Registro |
     | --- | --- |
-    | Planejado | Planejar a avaliação do storyboard – método e critérios (10/10 – 11/10) ([Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 7) |
+    | Planejado | Planejar a avaliação do storyboard – método e critérios (10/10 – 11/10) ([Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 7) |
     | Registrado como realizado | Item adicional N4 e participação na inspeção do Grupo 01 (14/10/2026); cronogramas individuais do planejamento da avaliação do storyboard, do relato e da HTA |
-    | Evidência | [Inspeção do Grupo 01](../verificacao/grupo-01/entrega-4/lista-verificacao.md); [Planejamento – Alexandre Vilar](../storyboard/planejamento/Alexandre_Vilar_Valadares_Fonseca.md); [Matriz de Contribuição da Entrega 4](../storyboard/contribuicao/contrib.md), Tabela 3 |
+    | Evidência | [Inspeção do Grupo 01](../entrega-4/verificacao/inspecao-grupo-01.md); [Planejamento – Alexandre Vilar](../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md); [Matriz de Contribuição da Entrega 4](../entrega-4/contribuicoes.md), Tabela 3 |
     | Reunião gravada | Presente na [Reunião 02](../atas/ata-reuniao-20261014-02.md) (14/10/2026) |
     | Pendente | Storyboard próprio (item C10 da lista da Entrega 4) **[VERIFICAR]** |
 
-    Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 4](../relatorios/entrega-4.md).
+    Fonte: elaborado pelos autores (2026), com base nos registros indicados na linha "Evidência" e no [Relatório da Entrega 4](../entrega-4/relatorio.md).
 
 ## 3. Próximas entregas
 
-A Tabela 7 junta as tarefas de Alexandre Vilar com as tarefas de todos os integrantes, na ordem das entregas. Os períodos são os do Cronograma Planejado e dos cronogramas individuais da Entrega 4; a situação de cada tarefa é acompanhada no [Acompanhamento das entregas](../acompanhamento/index.md).
+A Tabela 7 junta as tarefas de Alexandre Vilar com as tarefas de todos os integrantes, na ordem das entregas. Os períodos são os do Cronograma Planejado e dos cronogramas individuais da Entrega 4; a situação de cada tarefa é acompanhada no [Acompanhamento das entregas](index.md).
 
 **Tabela 7 – Próximas tarefas de Alexandre Vilar**
 
 | Entrega | Tarefa | Período | Origem | Página |
 | :---: | --- | :---: | --- | --- |
-| 5 | Cronograma individual: planejamento da avaliação do storyboard (10 tarefas) | 15/10 – 25/10 | [Planejamento – Alexandre Vilar](../storyboard/planejamento/Alexandre_Vilar_Valadares_Fonseca.md), Tabela 4 | [Relato do Storyboard](../storyboard/relatos/story.md) |
-| 5 | Cronograma individual: relato dos resultados (6 tarefas) | 19/10 – 25/10 | [Planejamento – Alexandre Vilar](../storyboard/planejamento/Alexandre_Vilar_Valadares_Fonseca.md), Tabela 5 | [Relato do Storyboard](../storyboard/relatos/story.md) |
-| 5 | Cronograma individual: avaliação da HTA (10 tarefas) | 14/10 – 25/10 | [Planejamento – Alexandre Vilar](../storyboard/planejamento/Alexandre_Vilar_Valadares_Fonseca.md), Tabela 6 | [Relato da Análise de Tarefas](../storyboard/relatos/analise.md) |
-| 5 | Redigir relato dos resultados | 18/10 – 19/10 | [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 9 | [Relato do Storyboard](../storyboard/relatos/story.md) |
-| 5 | Inspeção do Grupo -1 (Grupo 1) – todos os integrantes | 26/10 | [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 10 | [Listas de Verificação](../listas-verificacao/entregas-5-a-8.md) |
-| 6 | Executar avaliação do protótipo de baixa fidelidade | 27/10 – 28/10 | [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 11 | [Relato do Protótipo de Papel](../prototipo-papel/relato.md) |
-| 6 | Inspeção do Grupo +1 (Grupo 8) – todos os integrantes | 04/11 | [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 12 | [Listas de Verificação](../listas-verificacao/entregas-5-a-8.md) |
-| 7 | Redigir relatório final dos resultados | 11/11 – 14/11 | [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 13 | [Relato da Alta Fidelidade](../prototipo-alta-fidelidade/relato.md) |
-| 7 | Revisão final – todos os integrantes | 14/11 – 15/11 | [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 13 | — |
-| 7 | Inspeção do Grupo -1 – todos os integrantes | 16/11 – 21/11 | [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 14 | [Listas de Verificação](../listas-verificacao/entregas-5-a-8.md) |
-| 8 | Revisão cruzada final – todos os integrantes | 21/11 – 22/11 | [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 15 | [Verificação dos Artefatos](../verificacao-artefatos/index.md) |
-| 8 | Inspeção do Grupo +1 – todos os integrantes | 23/11 – 28/11 | [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 16 | [Listas de Verificação](../listas-verificacao/entregas-5-a-8.md) |
-| Final | Consolidar todos os documentos e artefatos em versão final – todos os integrantes | 24/11 – 29/11 | [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 17 | [Projeto Final](../projeto-final/index.md) |
-| Final | Revisão geral e submissão – todos os integrantes | 29/11 – 30/11 | [Cronograma Planejado](../planejamento/cronograma/cronograma_planejado.md), Quadro 17 | [Projeto Final](../projeto-final/index.md) |
-| Final | Facilidades e dificuldades encontradas no projeto (tópico 13) – cada integrante | até 29/11 | Plano de Ensino (SALES, 2026, p. 7) | [Projeto Final](../projeto-final/index.md) |
+| 5 | Cronograma individual: planejamento da avaliação do storyboard (10 tarefas) | 15/10 – 25/10 | [Planejamento – Alexandre Vilar](../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md), Tabela 4 | [Relato do Storyboard](../entrega-4/planejamento-da-avaliacao/decide.md) |
+| 5 | Cronograma individual: relato dos resultados (6 tarefas) | 19/10 – 25/10 | [Planejamento – Alexandre Vilar](../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md), Tabela 5 | [Relato do Storyboard](../entrega-4/planejamento-da-avaliacao/decide.md) |
+| 5 | Cronograma individual: avaliação da HTA (10 tarefas) | 14/10 – 25/10 | [Planejamento – Alexandre Vilar](../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md), Tabela 6 | [Relato da Análise de Tarefas](../entrega-4/planejamento-da-avaliacao/decide.md) |
+| 5 | Redigir relato dos resultados | 18/10 – 19/10 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 9 | [Relato do Storyboard](../entrega-4/planejamento-da-avaliacao/decide.md) |
+| 5 | Inspeção do Grupo -1 (Grupo 1) – todos os integrantes | 26/10 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 10 | [Listas de Verificação](../listas-verificacao/index.md) |
+| 6 | Executar avaliação do protótipo de baixa fidelidade | 27/10 – 28/10 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 11 | [Relato do Protótipo de Papel](../index.md) |
+| 6 | Inspeção do Grupo +1 (Grupo 8) – todos os integrantes | 04/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 12 | [Listas de Verificação](../listas-verificacao/index.md) |
+| 7 | Redigir relatório final dos resultados | 11/11 – 14/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 13 | [Relato da Alta Fidelidade](../index.md) |
+| 7 | Revisão final – todos os integrantes | 14/11 – 15/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 13 | — |
+| 7 | Inspeção do Grupo -1 – todos os integrantes | 16/11 – 21/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 14 | [Listas de Verificação](../listas-verificacao/index.md) |
+| 8 | Revisão cruzada final – todos os integrantes | 21/11 – 22/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 15 | [Verificação dos Artefatos](../index.md) |
+| 8 | Inspeção do Grupo +1 – todos os integrantes | 23/11 – 28/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 16 | [Listas de Verificação](../listas-verificacao/index.md) |
+| Final | Consolidar todos os documentos e artefatos em versão final – todos os integrantes | 24/11 – 29/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 17 | [Projeto Final](../listas-verificacao/projeto-final.md) |
+| Final | Revisão geral e submissão – todos os integrantes | 29/11 – 30/11 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), Quadro 17 | [Projeto Final](../listas-verificacao/projeto-final.md) |
+| Final | Facilidades e dificuldades encontradas no projeto (tópico 13) – cada integrante | até 29/11 | Plano de Ensino (SALES, 2026, p. 7) | [Projeto Final](../listas-verificacao/projeto-final.md) |
 
 Fonte: elaborado pelos autores (2026), com base no Cronograma Planejado, nos cronogramas individuais da Entrega 4 e no Plano de Ensino.
 
@@ -143,22 +143,22 @@ Nas páginas da Tabela 9, a contribuição de Alexandre Vilar está marcada como
 
 | Entrega | Página |
 | :---: | --- |
-| Todas | [Cronograma Executado](../planejamento/cronograma/cronograma_executado.md) |
-| Todas | [Cronograma de Atividades](../planejamento/cronograma/cronograma_planejado.md) |
-| 1 | [Ferramentas Utilizadas](../planejamento/ferramentas/ferramentas_utilizadas.md) |
-| 1 | [Heatmap de Disponibilidade](../planejamento/heatmap/heatmap.md) |
-| 1 | [Processo de Design](../planejamento/processo/processo_de_design.md) |
-| 1 | [Site Escolhido](../planejamento/site%20escolhido/site_escolhido.md) |
-| 1 a 3 | [Lista de Verificação do Plano de Ensino – Autoavaliação das Entregas 1 a 3](../outros/plano%20de%20ensino/lista.md) |
-| 2 | [Análise de Tarefas e Fluxos de Trabalho do Usuário](../perfil-de-usuario/analise/fluxos.md) |
-| 2 | [Aspectos Éticos e Termo de Consentimento Livre e Esclarecido (TCLE)](../perfil-de-usuario/aspectos-eticos/termo/TCLE.md) |
-| 2 | [Entrega 2 – Inspeção do Grupo 02 (Grupo -1)](../verificacao/grupo-02/entrega-2/lista-verificacao.md) |
-| 3 | [Características da Plataforma](../guia-estilo/plataforma/caracteristicas.md) |
-| 3 | [Guia de Estilo do Detran-DF](../guia-estilo/guia/guia.md) |
-| 3 | [Metas de Usabilidade](../guia-estilo/metas/metas.md) |
-| 4 | [Matriz de Contribuição e Sintetização das Atividades — Entrega 4](../storyboard/contribuicao/contrib.md) |
-| 4 | [Planejamento da Avaliação (DECIDE) – Storyboard e Análise de Tarefas](../storyboard/planejamento/decide.md) |
-| 4 | [Planejamento da Entrega 4 — Alexandre Vilar Valadares Fonsêca](../storyboard/planejamento/Alexandre_Vilar_Valadares_Fonseca.md) |
+| Todas | [Cronograma Executado](../entrega-1/planejamento/cronograma-executado.md) |
+| Todas | [Cronograma de Atividades](../entrega-1/planejamento/cronograma-planejado.md) |
+| 1 | [Ferramentas Utilizadas](../entrega-1/planejamento/ferramentas.md) |
+| 1 | [Heatmap de Disponibilidade](../entrega-1/planejamento/heatmap.md) |
+| 1 | [Processo de Design](../entrega-1/planejamento/processo-de-design.md) |
+| 1 | [Site Escolhido](../entrega-1/planejamento/site-escolhido.md) |
+| 1 a 3 | [Lista de Verificação do Plano de Ensino – Autoavaliação das Entregas 1 a 3](../listas-verificacao/autoavaliacao.md) |
+| 2 | [Análise de Tarefas e Fluxos de Trabalho do Usuário](../entrega-2/perfil-e-tarefas/analise-de-tarefas.md) |
+| 2 | [Aspectos Éticos e Termo de Consentimento Livre e Esclarecido (TCLE)](../entrega-2/perfil-e-tarefas/aspectos-eticos-tcle.md) |
+| 2 | [Entrega 2 – Inspeção do Grupo 02 (Grupo -1)](../entrega-2/verificacao/inspecao-grupo-02.md) |
+| 3 | [Características da Plataforma](../entrega-3/principios-metas-e-guia/principios-gerais.md) |
+| 3 | [Guia de Estilo do Detran-DF](../entrega-3/principios-metas-e-guia/guia-de-estilo.md) |
+| 3 | [Metas de Usabilidade](../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) |
+| 4 | [Matriz de Contribuição e Sintetização das Atividades — Entrega 4](../entrega-4/contribuicoes.md) |
+| 4 | [Planejamento da Avaliação (DECIDE) – Storyboard e Análise de Tarefas](../entrega-4/planejamento-da-avaliacao/decide.md) |
+| 4 | [Planejamento da Entrega 4 — Alexandre Vilar Valadares Fonsêca](../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md) |
 
 Fonte: elaborado pelos autores (2026), a partir das tabelas de contribuição das páginas.
 

@@ -48,8 +48,66 @@ plugins:
   - search
   - redirects:
       redirect_maps:
-        # Página vazia criada em 06/10/2026 para a inspeção da Entrega 3; a inspeção foi feita no Grupo 07.
-        'verificacao/grupo-06/index.md': 'verificacao/grupo-07/index.md'
+        # Endereços antigos (publicados antes da organização por entrega) -> páginas atuais
+        'acompanhamento/index.md': 'integrantes/index.md'
+        'atas.md': 'atas/index.md'
+        'guia-estilo/contribuicao/contrib.md': 'entrega-3/contribuicoes.md'
+        'guia-estilo/guia/guia.md': 'entrega-3/principios-metas-e-guia/guia-de-estilo.md'
+        'guia-estilo/metas/metas.md': 'entrega-3/principios-metas-e-guia/metas-de-usabilidade.md'
+        'guia-estilo/plataforma/caracteristicas.md': 'entrega-3/principios-metas-e-guia/principios-gerais.md'
+        'guia-estilo/principios/principios.md': 'entrega-3/principios-metas-e-guia/principios-gerais.md'
+        'listas-verificacao/entrega-1.md': 'entrega-1/verificacao/listas.md'
+        'listas-verificacao/entrega-2.md': 'entrega-2/verificacao/listas.md'
+        'listas-verificacao/entrega-3.md': 'entrega-3/verificacao/listas.md'
+        'listas-verificacao/entrega-4.md': 'entrega-4/verificacao/listas.md'
+        'listas-verificacao/entregas-5-a-8.md': 'listas-verificacao/index.md'
+        'outros/plano de ensino/lista.md': 'listas-verificacao/autoavaliacao.md'
+        'outros/plano de ensino/plano.md': 'disciplina/plano-de-ensino.md'
+        'perfil-de-usuario/analise/fluxos.md': 'entrega-2/perfil-e-tarefas/analise-de-tarefas.md'
+        'perfil-de-usuario/aspectos-eticos/termo/TCLE.md': 'entrega-2/perfil-e-tarefas/aspectos-eticos-tcle.md'
+        'perfil-de-usuario/cenarios/cenarios.md': 'entrega-2/perfil-e-tarefas/cenarios.md'
+        'perfil-de-usuario/contribuicao/contrib.md': 'entrega-2/contribuicoes.md'
+        'perfil-de-usuario/entrevistas/entrevistas.md': 'entrega-2/perfil-e-tarefas/questionarios.md'
+        'perfil-de-usuario/personas/perfisEpersonas.md': 'entrega-2/perfil-e-tarefas/perfis-e-personas.md'
+        'perfil-de-usuario/questionarios/questionarios.md': 'entrega-2/perfil-e-tarefas/questionarios.md'
+        'planejamento/cronograma/cronograma_executado.md': 'entrega-1/planejamento/cronograma-executado.md'
+        'planejamento/cronograma/cronograma_planejado.md': 'entrega-1/planejamento/cronograma-planejado.md'
+        'planejamento/ferramentas/ferramentas_utilizadas.md': 'entrega-1/planejamento/ferramentas.md'
+        'planejamento/heatmap/heatmap.md': 'entrega-1/planejamento/heatmap.md'
+        'planejamento/processo/processo_de_design.md': 'entrega-1/planejamento/processo-de-design.md'
+        'planejamento/site escolhido/site_escolhido.md': 'entrega-1/planejamento/site-escolhido.md'
+        'planejamento/sites avaliados/sites_avaliados.md': 'entrega-1/planejamento/sites-avaliados.md'
+        'projeto-final/index.md': 'listas-verificacao/projeto-final.md'
+        'prototipo-alta-fidelidade/planejamento.md': 'index.md'
+        'prototipo-alta-fidelidade/relato.md': 'index.md'
+        'prototipo-papel/planejamento.md': 'index.md'
+        'prototipo-papel/relato.md': 'index.md'
+        'relatorios/entrega-1.md': 'entrega-1/relatorio.md'
+        'relatorios/entrega-2.md': 'entrega-2/relatorio.md'
+        'relatorios/entrega-3.md': 'entrega-3/relatorio.md'
+        'relatorios/entrega-4.md': 'entrega-4/relatorio.md'
+        'storyboard/contribuicao/contrib.md': 'entrega-4/contribuicoes.md'
+        'storyboard/planejamento/Alexandre_Vilar_Valadares_Fonseca.md': 'entrega-4/integrantes/alexandre-vilar/planejamento-individual.md'
+        'storyboard/planejamento/Gabriel_Robson.md': 'entrega-4/integrantes/gabriel-robson/planejamento-individual.md'
+        'storyboard/planejamento/Henrique_Schneider.md': 'entrega-4/integrantes/henrique-schneider/planejamento-individual.md'
+        'storyboard/planejamento/Joao_Vitor_Tavares.md': 'entrega-4/integrantes/joao-vitor/planejamento-individual.md'
+        'storyboard/planejamento/decide.md': 'entrega-4/planejamento-da-avaliacao/decide.md'
+        'storyboard/planejamento/eduardo-ribeiro.md': 'entrega-4/planejamento-da-avaliacao/decide.md'
+        'storyboard/relatos/analise.md': 'entrega-4/planejamento-da-avaliacao/decide.md'
+        'storyboard/relatos/story.md': 'entrega-4/planejamento-da-avaliacao/decide.md'
+        'verificacao-artefatos/index.md': 'index.md'
+        'verificacao/grupo-01/entrega-4/lista-verificacao.md': 'entrega-4/verificacao/inspecao-grupo-01.md'
+        'verificacao/grupo-01/index.md': 'entrega-4/verificacao/inspecao-grupo-01.md'
+        'verificacao/grupo-02/entrega-2/lista-verificacao.md': 'entrega-2/verificacao/inspecao-grupo-02.md'
+        'verificacao/grupo-02/index.md': 'entrega-2/verificacao/inspecao-grupo-02.md'
+        'verificacao/grupo-03/entrega-1/lista-verificacao.md': 'listas-verificacao/autoavaliacao.md'
+        'verificacao/grupo-03/index.md': 'listas-verificacao/autoavaliacao.md'
+        'verificacao/grupo-05/entrega-1/lista-verificacao.md': 'entrega-1/verificacao/inspecao-grupo-05.md'
+        'verificacao/grupo-05/index.md': 'entrega-1/verificacao/inspecao-grupo-05.md'
+        'verificacao/grupo-06/index.md': 'entrega-3/verificacao/inspecao-grupo-07.md'
+        'verificacao/grupo-07/entrega-3/lista-verificacao.md': 'entrega-3/verificacao/inspecao-grupo-07.md'
+        'verificacao/grupo-07/index.md': 'entrega-3/verificacao/inspecao-grupo-07.md'
+        'verificacao/index.md': 'listas-verificacao/index.md'
 
 markdown_extensions:
   - admonition
@@ -66,99 +124,129 @@ markdown_extensions:
 nav:
   - Início:
     - Apresentação do projeto: index.md
-    - Acompanhamento das entregas: acompanhamento/index.md
-    - Relatórios das entregas:
-      - Visão geral: relatorios/index.md
-      - Entrega 1: relatorios/entrega-1.md
-      - Entrega 2: relatorios/entrega-2.md
-      - Entrega 3: relatorios/entrega-3.md
-      - Entrega 4: relatorios/entrega-4.md
+    - Relatórios das entregas: relatorios/index.md
     - Apresentações e gravações: apresentacoes.md
-    - Plano de Ensino: outros/plano de ensino/plano.md
+    - Plano de Ensino: disciplina/plano-de-ensino.md
+
+  - "Entrega 1":
+    - Relatório da entrega: entrega-1/relatorio.md
+    - Planejamento:
+      - Heatmap de disponibilidade: entrega-1/planejamento/heatmap.md
+      - Sites avaliados: entrega-1/planejamento/sites-avaliados.md
+      - Site escolhido: entrega-1/planejamento/site-escolhido.md
+      - Ferramentas: entrega-1/planejamento/ferramentas.md
+      - Processo de design: entrega-1/planejamento/processo-de-design.md
+      - Cronograma planejado: entrega-1/planejamento/cronograma-planejado.md
+      - Cronograma executado: entrega-1/planejamento/cronograma-executado.md
+    - Verificação:
+      - Listas de verificação: entrega-1/verificacao/listas.md
+      - Inspeção do Grupo 05: entrega-1/verificacao/inspecao-grupo-05.md
+    - Material dos integrantes:
+      - Alexandre Vilar:
+        - Visão geral: entrega-1/integrantes/alexandre-vilar/index.md
+        - "Lista de verificação – DECIDE": entrega-1/integrantes/alexandre-vilar/lista-decide.md
+        - "Exercício – Verificação e validação": entrega-1/integrantes/alexandre-vilar/exercicio-verificacao-validacao.md
+        - "Exercício – SWEBOK": entrega-1/integrantes/alexandre-vilar/exercicio-swebok.md
+      - Gabriel Robson: entrega-1/integrantes/gabriel-robson/index.md
+      - Henrique Schneider:
+        - Visão geral: entrega-1/integrantes/henrique-schneider/index.md
+        - "Exercício – Planejamento da avaliação": entrega-1/integrantes/henrique-schneider/exercicio-planejamento-avaliacao.md
+      - João Vitor:
+        - Visão geral: entrega-1/integrantes/joao-vitor/index.md
+        - "Lista de verificação – DECIDE": entrega-1/integrantes/joao-vitor/lista-decide.md
+        - "Lista de verificação – Métodos de avaliação": entrega-1/integrantes/joao-vitor/lista-metodos-avaliacao.md
+        - "Exercício – Verificação e validação": entrega-1/integrantes/joao-vitor/exercicio-verificacao-validacao.md
+
+  - "Entrega 2":
+    - Relatório da entrega: entrega-2/relatorio.md
+    - Perfil do usuário e tarefas:
+      - Perfis de usuário e personas: entrega-2/perfil-e-tarefas/perfis-e-personas.md
+      - Cenários: entrega-2/perfil-e-tarefas/cenarios.md
+      - Análise de tarefas: entrega-2/perfil-e-tarefas/analise-de-tarefas.md
+      - Aspectos éticos e TCLE: entrega-2/perfil-e-tarefas/aspectos-eticos-tcle.md
+      - Questionários: entrega-2/perfil-e-tarefas/questionarios.md
+    - Contribuições: entrega-2/contribuicoes.md
+    - Verificação:
+      - Listas de verificação: entrega-2/verificacao/listas.md
+      - Avaliação da monitoria: entrega-2/verificacao/avaliacao-monitoria.md
+      - Inspeção do Grupo 02: entrega-2/verificacao/inspecao-grupo-02.md
+    - Material dos integrantes:
+      - Alexandre Vilar:
+        - Visão geral: entrega-2/integrantes/alexandre-vilar/index.md
+        - "Lista de verificação – Perfil de usuário": entrega-2/integrantes/alexandre-vilar/lista-perfil-usuario.md
+        - "Lista de verificação – Personas": entrega-2/integrantes/alexandre-vilar/lista-personas.md
+        - "Lista de verificação – Elenco de personas": entrega-2/integrantes/alexandre-vilar/lista-elenco-personas.md
+        - "Lista de verificação – HTA": entrega-2/integrantes/alexandre-vilar/lista-hta.md
+        - "Lista de verificação – CTT": entrega-2/integrantes/alexandre-vilar/lista-ctt.md
+      - Gabriel Robson: entrega-2/integrantes/gabriel-robson/index.md
+      - Henrique Schneider: entrega-2/integrantes/henrique-schneider/index.md
+      - João Vitor:
+        - Visão geral: entrega-2/integrantes/joao-vitor/index.md
+        - "Lista de verificação – Perfil de usuário": entrega-2/integrantes/joao-vitor/lista-perfil-usuario.md
+        - "Lista de verificação – Personas": entrega-2/integrantes/joao-vitor/lista-personas.md
+        - "Lista de verificação – Elenco de personas": entrega-2/integrantes/joao-vitor/lista-elenco-personas.md
+        - "Lista de verificação – HTA": entrega-2/integrantes/joao-vitor/lista-hta.md
+        - "Lista de verificação – CTT": entrega-2/integrantes/joao-vitor/lista-ctt.md
+
+  - "Entrega 3":
+    - Relatório da entrega: entrega-3/relatorio.md
+    - Princípios, metas e guia:
+      - Princípios gerais: entrega-3/principios-metas-e-guia/principios-gerais.md
+      - Metas de usabilidade: entrega-3/principios-metas-e-guia/metas-de-usabilidade.md
+      - Guia de estilo: entrega-3/principios-metas-e-guia/guia-de-estilo.md
+    - Contribuições: entrega-3/contribuicoes.md
+    - Verificação:
+      - Listas de verificação: entrega-3/verificacao/listas.md
+      - Avaliação da monitoria: entrega-3/verificacao/avaliacao-monitoria.md
+      - Inspeção do Grupo 07: entrega-3/verificacao/inspecao-grupo-07.md
+    - Material dos integrantes:
+      - Alexandre Vilar: entrega-3/integrantes/alexandre-vilar/index.md
+      - Gabriel Robson: entrega-3/integrantes/gabriel-robson/index.md
+      - Henrique Schneider: entrega-3/integrantes/henrique-schneider/index.md
+      - João Vitor: entrega-3/integrantes/joao-vitor/index.md
+
+  - "Entrega 4":
+    - Relatório da entrega: entrega-4/relatorio.md
+    - Planejamento da avaliação (DECIDE): entrega-4/planejamento-da-avaliacao/decide.md
+    - Contribuições: entrega-4/contribuicoes.md
+    - Verificação:
+      - Listas de verificação: entrega-4/verificacao/listas.md
+      - Inspeção do Grupo 01: entrega-4/verificacao/inspecao-grupo-01.md
+    - Material dos integrantes:
+      - Alexandre Vilar:
+        - Visão geral: entrega-4/integrantes/alexandre-vilar/index.md
+        - "Planejamento individual": entrega-4/integrantes/alexandre-vilar/planejamento-individual.md
+        - "Lista de verificação – Storyboard": entrega-4/integrantes/alexandre-vilar/lista-storyboard.md
+      - Gabriel Robson:
+        - Visão geral: entrega-4/integrantes/gabriel-robson/index.md
+        - "Planejamento individual": entrega-4/integrantes/gabriel-robson/planejamento-individual.md
+      - Henrique Schneider:
+        - Visão geral: entrega-4/integrantes/henrique-schneider/index.md
+        - "Planejamento individual": entrega-4/integrantes/henrique-schneider/planejamento-individual.md
+      - João Vitor:
+        - Visão geral: entrega-4/integrantes/joao-vitor/index.md
+        - "Planejamento individual": entrega-4/integrantes/joao-vitor/planejamento-individual.md
+        - "Lista de verificação – Storyboard": entrega-4/integrantes/joao-vitor/lista-storyboard.md
+
+  - Trabalhos Avaliativos:
+    - Visão geral: trabalhos-avaliativos/index.md
+    - Alexandre Vilar: trabalhos-avaliativos/alexandre-vilar.md
+    - Gabriel Robson: trabalhos-avaliativos/gabriel-robson.md
+    - Henrique Schneider: trabalhos-avaliativos/henrique-schneider.md
+    - João Vitor: trabalhos-avaliativos/joao-vitor.md
+
+  - Listas de Verificação:
+    - Visão geral: listas-verificacao/index.md
+    - Autoavaliação (Entregas 1 a 3): listas-verificacao/autoavaliacao.md
+    - Projeto Final: listas-verificacao/projeto-final.md
 
   - Integrantes:
     - Visão geral: integrantes/index.md
     - Alexandre Vilar: integrantes/alexandre-vilar.md
-    - Eduardo Ribeiro: integrantes/eduardo-ribeiro.md
     - Gabriel Robson: integrantes/gabriel-robson.md
     - Henrique Schneider: integrantes/henrique-schneider.md
     - João Vitor: integrantes/joao-vitor.md
-
-  - "Entrega 1":
-    - Heatmap: planejamento/heatmap/heatmap.md
-    - Sites Avaliados: planejamento/sites avaliados/sites_avaliados.md
-    - Site Escolhido: planejamento/site escolhido/site_escolhido.md
-    - Ferramentas: planejamento/ferramentas/ferramentas_utilizadas.md
-    - Processo de Design: planejamento/processo/processo_de_design.md
-    - Cronograma Planejado: planejamento/cronograma/cronograma_planejado.md
-    - Cronograma Executado: planejamento/cronograma/cronograma_executado.md
-
-  - "Entrega 2":
-    - Perfis de Usuário e Personas: perfil-de-usuario/personas/perfisEpersonas.md
-    - Cenários: perfil-de-usuario/cenarios/cenarios.md
-    - Análise de Tarefas: perfil-de-usuario/analise/fluxos.md
-    - Aspectos Éticos e TCLE: perfil-de-usuario/aspectos-eticos/termo/TCLE.md
-    - Registro de investigação:
-      - Entrevistas: perfil-de-usuario/entrevistas/entrevistas.md
-      - Questionários: perfil-de-usuario/questionarios/questionarios.md
-    - Contribuições: perfil-de-usuario/contribuicao/contrib.md
-
-  - "Entrega 3":
-    - Características da Plataforma: guia-estilo/plataforma/caracteristicas.md
-    - Princípios Gerais: guia-estilo/principios/principios.md
-    - Metas de Usabilidade: guia-estilo/metas/metas.md
-    - Guia de Estilo: guia-estilo/guia/guia.md
-    - Contribuições: guia-estilo/contribuicao/contrib.md
-
-  - "Entrega 4":
-    - Planejamento da Avaliação (DECIDE): storyboard/planejamento/decide.md
-    - Storyboards e cronogramas individuais:
-      - Alexandre Vilar: storyboard/planejamento/Alexandre_Vilar_Valadares_Fonseca.md
-      - Eduardo Ribeiro: storyboard/planejamento/eduardo-ribeiro.md
-      - Gabriel Robson: storyboard/planejamento/Gabriel_Robson.md
-      - Henrique Schneider: storyboard/planejamento/Henrique_Schneider.md
-      - João Vitor: storyboard/planejamento/Joao_Vitor_Tavares.md
-    - Contribuições: storyboard/contribuicao/contrib.md
-
-  - "Entregas 5 a 8":
-    - "Entrega 5":
-      - Relato do Storyboard: storyboard/relatos/story.md
-      - Relato da Análise de Tarefas: storyboard/relatos/analise.md
-      - Planejamento do Protótipo de Papel: prototipo-papel/planejamento.md
-    - "Entrega 6":
-      - Relato do Protótipo de Papel: prototipo-papel/relato.md
-      - Planejamento da Alta Fidelidade: prototipo-alta-fidelidade/planejamento.md
-    - "Entrega 7":
-      - Relato da Alta Fidelidade: prototipo-alta-fidelidade/relato.md
-    - "Entrega 8":
-      - Verificação dos Artefatos: verificacao-artefatos/index.md
-    - Projeto Final: projeto-final/index.md
-
-  - Listas de Verificação:
-    - Visão geral: listas-verificacao/index.md
-    - Entrega 1:
-      - Listas do professor e do grupo: listas-verificacao/entrega-1.md
-      - Lista de conferência interna: verificacao/grupo-03/entrega-1/lista-verificacao.md
-      - Inspeção do Grupo 05: verificacao/grupo-05/entrega-1/lista-verificacao.md
-    - Entrega 2:
-      - Listas do professor, da monitoria e do grupo: listas-verificacao/entrega-2.md
-      - Inspeção do Grupo 02: verificacao/grupo-02/entrega-2/lista-verificacao.md
-    - Entrega 3:
-      - Listas do professor e do grupo: listas-verificacao/entrega-3.md
-      - Inspeção do Grupo 07: verificacao/grupo-07/entrega-3/lista-verificacao.md
-    - Entrega 4:
-      - Listas do professor e do grupo: listas-verificacao/entrega-4.md
-      - Inspeção do Grupo 01: verificacao/grupo-01/entrega-4/lista-verificacao.md
-    - Entregas 5 a 8: listas-verificacao/entregas-5-a-8.md
-    - Projeto Final: listas-verificacao/projeto-final.md
-    - Autoavaliação (Entregas 1 a 3): outros/plano de ensino/lista.md
-    - Inspeções por grupo:
-      - Visão geral: verificacao/index.md
-      - Grupo 03: verificacao/grupo-03/index.md
-      - Grupo 05: verificacao/grupo-05/index.md
-      - Grupo 02: verificacao/grupo-02/index.md
-      - Grupo 07: verificacao/grupo-07/index.md
-      - Grupo 01: verificacao/grupo-01/index.md
+    - Eduardo Ribeiro (Entregas 1 e 2): integrantes/eduardo-ribeiro.md
 
   - Atas:
     - Visão geral: atas/index.md
