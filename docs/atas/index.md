@@ -22,7 +22,7 @@ Fonte: elaborado pelos autores (2026). A versão 1.0 da página de atas foi cria
 | 10/09/2026 | 1.0 | Criação da página de atas (registro recuperado do commit f88c791) | Eduardo Ribeiro | — |
 | 27/09/2026 | 1.1 | Registro da Reunião 01 (registro recuperado do commit df6cdea) | Henrique Schneider | — |
 | 14/10/2026 | 1.2 | Registro da Reunião 02 (registro recuperado do commit 2a95590) | Henrique Schneider | — |
-| 15/10/2026 | 2.0 | Reestruturação das atas no modelo de ata do MCTIC e no item 7 do desenvolvimento do projeto (identificação, objetivo, pauta, pendências, assuntos tratados, compromissos e próxima reunião) | Henrique Schneider | — |
+| 15/10/2026 | 2.0 | Reestruturação das atas no modelo de ata do MCTIC e no item 7 do desenvolvimento do projeto (identificação, objetivo, pauta, pendências, assuntos tratados, compromissos e próxima reunião); inclusão da tabela de contribuição e da seção de uso de IA | Henrique Schneider | — |
 | 15/10/2026 | 3.0 | Criação da aba "Atas": cada ata passa a ter página própria, nomeada conforme o modelo do MCTIC; esta página vira o índice, com o quadro das reuniões, as recomendações do professor e da monitoria, a conformidade de cada ata, as sessões gravadas sem ata e o link para o modelo de ata | Henrique Schneider | — |
 | 17/10/2026 | 3.1 | Organização por entrega: índice reduzido às recomendações da disciplina, ao quadro das reuniões e ao roteiro de registro; atualização dos nomes e dos links | Henrique Schneider | — |
 
