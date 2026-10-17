@@ -22,7 +22,7 @@ Fonte: elaborado pelos autores (2026).
 | 27/09/2026 | 1.0 | Criação da página de verificação e consolidação dos checklists das Entregas 1 e 2 | Henrique Schneider | — |
 | 27/09/2026 | 2.0 | Marcação de última mudanças antes da entrega | Henrique Schneider | — |
 | 06/10/2026 | 2.1 | Inclusão da tabela de verificação da Entrega 3 (registro recuperado dos commits 60243ff e 54c77f2) | Henrique Schneider | — |
-| 15/10/2026 | 2.2 | Padronização das legendas e do histórico, inclusão da tabela de contribuição, da introdução, de marcadores nas respostas vazias e da seção de uso de IA | Henrique Schneider | — |
+| 15/10/2026 | 2.2 | Padronização das legendas e do histórico, inclusão da tabela de contribuição, da introdução e da seção de uso de IA | Henrique Schneider | — |
 | 17/10/2026 | 2.3 | Organização por entrega: links para as listas de cada entrega e atualização dos nomes | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).

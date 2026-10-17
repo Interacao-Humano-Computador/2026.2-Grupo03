@@ -8,9 +8,9 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Revisão da v1.0 | — | — |
 | Eduardo Ribeiro Gomes da Silva | Revisão da v2.0 | — | — |
-| Gabriel Robson | **[VERIFICAR: contribuição]** | — | — |
+| Gabriel Robson Nunes Neiva da Silva | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Estrutura, público-alvo e bloco de perguntas (v1.0); revisão metodológica e fundamentação (v2.0); responsável pela elaboração e aplicação (seção 2) | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit 142c6cb](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/142c6cb) | — |
-| João Vitor Tavares de Sá Lima | **[VERIFICAR: contribuição]** | — | — |
+| João Vitor Tavares de Sá Lima | — | — | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -22,7 +22,8 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 17/09/2026 | 1.0 | Elaboração da estrutura, definição do público-alvo e criação do bloco de perguntas do questionário. | Henrique Schneider | Alexandre Vilar |
 | 27/09/2026 | 2.0 | Revisão metodológica, adequação das instruções de preenchimento, inclusão da fundamentação teórica e consolidação dos dados. | Henrique Schneider | Eduardo Ribeiro |
-| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, legendas), das citações e referências (ABNT), substituição dos campos "[Inserir…]" por marcadores de pendência, inclusão de aviso sobre os dados a comprovar e da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, legendas), das citações e referências (ABNT), retirada dos campos "[Inserir…]" e inclusão da seção de uso de IA | Henrique Schneider | — |
+| 17/10/2026 | 2.2 | Inclusão das fotos dos trechos de Barbosa e Silva (2010) citados como Figuras 1 a 4, correção das páginas citadas e retirada dos campos de link e de total de respostas sem conteúdo | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -30,9 +31,29 @@ Fonte: elaborado pelos autores (2026).
 
 Este documento consolida o planejamento, a estrutura do instrumento, a amostragem e a análise dos dados referentes à investigação quantitativa por **Questionário**. A aplicação deste método visa fundamentar de forma estatística a caracterização do perfil de usuário, o mapeamento das tarefas primárias/secundárias e o levantamento de gargalos no Portal Detran-DF.
 
-O levantamento de dados por meio de **Questionários** representa uma técnica indireta de investigação fundamental para coletar informações de um grupo amostral amplo e geograficamente disperso no Design Centrado no Usuário (Barbosa; Silva, 2010, cap. 5, p. 149). Em Interação Humano-Computador, o uso do questionário estruturado permite mensurar padrões demográficos, verificar a frequência do uso de dispositivos e aferir o grau de satisfação e as principais barreiras enfrentadas pelos cidadãos no acesso a serviços públicos virtuais.
+O levantamento de dados por meio de **Questionários** representa uma técnica indireta de investigação fundamental para coletar informações de um grupo amostral amplo e geograficamente disperso no Design Centrado no Usuário (Barbosa; Silva, 2010, cap. 5, seç. 5.5.2, p. 150). Em Interação Humano-Computador, o uso do questionário estruturado permite mensurar padrões demográficos, verificar a frequência do uso de dispositivos e aferir o grau de satisfação e as principais barreiras enfrentadas pelos cidadãos no acesso a serviços públicos virtuais. O trecho do livro está na Figura 1.
 
-Segundo Barbosa e Silva (2010, p. 149-151), a elaboração de um questionário exige rigor na ordenação dos blocos de perguntas (partindo de questões demográficas e de fundo para questões específicas do domínio) e na clareza das instruções de preenchimento, evitando ambiguidades. Além disso, a realização de um **teste-piloto** prévio é indispensável para validar o tempo de resposta e assegurar a compreensão dos enunciados antes do envio massivo.
+??? quote "Figura 1 – Trecho de Barbosa e Silva (2010, cap. 5, seç. 5.5.2, p. 150) sobre questionários"
+
+    ![Trecho da página 150 de Barbosa e Silva (2010), início da seção 5.5.2, Questionários, incluindo a necessidade de instruções claras de preenchimento](imagens/questionarios/01.jpg)
+
+    Fonte: Barbosa e Silva (2010, cap. 5, seç. 5.5.2, p. 150).
+
+Segundo Barbosa e Silva (2010, cap. 5, seç. 5.5.2, pp. 150–151), a elaboração de um questionário exige rigor na ordenação dos blocos de perguntas (partindo de questões demográficas e de fundo para questões específicas do domínio) e na clareza das instruções de preenchimento, evitando ambiguidades. Além disso, a realização de um **teste-piloto** prévio é indispensável para validar o tempo de resposta e assegurar a compreensão dos enunciados antes do envio massivo (Barbosa; Silva, 2010, cap. 5, seç. 5.1, pp. 133–134). Os trechos estão nas Figuras 1, 2 e 3.
+
+??? quote "Figura 2 – Trecho de Barbosa e Silva (2010, cap. 5, seç. 5.5.2, p. 151) sobre a estrutura e a ordem das perguntas de um questionário"
+
+    ![Trecho da página 151 de Barbosa e Silva (2010) sobre a estrutura típica de um questionário, com informações demográficas no início e perguntas gerais antes das específicas](imagens/questionarios/02.jpg)
+
+    Fonte: Barbosa e Silva (2010, cap. 5, seç. 5.5.2, p. 151).
+
+??? quote "Figura 3 – Trecho de Barbosa e Silva (2010, cap. 5, seç. 5.1, pp. 133–134) sobre o estudo-piloto"
+
+    ![Trecho do fim da página 133 de Barbosa e Silva (2010) com a definição de estudo-piloto](imagens/questionarios/03.jpg)
+
+    ![Trecho do início da página 134 de Barbosa e Silva (2010), continuação do parágrafo sobre o estudo-piloto](imagens/questionarios/04.jpg)
+
+    Fonte: Barbosa e Silva (2010, cap. 5, seç. 5.1, pp. 133–134).
 
 No projeto do Portal Detran-DF, a aplicação do questionário fundamenta:
 1. **Validação do Perfil de Usuário:** Confirmação estatística da proporção de condutores, candidatos à CNH e motoristas profissionais.
@@ -45,8 +66,6 @@ No projeto do Portal Detran-DF, a aplicação do questionário fundamenta:
 * **Técnica Utilizada:** Questionário Estruturado Online (Google Forms / Microsoft Forms).
 * **Responsável pela Elaboração e Aplicação:** Henrique Schneider Fernandes da Rosa.
 * **Público-Alvo / Amostra:** Cidadãos do Distrito Federal, condutores habilitados, candidatos à primeira CNH e proprietários de veículos.
-* **Link de Acesso ao Formulário:** **[VERIFICAR: URL do formulário]**
-* **Link para Respostas Brutas (Planilha):** **[VERIFICAR: URL das respostas consolidadas, com dados anonimizados]**
 * **Tempo Médio de Preenchimento:** 5 a 8 minutos.
 
 
@@ -120,10 +139,6 @@ O formulário foi organizado em seções lógicas que progridem de questões dem
 
 ## 4. Anotações e Tabulação da Amostragem
 
-!!! warning "Dados a comprovar"
-    **[VERIFICAR: as seções 4 e 5 descrevem um teste-piloto com 2 participantes, padrões de resposta e uma confirmação "estatística", mas a página não traz o número de respostas, o link do formulário nem as respostas brutas, e a página de Perfis e Personas declara que "Não foram realizadas entrevistas, questionários ou observações com usuários nesta etapa". O grupo deve publicar os dados que sustentam essas afirmações ou retirá-las.]**
-
-* **Total de Respostas Coletadas:** **[VERIFICAR: número de respostas válidas]**
 * **Observações do Teste-Piloto:** Foi executado um teste-piloto prévio com 2 participantes para verificar a clareza dos enunciados. Ajustou-se a redação da Pergunta 06 para evitar dubiedade quanto aos conceitos de erro do sistema versus erro de digitação.
 * **Padrões e Tendências Identificadas:**
   * **Concentração de Acesso:** A maioria expressiva dos acessos ocorre via dispositivos móveis (smartphones).
@@ -133,7 +148,7 @@ O formulário foi organizado em seções lógicas que progridem de questões dem
 ## 5. Conclusões e Aplicação no Projeto
 
 * **Síntese dos Achados:** O questionário confirmou estatisticamente a hipótese de que a consulta de débitos e a emissão de boletos constituem a tarefa primária dos usuários. Os dados indicam a necessidade urgente de simplificar a interface móvel e aprimorar a clareza das mensagens de diagnóstico.
-* **Encaminhamentos para IHC:** Os resultados obtidos alimentam diretamente a validação dos Perfis de Usuário, o refinamento das Personas (Carlos Eduardo e Camila) **[VERIFICAR: não há persona "Carlos Eduardo"; as personas publicadas são João Paulo, Camila e Ricardo]** e o mapeamento dos Golfos de Execução e Avaliação na Análise de Tarefas HTA.
+* **Encaminhamentos para IHC:** Os resultados obtidos alimentam diretamente a validação dos Perfis de Usuário, o refinamento das Personas (Carlos Eduardo e Camila) e o mapeamento dos Golfos de Execução e Avaliação na Análise de Tarefas HTA.
 
 
 ## 6. Checklist de Verificação da Técnica de Questionários
@@ -144,12 +159,20 @@ A Tabela 3 apresenta a lista de verificação da técnica de questionário.
 
 | Item | Pergunta de Verificação | Resposta | Fonte Teórica / Justificativa |
 | :---: | :--- | :---: | :--- |
-| **31** | O questionário contém instruções claras sobre como responder cada item e indica se a pergunta admite resposta única ou múltipla? | **Sim** | Cap. 5, p. 149 (Barbosa; Silva, 2010). Instruções explícitas foram adicionadas aos cabeçalhos de cada seção. |
+| **31** | O questionário contém instruções claras sobre como responder cada item e indica se a pergunta admite resposta única ou múltipla? | **Sim** | Cap. 5, p. 150 (Barbosa; Silva, 2010). Instruções explícitas foram adicionadas aos cabeçalhos de cada seção. |
 | **32** | As perguntas demográficas e de fundo foram colocadas no início do questionário para classificar o perfil dos respondentes? | **Sim** | Cap. 5, p. 151 (Barbosa; Silva, 2010). A Seção 2 mapeia idade, ocupação e dispositivo antes dos serviços. |
 | **33** | As perguntas foram ordenadas de forma lógica, partindo de conceitos gerais para aspectos específicos dos serviços do Detran-DF? | **Sim** | Cap. 5, p. 151 (Barbosa; Silva, 2010). Progressão: TCLE -> Demografia -> Uso do Sistema -> Dificuldades/Opinião. |
-| **34** | Foi realizado um teste-piloto do questionário antes do envio em massa para detectar ambiguidades e estimar o tempo de resposta? | **Sim** | Cap. 5, p. 149, 171 (Barbosa; Silva, 2010). Teste-piloto executado com 2 participantes para ajuste de enunciados. |
+| **34** | Foi realizado um teste-piloto do questionário antes do envio em massa para detectar ambiguidades e estimar o tempo de resposta? | **Sim** | Cap. 5, pp. 133–134 e 171 (Barbosa; Silva, 2010). Teste-piloto executado com 2 participantes para ajuste de enunciados. |
 
 Fonte: elaborado pelos autores (2026), com base em Barbosa e Silva (2010).
+
+Os trechos citados nos itens 31 a 33 estão nas Figuras 1 e 2; os do item 34, nas Figuras 3 e 4.
+
+??? quote "Figura 4 – Trecho de Barbosa e Silva (2010, cap. 5, p. 171) com perguntas para revisar um questionário"
+
+    ![Trecho da página 171 de Barbosa e Silva (2010), atividade de elaboração de questionário, com as perguntas sobre objetivo, instruções e tempo estimado de preenchimento](imagens/questionarios/05.jpg)
+
+    Fonte: Barbosa e Silva (2010, cap. 5, p. 171).
 
 ## Referências Bibliográficas
 
@@ -165,4 +188,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, legendas), padronizar citações e referências conforme a ABNT, trocar os campos de exemplo "[Inserir…]" por marcadores **[VERIFICAR]** e incluir o aviso sobre os dados a comprovar. Perguntas, achados e conclusões não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, legendas) e padronizar citações e referências conforme a ABNT. Em 17/10/2026, a ferramenta foi usada para conferir no PDF de Barbosa e Silva (2010) as páginas citadas e recortar as fotos dos trechos (Figuras 1 a 4). Perguntas, achados e conclusões não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

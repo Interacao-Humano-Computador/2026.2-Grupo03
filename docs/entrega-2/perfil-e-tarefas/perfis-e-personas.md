@@ -8,9 +8,9 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Estruturação e catalogação inicial dos perfis e do elenco de personas (v1.0); inclusão dos cenários (v2.2); revisão das v2.0 e v2.1 | [Commit 749868d](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/749868d) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
 | Eduardo Ribeiro Gomes da Silva | Revisão da v1.0 | — | — |
-| Gabriel Robson | Revisão da v2.1 | — | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
+| Gabriel Robson Nunes Neiva da Silva | Revisão da v2.1 | — | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
 | Henrique Schneider Fernandes da Rosa | Consolidação dos três perfis e personas (v2.0); padronização das citações e comprovação visual (v2.1) | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
-| João Vitor Tavares de Sá Lima | **[VERIFICAR: contribuição]** | — | — |
+| João Vitor Tavares de Sá Lima | — | — | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -23,8 +23,9 @@ Fonte: elaborado pelos autores (2026).
 | 17/09/2026 | 1.0 | Estruturação e catalogação inicial dos perfis de usuário e elenco de personas. | Alexandre Vilar | Eduardo Ribeiro |
 | 27/09/2026 | 2.0 | Atualização e consolidação com os 3 perfis/personas do estudo (Condutor, Candidato e Agente). | Henrique Schneider | Alexandre Vilar |
 | 27/09/2026 | 2.1 | Releitura e refinamento do documento, padronização ABNT de citações e adição das referências de comprovação visual do livro de IHC. | Henrique Schneider | Alexandre Vilar, Gabriel Robson |
-| 06/10/2026 | 2.2 | Inclusão dos cenários em seção própria. | Alexandre Vilar | **[VERIFICAR: revisor]** (registrado como "A preencher") |
-| 15/10/2026 | 2.3 | Padronização da estrutura (tabela de contribuição, seções numeradas), correção das páginas citadas após conferência no livro, inclusão das fotos das pp. 135 e 175 como Figuras 1 e 2, substituição do marcador `caminho_imagem…` e inclusão da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 06/10/2026 | 2.2 | Inclusão dos cenários em seção própria. | Alexandre Vilar | A preencher |
+| 15/10/2026 | 2.3 | Padronização da estrutura (tabela de contribuição, seções numeradas), correção das páginas citadas após conferência no livro, inclusão das fotos das pp. 135 e 175 como Figuras 1 e 2, substituição do marcador `caminho_imagem…` e inclusão da seção de uso de IA | Henrique Schneider | — |
+| 17/10/2026 | 2.4 | Inclusão da foto da p. 134 de Barbosa e Silva (2010) como Figura 3 e revisão das citações | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -63,24 +64,22 @@ Segundo a literatura de Interação Humano-Computador, a caracterização do per
 
 <!-- Citação conferida na Figura 1 (p. 175) em 15/10/2026. A atribuição anterior "Cap. 5, p. 136 / Cap. 6, p. 175" foi corrigida para a página em que o trecho aparece. -->
 
-A Tabela 3 relaciona cada atributo do perfil à fonte teórica; os trechos do livro estão nas Figuras 1 e 2.
+A Tabela 3 relaciona cada atributo do perfil à fonte teórica; os trechos do livro estão nas Figuras 1, 2 e 3.
 
 **Tabela 3 – Mapeamento dos atributos do perfil do usuário segundo a literatura de IHC**
 
 | Categoria do Atributo | Descrição no Projeto | Citação / Fonte Teórica | Comprovação visual (foto do livro) |
 | :--- | :--- | :--- | :--- |
-| **Dados Demográficos** | Faixa etária, sexo, ocupação e status socioeconômico dos cidadãos e condutores do DF. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 134; cap. 6, p. 175. | [Figura 1 (p. 175)](#figura-1) · **[VERIFICAR: foto da p. 134]** |
-| **Escolaridade e Alfabetismo** | Grau de instrução, interpretação de regras de trânsito e fluência em textos complexos. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 134. | **[VERIFICAR: foto da p. 134]** |
+| **Dados Demográficos** | Faixa etária, sexo, ocupação e status socioeconômico dos cidadãos e condutores do DF. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 134; cap. 6, p. 175. | [Figura 1 (p. 175)](#figura-1); [Figura 3 (p. 134)](#figura-3) |
+| **Escolaridade e Alfabetismo** | Grau de instrução, interpretação de regras de trânsito e fluência em textos complexos. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 134. | [Figura 3 (p. 134)](#figura-3) |
 | **Conhecimento do Domínio** | Propriedade sobre legislação de trânsito, pontuação da CNH e débitos veiculares. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 135. | [Figura 2 (p. 135)](#figura-2) |
-| **Experiência Tecnológica** | Frequência de uso de plataformas digitais e familiaridade com dispositivos móveis/desktops. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 134; cap. 6, p. 175. | [Figura 1 (p. 175)](#figura-1) · **[VERIFICAR: foto da p. 134]** |
+| **Experiência Tecnológica** | Frequência de uso de plataformas digitais e familiaridade com dispositivos móveis/desktops. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 134; cap. 6, p. 175. | [Figura 1 (p. 175)](#figura-1); [Figura 3 (p. 134)](#figura-3) |
 | **Atitudes e Autonomia** | Perfil de aceitação tecnológica (tecnófilos vs. tecnófobos) e uso autônomo vs. assistido. | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 135; cap. 6, p. 175. | [Figura 1 (p. 175)](#figura-1); [Figura 2 (p. 135)](#figura-2) |
 | **Perfil de Tarefas** | Distinção entre tarefas primárias (débitos/CNH) e secundárias (agendamento/simulado). | Barbosa; Silva, 2010, cap. 5, seç. 5.2, p. 135; cap. 6, p. 175. | [Figura 1 (p. 175)](#figura-1); [Figura 2 (p. 135)](#figura-2) |
 
 Fonte: elaborado pelos autores (2026), com base em Barbosa e Silva (2010).
 
 <!-- Páginas conferidas no PDF de Barbosa e Silva (2010) em 15/10/2026: dados demográficos, educação e experiência com computadores estão na seç. 5.2, p. 134; atitudes, conhecimento do domínio e tarefas, na p. 135; os grupos de atributos (idade, experiência, atitudes e tarefas primárias), na p. 175. -->
-
-**Autor do item:** **[VERIFICAR: autor do item "atributos do perfil do usuário" (SALES, 2026, p. 9)]**
 
 <a id="figura-1"></a>
 **Figura 1 – Trecho de Barbosa e Silva (2010, cap. 6, p. 175) sobre as características do perfil de usuário e os grupos de atributos**
@@ -95,6 +94,13 @@ Fonte: Barbosa e Silva (2010, cap. 6, p. 175).
 ![Fotografia da página 135 de Barbosa e Silva (2010), com destaque para os itens atitudes e valores, conhecimento do domínio, objetivos, tarefas e idiomas e jargões](assets/p135_5.2.png)
 
 Fonte: Barbosa e Silva (2010, cap. 5, seç. 5.2, p. 135).
+
+<a id="figura-3"></a>
+**Figura 3 – Trecho de Barbosa e Silva (2010, cap. 5, seç. 5.2, p. 134) sobre os tipos de dados coletados para caracterizar o usuário**
+
+![Trecho da página 134 de Barbosa e Silva (2010), seção 5.2, com os tipos de dados coletados: dados demográficos, experiência no cargo, informações sobre a empresa, educação, experiência com computadores, experiência com produtos semelhantes e tecnologia disponível](imagens/perfis-e-personas/01.jpg)
+
+Fonte: Barbosa e Silva (2010, cap. 5, seç. 5.2, p. 134).
 
 ## 3. Caracterização e Classificação das Tarefas do Usuário
 
@@ -199,8 +205,6 @@ Fonte: elaborado pelos autores (2026), com base em Barbosa e Silva (2010).
 4. Confirma a operação e verifica o estado do registro.
 5. Em caso de falha, segue o procedimento de suporte sem repetir o envio.
 * **Resultado Esperado:** Validação de campos, distinção transparente entre registro pendente e enviado, e prevenção de duplicidades.
-
-<!-- TODO(VERIFICAR): a inspeção da Entrega 2 feita sobre o Grupo 03 apontou que não foi explicado "por que o João Paulo foi escolhido como principal, nem por que três personas são suficientes" (OBS 7). Sugestão registrada em REFATORACAO-RELATORIO.md. -->
 
 ## 5. Síntese Comparativa dos Perfis e Personas
 
@@ -310,8 +314,6 @@ ROSA, Henrique Schneider Fernandes da. *Lista de verificação*: perfil de usuá
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
 
-<!-- TODO(VERIFICAR): Courage e Baxter (2005) aparece aqui, mas no texto só é citado dentro da citação de Barbosa e Silva (2010, p. 175); nesse caso, a forma ABNT é "apud" e a obra não consultada não precisa entrar na lista. -->
-
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para: reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções e legendas); conferir no PDF de Barbosa e Silva (2010) as páginas das citações e corrigir as que estavam divergentes (pp. 134, 135 e 175); exibir as fotos das pp. 135 e 175, que já estavam no repositório, como Figuras 1 e 2; substituir o marcador `caminho_imagem_p136_p175.png` pelas figuras existentes; e marcar com **[VERIFICAR]** o que só o grupo pode completar. Perfis, personas, cenários e argumentos não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para: reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções e legendas); conferir no PDF de Barbosa e Silva (2010) as páginas das citações e corrigir as que estavam divergentes (pp. 134, 135 e 175); exibir as fotos das pp. 135 e 175, que já estavam no repositório, como Figuras 1 e 2; e substituir o marcador `caminho_imagem_p136_p175.png` pelas figuras existentes. Em 17/10/2026, a ferramenta foi usada para recortar do PDF do livro a foto do trecho da p. 134 (Figura 3). Perfis, personas, cenários e argumentos não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

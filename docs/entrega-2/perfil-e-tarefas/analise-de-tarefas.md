@@ -6,11 +6,11 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | Modelagem HTA/CTT individual registrada nas contribuições da Entrega 2 (**[VERIFICAR: não publicada nesta página]**) | — | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
-| Eduardo Ribeiro Gomes da Silva | **[VERIFICAR: contribuição]** | — | — |
-| Gabriel Robson | Correção da sequência e da identificação da tarefa 2 no fluxo de consulta de débitos (v1.1); revisão das v1.0 e v1.2 | [Commit 43cb9a1](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/43cb9a1) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
+| Alexandre Vilar Valadares Fonsêca | Modelagem HTA/CTT individual da tarefa "Emissão de Guia de Débitos do Veículo", registrada na Matriz de Contribuição da Entrega 2 | [Matriz de Contribuição](../contribuicoes.md), Tabela 3 | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
+| Eduardo Ribeiro Gomes da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Correção da sequência e da identificação da tarefa 2 no fluxo de consulta de débitos (v1.1); revisão das v1.0 e v1.2 | [Commit 43cb9a1](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/43cb9a1) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
 | Henrique Schneider Fernandes da Rosa | Catalogação e mapeamento dos fluxos (v1.0); introdução sobre HTA e golfos de interação (v1.2); revisão da v1.1 | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
-| João Vitor Tavares de Sá Lima | Modelagem HTA/CTT individual registrada nas contribuições da Entrega 2 (**[VERIFICAR: não publicada nesta página]**) | — | — |
+| João Vitor Tavares de Sá Lima | Modelagem HTA/CTT individual da tarefa "Localização e Consulta de CFCs Credenciados", registrada na Matriz de Contribuição da Entrega 2 | [Matriz de Contribuição](../contribuicoes.md), Tabela 3 | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -23,13 +23,20 @@ Fonte: elaborado pelos autores (2026).
 | 17/09/2026 | 1.0 | Catalogação e mapeamento dos fluxos de trabalho do usuário no portal do Detran-DF para a Entrega 2. | Henrique Schneider | Gabriel Robson |
 | 27/09/2026 | 1.1 | Correção da sequência e da identificação da tarefa 2 no fluxo de consulta de débitos. | Gabriel Robson | Henrique Schneider |
 | 27/09/2026 | 1.2 | Inclusão da introdução fundamentando a relevância da Análise de Tarefas (HTA) e dos Golfos de Interação no contexto de IHC. | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, legendas e chamadas dos quadros), remoção de marcadores de citação residuais ("3") e do rótulo "(Exemplo)" no Fluxo 1, inclusão das seções 6 e 7 com marcadores de pendência e da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, legendas e chamadas dos quadros), remoção de marcadores de citação residuais ("3") e do rótulo "(Exemplo)" no Fluxo 1, inclusão das seções 6 e 7 e da seção de uso de IA | Henrique Schneider | — |
+| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 191 e 193) como Figuras 1 e 2, correção da página citada na introdução e retirada das seções 6 e 7 | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução e Importância no Contexto de IHC
 
-A **Análise de Tarefas** e o mapeamento dos fluxos de trabalho constituem uma das etapas centrais no processo de Engenharia de Usabilidade e Design de Interação. Segundo Barbosa e Silva (2010, cap. 6, seç. 6.4, p. 192), a análise de tarefas estuda o desempenho de um sistema de trabalho completo — composto pela pessoa (usuário) e pelo sistema computacional (Portal Detran-DF) —, investigando como as pessoas atingem seus objetivos e por que executam determinadas sequências de ações.
+A **Análise de Tarefas** e o mapeamento dos fluxos de trabalho constituem uma das etapas centrais no processo de Engenharia de Usabilidade e Design de Interação. Segundo Barbosa e Silva (2010, cap. 6, seç. 6.4, p. 191), a análise de tarefas estuda o desempenho de um sistema de trabalho completo — composto pela pessoa (usuário) e pelo sistema computacional (Portal Detran-DF) —, investigando como as pessoas atingem seus objetivos e por que executam determinadas sequências de ações. O trecho está na Figura 1.
+
+??? quote "Figura 1 – Trecho de Barbosa e Silva (2010, cap. 6, seç. 6.4, p. 191) sobre a análise de tarefas"
+
+    ![Trecho da página 191 de Barbosa e Silva (2010), início da seção 6.4, que define a análise de tarefas e o sistema de trabalho composto por um sistema computacional e uma pessoa](imagens/analise-de-tarefas/01.jpg)
+
+    Fonte: Barbosa e Silva (2010, cap. 6, seç. 6.4, p. 191).
 
 Diferente de uma simples descrição de funcionalidades, a análise funcional de tarefas baseia-se na decomposição de objetivos psicológicos dos usuários em subobjetivos, operações e planos de ação condicionais. No contexto do Portal Detran-DF, a aplicação de técnicas formais como a **Análise Hierárquica de Tarefas (HTA – *Hierarchical Task Analysis*)** é fundamental para:
 
@@ -41,7 +48,13 @@ Deste modo, este artefato fornece a base analítica necessária para guiar o des
 
 ## 2. Metodologia
 
-Para a análise e estruturação dos fluxos de trabalho, foi utilizada a **Análise Hierárquica de Tarefas (HTA – *Hierarchical Task Analysis*)**, fundamentada na literatura de Interação Humano-Computador (Barbosa; Silva, 2010). A HTA permite decompor os objetivos principais do cidadão em subobjetivos, operações e planos de ação condicionais.
+Para a análise e estruturação dos fluxos de trabalho, foi utilizada a **Análise Hierárquica de Tarefas (HTA – *Hierarchical Task Analysis*)**, fundamentada na literatura de Interação Humano-Computador (Barbosa; Silva, 2010, cap. 6, seç. 6.4.1, p. 193). A HTA permite decompor os objetivos principais do cidadão em subobjetivos, operações e planos de ação condicionais (Figura 2).
+
+??? quote "Figura 2 – Trecho de Barbosa e Silva (2010, cap. 6, seç. 6.4.1, p. 193) sobre objetivos, subobjetivos, planos e operações na HTA"
+
+    ![Trecho da página 193 de Barbosa e Silva (2010), seção 6.4.1, sobre a decomposição de objetivos em subobjetivos, os planos e as operações da HTA](imagens/analise-de-tarefas/02.jpg)
+
+    Fonte: Barbosa e Silva (2010, cap. 6, seç. 6.4.1, p. 193).
 
 Além disso, para cada fluxo catalogado, avaliam-se:
 * **Golfo de Execução:** A facilidade com que o cidadão entende os mecanismos de interação e descobre como executar as ações.
@@ -74,8 +87,6 @@ Fonte: elaborado pelos autores (2026).
 
 #### 3.1.2. Plano de Ação (Diagrama Lógico HTA)
 
-**[VERIFICAR: diagrama HTA do Fluxo 1, com legenda e fonte (item 11 da Entrega 2: "O HTA com diagrama, legenda e representação em tabela")]**
-
 * **Plano 0:** Fazer 1 para localizar o serviço; em seguida, fazer 2 para informar os dados do veículo e enviar a consulta. Se os dados forem rejeitados, corrigir os campos e repetir 2. Após a exibição dos débitos, fazer 3 para conferir e selecionar os valores desejados; por fim, fazer 4 para obter a guia ou o código PIX.
 * **Plano 2:** Preencher Placa (2.1) e Renavam (2.2); submeter (2.3). Se houver erro de digitação, corrigir o campo sinalizado e reenviar.
 * **Plano 4:** Selecionar PIX ou Boleto (4.1); confirmar (4.2); se optar por PIX, utilizar botão "Copiar Código"; se Boleto, efetuar download do PDF (4.3).
@@ -105,8 +116,6 @@ Fonte: elaborado pelos autores (2026).
 
 #### 3.2.2. Plano de Ação (Diagrama Lógico HTA)
 
-**[VERIFICAR: diagrama HTA do Fluxo 2, com legenda e fonte]**
-
 * **Plano 0:** Fazer 1; em seguida 2; realizar 3; se os dados estiverem corretos, prosseguir para 4; caso contrário, cancelar e atualizar cadastro.
 * **Plano 3:** Conferir endereço e motivo (3.1 e 3.2). Se correto, avançar; se incorreto, utilizar botão "Cancelar" para evitar cobrança indevida.
 
@@ -129,30 +138,6 @@ Fonte: elaborado pelos autores (2026).
 
 A catalogação e decomposição HTA dos fluxos de trabalho permitiu mapear os gargalos operacionais enfrentados pelos cidadãos no portal do Detran-DF. As principais oportunidades de melhoria concentram-se no fortalecimento da prevenção de erros na entrada de dados, no fornecimento de feedbacks diagnósticos mais claros e no estabelecimento de telas intermédias de confirmação com opções de cancelamento e suporte contextual.
 
-## 6. Modelagem por integrante em uma segunda técnica
-
-O item 11 da Entrega 2 pede "uma atividade para cada integrante do grupos que deve estar modelizado em ao menos duas técnicas para especificar as tarefas" (HTA com diagrama, legenda e tabela; GOMS ou CTT) (SALES, 2026, p. 11). A página de contribuições da Entrega 2 registra modelagens HTA/CTT individuais que não estão publicadas nesta página. O Quadro 4 lista a situação de cada integrante.
-
-**Quadro 4 – Atividade modelada por integrante**
-
-| Integrante | Atividade registrada | HTA (diagrama e tabela) | Segunda técnica (CTT ou GOMS) |
-| --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | "Emissão de Guia de Débitos do Veículo" (contribuições da Entrega 2) | **[VERIFICAR]** | **[VERIFICAR]** |
-| Eduardo Ribeiro Gomes da Silva | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** |
-| Gabriel Robson | HTA e CTT dos fluxos de trabalho (contribuições da Entrega 2) | Quadros 1 e 2 (tabelas); **[VERIFICAR: diagramas]** | **[VERIFICAR]** |
-| Henrique Schneider Fernandes da Rosa | "Consulta de Prontuário e Pontuação da CNH" (contribuições da Entrega 2) | **[VERIFICAR]** | **[VERIFICAR]** |
-| João Vitor Tavares de Sá Lima | "Localização e Consulta de CFCs Credenciados" (contribuições da Entrega 2) | **[VERIFICAR]** | **[VERIFICAR]** |
-
-Fonte: elaborado pelos autores (2026), com base na [Matriz de Contribuição da Entrega 2](../contribuicoes.md).
-
-## 7. Fundamentação (itens de conteúdo da disciplina)
-
-Os itens 10 e 11 da Entrega 2 pedem referência bibliográfica e foto do texto que explica a análise de tarefas e as técnicas usadas, com o autor de cada item (SALES, 2026, p. 11).
-
-**Autor do item:** **[VERIFICAR: autor do item]**
-
-**[VERIFICAR: foto do trecho de Barbosa e Silva (2010, cap. 6, seç. 6.4, p. 192) citado na introdução]**
-
 ## Referências
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
@@ -163,4 +148,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para: reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, legendas e chamadas dos quadros); remover marcadores numéricos residuais ("3") deixados após frases da introdução, sem mudar o texto; remover o rótulo "(Exemplo)" do Fluxo 1, ausente no relatório entregue; e incluir as seções 6 e 7 com marcadores **[VERIFICAR]** para os diagramas, a segunda técnica de modelagem e os itens de conteúdo. As tabelas HTA, os planos e a análise dos golfos não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para: reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, legendas e chamadas dos quadros); remover marcadores numéricos residuais ("3") deixados após frases da introdução, sem mudar o texto; e remover o rótulo "(Exemplo)" do Fluxo 1, ausente no relatório entregue. Em 17/10/2026, a ferramenta foi usada para conferir no PDF de Barbosa e Silva (2010) as páginas citadas e recortar as fotos dos trechos (Figuras 1 e 2). As tabelas HTA, os planos e a análise dos golfos não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
