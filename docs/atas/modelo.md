@@ -7,9 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Nenhuma até esta versão | — | — |
-| Eduardo Ribeiro Gomes da Silva | Nenhuma até esta versão | — | — |
-| Gabriel Robson | Nenhuma até esta versão | — | — |
-| Henrique Schneider Fernandes da Rosa | Solicitação da página (criada com apoio de IA generativa) | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Nenhuma até esta versão | — | — |
+| Henrique Schneider Fernandes da Rosa | Criação do modelo de ata (versões 1.0 e 1.1) | [Modelo](#2-modelo) | — |
 | João Vitor Tavares de Sá Lima | Nenhuma até esta versão | — | — |
 
 Fonte: elaborado pelos autores (2026).
@@ -20,7 +19,8 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação do modelo a partir do modelo de ata do MCTIC, dos itens 7 a 9 do desenvolvimento do projeto do Plano de Ensino e da lista aplicada pela monitoria na Entrega 2 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.0 | Criação do modelo a partir do modelo de ata do MCTIC, dos itens 7 a 9 do desenvolvimento do projeto do Plano de Ensino e da lista aplicada pela monitoria na Entrega 2 | Henrique Schneider | — |
+| 17/10/2026 | 1.1 | Organização por entrega: equipe atual na tabela de contribuição do modelo e orientação para campos sem informação | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -33,7 +33,7 @@ O modelo do MCTIC prevê telefone, e-mail e assinatura de cada convocado. Esses 
 ## 1. Como usar
 
 1. Crie o arquivo `docs/atas/ata-reuniao-AAAAMMDD-XX.md`, com a data da reunião e o número sequencial da ata.
-2. Copie o bloco da seção 2 e substitua cada texto entre colchetes. Campo sem informação recebe **[VERIFICAR]** ou "Não se aplica", nunca um valor presumido.
+2. Copie o bloco da seção 2 e substitua cada texto entre colchetes. Campo sem informação recebe "—" ou "Não se aplica", nunca um valor presumido.
 3. Os tipos dos assuntos tratados são os do modelo do MCTIC (Quadro 1).
 4. Faça os passos da seção 4 da [página de atas](index.md).
 
@@ -61,8 +61,7 @@ Fonte: adaptado de MCTI ([20--], p. 2).
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | [participação, redação ou "Não participou"] | [link] | [link da gravação] |
-| Eduardo Ribeiro Gomes da Silva | [...] | [...] | [...] |
-| Gabriel Robson | [...] | [...] | [...] |
+| Gabriel Robson Nunes Neiva da Silva | [...] | [...] | [...] |
 | Henrique Schneider Fernandes da Rosa | [...] | [...] | [...] |
 | João Vitor Tavares de Sá Lima | [...] | [...] | [...] |
 
@@ -167,4 +166,4 @@ SILVA, Giovana Barbosa da. *Atividade avaliativa: IHC: Etapa 2: Grupo 3*. Brasí
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para montar este modelo a partir do modelo de ata do MCTIC, do Plano de Ensino e da lista da monitoria. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar este modelo a partir do modelo de ata do MCTIC, do Plano de Ensino e da lista da monitoria. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

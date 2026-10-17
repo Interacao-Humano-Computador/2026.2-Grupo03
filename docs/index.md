@@ -18,29 +18,47 @@
 
 Esta documentação apresenta o planejamento da avaliação de Interação Humano-Computador do Portal do Departamento de Trânsito do Distrito Federal (Detran-DF), desenvolvido pelo Grupo 3 na disciplina de Interação Humano-Computador, turma 01, sob orientação do Prof. Dr. André Barros de Sales.
 
+O site está organizado por entrega. Cada aba de entrega reúne o relatório, os artefatos, as contribuições, a verificação (listas, avaliação da monitoria e inspeção) e o material de cada integrante. As abas Trabalhos Avaliativos, Listas de Verificação, Integrantes e Atas reúnem o que vale para todo o semestre.
+
 <div class="project-grid">
-<a class="project-card" href="relatorios">
+<a class="project-card" href="relatorios/">
 <strong>Relatórios das entregas</strong>
-<span>Relatório consolidado de cada entrega: escopo, artefatos, cronogramas, autoavaliação e contribuições.</span>
+<span>Relatório de cada entrega: escopo, planejamento, artefatos com seus autores e inspeção realizada.</span>
 </a>
-<a class="project-card" href="acompanhamento">
-<strong>Acompanhamento</strong>
-<span>Pendências de cada etapa e situação das próximas entregas por integrante.</span>
+<a class="project-card" href="entrega-1/relatorio/">
+<strong>Entrega 1 – Planejamento do Projeto</strong>
+<span>Heatmap, sites avaliados, site escolhido, ferramentas, processo de design e cronogramas.</span>
 </a>
-<a class="project-card" href="planejamento/site%20escolhido/site_escolhido">
-<strong>Planejamento</strong>
-<span>Objeto de estudo, processo de design, ferramentas, cronograma e demais etapas do planejamento.</span>
+<a class="project-card" href="entrega-2/relatorio/">
+<strong>Entrega 2 – Perfil do Usuário e Tarefas</strong>
+<span>Perfis de usuário e personas, cenários, análise de tarefas, aspectos éticos e questionários.</span>
 </a>
-<a class="project-card" href="verificacao">
-<strong>Verificação</strong>
-<span>Autoavaliação do Grupo 03 e inspeções realizadas nas entregas dos Grupos 05, 02, 07 e 01.</span>
+<a class="project-card" href="entrega-3/relatorio/">
+<strong>Entrega 3 – Princípios, Metas e Guia de Estilo</strong>
+<span>Princípios gerais de projeto, metas de usabilidade e guia de estilo.</span>
 </a>
-<a class="project-card" href="atas">
+<a class="project-card" href="entrega-4/relatorio/">
+<strong>Entrega 4 – Planejamento da Avaliação</strong>
+<span>Planejamento da avaliação do storyboard e da análise de tarefas com o framework DECIDE.</span>
+</a>
+<a class="project-card" href="trabalhos-avaliativos/">
+<strong>Trabalhos Avaliativos</strong>
+<span>Atividades avaliativas individuais de cada integrante.</span>
+</a>
+<a class="project-card" href="listas-verificacao/">
+<strong>Listas de Verificação</strong>
+<span>Listas do professor, da monitoria e do grupo, listas individuais e inspeções realizadas.</span>
+</a>
+<a class="project-card" href="integrantes/">
+<strong>Integrantes</strong>
+<span>Equipe atual, ex-integrantes e o trabalho de cada integrante por entrega.</span>
+</a>
+<a class="project-card" href="atas/">
 <strong>Atas</strong>
 <span>Registros das reuniões, decisões e encaminhamentos do grupo.</span>
 </a>
-<a class="project-card" href="apresentacoes">
-<strong>Apresentações</strong>
+<a class="project-card" href="apresentacoes/">
+<strong>Apresentações e gravações</strong>
 <span>Vídeos das apresentações, inspeções e reuniões, com os integrantes de cada gravação.</span>
 </a>
 </div>
@@ -49,16 +67,16 @@ Esta documentação apresenta o planejamento da avaliação de Interação Human
 
 A Figura 1 apresenta os integrantes atuais do Grupo 03. Cada cartão leva ao perfil do integrante no GitHub.
 
-**Figura 1 – Integrantes do Grupo 03**
+**Figura 1 – Integrantes atuais do Grupo 03**
 
 <div class="team-grid">
 <a class="team-card" href="https://github.com/AlexandreVvF14" target="_blank" rel="noopener">
 <img src="assets/alexandre.jpg" alt="Foto de Alexandre Vilar Valadares Fonsêca">
 <strong>Alexandre Vilar</strong>
 </a>
-<a class="team-card" href="https://github.com/EduardoRGS" target="_blank" rel="noopener">
-<img src="assets/eduardo.jpg" alt="Foto de Eduardo Ribeiro Gomes da Silva">
-<strong>Eduardo Ribeiro</strong>
+<a class="team-card" href="https://github.com/Gabrielxcx" target="_blank" rel="noopener">
+<img src="assets/gabriel.jpg" alt="Foto de Gabriel Robson Nunes Neiva da Silva">
+<strong>Gabriel Robson</strong>
 </a>
 <a class="team-card" href="https://github.com/SchneiderCode1" target="_blank" rel="noopener">
 <img src="assets/henrique.jpg" alt="Foto de Henrique Schneider Fernandes da Rosa">
@@ -68,13 +86,20 @@ A Figura 1 apresenta os integrantes atuais do Grupo 03. Cada cartão leva ao per
 <img src="assets/joao.png" alt="Foto de João Vitor Tavares de Sá Lima">
 <strong>João Vitor</strong>
 </a>
-<a class="team-card" href="https://github.com/Gabrielxcx" target="_blank" rel="noopener">
-<img src="assets/gabriel.jpg" alt="Foto de Gabriel Robson Nunes Neiva da Silva">
-<strong>Gabriel Robson</strong>
-</a>
 </div>
 
 <p class="team-source"><em>Fonte: elaborado pelos autores (2026), com base no cronograma planejado e nos registros do projeto.</em></p>
+
+Dois integrantes participaram das primeiras entregas e saíram da equipe, conforme o Quadro 1. As contribuições deles continuam registradas nas páginas das entregas em que participaram e na aba [Integrantes](integrantes/index.md).
+
+**Quadro 1 – Ex-integrantes do Grupo 03**
+
+| Integrante | Entregas |
+| --- | :---: |
+| Camile Barbosa Gonzaga de Oliveira | Entrega 1 |
+| Eduardo Ribeiro Gomes da Silva | Entregas 1 e 2 |
+
+Fonte: elaborado pelos autores (2026).
 
 ## Tabela de contribuição
 
@@ -84,13 +109,14 @@ A Tabela 1 registra a contribuição de cada integrante nesta página, conforme 
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | Atualização das imagens e dos nomes dos integrantes | [Commit 2fefc9d](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/2fefc9d) | Nenhuma registrada |
-| Eduardo Ribeiro Gomes da Silva | Estrutura inicial do site e reorganização da página inicial | [Commit 21a3390](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/21a3390); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | Nenhuma registrada |
-| Gabriel Robson | **[VERIFICAR: contribuição]** | — | — |
-| Henrique Schneider Fernandes da Rosa | Versões 1.2, 1.4 e 1.5 (páginas da Entrega 2, inclusão de Gabriel e fotos dos integrantes) | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit df6cdea](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/df6cdea) | Nenhuma registrada |
-| João Vitor Tavares de Sá Lima | Versões 1.3 e 1.6 (registro do TCLE e das metas de usabilidade) | [Commit 01df6a6](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/01df6a6); [commit 5b5041f](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/5b5041f) | Nenhuma registrada |
+| Alexandre Vilar Valadares Fonsêca | Atualização das imagens e dos nomes dos integrantes | [Commit 2fefc9d](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/2fefc9d) | — |
+| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Henrique Schneider Fernandes da Rosa | Versões 1.2, 1.4, 1.5, 2.0 e 2.1 (páginas da Entrega 2, inclusão de Gabriel, fotos dos integrantes e reorganização da página) | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit df6cdea](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/df6cdea) | — |
+| João Vitor Tavares de Sá Lima | Versões 1.3 e 1.6 (registro do TCLE e das metas de usabilidade) | [Commit 01df6a6](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/01df6a6); [commit 5b5041f](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/5b5041f) | — |
 
 Fonte: elaborado pelos autores (2026).
+
+O ex-integrante Eduardo Ribeiro Gomes da Silva (Entregas 1 e 2) contribuiu para esta página com a estrutura inicial do site e a reorganização da página inicial ([commit 21a3390](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/21a3390); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791)).
 
 ## Histórico de versões
 
@@ -98,16 +124,15 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Criação da página inicial do projeto e apresentação do Portal de Serviços do Detran-DF. | **[VERIFICAR: autor]** (registrado como "Grupo 03") | **[VERIFICAR: revisor]** (registrado como "A definir") |
-| 10/09/2026 | 1.1 | Atualização da apresentação do Grupo 03, dos acessos principais e do registro de contribuições da página inicial. | **[VERIFICAR: autor]** (registrado como "Grupo 03") | **[VERIFICAR: revisor]** (registrado como "A definir") |
-| 17/09/2026 | 1.2 | Criação das páginas da segunda entrega "Perfil de Usuários, Aspectos Éticos e Análise de Tarefas" e adição do novo integrante do Grupo 3 -> Gabriel Robson | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 24/09/2026 | 1.3 | Adição da seção 2.1 "Aspectos Éticos e Termo de Consentimento Livre e Esclarecido (TCLE)". | João Vitor Tavares | **[VERIFICAR: revisor]** |
-| 24/09/2026 | 1.4 | alteração das fotos dos integrantes. | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 27/09/2026 | 1.5 | alteração das fotos dos integrantes (agora está correto). | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 06/10/2026 | 1.6 | Redação das metas de Usuabilidade | João Vitor Tavares | **[VERIFICAR: revisor]** |
-| 15/10/2026 | 2.0 | Reestruturação da página no modelo da disciplina: tabela de contribuição, histórico em ordem cronológica, legenda da Figura 1, novos acessos (relatórios e acompanhamento) e seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-
-<!-- TODO(VERIFICAR): a versão 1.6 estava registrada como 10/06/2026; a data foi corrigida para 06/10/2026 conforme o commit 5b5041f (João Vitor, 06/10/2026). Confirmar com o autor. -->
+| 10/09/2026 | 1.0 | Criação da página inicial do projeto e apresentação do Portal de Serviços do Detran-DF. | Grupo 03 | — |
+| 10/09/2026 | 1.1 | Atualização da apresentação do Grupo 03, dos acessos principais e do registro de contribuições da página inicial. | Grupo 03 | — |
+| 17/09/2026 | 1.2 | Criação das páginas da segunda entrega "Perfil de Usuários, Aspectos Éticos e Análise de Tarefas" e adição do novo integrante do Grupo 3 -> Gabriel Robson | Henrique Schneider | — |
+| 24/09/2026 | 1.3 | Adição da seção 2.1 "Aspectos Éticos e Termo de Consentimento Livre e Esclarecido (TCLE)". | João Vitor Tavares | — |
+| 24/09/2026 | 1.4 | Alteração das fotos dos integrantes. | Henrique Schneider | — |
+| 27/09/2026 | 1.5 | Alteração das fotos dos integrantes (agora está correto). | Henrique Schneider | — |
+| 06/10/2026 | 1.6 | Redação das metas de Usabilidade | João Vitor Tavares | — |
+| 15/10/2026 | 2.0 | Reestruturação da página no modelo da disciplina: tabela de contribuição, histórico em ordem cronológica, legenda da Figura 1, novos acessos (relatórios e acompanhamento) e seção de uso de IA | Henrique Schneider | — |
+| 17/10/2026 | 2.1 | Organização por entrega: guia de navegação com as novas abas, equipe atual e quadro dos ex-integrantes | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -121,4 +146,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 Agradecemos ao Prof. Dr. André Barros de Sales pela orientação do projeto.
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar esta página no modelo de artefato da disciplina: montagem da tabela de contribuição a partir do histórico de versões e dos commits, ordenação do histórico, legenda da Figura 1, inclusão dos acessos às páginas de relatórios e de acompanhamento e marcação com **[VERIFICAR]** das informações que só o grupo pode confirmar. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página no modelo de artefato da disciplina: montagem da tabela de contribuição a partir do histórico de versões e dos commits, ordenação do histórico, legenda da Figura 1, quadro dos ex-integrantes e guia de navegação da organização por entrega. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
