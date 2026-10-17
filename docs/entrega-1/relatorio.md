@@ -22,7 +22,7 @@ Fonte: elaborado pelos autores (2026), com base no relatório entregue (Grupo 03
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 06/09/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Relatório da Etapa 1: Planejamento do Projeto") | Grupo 03 (ver seção 6 do PDF) | — |
-| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, transcrição da comparação dos sites preliminares, matriz de conformidade com a lista do Plano de Ensino após a refatoração, inspeção e pendências; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | — |
+| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, transcrição da comparação dos sites preliminares, matriz de conformidade com a lista do Plano de Ensino após a refatoração e inspeção; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | — |
 | 17/10/2026 | 2.1 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira nas tabelas de contribuição e de artefatos e do link do vídeo registrado no relatório entregue; retirada da matriz de conformidade | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).

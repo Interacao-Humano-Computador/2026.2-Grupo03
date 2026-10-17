@@ -6,9 +6,8 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | Adição dos princípios gerais e conformidades do Detran-DF (v1.1, com Henrique Schneider) | **[VERIFICAR: evidência]** | — |
-| Eduardo Ribeiro Gomes da Silva | **[VERIFICAR: contribuição]** (o cronograma da Entrega 1, seção 4.5, atribuía a Eduardo a definição dos princípios gerais) | — | — |
-| Gabriel Robson | **[VERIFICAR: contribuição]** | — | — |
+| Alexandre Vilar Valadares Fonsêca | Adição dos princípios gerais e conformidades do Detran-DF (v1.1, com Henrique Schneider) | — | — |
+| Gabriel Robson Nunes Neiva da Silva | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Criação do documento (v1.0) e adição dos princípios gerais e conformidades do Detran-DF (v1.1, com Alexandre Vilar) | [Commit d803534](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d803534); [commit 54c77f2](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/54c77f2) | — |
 | João Vitor Tavares de Sá Lima | Revisão da v1.1 | — | — |
 
@@ -20,9 +19,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Integrantes do Grupo") |
+| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Integrantes do Grupo |
 | 06/10/2026 | 1.1 | Adição dos principios gerais e conformidades do Detran-DF | Henrique Schneider, Alexandre Vilar | João Vitor |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, seções numeradas), conversão dos "Quadros" com fotos do livro em Figuras com legenda, texto alternativo e fonte, correção da página das Figuras 1 e 2 (p. 265) após conferência no livro e inclusão da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, seções numeradas), conversão dos "Quadros" com fotos do livro em Figuras com legenda, texto alternativo e fonte, correção da página das Figuras 1 e 2 (p. 265) após conferência no livro e inclusão da seção de uso de IA | Henrique Schneider | — |
+| 17/10/2026 | 1.3 | Revisão das citações de Tognazzini (2003) e Cooper (1999), feitas por meio de Barbosa e Silva (2010), e organização da página | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -36,15 +36,11 @@ Segundo Barbosa e Silva (2010), a construção de interfaces de usuário apoia-s
 
 Fonte: Barbosa e Silva (2010, cap. 8, seç. 8.2, p. 265).
 
-<!-- A legenda original indicava p. 264. No PDF de Barbosa e Silva (2010), a seção 8.2 e a subseção 8.2.1 estão na p. 265 (conferido em 15/10/2026). -->
-
 ## 2. Diretrizes e princípios aplicados ao Detran-DF
 
 A avaliação e o projeto da interface do portal do Detran-DF estão embasados em 8 (oito) princípios e tópicos gerais de projeto descritos por Barbosa e Silva (2010). A aplicação de cada princípio visa solucionar rupturas de usabilidade específicas observadas no contexto do cidadão que busca serviços de trânsito.
 
-A Figura 1 mostra a lista de tópicos; as Figuras 2 a 9 trazem o trecho do livro correspondente a cada princípio.
-
-**Autor(es) dos itens 2.1 a 2.9:** **[VERIFICAR: autor de cada item de conteúdo (SALES, 2026, p. 11)]**
+A Figura 1 mostra a lista de tópicos; as Figuras 2 a 10 trazem o trecho do livro correspondente a cada princípio.
 
 ### 2.1 Correspondência com as expectativas dos usuários
 
@@ -136,11 +132,9 @@ Fonte: Barbosa e Silva (2010, cap. 8, seç. 8.2.9, p. 277).
 
 ### 2.9 Promoção da eficiência do usuário
 
-<!-- No Plano de Ensino (SALES, 2026, p. 11), "promoção da eficiência do usuário" faz parte do item 4, junto com "consistência e padronização". Na versão 1.1, esta subseção estava numerada como "8", repetindo o número do item anterior. -->
+*   **Fundamentação:** Segundo Tognazzini (2003 apud Barbosa; Silva, 2010, cap. 8, seç. 8.2.5, p. 271), ao projetar um sistema interativo, deve-se considerar sempre a eficiência do usuário em primeiro lugar, e não a do computador. As pessoas são mais custosas do que as máquinas, de modo que uma economia no tempo e esforço cognitivo do usuário costuma trazer mais benefícios reais. O sistema deve manter o usuário produtivo e evitar interrompê-lo desnecessariamente com processos de *background* ou passos burocráticos irrelevantes para sua tarefa atual.
 
-*   **Fundamentação:** Segundo Tognazzini (2003) citado em Barbosa e Silva (2010), ao projetar um sistema interativo, deve-se considerar sempre a eficiência do usuário em primeiro lugar, e não a do computador. As pessoas são mais custosas do que as máquinas, de modo que uma economia no tempo e esforço cognitivo do usuário costuma trazer mais benefícios reais. O sistema deve manter o usuário produtivo e evitar interrompê-lo desnecessariamente com processos de *background* ou passos burocráticos irrelevantes para sua tarefa atual.
-
-Além disso, Cooper (1999) reforça que o sistema deve proteger o trabalho dos usuários, garantindo que eles não percam seu progresso ou informações preenchidas devido a erros de navegação, quedas de conexão ou *timeouts* excessivamente rigorosos.
+Além disso, Cooper (1999 apud Barbosa; Silva, 2010, cap. 8, seç. 8.2.5, p. 271) reforça que o sistema deve proteger o trabalho dos usuários, garantindo que eles não percam seu progresso ou informações preenchidas devido a erros de navegação, quedas de conexão ou *timeouts* excessivamente rigorosos.
 
 A avaliação heurística e o projeto de interface do portal do Detran-DF incorporam as diretrizes de promoção da eficiência do usuário, buscando eliminar gargalos que desperdiçam o tempo do cidadão e do servidor durante a busca por serviços de trânsito.
 
@@ -167,16 +161,12 @@ A avaliação heurística e o projeto de interface do portal do Detran-DF incorp
 
 Fonte: Barbosa e Silva (2010, cap. 8, seç. 8.2.5, p. 271).
 
-<!-- TODO(VERIFICAR): o texto da seção 2.9 repete a frase "A avaliação heurística e o projeto de interface do portal do Detran-DF incorporam as diretrizes de promoção da eficiência do usuário…" duas vezes. Sugestão de ajuste em REFATORACAO-RELATORIO.md. -->
-
 ## Referências bibliográficas
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
 
-<!-- TODO(VERIFICAR): o texto cita Tognazzini (2003) e Cooper (1999) por meio de Barbosa e Silva (2010). Pela ABNT, use "Tognazzini (2003 apud Barbosa; Silva, 2010, p. 271)". -->
-
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para: reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico e seções numeradas); transformar os "Quadros" com fotos do livro em Figuras numeradas, com legenda acima, texto alternativo descritivo e fonte abaixo; conferir no PDF de Barbosa e Silva (2010) as páginas de cada figura, corrigindo a das Figuras 1 e 2 (de p. 264 para p. 265); e renumerar a subseção de eficiência do usuário, que repetia o número 8. Fundamentações e aplicações ao Detran-DF não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico e seções numeradas); organizar as fotos do livro já incluídas pelos autores como Figuras numeradas, com legenda acima, texto alternativo e fonte abaixo; conferir no livro de Barbosa e Silva (2010) a página de cada figura, corrigindo a das Figuras 1 e 2 (de p. 264 para p. 265); renumerar a subseção de eficiência do usuário, que repetia o número 8; e padronizar as citações de Tognazzini (2003) e Cooper (1999) na forma *apud*. Fundamentações e aplicações ao Detran-DF não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

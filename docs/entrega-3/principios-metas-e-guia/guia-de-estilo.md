@@ -6,11 +6,10 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | **[VERIFICAR: contribuição]** (o cronograma da Entrega 1, seção 4.5, atribuía a Alexandre a elaboração do guia de estilo) | — | — |
-| Eduardo Ribeiro Gomes da Silva | **[VERIFICAR: contribuição]** | — | — |
-| Gabriel Robson | Elaboração do guia de reprojeto: estrutura teórica, padrões, rastreabilidade e critérios de validação (v1.1) | [Commit 3687d52](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/3687d52) | — |
+| Alexandre Vilar Valadares Fonsêca | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Elaboração do guia de reprojeto: estrutura teórica, padrões, rastreabilidade e critérios de validação (v1.1) | [Commit 3687d52](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/3687d52) | — |
 | Henrique Schneider Fernandes da Rosa | Criação do documento (v1.0) | [Commit d803534](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d803534) | — |
-| João Vitor Tavares de Sá Lima | **[VERIFICAR: contribuição]** | — | — |
+| João Vitor Tavares de Sá Lima | — | — | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -20,9 +19,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/10/2026 | 1.0 | Criação do documento | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Integrantes do grupo") |
-| 06/10/2026 | 1.1 | Elaboração do guia de reprojeto: estrutura teórica, padrões, rastreabilidade e critérios de validação | Gabriel Robson, com apoio do ChatGPT na elaboração e conferência documental | **[VERIFICAR: revisor]** (registrado como "Revisão humana pendente") |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição e histórico no início), inclusão de legendas, fontes e chamadas nas Tabelas 3 a 11, do autor do item, da referência ABNT padronizada e reunião das declarações de uso de IA em uma seção final | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 06/10/2026 | 1.0 | Criação do documento | Henrique Schneider | Integrantes do grupo |
+| 06/10/2026 | 1.1 | Elaboração do guia de reprojeto: estrutura teórica, padrões, rastreabilidade e critérios de validação | Gabriel Robson, com apoio do ChatGPT na elaboração e conferência documental | Revisão humana pendente |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição e histórico no início), inclusão de legendas, fontes e chamadas nas Tabelas 3 a 11, do autor do item, da referência ABNT padronizada e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | — |
+| 17/10/2026 | 1.3 | Inclusão das fotos das fontes (Figuras 1 e 2), ordenação alfabética das referências e organização da página | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -32,9 +32,23 @@ Fonte: elaborado pelos autores (2026).
 
 Este guia registra as decisões de interface propostas pelo Grupo 03 para o **reprojeto acadêmico do site do Detran-DF**. Seu objetivo é manter consistência visual, facilitar a localização dos serviços e orientar a criação e a manutenção dos protótipos.
 
-Conforme Barbosa e Silva (2010, cap. 8, seç. 8.4, p. 282–284), o guia reúne decisões de design e funciona como instrumento de comunicação entre as equipes. A organização abaixo acompanha a estrutura apresentada pelos autores a partir de Marcus (1992) e Mayhew (1999).
+Conforme Barbosa e Silva (2010, cap. 8, seç. 8.4, pp. 282–284), o guia reúne decisões de design e funciona como instrumento de comunicação entre as equipes. A organização abaixo acompanha a estrutura apresentada pelos autores a partir de Marcus (1992) e Mayhew (1999).
 
-**Autor do item:** Gabriel Robson (v1.1 do histórico). **[VERIFICAR: foto da p. 283 de Barbosa e Silva (2010) com a estrutura do guia de estilo, salva em `docs/assets/referencias/barbosa-silva-2010-p283.png` (itens 15 e 16 da Entrega 3)]**
+**Autor do item:** Gabriel Robson (v1.1 do histórico).
+
+As Figuras 1 e 2 reproduzem os trechos citados: a definição de guia de estilo e os elementos considerados por Marcus (1992), na p. 282, e a estrutura comum do guia, na p. 283.
+
+??? quote "Figura 1 – Trecho de Barbosa e Silva (2010, cap. 8, p. 282) sobre o guia de estilo e seus elementos"
+
+    ![Trecho de Barbosa e Silva (2010) que define o guia de estilo como registro das decisões de design e ferramenta de comunicação entre as equipes, com os escopos possíveis e os elementos considerados por Marcus (1992)](imagens/guia-de-estilo/01.jpg)
+
+    Fonte: Barbosa e Silva (2010, cap. 8, seç. 8.4, p. 282).
+
+??? quote "Figura 2 – Trecho de Barbosa e Silva (2010, cap. 8, p. 283) com a estrutura comum de um guia de estilo"
+
+    ![Trecho de Barbosa e Silva (2010) com a estrutura comum de guia de estilo em seis partes (introdução, resultados de análise, elementos de interface, de interação e de ação, vocabulário e padrões) e a recomendação de Mayhew (1999) de registrar o design rationale](imagens/guia-de-estilo/02.jpg)
+
+    Fonte: Barbosa e Silva (2010, cap. 8, seç. 8.4, p. 283).
 
 !!! info "Escopo e evidências"
     Este é um guia de produto específico elaborado para o projeto acadêmico, e não um manual oficial do Detran-DF. Os valores de cores, fontes, espaçamentos e componentes abaixo são **decisões propostas**, não medições do CSS do site atual. Em 06/10/2026, não foi possível concluir a inspeção visual ao vivo de `www.detran.df.gov.br` por tempo limite de acesso. O catálogo público indexado do Portal de Serviços foi consultado para contextualizar categorias e nomes de serviços; ele não comprova o comportamento atual dos formulários.
@@ -316,22 +330,18 @@ Utilizar **Conforme / Não conforme / Não se aplica**, registrando tela, evidê
 9. Carregamento, sucesso, falha e indisponibilidade são comunicados por texto?
 10. Cada mudança de padrão registra sua origem e justificativa?
 
-**Pendências:** inspeção visual do portal institucional; conferência de identidade oficial; validação dos fluxos reais; testes com participantes; revisão humana do guia. As medições e evidências futuras devem substituir hipóteses quando disponíveis.
-
 ## Referências bibliográficas
 
 - BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
+- DETRAN-DF. *Detran Digital: Portal de Serviços*. Disponível em: <https://portal.detran.df.gov.br/>. Catálogo público indexado consultado em: 6 out. 2026; formulários não inspecionados.
+- DETRAN-DF. *Site institucional*. Disponível em: <https://www.detran.df.gov.br/>. Tentativa de acesso em: 6 out. 2026; inspeção visual não concluída.
+- GRUPO 03. *Perfis de Usuário e Personas; Análise de Tarefas; Metas de Usabilidade*. Projeto de IHC, UnB, 2026. Documentos vinculados neste guia.
 - MARCUS, Aaron. *Graphic Design for Electronic Documents and User Interfaces*. New York: ACM Press, 1992. Referência citada por Barbosa e Silva (2010); consulta indireta.
 - MAYHEW, Deborah J. *The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design*. San Francisco: Morgan Kaufmann, 1999. Referência citada por Barbosa e Silva (2010); consulta indireta.
-- DETRAN-DF. *Site institucional*. Disponível em: <https://www.detran.df.gov.br/>. Tentativa de acesso em: 6 out. 2026; inspeção visual não concluída.
-- DETRAN-DF. *Detran Digital: Portal de Serviços*. Disponível em: <https://portal.detran.df.gov.br/>. Catálogo público indexado consultado em: 6 out. 2026; formulários não inspecionados.
-- GRUPO 03. *Perfis de Usuário e Personas; Análise de Tarefas; Metas de Usabilidade*. Projeto de IHC, UnB, 2026. Documentos vinculados neste guia.
-- W3C. *Web Content Accessibility Guidelines (WCAG) 2.2*. Disponível em: <https://www.w3.org/TR/WCAG22/>. Critérios 1.4.3, 1.4.11, 2.5.8 e demais critérios aplicáveis.
+- SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
 - W3C. *Understanding SC 1.4.3: Contrast (Minimum)*. Disponível em: <https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html>. Acesso em: 6 out. 2026.
 - W3C. *Understanding SC 2.5.8: Target Size (Minimum)*. Disponível em: <https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html>. Acesso em: 6 out. 2026.
-- SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
-
-<!-- TODO(VERIFICAR): a lista não está em ordem alfabética e mistura notas ("consulta indireta", "inspeção visual não concluída") com as referências. Pela ABNT, Marcus (1992) e Mayhew (1999), consultados por meio de Barbosa e Silva (2010), são citados com "apud" no texto. -->
+- W3C. *Web Content Accessibility Guidelines (WCAG) 2.2*. Disponível em: <https://www.w3.org/TR/WCAG22/>. Critérios 1.4.3, 1.4.11, 2.5.8 e demais critérios aplicáveis.
 
 ## Agradecimentos e uso de IA generativa
 
@@ -339,6 +349,6 @@ Utilizar **Conforme / Não conforme / Não se aplica**, registrando tela, evidê
 
 ChatGPT auxiliou na organização, redação e verificação de coerência documental. Os valores visuais são propostas explícitas; o apoio de IA e a compilação do site não substituem inspeção da interface nem testes com usuários.
 
-### Uso de IA generativa na refatoração de 15/10/2026
+### Uso de IA generativa na padronização da página (15 e 17/10/2026)
 
-O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar esta página no modelo de artefato da disciplina (tabela de contribuição e histórico no início), incluir legenda acima, fonte abaixo e chamada no texto das Tabelas 3 a 11, registrar o autor do item, padronizar a referência de Barbosa e Silva (2010) e reunir as declarações de uso de IA nesta seção. Decisões de design, valores e textos do guia não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar a página no modelo de artefato da disciplina (tabela de contribuição e histórico no início; legenda, fonte e chamada no texto das Tabelas 3 a 11; referências em ordem alfabética), registrar o autor do item e recortar as fotos dos trechos de Barbosa e Silva (2010) citados (Figuras 1 e 2). As decisões de design e os valores do guia não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
