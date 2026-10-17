@@ -4,7 +4,7 @@
 Universidade de Brasília — Campus Darcy Ribeiro / FCTE — Turma 01
 Prof. Dr. André Barros de Sales — **Grupo 03**
 
-Integrantes do grupo: Alexandre Vilar, Eduardo Ribeiro, Gabriel Robson, Henrique Schneider e João Vitor.
+Integrantes do grupo: Alexandre Vilar, Gabriel Robson, Henrique Schneider e João Vitor.
 
 ## Tabela de contribuição
 
@@ -13,9 +13,8 @@ Integrantes do grupo: Alexandre Vilar, Eduardo Ribeiro, Gabriel Robson, Henrique
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Não se aplica (página individual de Henrique Schneider) | — | — |
-| Eduardo Ribeiro Gomes da Silva | Não se aplica (página individual de Henrique Schneider) | — | — |
-| Gabriel Robson | Não se aplica (página individual de Henrique Schneider) | — | — |
-| Henrique Schneider Fernandes da Rosa | Cronogramas individuais do planejamento da avaliação do storyboard, do relato dos resultados e da HTA (Relatório da Entrega 4, pp. 7–14); storyboard **[VERIFICAR]** | [Relatório da Entrega 4](../../../assets/pdfs/entregas/relatorio-entrega-4-grupo-03.pdf) | **[VERIFICAR: apresentação da Entrega 4]** |
+| Gabriel Robson Nunes Neiva da Silva | Não se aplica (página individual de Henrique Schneider) | — | — |
+| Henrique Schneider Fernandes da Rosa | Cronogramas individuais do planejamento da avaliação do storyboard, do relato dos resultados e da HTA (Relatório da Entrega 4, pp. 7–14) | [Relatório da Entrega 4](../../../assets/pdfs/entregas/relatorio-entrega-4-grupo-03.pdf) | — |
 | João Vitor Tavares de Sá Lima | Não se aplica (página individual de Henrique Schneider) | — | — |
 
 Fonte: elaborado pelos autores (2026).
@@ -26,21 +25,20 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
-| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Integrantes do grupo") |
-| 13/10/2026 | 2.0 | Atualização do Documento | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Integrantes do grupo") |
-| 15/10/2026 | 2.1 | Padronização da estrutura no modelo da disciplina (tabela de contribuição, legenda do histórico corrigida, introdução, seções numeradas, legendas dos cronogramas, seções do storyboard e da relação com a análise de tarefas com marcadores de pendência) e inclusão da seção de uso de IA | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Integrantes do grupo |
+| 13/10/2026 | 2.0 | Atualização do Documento | Henrique Schneider | Integrantes do grupo |
+| 15/10/2026 | 2.1 | Padronização da estrutura no modelo da disciplina (tabela de contribuição, legenda do histórico corrigida, introdução, seções numeradas, legendas dos cronogramas, seções do storyboard e da relação com a análise de tarefas) e inclusão da seção de uso de IA | Henrique Schneider | — |
+| 17/10/2026 | 2.2 | Organização por entrega; fotos das fontes; revisão das citações e das referências; reorganização das seções | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-Esta página reúne o planejamento individual de Henrique Schneider para a Entrega 4: o storyboard sob sua responsabilidade e os cronogramas do planejamento da avaliação do storyboard, do relato dos resultados e da avaliação da análise de tarefas (HTA). O planejamento comum do grupo, pelo framework DECIDE, está na página [Planejamento da Avaliação (DECIDE)](../../planejamento-da-avaliacao/decide.md).
-
-**[VERIFICAR: introdução escrita por Henrique Schneider, com o fluxo do Detran-DF escolhido para o storyboard e a persona envolvida.]**
+Esta página reúne o planejamento individual de Henrique Schneider para a Entrega 4: os cronogramas do planejamento da avaliação do storyboard, do relato dos resultados e da avaliação da análise de tarefas (HTA). O planejamento comum do grupo, pelo framework DECIDE, está na página [Planejamento da Avaliação (DECIDE)](../../planejamento-da-avaliacao/decide.md).
 
 ## 2. Framework DECIDE
 
-O planejamento da avaliação de Interação Humano-Computador (IHC) deste projeto é estruturado com base no framework **DECIDE**, proposto por Sharp, Rogers e Preece (2007) e sistematizado por Barbosa e Silva (2010). O objetivo do framework é orientar e documentar, de maneira metódica, rigorosa e iterativa, a condução da avaliação por meio de seis etapas ordenadas:
+O planejamento da avaliação de Interação Humano-Computador (IHC) deste projeto é estruturado com base no framework **DECIDE**, proposto por Sharp, Rogers e Preece (2007 apud Barbosa; Silva, 2010, cap. 9, seç. 9.8, p. 312) e sistematizado por Barbosa e Silva (2010). O objetivo do framework é orientar e documentar, de maneira metódica, rigorosa e iterativa, a condução da avaliação por meio de seis etapas ordenadas.
 
 A Tabela 3 apresenta essas seis etapas.
 
@@ -55,7 +53,21 @@ A Tabela 3 apresenta essas seis etapas.
 | **D** | Decidir como Lidar com as Questões Éticas (*Decide on ethical issues*) | Garante a salvaguarda e o respeito à dignidade dos participantes por meio do Termo de Consentimento Livre e Esclarecido (TCLE), assegurando anonimato, privacidade e direito de desistência sem penalidades (quando houver envolvimento de usuários reais). |
 | **E** | Avaliar, Interpretar e Apresentar os Dados (*Evaluate, analyze, and present data*) | Estabelece como os dados brutos coletados serão consolidados, categorizados e interpretados, servindo de base para o diagnóstico de problemas e a elaboração de recomendações de redesign. |
 
-Fonte: elaborado pelos autores (2026), com base em Barbosa e Silva (2010, cap. 9, seç. 9.8, p. 312-313).
+Fonte: elaborado pelos autores (2026), com base em Barbosa e Silva (2010, cap. 9, seç. 9.8, pp. 312–313).
+
+As Figuras 1 e 2 mostram os trechos de Barbosa e Silva (2010) em que a Tabela 3 se baseia.
+
+??? quote "Figura 1 – Trecho de Barbosa e Silva (2010, p. 312) sobre a origem do framework DECIDE"
+
+    ![Trecho de Barbosa e Silva (2010) que atribui o framework DECIDE a Sharp, Rogers e Preece (2007)](imagens/planejamento-individual/01.jpg)
+
+    Fonte: Barbosa e Silva (2010, cap. 9, seç. 9.8, p. 312).
+
+??? quote "Figura 2 – Trecho de Barbosa e Silva (2010, p. 313) com as atividades do framework DECIDE"
+
+    ![Trecho de Barbosa e Silva (2010) com a descrição das atividades D, E, C, I, D e E do framework DECIDE](imagens/planejamento-individual/02.jpg)
+
+    Fonte: Barbosa e Silva (2010, cap. 9, seç. 9.8, p. 313).
 
 ## 3. Cronogramas de Henrique Schneider
 
@@ -114,33 +126,17 @@ Fonte: elaborado pelos autores (2026).
 
 Fonte: elaborado pelos autores (2026).
 
-<!-- TODO(VERIFICAR): o item 8 da Entrega 4 pede "Um cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas" (SALES, 2026, p. 13). Os cronogramas acima têm datas, mas não horário nem local. -->
-
-## 4. Storyboard
-
-O item 10 da Entrega 4 pede que a "quantidade de storyboards é igual a quantidade de integrantes do grupo" (SALES, 2026, p. 13).
-
-**[VERIFICAR: storyboard de Henrique Schneider, com os quadros numerados, legenda e fonte. Sugestão de nome do arquivo: `docs/assets/storyboards/<nome>-quadro-<n>.png`.]**
-
-## 5. Relação dos quadros com a análise de tarefas
-
-O item 9 da Entrega 4 pede que "cada desenho do StoryBoard está relacionado uma especificação do artefato da Análise de Tarefas" (SALES, 2026, p. 13).
-
-**[VERIFICAR: tabela "Quadro do storyboard × tarefa ou subtarefa da HTA" (ver a [Análise de Tarefas](../../../entrega-2/perfil-e-tarefas/analise-de-tarefas.md)).]**
-
 ## Referências Bibliográficas
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
+GRUPO 03. *Planejamento Entrega 4*. Brasília: Universidade de Brasília, 2026. Disponível em: [PDF](../../../assets/pdfs/entregas/relatorio-entrega-4-grupo-03.pdf).
+
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
-
-SHARP, Helen; ROGERS, Yvonne; PREECE, Jenny. *Interaction design*: beyond human-computer interaction. 2. ed. Chichester: John Wiley & Sons, 2007.
-
-<!-- TODO(VERIFICAR): conferir o local de publicação de Sharp, Rogers e Preece (2007). A versão anterior citava Barbosa e Silva (2010) "Cap. 6 (Análise de Tarefas, p. 192-196), Cap. 9 (Planejamento da Avaliação de IHC, p. 288-313) e Cap. 10 (Métodos de Avaliação de IHC, p. 361)". -->
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no mesmo modelo das demais páginas individuais da Entrega 4: tabela de contribuição, correção da legenda do histórico (antes "Documento de Análise de Tarefas"), introdução, legendas e fontes das tabelas, seções do storyboard e da relação com a análise de tarefas com marcadores **[VERIFICAR]** e padronização das referências. A tabela do DECIDE e as datas dos cronogramas não foram alteradas. O relatório da Entrega 4 registra o uso do Claude na formatação dos cronogramas individuais e do Gemini na estruturação dos relatórios (Grupo 03, Relatório da Entrega 4, p. 15). A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no mesmo modelo das demais páginas individuais da Entrega 4 (tabela de contribuição, legenda do histórico, antes "Documento de Análise de Tarefas", introdução, legendas e fontes das tabelas, citações e referências) e para recortar as fotos dos trechos de Barbosa e Silva (2010) das Figuras 1 e 2. A tabela do DECIDE e as datas dos cronogramas não foram alteradas. O relatório da Entrega 4 registra o uso do Claude na formatação dos cronogramas individuais e do Gemini na estruturação dos relatórios (GRUPO 03, 2026, p. 15). A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 ---
 

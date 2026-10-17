@@ -6,13 +6,12 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | Autoria do item adicional N4; participação na inspeção do Grupo 01 | [Inspeção do Grupo 01](inspecao-grupo-01.md), Tabela 5 | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
-| Eduardo Ribeiro Gomes da Silva | **[VERIFICAR: contribuição]** (não identificado na gravação, segundo a ata da Reunião 02) | — | — |
-| Gabriel Robson | Autoria dos itens adicionais N6 e N7; participação na inspeção do Grupo 01 | [Inspeção do Grupo 01](inspecao-grupo-01.md), Tabela 5 | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+| Alexandre Vilar Valadares Fonsêca | Autoria do item adicional N4; participação na inspeção do Grupo 01; lista individual de verificação do storyboard | [Inspeção do Grupo 01](inspecao-grupo-01.md), Tabela 5; [Lista de Verificação – Storyboard](../integrantes/alexandre-vilar/lista-storyboard.md) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+| Gabriel Robson Nunes Neiva da Silva | Autoria dos itens adicionais N6 e N7; participação na inspeção do Grupo 01 | [Inspeção do Grupo 01](inspecao-grupo-01.md), Tabela 5 | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | Henrique Schneider Fernandes da Rosa | Criação da lista da inspeção e autoria dos itens adicionais N1 a N3; condução da inspeção do Grupo 01 | [Inspeção do Grupo 01](inspecao-grupo-01.md), Tabela 5 | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
-| João Vitor Tavares de Sá Lima | Autoria do item adicional N5; participação na inspeção do Grupo 01 | [Inspeção do Grupo 01](inspecao-grupo-01.md), Tabela 5 | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+| João Vitor Tavares de Sá Lima | Autoria do item adicional N5; participação na inspeção do Grupo 01; lista individual de verificação do storyboard | [Inspeção do Grupo 01](inspecao-grupo-01.md), Tabela 5; [Lista de Verificação – Storyboard](../integrantes/joao-vitor/lista-storyboard.md) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 
-Fonte: elaborado pelos autores (2026), com base na [ata da Reunião 02](../../atas/ata-reuniao-20261014-02.md).
+Fonte: elaborado pelos autores (2026), com base na [ata da Reunião 02](../../atas/ata-reuniao-20261014-02.md) e nas listas individuais publicadas.
 
 ## Histórico de versões
 
@@ -20,13 +19,14 @@ Fonte: elaborado pelos autores (2026), com base na [ata da Reunião 02](../../at
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da página: transcrição da lista do Plano de Ensino, dos itens adicionais do grupo e levantamento das listas por artefato e das aplicações | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.0 | Criação da página: transcrição da lista do Plano de Ensino, dos itens adicionais do grupo e levantamento das listas por artefato e das aplicações | Henrique Schneider | — |
+| 17/10/2026 | 1.1 | Organização por entrega; inclusão do quadro das listas de verificação individuais; revisão das citações | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-Esta página reúne as listas de verificação da Entrega 4 (Planejamento da Avaliação do Storyboard e da Análise de Tarefas, com o planejamento do relato dos resultados): a lista do Plano de Ensino (seção 2), as listas e os itens elaborados pelo grupo (seção 3) e as aplicações registradas (seção 4). As respostas ficam nas páginas de aplicação.
+Esta página reúne as listas de verificação da Entrega 4 (Planejamento da Avaliação do Storyboard e da Análise de Tarefas, com o planejamento do relato dos resultados): a lista do Plano de Ensino (seção 2), os itens e as listas elaborados pelos integrantes (seção 3) e as aplicações registradas (seção 4). As respostas ficam nas páginas de aplicação.
 
 ## 2. Lista do professor (Plano de Ensino)
 
@@ -67,49 +67,48 @@ O Quadro 2 transcreve os 7 itens que os integrantes elaboraram para a inspeção
 | N3 | Para cada objetivo da avaliação, há **perguntas específicas** a serem respondidas (etapa "E – Explorar perguntas" do DECIDE), considerando o perfil dos usuários-alvo e suas atividades? | Barbosa e Silva (2010), cap. 9, seç. 9.8, p. 313, atividade "E" | Henrique Schneider |
 | N4 | O planejamento lista o **material de apoio** da sessão (termo de consentimento, questionário pré-teste, roteiro de entrevista pós-teste, instruções e cenários de tarefa derivados da Análise de Tarefas, roteiro de acompanhamento da observação) e estima até 20 min por tarefa? | Barbosa e Silva (2010), cap. 9, seç. 9.7.2, p. 306, 1º e 2º parágrafos | Alexandre Vilar |
 | N5 | O planejamento do relato descreve como os resultados serão **consolidados** (análise intersujeito, buscando recorrências entre participantes) e prevê no relatório o sumário dos dados com tabelas e gráficos, a interpretação dos dados e um **planejamento para o reprojeto**? | Barbosa e Silva (2010), cap. 9, seç. 9.7.5, pp. 311–312, 1º parágrafo e último parágrafo | João Vitor |
-| N6 | O planejamento define como os avaliadores deverão agir caso um participante não consiga concluir uma tarefa, incluindo quando oferecer ajuda, quando interromper a atividade e como registrar essa dificuldade sem influenciar o resultado da avaliação? | Barbosa e Silva (2010), cap. 9, seção 9.7.2, p. 306 (referência relacionada; confirmar fundamentação específica e incluir foto) | Gabriel Robson |
-| N7 | O planejamento estabelece como os problemas de usabilidade identificados na avaliação serão classificados por gravidade, considerando seu impacto na realização das tarefas, para orientar quais problemas deverão ser corrigidos primeiro? | Barbosa e Silva (2010), cap. 9, seção 9.7.5, pp. 311–312 (referência relacionada; confirmar classificação por gravidade e incluir foto) | Gabriel Robson |
+| N6 | O planejamento define como os avaliadores deverão agir caso um participante não consiga concluir uma tarefa, incluindo quando oferecer ajuda, quando interromper a atividade e como registrar essa dificuldade sem influenciar o resultado da avaliação? | Barbosa e Silva (2010), cap. 9, seção 9.7.2, p. 306, 3º parágrafo (referência relacionada) | Gabriel Robson |
+| N7 | O planejamento estabelece como os problemas de usabilidade identificados na avaliação serão classificados por gravidade, considerando seu impacto na realização das tarefas, para orientar quais problemas deverão ser corrigidos primeiro? | Barbosa e Silva (2010), cap. 9, seção 9.7.5, pp. 311–312 (referência relacionada) | Gabriel Robson |
 
 Fonte: Grupo 03 (2026), transcrito da [Inspeção do Grupo 01](inspecao-grupo-01.md).
 
-### 3.2 Listas por artefato
+### 3.2 Listas de verificação individuais
 
-A atividade do professor de elaborar listas de verificação inclui dois artefatos desta entrega, com no mínimo 3 itens cada, fonte com capítulo e página e foto do texto (SALES, [2026], p. 1). Os itens N1 a N7 podem servir de ponto de partida, mas não formam listas por artefato.
+Na atividade individual do Moodle "Lista de verificação – Storyboard" (prazo de 13/10/2026), cada integrante elaborou itens para inspecionar os storyboards do projeto. O Quadro 3 reúne as listas publicadas, cada uma com a fonte e a foto do trecho que fundamenta cada item.
 
-**Quadro 3 – Listas de verificação por artefato da Entrega 4**
+**Quadro 3 – Listas de verificação individuais da Entrega 4**
 
-| Artefato | Mínimo de itens | Situação |
-| --- | :---: | --- |
-| Planejamento da avaliação com o framework DECIDE | 3 | Não elaborada **[VERIFICAR]** |
-| Planejamento do resultado e resultado da avaliação | 3 | Não elaborada **[VERIFICAR]** |
-| Storyboard (atividade individual do Moodle, prazo 13/10/2026) | — | **[VERIFICAR: publicar as listas de cada integrante]** |
+| Integrante | Artefato | Nº de itens | Lista |
+| --- | --- | :---: | --- |
+| Alexandre Vilar Valadares Fonsêca | Storyboard | 12 | [Lista de Verificação – Storyboard](../integrantes/alexandre-vilar/lista-storyboard.md) |
+| João Vitor Tavares de Sá Lima | Storyboard | 11 | [Lista de Verificação – Storyboard](../integrantes/joao-vitor/lista-storyboard.md) |
 
-Fonte: elaborado pelos autores (2026), com base em Sales ([2026], p. 1) e nas atividades do Moodle transcritas em `Refatoração/Tarefas por Integrante.md`.
+Fonte: elaborado pelos autores (2026), com base nas listas publicadas nas pastas dos integrantes.
 
 ### 3.3 Itens por integrante
 
-**Quadro 4 – Itens da Entrega 4 por integrante**
+O Quadro 4 resume os itens de verificação de autoria de cada integrante na Entrega 4.
 
-| Integrante | Item de conteúdo com autor identificado | Itens de verificação de autoria própria |
-| --- | --- | --- |
-| Alexandre Vilar | Nenhum identificado **[VERIFICAR]** | N4 |
-| Eduardo Ribeiro | Nenhum identificado **[VERIFICAR]** | Nenhum |
-| Gabriel Robson | Nenhum identificado **[VERIFICAR]** | N6 e N7 |
-| Henrique Schneider | Nenhum identificado **[VERIFICAR]** | N1 a N3 |
-| João Vitor | Nenhum identificado **[VERIFICAR]** | N5 |
+**Quadro 4 – Itens de verificação da Entrega 4 por integrante**
 
-Fonte: elaborado pelos autores (2026), com base no [Relatório da Entrega 4](../relatorio.md) e no Quadro 2.
+| Integrante | Itens de verificação de autoria própria |
+| --- | --- |
+| Alexandre Vilar | N4 (inspeção do Grupo 01); 12 itens da lista individual de storyboard |
+| Gabriel Robson | N6 e N7 (inspeção do Grupo 01) |
+| Henrique Schneider | N1 a N3 (inspeção do Grupo 01) |
+| João Vitor | N5 (inspeção do Grupo 01); 11 itens da lista individual de storyboard |
+
+Fonte: elaborado pelos autores (2026), com base nos Quadros 2 e 3.
 
 ## 4. Aplicações das listas
+
+O Quadro 5 registra a aplicação da lista na inspeção do Grupo 01.
 
 **Quadro 5 – Aplicações das listas da Entrega 4**
 
 | Aplicação | Quem avaliou | Data | Resultado registrado | Registro |
 | --- | --- | :---: | --- | --- |
 | Inspeção do Grupo 01 (grupo -1), gravada | Henrique Schneider, Alexandre Vilar, Gabriel Robson e João Vitor | 14/10/2026 | 30 itens: 22 Sim, 4 Incompleto e 4 Não | [Inspeção do Grupo 01](inspecao-grupo-01.md); [ata da Reunião 02](../../atas/ata-reuniao-20261014-02.md) |
-| Conformidade do site após a refatoração | Refatoração de 15/10/2026 | 15/10/2026 | Matriz Conforme / Não conforme / Não se aplica | [Relatório da Entrega 4](../relatorio.md) |
-| Autoavaliação da Entrega 4 do Grupo 03 | **[VERIFICAR]** | **[VERIFICAR]** | Não realizada | — |
-| Inspeção da Entrega 4 do Grupo 03 por outro grupo ou pela monitoria | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -117,12 +116,10 @@ Fonte: elaborado pelos autores (2026).
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
-KLEMMER, Scott. *Storyboards, Paper Prototypes, and Mock-ups*. [*S. l.*]: hci-class.org, [20--]. 1 vídeo (5 min 53 s). Arquivo consultado: "storyboards.mp4".
-
-SALES, André Barros de. *Lista de Exercícios: elaborar listas de verificação*. Brasília: Universidade de Brasília, [2026]. Enunciado da atividade avaliativa Verificação 2.
+KLEMMER, Scott. *Storyboards, paper prototypes, and mock-ups*. [*S. l.*]: hci-class.org, [20--]. 1 vídeo (5 min 53 s). Arquivo consultado: "storyboards.mp4".
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever a lista do Plano de Ensino e os itens adicionais da inspeção do Grupo 01, levantar as listas por artefato pedidas pelo professor e as aplicações já registradas, e montar os quadros. Nenhum item, resposta ou autoria foi criado: o que não está registrado aparece como **[VERIFICAR]**. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever a lista do Plano de Ensino e os itens adicionais da inspeção do Grupo 01, reunir as listas individuais publicadas e as aplicações registradas e montar os quadros. Nenhum item, resposta ou autoria foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

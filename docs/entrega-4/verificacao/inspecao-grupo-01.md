@@ -4,7 +4,7 @@
 Campus Darcy Ribeiro / Faculdade de Ciências da Tecnologia (FCTE) — Turma 01
 Prof. Dr. André Barros de Sales — **Grupo 03**
 
-Integrantes do grupo: Alexandre Vilar, Eduardo Ribeiro, Gabriel Robson, Henrique Schneider e João Vitor.
+Integrantes do grupo: Alexandre Vilar, Gabriel Robson, Henrique Schneider e João Vitor.
 
 ---
 
@@ -15,8 +15,7 @@ Integrantes do grupo: Alexandre Vilar, Eduardo Ribeiro, Gabriel Robson, Henrique
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | :--- | :--- | :--- | :--- |
 | Alexandre Vilar Valadares Fonsêca | Autoria do item adicional N4; apoio na localização das evidências | [Item N4](#2-itens-adicionais-do-grupo-inspetor-7-itens) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
-| Eduardo Ribeiro Gomes da Silva | **[VERIFICAR: contribuição]** (não identificado na gravação, segundo a ata da Reunião 02) | — | — |
-| Gabriel Robson | Autoria dos itens adicionais N6 e N7; preenchimento das respostas, evidências e horários (v1.2) | [Itens N6 e N7](#2-itens-adicionais-do-grupo-inspetor-7-itens) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+| Gabriel Robson Nunes Neiva da Silva | Autoria dos itens adicionais N6 e N7; preenchimento das respostas, evidências e horários (v1.2) | [Itens N6 e N7](#2-itens-adicionais-do-grupo-inspetor-7-itens) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | Henrique Schneider Fernandes da Rosa | Criação da lista e autoria dos itens N1 a N3 (v1.0 e v1.1); condução da inspeção | [Commit 2a95590](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/2a95590) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | João Vitor Tavares de Sá Lima | Autoria do item adicional N5; apoio na localização das evidências | [Item N5](#2-itens-adicionais-do-grupo-inspetor-7-itens) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 
@@ -30,10 +29,11 @@ Integrantes do grupo: Alexandre Vilar, Eduardo Ribeiro, Gabriel Robson, Henrique
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
-| 14/10/2026 | 1.0 | Criação da lista: itens do Plano de Ensino (Entrega 4) e 5 itens adicionais com fundamentação. | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Todos os integrantes do grupo") |
-| 14/10/2026 | 1.1 | Figuras com legenda numerada logo abaixo de cada fonte; seção de Agradecimentos com registro de ferramentas e uso de IA generativa por etapa. | Henrique Schneider | **[VERIFICAR: revisor]** (registrado como "Todos os integrantes do grupo") |
-| 14/10/2026 | 1.2 | Inclusão dos itens adicionais N6 e N7 e dos autores dos itens adicionais; preenchimento das respostas, evidências (minutos da gravação da inspeção e links) e versão, data e hora da avaliação. | Gabriel Robson | **[VERIFICAR: revisor]** (registrado como "Todos os integrantes do grupo") |
-| 15/10/2026 | 1.3 | Correção do caminho das Figuras 1 a 7 (não apareciam no site publicado), legendas das figuras movidas para cima com a fonte abaixo, inclusão da tabela de contribuição e da seção de uso de IA da refatoração; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 14/10/2026 | 1.0 | Criação da lista: itens do Plano de Ensino (Entrega 4) e 5 itens adicionais com fundamentação. | Henrique Schneider | Todos os integrantes do grupo |
+| 14/10/2026 | 1.1 | Figuras com legenda numerada logo abaixo de cada fonte; seção de Agradecimentos com registro de ferramentas e uso de IA generativa por etapa. | Henrique Schneider | Todos os integrantes do grupo |
+| 14/10/2026 | 1.2 | Inclusão dos itens adicionais N6 e N7 e dos autores dos itens adicionais; preenchimento das respostas, evidências (minutos da gravação da inspeção e links) e versão, data e hora da avaliação. | Gabriel Robson | Todos os integrantes do grupo |
+| 15/10/2026 | 1.3 | Correção do caminho das Figuras 1 a 7 (não apareciam no site publicado), legendas das figuras movidas para cima com a fonte abaixo, inclusão da tabela de contribuição e da seção de uso de IA da refatoração; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | — |
+| 17/10/2026 | 1.4 | Organização por entrega; fundamentação dos itens N6 e N7 a partir das fontes registradas e foto do trecho do item N6 (Figura 8); correção do caminho das Figuras 1 a 7; padronização das citações e das referências | Henrique Schneider | — |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
@@ -41,7 +41,7 @@ Integrantes do grupo: Alexandre Vilar, Eduardo Ribeiro, Gabriel Robson, Henrique
 
 ## Introdução (contexto)
 
-Esta lista guia a inspeção por vídeo da Entrega 4 do Grupo -1 (Grupo 1), prevista no cronograma para 14/10/2026. A Entrega 4 cobre o Planejamento da Avaliação do Storyboard e da Análise de Tarefas e o planejamento do relato dos resultados de ambas (Plano de Ensino FIHC 02/2026, Cronograma, aulas 15 e 19).
+Esta lista guia a inspeção por vídeo da Entrega 4 do Grupo -1 (Grupo 1), prevista no cronograma para 14/10/2026. A Entrega 4 cobre o Planejamento da Avaliação do Storyboard e da Análise de Tarefas e o planejamento do relato dos resultados de ambas (SALES, 2026, p. 5, aulas 15 e 19).
 
 **Como usar:** para cada item, marque **Sim**, **Não** ou **Incompleto**, anote o minuto do vídeo ou a página do GitHub Pages onde o item aparece e registre versão, data e hora da avaliação. As subseções 1.1 e 1.2 reproduzem a lista sugerida no Plano de Ensino; a seção 2 traz 7 itens novos elaborados pelo grupo inspetor, com a referência de cada um.
 
@@ -51,7 +51,7 @@ Os minutos indicados na coluna **Evidência** referem-se à gravação da reuni�
 
 ## 1. Lista de verificação do Plano de Ensino
 
-Os itens abaixo reproduzem a lista sugerida para a apresentação 4 no Plano de Ensino FIHC 02/2026 (Turma 01, v1), pp. 8–9 e 12–13. Para a Entrega 4, o plano pede "Todos os 10 itens" do desenvolvimento do projeto, mas a lista de referência (Entrega 1, pp. 8–9) tem 11; todos foram mantidos.
+Os itens abaixo reproduzem a lista sugerida para a apresentação 4 no Plano de Ensino (SALES, 2026, pp. 8–9 e 12–13). Para a Entrega 4, o plano pede "Todos os 10 itens" do desenvolvimento do projeto, mas a lista de referência (Entrega 1, pp. 8–9) tem 11; todos foram mantidos.
 
 ### 1.1 Itens do desenvolvimento do projeto
 
@@ -74,7 +74,7 @@ URL GitHub Pages Grupo 1: <https://interacao-humano-computador.github.io/2026.2-
 | **D10** | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação da atividade e da gravação, se houver? | **Sim** | Vídeo 07:05–07:50; [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/storyboard/planejamento_avaliacao_storyboard/) (tabela de contribuição) | Commit `f167098` – 14/10/2026, 22:45 |
 | **D11** | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | **Sim** | Vídeo 07:50–09:05; [Ferramentas](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/ferramentas/) | Commit `f167098` – 14/10/2026, 22:46 |
 
-<p align="center"><b>Fonte</b>: Adaptado do Plano de Ensino FIHC 02/2026 (Turma 01, v1), pp. 8–9.</p>
+<p align="center"><b>Fonte</b>: adaptado de Sales (2026, pp. 8–9).</p>
 
 ### 1.2 Itens do conteúdo da disciplina
 
@@ -97,9 +97,9 @@ Avaliar: o próprio grupo e o Grupo -1 (Grupo 1). A numeração segue o Plano de
 | **C12** | O resultado do teste piloto não será apresentado no resultado da avaliação? | **Não** | Vídeo 18:35–19:05; [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/storyboard/planejamento_avaliacao_storyboard/), seção 10 | Commit `f167098` – 14/10/2026, 22:57 |
 | **C13** | Os itens que o avaliador deve realizar/anotar durante a avaliação (listar os problemas encontrados, priorizar a correção dos problemas não resolvidos)? | **Sim** | Vídeo 19:05–19:40; [Planejamento do Relato do Storyboard](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/storyboard/planejamento_relato_resultados_storyboard/), seção 3.4 | Commit `f167098` – 14/10/2026, 22:57 |
 
-<p align="center"><b>Fonte</b>: Adaptado do Plano de Ensino FIHC 02/2026 (Turma 01, v1), pp. 12–13.</p>
+<p align="center"><b>Fonte</b>: adaptado de Sales (2026, pp. 12–13).</p>
 
-> **Importante** (Plano de Ensino, p. 13): "Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência."
+> **Importante** (SALES, 2026, p. 13): "Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência."
 
 ---
 
@@ -121,8 +121,8 @@ Os 7 itens abaixo complementam a lista oficial com critérios adicionais. Cobrem
 | **N3** | Para cada objetivo da avaliação, há **perguntas específicas** a serem respondidas (etapa "E – Explorar perguntas" do DECIDE), considerando o perfil dos usuários-alvo e suas atividades? | Barbosa e Silva (2010), cap. 9, seç. 9.8, p. 313, atividade "E" | **Sim** | Vídeo 22:00–22:52; [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/storyboard/planejamento_avaliacao_storyboard/), seção 4 | Commit `f167098` – 14/10/2026, 23:00 | Henrique Schneider |
 | **N4** | O planejamento lista o **material de apoio** da sessão (termo de consentimento, questionário pré-teste, roteiro de entrevista pós-teste, instruções e cenários de tarefa derivados da Análise de Tarefas, roteiro de acompanhamento da observação) e estima até 20 min por tarefa? | Barbosa e Silva (2010), cap. 9, seç. 9.7.2, p. 306, 1º e 2º parágrafos | **Sim** | Vídeo 22:52–25:10; [Avaliação Formativa (DECIDE)](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/planejamento_avaliacao_decide/), seção 6.3 | Commit `f167098` – 14/10/2026, 23:01 | Alexandre Vilar |
 | **N5** | O planejamento do relato descreve como os resultados serão **consolidados** (análise intersujeito, buscando recorrências entre participantes) e prevê no relatório o sumário dos dados com tabelas e gráficos, a interpretação dos dados e um **planejamento para o reprojeto**? | Barbosa e Silva (2010), cap. 9, seç. 9.7.5, pp. 311–312, 1º parágrafo e último parágrafo | **Sim** | Vídeo 25:10–25:55; [Planejamento do Relato do Storyboard](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/storyboard/planejamento_relato_resultados_storyboard/), seções 3.8 e 3.9 | Commit `f167098` – 14/10/2026, 23:04 | João Vitor |
-| **N6** | O planejamento define como os avaliadores deverão agir caso um participante não consiga concluir uma tarefa, incluindo quando oferecer ajuda, quando interromper a atividade e como registrar essa dificuldade sem influenciar o resultado da avaliação? | Barbosa e Silva (2010), cap. 9, seção 9.7.2, p. 306 (referência relacionada; confirmar fundamentação específica e incluir foto). | **Não** | Vídeo 25:55–27:34; [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/storyboard/planejamento_avaliacao_storyboard/), seção 7.1 | Commit `f167098` – 14/10/2026, 23:04 | Gabriel Robson |
-| **N7** | O planejamento estabelece como os problemas de usabilidade identificados na avaliação serão classificados por gravidade, considerando seu impacto na realização das tarefas, para orientar quais problemas deverão ser corrigidos primeiro? | Barbosa e Silva (2010), cap. 9, seção 9.7.5, pp. 311–312 (referência relacionada; confirmar classificação por gravidade e incluir foto). | **Sim** | Vídeo 27:34–28:41; [Planejamento do Relato do Storyboard](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/storyboard/planejamento_relato_resultados_storyboard/), seção 3.4 | Commit `f167098` – 14/10/2026, 23:06 | Gabriel Robson |
+| **N6** | O planejamento define como os avaliadores deverão agir caso um participante não consiga concluir uma tarefa, incluindo quando oferecer ajuda, quando interromper a atividade e como registrar essa dificuldade sem influenciar o resultado da avaliação? | Barbosa e Silva (2010), cap. 9, seção 9.7.2, p. 306, 3º parágrafo (referência relacionada) | **Não** | Vídeo 25:55–27:34; [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/storyboard/planejamento_avaliacao_storyboard/), seção 7.1 | Commit `f167098` – 14/10/2026, 23:04 | Gabriel Robson |
+| **N7** | O planejamento estabelece como os problemas de usabilidade identificados na avaliação serão classificados por gravidade, considerando seu impacto na realização das tarefas, para orientar quais problemas deverão ser corrigidos primeiro? | Barbosa e Silva (2010), cap. 9, seção 9.7.5, pp. 311–312 (referência relacionada) | **Sim** | Vídeo 27:34–28:41; [Planejamento do Relato do Storyboard](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/storyboard/planejamento_relato_resultados_storyboard/), seção 3.4 | Commit `f167098` – 14/10/2026, 23:06 | Gabriel Robson |
 
 <p align="center"><b>Fonte</b>: Elaborado por Henrique Schneider, Alexandre Vilar, João Vitor e Gabriel Robson (2026), com base em Klemmer e Barbosa e Silva (2010).</p>
 
@@ -132,53 +132,63 @@ Os 7 itens abaixo complementam a lista oficial com critérios adicionais. Cobrem
 
 <p align="center" id="figura-1"><b>Figura 1</b> — Slide "Storyboards Should Convey", que lista o que um storyboard deve comunicar: Setting (cenário), Sequence (sequência) e Satisfaction (satisfação).</p>
 
-<p align="center"><img src="../../verificacao/grupo-01/imagens/figura-1-klemmer-storyboards-should-convey.png" alt="Figura 1: Slide “Storyboards Should Convey”, que lista o que um storyboard deve comunicar: Setting (cenário), Sequence (sequência) e Satisfaction (satisfação)" width="600"></p>
+<p align="center" markdown>![Figura 1: Slide “Storyboards Should Convey”, que lista o que um storyboard deve comunicar: Setting (cenário), Sequence (sequência) e Satisfaction (satisfação)](imagens/figura-1-klemmer-storyboards-should-convey.png){ width="600" }</p>
 
-<p align="center">Fonte: Klemmer, vídeo "storyboards.mp4", 4:50.</p>
+<p align="center">Fonte: Klemmer ([20--], 4:50, slide "Storyboards Should Convey").</p>
 
 <p align="center" id="figura-2"><b>Figura 2</b> — Slide "Benefits of Storyboarding", com os benefícios do storyboard, entre eles alinhar todos os interessados quanto ao objetivo.</p>
 
-<p align="center"><img src="../../verificacao/grupo-01/imagens/figura-2-klemmer-benefits-of-storyboarding.png" alt="Figura 2: Slide “Benefits of Storyboarding”, com os benefícios do storyboard, entre eles alinhar todos os interessados quanto ao objetivo" width="600"></p>
+<p align="center" markdown>![Figura 2: Slide “Benefits of Storyboarding”, com os benefícios do storyboard, entre eles alinhar todos os interessados quanto ao objetivo](imagens/figura-2-klemmer-benefits-of-storyboarding.png){ width="600" }</p>
 
-<p align="center">Fonte: Klemmer, vídeo "storyboards.mp4", 5:15.</p>
+<p align="center">Fonte: Klemmer ([20--], 5:15, slide "Benefits of Storyboarding").</p>
 
 **N2 — Avaliação formativa.** "Diversos artefatos que representam partes de uma solução de IHC podem servir de insumo para uma avaliação formativa, tais como: cenários de uso, esboços de tela, storyboards, modelagem da interação e protótipos do sistema […]" (Barbosa e Silva, 2010, cap. 9, seç. 9.3, p. 294, 2º parágrafo). "No planejamento da avaliação, o avaliador deve identificar em que momento no processo de desenvolvimento a avaliação será realizada." (idem, 4º parágrafo).
 
 <p align="center" id="figura-3"><b>Figura 3</b> — Seção 9.3, que define avaliação formativa e cita storyboards como insumo dela.</p>
 
-<p align="center"><img src="../../verificacao/grupo-01/imagens/figura-3-barbosa-silva-2010-p294.png" alt="Figura 3: Seção 9.3, que define avaliação formativa e cita storyboards como insumo dela" width="500"></p>
+<p align="center" markdown>![Figura 3: Seção 9.3, que define avaliação formativa e cita storyboards como insumo dela](imagens/figura-3-barbosa-silva-2010-p294.png){ width="500" }</p>
 
-<p align="center">Fonte: Barbosa e Silva (2010), cap. 9, p. 294.</p>
+<p align="center">Fonte: Barbosa e Silva (2010, cap. 9, seç. 9.3, p. 294).</p>
 
 **N3 — Perguntas por objetivo (DECIDE).** "Para cada objetivo definido, o avaliador deve elaborar perguntas específicas a serem respondidas durante [a] avaliação. Essas perguntas são responsáveis por operacionalizar a investigação e o julgamento de valor a serem realizados. Elas devem considerar o perfil dos usuários-alvo e suas atividades." (Barbosa e Silva, 2010, cap. 9, seç. 9.8, p. 313, atividade "E").
 
 <p align="center" id="figura-4"><b>Figura 4</b> — Atividades do framework DECIDE, com destaque para a atividade "E – Explorar perguntas".</p>
 
-<p align="center"><img src="../../verificacao/grupo-01/imagens/figura-4-barbosa-silva-2010-p313.png" alt="Figura 4: Atividades do framework DECIDE, com destaque para a atividade “E – Explorar perguntas”" width="500"></p>
+<p align="center" markdown>![Figura 4: Atividades do framework DECIDE, com destaque para a atividade “E – Explorar perguntas”](imagens/figura-4-barbosa-silva-2010-p313.png){ width="500" }</p>
 
-<p align="center">Fonte: Barbosa e Silva (2010), cap. 9, seç. 9.8, p. 313.</p>
+<p align="center">Fonte: Barbosa e Silva (2010, cap. 9, seç. 9.8, p. 313).</p>
 
 **N4 — Material de apoio e duração das tarefas.** O material "costuma incluir: termo de consentimento […]; questionário pré-teste (ou roteiro de entrevista estruturada) […]; roteiro de entrevista pós-teste […]; instruções e cenários para orientar os participantes sobre as tarefas a serem realizadas; roteiro de acompanhamento da observação […]" (Barbosa e Silva, 2010, cap. 9, seç. 9.7.2, p. 306, 1º parágrafo). "O tempo estimado para um participante realizar cada tarefa não deveria ultrapassar 20 minutos." (idem, 2º parágrafo).
 
 <p align="center" id="figura-5"><b>Figura 5</b> — Lista do material de apoio de uma avaliação com participantes e limite de 20 minutos por tarefa.</p>
 
-<p align="center"><img src="../../verificacao/grupo-01/imagens/figura-5-barbosa-silva-2010-p306.png" alt="Figura 5: Lista do material de apoio de uma avaliação com participantes e limite de 20 minutos por tarefa" width="500"></p>
+<p align="center" markdown>![Figura 5: Lista do material de apoio de uma avaliação com participantes e limite de 20 minutos por tarefa](imagens/figura-5-barbosa-silva-2010-p306.png){ width="500" }</p>
 
-<p align="center">Fonte: Barbosa e Silva (2010), cap. 9, seç. 9.7.2, p. 306.</p>
+<p align="center">Fonte: Barbosa e Silva (2010, cap. 9, seç. 9.7.2, p. 306).</p>
 
 **N5 — Consolidação e relato.** "[…] os resultados individuais são consolidados e analisados em conjunto, em uma análise denominada de intersujeito ou interparticipante […]. Nessa atividade, os avaliadores buscam recorrências nos resultados de acordo com o método selecionado." (Barbosa e Silva, 2010, cap. 9, seç. 9.7.5, p. 311, 1º parágrafo). Os resultados consolidados "costumam incluir: […] um sumário dos dados coletados, incluindo tabelas e gráficos; um relato da interpretação e análise dos dados; uma lista dos problemas encontrados; um planejamento para o reprojeto do sistema." (idem, p. 312, último parágrafo).
 
 <p align="center" id="figura-6"><b>Figura 6</b> — Início da seção 9.7.5, que descreve a análise intersujeito na consolidação dos resultados.</p>
 
-<p align="center"><img src="../../verificacao/grupo-01/imagens/figura-6-barbosa-silva-2010-p311.png" alt="Figura 6: Início da seção 9.7.5, que descreve a análise intersujeito na consolidação dos resultados" width="500"></p>
+<p align="center" markdown>![Figura 6: Início da seção 9.7.5, que descreve a análise intersujeito na consolidação dos resultados](imagens/figura-6-barbosa-silva-2010-p311.png){ width="500" }</p>
 
-<p align="center">Fonte: Barbosa e Silva (2010), cap. 9, p. 311.</p>
+<p align="center">Fonte: Barbosa e Silva (2010, cap. 9, seç. 9.7.5, p. 311).</p>
 
 <p align="center" id="figura-7"><b>Figura 7</b> — Itens que o relato dos resultados consolidados costuma incluir, terminando no planejamento para o reprojeto.</p>
 
-<p align="center"><img src="../../verificacao/grupo-01/imagens/figura-7-barbosa-silva-2010-p312.png" alt="Figura 7: Itens que o relato dos resultados consolidados costuma incluir, terminando no planejamento para o reprojeto" width="500"></p>
+<p align="center" markdown>![Figura 7: Itens que o relato dos resultados consolidados costuma incluir, terminando no planejamento para o reprojeto](imagens/figura-7-barbosa-silva-2010-p312.png){ width="500" }</p>
 
-<p align="center">Fonte: Barbosa e Silva (2010), cap. 9, p. 312.</p>
+<p align="center">Fonte: Barbosa e Silva (2010, cap. 9, seç. 9.7.5, p. 312).</p>
+
+**N6 — Registro das dificuldades do participante.** "O formulário de acompanhamento das sessões de observação facilita a anotação de dados importantes para análise da interação, tais como: falas espontâneas do usuário durante o uso, se o usuário conseguiu ou não concluir uma tarefa, se foi necessário ajudá-lo em uma tarefa para prosseguir com a tarefa seguinte etc." (Barbosa e Silva, 2010, cap. 9, seç. 9.7.2, p. 306, 3º parágrafo).
+
+<p align="center" id="figura-8"><b>Figura 8</b> — Trecho da seção 9.7.2 sobre o formulário de acompanhamento das sessões de observação, que registra se o usuário concluiu a tarefa e se precisou de ajuda.</p>
+
+<p align="center" markdown>![Figura 8: Trecho da seção 9.7.2 sobre o formulário de acompanhamento das sessões de observação](imagens/figura-8-barbosa-silva-2010-p306.jpg){ width="500" }</p>
+
+<p align="center">Fonte: Barbosa e Silva (2010, cap. 9, seç. 9.7.2, p. 306).</p>
+
+**N7 — Lista de problemas e planejamento do reprojeto.** Os resultados consolidados da avaliação "costumam incluir: […] uma lista dos problemas encontrados; um planejamento para o reprojeto do sistema." (Barbosa e Silva, 2010, cap. 9, seç. 9.7.5, p. 312, último parágrafo). O trecho está na Figura 7.
 
 ---
 
@@ -202,7 +212,7 @@ Agradecemos ao Prof. Dr. André Barros de Sales, docente da disciplina Interaç�
 
 ### Uso de Inteligência Artificial Generativa
 
-A IA generativa foi usada exclusivamente como auxílio, conforme o Código de Conduta da SBC citado no Plano de Ensino (p. 3). Todo o conteúdo foi conferido pelo autor, que permanece responsável por ele.
+A IA generativa foi usada exclusivamente como auxílio, conforme o Código de Conduta da SBC citado no Plano de Ensino (SALES, 2026, p. 3). Todo o conteúdo foi conferido pelo autor, que permanece responsável por ele.
 
 <p align="center"><b>Tabela 7</b> – Uso de IA generativa por etapa.</p>
 
@@ -216,14 +226,16 @@ A IA generativa foi usada exclusivamente como auxílio, conforme o Código de Co
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
-### Uso de IA generativa na refatoração de 15/10/2026
+### Uso de IA generativa na organização desta página
 
-O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para corrigir o caminho das Figuras 1 a 7, que não apareciam no site publicado (o HTML usava caminhos relativos ao arquivo, e não à URL da página), mover as legendas das figuras para cima (com a fonte abaixo, como pede a ABNT), incluir a tabela de contribuição e renumerar as tabelas. Itens, respostas, evidências e fundamentações não foram alterados.
+Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para corrigir o caminho das Figuras 1 a 7, que não apareciam no site publicado, mover as legendas das figuras para cima (com a fonte abaixo, como pede a ABNT), incluir a tabela de contribuição, renumerar as tabelas, padronizar as citações e as referências, transcrever os trechos das fontes registradas para os itens N6 e N7 e recortar a foto da Figura 8. Itens, respostas, evidências e fundamentações dos itens N1 a N5 não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 ---
 
 ## Referências
 
-* BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. 1. ed. Rio de Janeiro: Elsevier/Campus, 2010. Cap. 9 – Planejamento da Avaliação de IHC, pp. 285–318. Arquivo consultado: "INTERACAO_HUMANO_COMPUTADOR.pdf" (página do livro = página do PDF − 5). Versão gratuita: [leanpub.com/ihc-ux](https://leanpub.com/ihc-ux).
-* KLEMMER, Scott. *Storyboards, Paper Prototypes, and Mock-ups*. Videoaula, hci-class.org. Arquivo consultado: "storyboards.mp4" (5:53).
-* UNIVERSIDADE DE BRASÍLIA. *Plano de Ensino – Interação Humano Computador (FGA0173)*, Turma 01, 02/2026, v1. Prof. Dr. André Barros de Sales. Lista de Verificação, pp. 8–9 e 12–13; Cronograma, aulas 15 e 19.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Cap. 9, Planejamento da Avaliação de IHC, pp. 285–314.
+
+KLEMMER, Scott. *Storyboards, paper prototypes, and mock-ups*. [*S. l.*]: hci-class.org, [20--]. 1 vídeo (5 min 53 s). Arquivo consultado: "storyboards.mp4".
+
+SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
