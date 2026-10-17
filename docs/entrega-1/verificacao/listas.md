@@ -23,6 +23,7 @@ Fonte: elaborado pelos autores (2026), com base nas páginas de inspeção, de a
 | --- | --- | --- | --- | --- |
 | 15/10/2026 | 1.0 | Criação da página: transcrição da lista do Plano de Ensino, levantamento das listas do grupo e das aplicações | Henrique Schneider | — |
 | 17/10/2026 | 1.1 | Organização por entrega; inclusão do quadro das listas de verificação individuais, da avaliação da monitoria e de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | — |
+| 17/10/2026 | 1.2 | Inclusão do link para a página Avaliação da Monitoria no Quadro 6 | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -116,14 +117,14 @@ O Quadro 6 reúne as aplicações das listas da Entrega 1, incluindo a avaliaç�
 | Aplicação | Quem avaliou | Data | Resultado registrado | Registro |
 | --- | --- | :---: | --- | --- |
 | Inspeção do Grupo 05 (grupo +1) | Eduardo Ribeiro e João Vitor (inspeção); Alexandre Vilar (organização e checagem do relatório); Camile Barbosa Gonzaga de Oliveira (organização, verificação de corretude e resumo do relatório) | 07/09/2026 | "10 dos 10 itens obrigatórios presentes e completos" | [Inspeção do Grupo 05](inspecao-grupo-05.md) |
-| Avaliação do Grupo 03 pela monitoria | Monitoria da disciplina | 09/09/2026 | 33 itens: 10 Sim, 4 Incompleto e 19 Não | Leite (2026) |
+| Avaliação do Grupo 03 pela monitoria | Monitoria da disciplina | 09/09/2026 | 33 itens: 10 Sim, 4 Incompleto e 19 Não | [Avaliação da Monitoria](avaliacao-monitoria.md) |
 | Autoavaliação do Grupo 03 (G1 a G9) | Henrique Schneider | 27/09/2026 | 8 Sim e 1 Incompleto | [Autoavaliação](../../listas-verificacao/autoavaliacao.md), Tabela 3 |
 
 Fonte: elaborado pelos autores (2026).
 
 ## Referências
 
-LEITE, Diego Sousa. *IHC – Entrega 1 – Planejamento – Grupo 3*. Brasília: Universidade de Brasília, 2026. Avaliação da monitoria da disciplina, 09 set. 2026.
+LEITE, Diego Sousa. *IHC – Entrega 1 – Planejamento – Grupo 3*. Brasília: Universidade de Brasília, 2026. Avaliação da monitoria, 09 set. 2026. Documento recebido pelo grupo.
 
 SALES, André Barros de. *Lista de Exercícios: elaborar listas de verificação*. Brasília: Universidade de Brasília, [2026]. Enunciado da atividade avaliativa Verificação 2.
 
