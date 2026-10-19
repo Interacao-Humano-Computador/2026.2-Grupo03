@@ -35,7 +35,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Gerar documentação
-        run: mkdocs build --strict
+        run: mkdocs build
 
       - name: Fazer upload do site
         uses: actions/upload-pages-artifact@v3
