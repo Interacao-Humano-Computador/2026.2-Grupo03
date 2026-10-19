@@ -20,6 +20,7 @@ Fonte: elaborado pelos autores (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 17/10/2026 | 1.0 | Criação da página com os trabalhos avaliativos de Gabriel Robson nas Entregas 1 a 4 | Henrique Schneider | — |
+| 19/10/2026 | 1.1 | Inclusão das listas de verificação de Personas, Elenco de Personas e HTA da Entrega 2 | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -33,7 +34,15 @@ Esta página reúne os trabalhos avaliativos individuais de Gabriel Robson Nunes
 
 Pasta da entrega: [Entrega 2 – Gabriel Robson](../entrega-2/integrantes/gabriel-robson/index.md).
 
-Nesta entrega, o trabalho de Gabriel Robson foi feito nos artefatos do grupo.
+**Tabela 3 – Trabalhos de Gabriel Robson na Entrega 2**
+
+| Trabalho | Tipo | Data | Página |
+| --- | --- | :---: | --- |
+| Lista de Verificação – Personas | Lista de verificação (Moodle) | 22/09/2026 | [Abrir](../entrega-2/integrantes/gabriel-robson/lista-personas.md) |
+| Lista de Verificação – Elenco de Personas | Lista de verificação (Moodle) | 22/09/2026 | [Abrir](../entrega-2/integrantes/gabriel-robson/lista-elenco-personas.md) |
+| Lista de Verificação – Análise Hierárquica de Tarefas (HTA) | Lista de verificação (Moodle) | 22/09/2026 | [Abrir](../entrega-2/integrantes/gabriel-robson/lista-hta.md) |
+
+Fonte: elaborado pelos autores (2026).
 
 ### Entrega 3 – Princípios Gerais, Metas de Usabilidade e Guia de Estilo
 
@@ -45,7 +54,7 @@ Nesta entrega, o trabalho de Gabriel Robson foi feito nos artefatos do grupo.
 
 Pasta da entrega: [Entrega 4 – Gabriel Robson](../entrega-4/integrantes/gabriel-robson/index.md).
 
-**Tabela 3 – Trabalhos de Gabriel Robson na Entrega 4**
+**Tabela 4 – Trabalhos de Gabriel Robson na Entrega 4**
 
 | Trabalho | Tipo | Data | Página |
 | --- | --- | :---: | --- |

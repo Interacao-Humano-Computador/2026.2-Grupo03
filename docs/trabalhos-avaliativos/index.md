@@ -20,6 +20,7 @@ Fonte: elaborado pelos autores (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 17/10/2026 | 1.0 | Criação da aba "Trabalhos Avaliativos", com os trabalhos individuais de cada integrante por entrega | Henrique Schneider | — |
+| 19/10/2026 | 1.1 | Inclusão das listas de verificação de Personas, Elenco de Personas e HTA de Gabriel Robson | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -41,7 +42,7 @@ Cada trabalho fica na pasta do integrante dentro da entrega correspondente (aba 
 | Integrante | Trabalhos publicados | Página |
 | --- | :---: | --- |
 | Alexandre Vilar Valadares Fonsêca | 13 | [Trabalhos Avaliativos – Alexandre Vilar](alexandre-vilar.md) |
-| Gabriel Robson Nunes Neiva da Silva | 2 | [Trabalhos Avaliativos – Gabriel Robson](gabriel-robson.md) |
+| Gabriel Robson Nunes Neiva da Silva | 5 | [Trabalhos Avaliativos – Gabriel Robson](gabriel-robson.md) |
 | Henrique Schneider Fernandes da Rosa | 5 | [Trabalhos Avaliativos – Henrique Schneider](henrique-schneider.md) |
 | João Vitor Tavares de Sá Lima | 13 | [Trabalhos Avaliativos – João Vitor](joao-vitor.md) |
 
@@ -68,6 +69,9 @@ Fonte: elaborado pelos autores (2026). Gabriel Robson entrou na equipe na Entreg
 | 2 | Alexandre Vilar | [Lista de Verificação – Elenco de Personas](../entrega-2/integrantes/alexandre-vilar/lista-elenco-personas.md) | Lista de verificação (Moodle) |
 | 2 | Alexandre Vilar | [Lista de Verificação – Análise Hierárquica de Tarefas (HTA)](../entrega-2/integrantes/alexandre-vilar/lista-hta.md) | Lista de verificação (Moodle) |
 | 2 | Alexandre Vilar | [Lista de Verificação – Árvores de Tarefas Concorrentes (CTT)](../entrega-2/integrantes/alexandre-vilar/lista-ctt.md) | Lista de verificação (Moodle) |
+| 2 | Gabriel Robson | [Lista de Verificação – Personas](../entrega-2/integrantes/gabriel-robson/lista-personas.md) | Lista de verificação (Moodle) |
+| 2 | Gabriel Robson | [Lista de Verificação – Elenco de Personas](../entrega-2/integrantes/gabriel-robson/lista-elenco-personas.md) | Lista de verificação (Moodle) |
+| 2 | Gabriel Robson | [Lista de Verificação – Análise Hierárquica de Tarefas (HTA)](../entrega-2/integrantes/gabriel-robson/lista-hta.md) | Lista de verificação (Moodle) |
 | 2 | João Vitor | [Lista de Verificação – Perfil de Usuário](../entrega-2/integrantes/joao-vitor/lista-perfil-usuario.md) | Lista de verificação (Moodle) |
 | 2 | João Vitor | [Lista de Verificação – Personas](../entrega-2/integrantes/joao-vitor/lista-personas.md) | Lista de verificação (Moodle) |
 | 2 | João Vitor | [Lista de Verificação – Elenco de Personas](../entrega-2/integrantes/joao-vitor/lista-elenco-personas.md) | Lista de verificação (Moodle) |

@@ -32,7 +32,7 @@ O material recebido (pasta "Integrantes e Materiais" e `Refatoração/Entrega 1/
 | --- | :---: | --- | :---: |
 | Alexandre Vilar | 1 | Lista de verificação – Métodos de Avaliação | 03/09/2026 |
 | Gabriel Robson | 2 | Lista de verificação – Perfil de Usuário | 15/09/2026 |
-| Gabriel Robson | 2 | Listas de verificação – Personas, Elenco de Personas, HTA e CTT | 22/09/2026 |
+| Gabriel Robson | 2 | Lista de verificação – CTT (as de Personas, Elenco de Personas e HTA foram recebidas em 19/10/2026 e publicadas) | 22/09/2026 |
 | Gabriel Robson | 4 | Lista de verificação – Storyboard | 13/10/2026 |
 | Henrique Schneider | 1 | Lista de verificação – DECIDE | 28/08/2026 |
 | Henrique Schneider | 1 | Lista de verificação – Métodos de Avaliação | 03/09/2026 |
@@ -75,6 +75,14 @@ As páginas dos trabalhos foram montadas a partir dos PDFs entregues. O conteúd
 ### 4.3 Henrique Schneider
 
 1. **Exercício de Planejamento da Avaliação:** a resposta 16 citava "cap. 9-10, sec. 9.7.2, p. 305-306, 320"; ficou "Barbosa e Silva (2010, caps. 9 e 10, seç. 9.7.2, p. 305–306 e 320)". Confirmar.
+
+### 4.4 Gabriel Robson (material recebido em 19/10/2026)
+
+1. **Lista de Elenco de Personas** (`docs/entrega-2/integrantes/gabriel-robson/lista-elenco-personas.md`): o arquivo não tem fotos, só os trechos copiados de uma edição de *About Face* consultada on-line (flylib.com), e a referência mistura a edição 2.0 com os autores e o ano da 3ª edição ("About Face 2.0 ... Cooper, Reimann e Cronin ... 2007"). No site, cada item cita a 3ª edição (Cooper, Reimann e Cronin, 2007, cap. 5), com a página, e a foto é do trecho correspondente no excerto do livro que está no repositório (pp. 82–83, 97, 100 e 102). O trecho citado por Gabriel continua no site como "Trecho citado pelo autor"; a redação da 3ª edição é um pouco diferente. O item 6 cita a seção "Check for completeness and distinctiveness"; na 3ª edição o passo se chama "Check for redundancy and completeness" (p. 101–102). Confirmar.
+2. **Listas de Personas e HTA:** os itens se fundamentam nos slides da aula 23 de Requisitos (Serrano e Serrano), que não tratam de personas nem de HTA; o próprio arquivo de Personas avisa isso e recomenda substituir ou complementar os itens por critérios da bibliografia de personas (por exemplo, Cooper, Reimann e Cronin, 2007, ou os slides do cap. 6 de Barbosa e Silva). As fotos do item 8 de Personas e dos itens 4 e 5 de HTA são slides de título de seção ("Verificação com inspeções", "Verificação com uso de estratégias formais", "Verificação com reutilização de domínios"), sem o texto que fundamenta o item; trocar pelos slides de conteúdo seguintes.
+3. **Notas de rascunho nos arquivos:** os três arquivos trazem observações dirigidas ao autor ("antes da entrega, confirme o número do grupo e a data", "como não foi fornecido neste chat o PDF/scan do livro...", "é necessário fornecer o livro/capítulo correspondente"), que indicam o uso de uma ferramenta de IA generativa na elaboração. Essas notas não foram publicadas. O Plano de Ensino pede a declaração do uso de IA (SALES, 2026, p. 3): Gabriel deve informar a ferramenta usada para que ela seja registrada na página de cada lista.
+4. **Cabeçalho incompleto:** os campos "Grupo" e "Data" (e, em duas listas, "Estudante") estão em branco nos arquivos. Datas da versão 1.0 no site: 22/09/2026 (data do arquivo de Elenco de Personas; prazo do Moodle nas outras duas). Confirmar.
+5. **Listas que faltam:** Perfil de Usuário, CTT e Storyboard (Quadro 1 acima).
 
 ## 5. Dados pessoais
 

@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Listas de verificação individuais de perfil de usuário, personas, elenco de personas, HTA e CTT (Quadro 2) | [Lista – Perfil de usuário](../integrantes/alexandre-vilar/lista-perfil-usuario.md) e demais listas do Quadro 2 | — |
 | Eduardo Ribeiro Gomes da Silva | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Listas de verificação individuais de personas, elenco de personas e HTA (Quadro 2) | [Lista – Personas](../integrantes/gabriel-robson/lista-personas.md) e demais listas do Quadro 2 | — |
 | Henrique Schneider Fernandes da Rosa | Autoavaliação da Entrega 2 com a lista do Plano de Ensino | [Autoavaliação](../../listas-verificacao/autoavaliacao.md), Tabela 4 | [Reunião 01](https://youtu.be/jhhM3LJIpgA) |
 | João Vitor Tavares de Sá Lima | Listas de verificação individuais de perfil de usuário, personas, elenco de personas, HTA e CTT (Quadro 2) | [Lista – Perfil de usuário](../integrantes/joao-vitor/lista-perfil-usuario.md) e demais listas do Quadro 2 | — |
 
@@ -22,6 +22,7 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 15/10/2026 | 1.0 | Criação da página: transcrição da lista do Plano de Ensino e da lista aplicada pela monitoria em 01/10/2026, levantamento das listas do grupo, das listas por artefato pedidas pelo professor e das aplicações | Henrique Schneider | — |
 | 17/10/2026 | 1.1 | Transferência da avaliação da monitoria para página própria, inclusão do quadro das listas de verificação individuais e reorganização das seções | Henrique Schneider | — |
+| 19/10/2026 | 1.2 | Inclusão das listas de verificação individuais de Gabriel Robson (personas, elenco de personas e HTA) | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -77,6 +78,9 @@ As listas individuais correspondem às atividades do Moodle "Lista de verificaç
 | Alexandre Vilar Valadares Fonsêca | Elenco de personas | 8 | [Lista de verificação – Elenco de personas](../integrantes/alexandre-vilar/lista-elenco-personas.md) |
 | Alexandre Vilar Valadares Fonsêca | Análise Hierárquica de Tarefas (HTA) | 10 | [Lista de verificação – HTA](../integrantes/alexandre-vilar/lista-hta.md) |
 | Alexandre Vilar Valadares Fonsêca | Árvores de Tarefas Concorrentes (CTT) | 14 | [Lista de verificação – CTT](../integrantes/alexandre-vilar/lista-ctt.md) |
+| Gabriel Robson Nunes Neiva da Silva | Personas | 12 | [Lista de verificação – Personas](../integrantes/gabriel-robson/lista-personas.md) |
+| Gabriel Robson Nunes Neiva da Silva | Elenco de personas | 8 | [Lista de verificação – Elenco de personas](../integrantes/gabriel-robson/lista-elenco-personas.md) |
+| Gabriel Robson Nunes Neiva da Silva | Análise Hierárquica de Tarefas (HTA) | 8 | [Lista de verificação – HTA](../integrantes/gabriel-robson/lista-hta.md) |
 | João Vitor Tavares de Sá Lima | Perfil de usuário | 42 | [Lista de verificação – Perfil de usuário](../integrantes/joao-vitor/lista-perfil-usuario.md) |
 | João Vitor Tavares de Sá Lima | Personas | 13 | [Lista de verificação – Personas](../integrantes/joao-vitor/lista-personas.md) |
 | João Vitor Tavares de Sá Lima | Elenco de personas | 6 | [Lista de verificação – Elenco de personas](../integrantes/joao-vitor/lista-elenco-personas.md) |

@@ -20,6 +20,7 @@ Fonte: elaborado pelos autores (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 17/10/2026 | 1.0 | Criação da pasta do integrante na Entrega 2, com os trabalhos individuais e a participação nos artefatos do grupo | Henrique Schneider | — |
+| 19/10/2026 | 1.1 | Inclusão das listas de verificação de Personas, Elenco de Personas e HTA de Gabriel Robson | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -29,11 +30,21 @@ Esta pasta reúne o material de Gabriel Robson Nunes Neiva da Silva na Entrega 2
 
 ## 2. Trabalhos individuais
 
-Nesta entrega, o trabalho de Gabriel Robson foi feito nos artefatos do grupo (seção 3).
+A Tabela 3 lista os trabalhos individuais de Gabriel Robson nesta entrega. Cada página traz a fonte de cada item e a foto do trecho correspondente.
+
+**Tabela 3 – Trabalhos de Gabriel Robson na Entrega 2**
+
+| Trabalho | Tipo | Data | Página |
+| --- | --- | :---: | --- |
+| Lista de Verificação – Personas | Lista de verificação (Moodle) | 22/09/2026 | [Abrir](lista-personas.md) |
+| Lista de Verificação – Elenco de Personas | Lista de verificação (Moodle) | 22/09/2026 | [Abrir](lista-elenco-personas.md) |
+| Lista de Verificação – Análise Hierárquica de Tarefas (HTA) | Lista de verificação (Moodle) | 22/09/2026 | [Abrir](lista-hta.md) |
+
+Fonte: elaborado pelos autores (2026).
 
 ## 3. Participação nos artefatos do grupo
 
-**Tabela 3 – Participação de Gabriel Robson na Entrega 2**
+**Tabela 4 – Participação de Gabriel Robson na Entrega 2**
 
 | Item | Registro |
 | --- | --- |

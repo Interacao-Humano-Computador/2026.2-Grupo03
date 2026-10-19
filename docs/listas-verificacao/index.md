@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Itens adicionais 20 a 22 (Entrega 3) e N4 (Entrega 4); inspeções dos Grupos 05, 07 e 01; listas individuais (DECIDE, perfil de usuário, personas, elenco de personas, HTA, CTT e storyboard) | [Entrega 3](../entrega-3/verificacao/listas.md); [Entrega 4](../entrega-4/verificacao/listas.md); Quadro 2 | [Inspeção do Grupo 07](https://www.youtube.com/watch?v=ObXAAFdPD_I); [Inspeção do Grupo 01](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
-| Gabriel Robson Nunes Neiva da Silva | Itens adicionais N6 e N7 (Entrega 4); inspeção do Grupo 01 | [Entrega 4](../entrega-4/verificacao/listas.md) | [Inspeção do Grupo 01](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+| Gabriel Robson Nunes Neiva da Silva | Listas individuais de personas, elenco de personas e HTA (Entrega 2); itens adicionais N6 e N7 (Entrega 4); inspeção do Grupo 01 | [Entrega 2](../entrega-2/verificacao/listas.md); [Entrega 4](../entrega-4/verificacao/listas.md) | [Inspeção do Grupo 01](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | Henrique Schneider Fernandes da Rosa | Itens adicionais 11 a 15 (Entrega 3) e N1 a N3 (Entrega 4); autoavaliações das Entregas 1 a 3; inspeções dos Grupos 07 e 01; criação desta página | [Entrega 3](../entrega-3/verificacao/listas.md); [Entrega 4](../entrega-4/verificacao/listas.md); [Autoavaliação](autoavaliacao.md) | [Inspeção do Grupo 07](https://youtu.be/TYv1vovnuYc); [Inspeção do Grupo 01](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | João Vitor Tavares de Sá Lima | Itens adicionais 16 a 19 (Entrega 3) e N5 (Entrega 4); inspeções dos Grupos 05, 07 e 01; listas individuais (DECIDE, métodos de avaliação, perfil de usuário, personas, elenco de personas, HTA, CTT e storyboard) | [Entrega 3](../entrega-3/verificacao/listas.md); [Entrega 4](../entrega-4/verificacao/listas.md); Quadro 2 | [Inspeção do Grupo 07](https://www.youtube.com/watch?v=ObXAAFdPD_I); [Inspeção do Grupo 01](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 
@@ -21,6 +21,7 @@ Fonte: elaborado pelos autores (2026), com base nas páginas de verificação de
 | --- | --- | --- | --- | --- |
 | 15/10/2026 | 1.0 | Criação da aba "Listas de Verificação", que reúne por entrega as listas do professor, da monitoria e do grupo e as inspeções | Henrique Schneider | — |
 | 17/10/2026 | 2.0 | Reestruturação como página-guia da aba: quadro por entrega com os endereços atuais, listas individuais dos integrantes, inspeções realizadas (quadro trazido da antiga página Verificação, versão 1.2) e orientações de aplicação | Henrique Schneider | — |
+| 19/10/2026 | 2.1 | Inclusão das listas de verificação individuais de Gabriel Robson no Quadro 2 | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -66,6 +67,9 @@ Além das listas do grupo, os integrantes elaboraram listas de verificação ind
 | 2 | Alexandre Vilar | Elenco de personas | 8 | [Lista – Elenco de personas](../entrega-2/integrantes/alexandre-vilar/lista-elenco-personas.md) |
 | 2 | Alexandre Vilar | Análise Hierárquica de Tarefas (HTA) | 10 | [Lista – HTA](../entrega-2/integrantes/alexandre-vilar/lista-hta.md) |
 | 2 | Alexandre Vilar | Árvores de Tarefas Concorrentes (CTT) | 14 | [Lista – CTT](../entrega-2/integrantes/alexandre-vilar/lista-ctt.md) |
+| 2 | Gabriel Robson | Personas | 12 | [Lista – Personas](../entrega-2/integrantes/gabriel-robson/lista-personas.md) |
+| 2 | Gabriel Robson | Elenco de personas | 8 | [Lista – Elenco de personas](../entrega-2/integrantes/gabriel-robson/lista-elenco-personas.md) |
+| 2 | Gabriel Robson | Análise Hierárquica de Tarefas (HTA) | 8 | [Lista – HTA](../entrega-2/integrantes/gabriel-robson/lista-hta.md) |
 | 2 | João Vitor | Perfil de usuário | 42 | [Lista – Perfil de usuário](../entrega-2/integrantes/joao-vitor/lista-perfil-usuario.md) |
 | 2 | João Vitor | Personas | 13 | [Lista – Personas](../entrega-2/integrantes/joao-vitor/lista-personas.md) |
 | 2 | João Vitor | Elenco de personas | 6 | [Lista – Elenco de personas](../entrega-2/integrantes/joao-vitor/lista-elenco-personas.md) |

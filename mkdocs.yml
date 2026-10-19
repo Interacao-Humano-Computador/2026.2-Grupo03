@@ -179,7 +179,11 @@ nav:
         - "Lista de verificação – Elenco de personas": entrega-2/integrantes/alexandre-vilar/lista-elenco-personas.md
         - "Lista de verificação – HTA": entrega-2/integrantes/alexandre-vilar/lista-hta.md
         - "Lista de verificação – CTT": entrega-2/integrantes/alexandre-vilar/lista-ctt.md
-      - Gabriel Robson: entrega-2/integrantes/gabriel-robson/index.md
+      - Gabriel Robson:
+        - Visão geral: entrega-2/integrantes/gabriel-robson/index.md
+        - "Lista de verificação – Personas": entrega-2/integrantes/gabriel-robson/lista-personas.md
+        - "Lista de verificação – Elenco de personas": entrega-2/integrantes/gabriel-robson/lista-elenco-personas.md
+        - "Lista de verificação – HTA": entrega-2/integrantes/gabriel-robson/lista-hta.md
       - Henrique Schneider: entrega-2/integrantes/henrique-schneider/index.md
       - João Vitor:
         - Visão geral: entrega-2/integrantes/joao-vitor/index.md

@@ -69,7 +69,7 @@ Levantamento feito em 17/10/2026 na revisão das páginas da Entrega 2. Os marca
 
 ## Listas de Verificação – Entrega 2 (`docs/entrega-2/verificacao/listas.md`)
 
-1. **Listas individuais que faltam**: estão publicadas as listas de Alexandre Vilar e João Vitor (perfil de usuário, personas, elenco de personas, HTA e CTT; Quadro 2). Faltam as de **Gabriel Robson** e **Henrique Schneider** (atividades do Moodle "Lista de verificação – Perfil de Usuário", prazo 15/09/2026, e "Listas de verificação – Personas, Elenco de Personas, HTA e CTT", prazo 22/09/2026). Eduardo Ribeiro também não tem listas publicadas.
+1. **Listas individuais que faltam**: estão publicadas as listas de Alexandre Vilar e João Vitor (perfil de usuário, personas, elenco de personas, HTA e CTT) e, desde 19/10/2026, as de Gabriel Robson de personas, elenco de personas e HTA (Quadro 2). Faltam as de **Gabriel Robson** de perfil de usuário (prazo 15/09/2026) e de CTT (prazo 22/09/2026) e todas as de **Henrique Schneider** (atividades do Moodle "Lista de verificação – Perfil de Usuário", prazo 15/09/2026, e "Listas de verificação – Personas, Elenco de Personas, HTA e CTT", prazo 22/09/2026). Eduardo Ribeiro também não tem listas publicadas.
 2. **Listas por artefato que nenhum integrante elaborou**: técnicas de coleta de dados (lista da monitoria: 3 técnicas, ao menos 5 itens cada) e cenários (atividade do professor: no mínimo 3 itens; monitoria: ao menos 8). O quadro que estava na seção 4.1 ("Quadro 5 – Listas de verificação por artefato que o grupo precisa elaborar") foi retirado; conteúdo útil:
 
     | Artefato | Mínimo na atividade do professor | Mínimo na lista da monitoria | Entrega do artefato |
