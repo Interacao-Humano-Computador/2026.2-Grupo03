@@ -15,22 +15,32 @@ Documentação acadêmica do projeto de **Interação Humano-Computador (IHC)** 
 
 ```text
 .
-├── .github/workflows/deploy.yml
-├── docs/
-│   ├── index.md
-│   ├── equipe.md
-│   ├── planejamento/
-│   │   ├── cronograma.md
-│   │   ├── ferramentas.md
-│   │   └── processo-design.md
-│   ├── reunioes/index.md
-│   └── templates/
-│       ├── artefato/_template.md
-│       └── reuniao/_template.md
+├── .github/workflows/deploy.yml        ← publica o site no GitHub Pages (main)
+├── docs/                                ← páginas do site (MkDocs + Material)
+│   ├── index.md                         ← início e equipe
+│   ├── entrega-1/                       ← Entrega 1: relatório, planejamento/, verificacao/, integrantes/<nome>/
+│   ├── entrega-2/                       ← Entrega 2: relatório, perfil-e-tarefas/, contribuições, verificacao/, integrantes/<nome>/
+│   ├── entrega-3/                       ← Entrega 3: relatório, principios-metas-e-guia/, contribuições, verificacao/, integrantes/<nome>/
+│   ├── entrega-4/                       ← Entrega 4: relatório, planejamento-da-avaliacao/, contribuições, verificacao/, integrantes/<nome>/
+│   ├── trabalhos-avaliativos/           ← trabalhos individuais de cada integrante (listas, exercícios, análises próprias)
+│   ├── listas-verificacao/              ← visão geral das listas, autoavaliação e lista do projeto final
+│   ├── integrantes/                     ← entregas anteriores e próximas de cada integrante; ex-integrantes
+│   ├── atas/                            ← uma página por ata (modelo MCTIC) e modelo de ata
+│   ├── relatorios/                      ← visão geral dos relatórios das entregas
+│   ├── disciplina/                      ← Plano de Ensino
+│   ├── apresentacoes.md                 ← vídeos das apresentações, inspeções e reuniões
+│   └── assets/                          ← imagens, PDFs entregues e fotos de referências
+├── pendencias/                          ← o que falta completar, por entrega e por integrante (fora do site)
+├── Refatoração/                         ← material de referência da disciplina (fora do site)
+├── REFATORACAO-RELATORIO.md             ← relatório da refatoração de 15/10/2026 (fora do site)
 ├── mkdocs.yml
 ├── requirements.txt
 └── README.md
 ```
+
+Em cada entrega, a pasta `integrantes/` tem uma pasta por integrante atual (`alexandre-vilar`, `gabriel-robson`, `henrique-schneider`, `joao-vitor`) com o material dele naquela entrega. Os endereços antigos das páginas redirecionam para os novos (`mkdocs-redirects`, no `mkdocs.yml`).
+
+Cada página de artefato segue o modelo da disciplina: tabela de contribuição, histórico de versões, introdução, conteúdo, referências e agradecimentos com o uso de IA generativa. O que ainda falta completar não aparece no site: está listado nos arquivos da pasta [`pendencias/`](pendencias/README.md).
 
 ## Pré-requisitos
 
@@ -72,12 +82,12 @@ Documentação acadêmica do projeto de **Interação Humano-Computador (IHC)** 
 
 5. Acesse `http://127.0.0.1:8000/`. O servidor recarrega a documentação quando os arquivos Markdown são alterados.
 
-Para gerar uma versão estática sem iniciar o servidor, execute `mkdocs build --strict`.
+Para gerar uma versão estática sem iniciar o servidor, execute `mkdocs build --strict`. O build deve terminar sem avisos.
 
 ## Como contribuir
 
 - Crie uma branch curta a partir de `main`.
-- Copie o template correspondente antes de criar um novo artefato ou uma nova ata.
+- Use como modelo uma página existente da mesma entrega (tabela de contribuição, histórico, introdução, referências e uso de IA) e, para atas, o modelo em `docs/atas/modelo.md` (nome do arquivo `ata-reuniao-AAAAMMDD-XX.md`).
 - Registre histórico de versão, contribuição, fontes, gravações e declaração de uso de IA quando aplicável.
 - Use commits pequenos no padrão `tipo: descrição`, por exemplo: `docs: adiciona ata de 12-03-2026`.
 - Abra um Pull Request com descrição objetiva, evidências e pelo menos um revisor da equipe.
