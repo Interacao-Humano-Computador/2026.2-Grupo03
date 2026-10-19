@@ -5,6 +5,10 @@ repo_url: https://github.com/Interacao-Humano-Computador/2026.2-Grupo03
 repo_name: Interacao-Humano-Computador/2026.2-Grupo03
 edit_uri: edit/main/docs/
 
+validation:
+  unrecognized_links: warn
+  not_in_nav: ignore
+  
 theme:
   name: material
   language: pt-BR
