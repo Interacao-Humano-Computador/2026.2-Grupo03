@@ -54,7 +54,6 @@ plugins:
       redirect_maps:
         # Endereços antigos (publicados antes da organização por entrega) -> páginas atuais
         'acompanhamento/index.md': 'integrantes/index.md'
-        'atas.md': 'atas/index.md'
         'guia-estilo/contribuicao/contrib.md': 'entrega-3/contribuicoes.md'
         'guia-estilo/guia/guia.md': 'entrega-3/principios-metas-e-guia/guia-de-estilo.md'
         'guia-estilo/metas/metas.md': 'entrega-3/principios-metas-e-guia/metas-de-usabilidade.md'
