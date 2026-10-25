@@ -41,7 +41,11 @@ Fonte: descrição do storyboard desenhado por Alexandre Vilar, versão fornecid
 
 <div class="entrega5-reserva entrega5-reserva--relatorio" role="region" aria-label="Espaço para inserir a imagem do storyboard após autorização"></div>
 
-<!-- Inserir a imagem original do storyboard após autorização de publicação pública. -->
+**Figura 1 – Proposta de agendamento de vistoria pelo portal do Detran-DF**
+
+![Storyboard da proposta de agendamento de vistoria](arquivos/storyboard-alexandre.jpeg)
+
+Fonte: elaborado por Alexandre Vilar (2026).
 
 ## 3. Relação com a análise de tarefas
 
