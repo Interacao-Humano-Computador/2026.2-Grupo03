@@ -9,7 +9,7 @@
 | Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro fundamentado, registros do piloto e da entrevista e relato individual dos resultados, com apoio de IA | [Material individual](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
 | Gabriel Robson Nunes Neiva da Silva | Material a incorporar nesta seção | — | — |
 | Henrique Schneider Fernandes da Rosa | Material a incorporar nesta seção | — | — |
-| João Vitor Tavares de Sá Lima | HTAs de agendamento e gerenciamento de biometria, storyboard, roteiro, avaliação e relato dos resultados | [Material individual](integrantes/joao-vitor/index.md) | [Espaço do vídeo](integrantes/joao-vitor/video-entrevista.md) |
+| João Vitor Tavares de Sá Lima | HTAs de agendamento e gerenciamento de biometria, storyboard, roteiro, avaliação e relato dos resultados | [Material individual](integrantes/joao-vitor/index.md) | [Vídeos](integrantes/joao-vitor/video-entrevista.md) |
 
 Fonte: materiais disponibilizados para esta organização (2026). A tabela não representa um balanço final das contribuições do grupo.
 

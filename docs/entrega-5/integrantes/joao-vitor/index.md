@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| João Vitor Tavares de Sá Lima | HTAs de agendamento de biometria, storyboard e organização das páginas individuais | [Visão geral](index.md) | [Espaço do vídeo](video-entrevista.md) |
+| João Vitor Tavares de Sá Lima | HTAs de agendamento de biometria, storyboard e organização das páginas individuais | [Visão geral](index.md) | [Vídeos](video-entrevista.md) |
 
 Fonte: materiais disponibilizados pelo responsável (2026).
 
@@ -17,6 +17,7 @@ Fonte: materiais disponibilizados pelo responsável (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Criação e organização da página no padrão individual da Entrega 5 | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.1 | Atualização do status dos vídeos e do relatório pós-entrevista | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
 
 Fonte: registro desta versão (2026).
 
@@ -34,19 +35,19 @@ Os elementos de reconfirmação, reagendamento rápido e liberação automática
 
 | Material | Conteúdo | Página |
 | --- | --- | --- |
-| Avaliação individual | Objetivos, procedimento, materiais e registros a completar | [Abrir avaliação](avaliacao.md) |
+| Avaliação individual | Objetivos, procedimento, materiais e registros da avaliação | [Abrir avaliação](avaliacao.md) |
 | HTA do processo atual | Objetivo, imagem, subtarefas e planos | [Abrir HTA](hta-atual.md) |
 | Storyboard | Narrativa de Carlos e representação do desenho | [Abrir storyboard](storyboard.md) |
 | HTA do redesign | Proposta com gerenciamento de agendamentos | [Abrir redesign](hta-redesign.md) |
 | Roteiro da entrevista | Questões de avaliação e fundamentação | [Abrir roteiro](roteiro-entrevista.md) |
-| Vídeo da entrevista | Espaço reservado; gravações já realizadas e ainda não publicadas nesta página | [Abrir espaço do vídeo](video-entrevista.md) |
+| Vídeos da avaliação | Teste-piloto e entrevista definitiva publicados | [Abrir vídeos](video-entrevista.md) |
 | Relatório pós-entrevista | Resultados consolidados a partir do registro resumido da entrevista definitiva | [Abrir relatório](relatorio-pos-entrevista.md) |
 
 Fonte: materiais compartilhados nesta atividade (2026).
 
 ## 3. Situação dos materiais
 
-As imagens do HTA atual e do HTA do redesign estão incorporadas, e o storyboard está documentado em uma versão vetorial legível baseada no desenho fornecido. As gravações já foram realizadas, mas seus links ainda não foram publicados nesta versão.
+As imagens do HTA atual e do HTA do redesign estão incorporadas, o storyboard está publicado e os links do teste-piloto e da entrevista definitiva estão disponíveis na [página de vídeos](video-entrevista.md).
 
 A [avaliação individual](avaliacao.md) registra o método e o escopo. O [relatório pós-entrevista](relatorio-pos-entrevista.md) consolida os resultados da entrevista definitiva a partir do registro resumido fornecido pelo entrevistador, sem apresentar falas literais ou horários não verificados.
 

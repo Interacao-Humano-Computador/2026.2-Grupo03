@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| João Vitor Tavares | Organização do procedimento de avaliação e dos materiais da entrevista | [Visão geral](index.md) | [Espaço do vídeo](video-entrevista.md) |
+| João Vitor Tavares | Organização do procedimento de avaliação e dos materiais da entrevista | [Visão geral](index.md) | [Vídeos](video-entrevista.md) |
 
 Fonte: materiais disponibilizados pelo responsável (2026).
 
@@ -19,6 +19,7 @@ Fonte: materiais disponibilizados pelo responsável (2026).
 | 25/10/2026 | 1.0 | Organização do procedimento e dos campos de registro no padrão da Entrega 5 | João Vitor Tavares | — |
 | 25/10/2026 | 1.1 | Publicação dos links do teste-piloto e da entrevista definitiva | João Vitor Tavares | — |
 | 25/10/2026 | 1.2 | Registro do TCLE assinado e dos cuidados de privacidade | João Vitor Tavares, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.3 | Remoção de marcadores pendentes e atualização do status da análise | João Vitor Tavares, com apoio do ChatGPT | — |
 
 Fonte: registro desta versão (2026).
 
@@ -44,7 +45,7 @@ A avaliação utiliza entrevista semiestruturada apoiada nos HTAs e no storyboar
 
 ## 3. Perfil dos participantes
 
-As gravações já foram realizadas, segundo o responsável. O perfil dos participantes, as datas, a modalidade das sessões e os dados de recrutamento serão incorporados quando os registros forem publicados e conferidos.
+A entrevista definitiva foi realizada com o participante identificado como **P01**, preservando sua identidade na documentação pública.
 
 ### 3.1 Registro da sessão definitiva
 
@@ -52,11 +53,10 @@ As gravações já foram realizadas, segundo o responsável. O perfil dos partic
 | --- | --- |
 | Fonte | [Gravação da entrevista](https://youtu.be/n3JVUZSXZl4?is=M3ZSvo13Y-uiOahZ) |
 | Responsável pelo material | João Vitor |
-| Data, local e modalidade | A incorporar |
-| Duração | A incorporar |
+| Duração da entrevista definitiva | Aproximadamente 6 min 08 s |
 | Materiais apresentados | HTA atual, storyboard e HTA do redesign |
 | Coleta | Entrevista semiestruturada |
-| Análise | A completar no [relatório pós-entrevista](relatorio-pos-entrevista.md) |
+| Análise | Concluída no [relatório pós-entrevista](relatorio-pos-entrevista.md) |
 
 ## 4. Aspectos éticos e consentimento
 
@@ -93,7 +93,7 @@ A entrevista definitiva está publicada na [página do vídeo](video-entrevista.
 
 ## 8. Relatório pós-entrevista
 
-O [relatório pós-entrevista](relatorio-pos-entrevista.md) está preparado para registrar as respostas e evidências reais. Nenhum resultado foi antecipado antes da conferência das gravações.
+O [relatório pós-entrevista](relatorio-pos-entrevista.md) consolida as respostas registradas da entrevista definitiva, separando evidências resumidas, interpretações, achados, recomendações e limitações.
 
 ## 9. Critérios de análise
 

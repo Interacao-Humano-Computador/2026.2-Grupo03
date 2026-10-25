@@ -9,7 +9,7 @@
 | Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro, registros do piloto e da entrevista e relato dos resultados; apoio de IA na organização e análise | [Visão geral](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
 | Gabriel Robson Nunes Neiva da Silva | Material a incorporar nesta seção | — | — |
 | Henrique Schneider Fernandes da Rosa | Material a incorporar nesta seção | — | — |
-| João Vitor Tavares de Sá Lima | HTAs de biometria, storyboard, roteiro, avaliação e relato dos resultados; gravações publicadas | [Visão geral](integrantes/joao-vitor/index.md) | [Espaço do vídeo](integrantes/joao-vitor/video-entrevista.md) |
+| João Vitor Tavares de Sá Lima | HTAs de biometria, storyboard, roteiro, avaliação e relato dos resultados; gravações publicadas | [Visão geral](integrantes/joao-vitor/index.md) | [Vídeos](integrantes/joao-vitor/video-entrevista.md) |
 
 Fonte: materiais fornecidos para esta atualização (2026). As demais contribuições devem ser registradas com as respectivas evidências quando incorporadas.
 
@@ -20,7 +20,8 @@ Fonte: materiais fornecidos para esta atualização (2026). As demais contribui�
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Organização dos materiais disponíveis de Alexandre | Alexandre Vilar, com apoio do ChatGPT | — |
-| 25/10/2026 | 1.2 | Inclusão dos materiais de João Vitor e registro das pendências de vídeo e resultados | João Vitor, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.2 | Inclusão dos materiais de João Vitor | João Vitor, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.3 | Atualização do status dos vídeos, avaliação e relato de João Vitor | João Vitor, com apoio do ChatGPT | — |
 
 ## 1. Introdução
 
@@ -60,8 +61,8 @@ Fonte: materiais desta atividade (2026).
 | Elaboração da narrativa | [Storyboard](integrantes/joao-vitor/storyboard.md) | Publicado |
 | Detalhamento da melhoria | [HTA do redesign](integrantes/joao-vitor/hta-redesign.md) | Publicado |
 | Preparação da entrevista | [Roteiro](integrantes/joao-vitor/roteiro-entrevista.md) | Publicado |
-| Procedimento de avaliação | [Avaliação](integrantes/joao-vitor/avaliacao.md) | Estruturado |
-| Gravação | [Espaço do vídeo](integrantes/joao-vitor/video-entrevista.md) | Realizada; link ainda não publicado |
+| Procedimento de avaliação | [Avaliação](integrantes/joao-vitor/avaliacao.md) | Publicado |
+| Gravação | [Vídeos](integrantes/joao-vitor/video-entrevista.md) | Teste-piloto e entrevista definitiva publicados |
 | Relato dos resultados | [Relatório pós-entrevista](integrantes/joao-vitor/relatorio-pos-entrevista.md) | Resultados consolidados a partir do registro resumido da entrevista |
 
 Fonte: materiais fornecidos por João Vitor (2026).
