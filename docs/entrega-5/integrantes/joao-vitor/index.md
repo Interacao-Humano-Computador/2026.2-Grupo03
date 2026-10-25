@@ -40,7 +40,7 @@ Os elementos de reconfirmação, reagendamento rápido e liberação automática
 | HTA do redesign | Proposta com gerenciamento de agendamentos | [Abrir redesign](hta-redesign.md) |
 | Roteiro da entrevista | Questões de avaliação e fundamentação | [Abrir roteiro](roteiro-entrevista.md) |
 | Vídeo da entrevista | Espaço reservado; gravações já realizadas e ainda não publicadas nesta página | [Abrir espaço do vídeo](video-entrevista.md) |
-| Relatório pós-entrevista | Estrutura preparada para os resultados verificados nas gravações | [Abrir relatório](relatorio-pos-entrevista.md) |
+| Relatório pós-entrevista | Resultados consolidados a partir do registro resumido da entrevista definitiva | [Abrir relatório](relatorio-pos-entrevista.md) |
 
 Fonte: materiais compartilhados nesta atividade (2026).
 
@@ -48,7 +48,7 @@ Fonte: materiais compartilhados nesta atividade (2026).
 
 As imagens do HTA atual e do HTA do redesign estão incorporadas, e o storyboard está documentado em uma versão vetorial legível baseada no desenho fornecido. As gravações já foram realizadas, mas seus links ainda não foram publicados nesta versão.
 
-A [avaliação individual](avaliacao.md) registra o método e o escopo. O [relatório pós-entrevista](relatorio-pos-entrevista.md) mantém os resultados como pendentes até que as gravações sejam incorporadas e conferidas, evitando atribuir falas ou conclusões não verificadas.
+A [avaliação individual](avaliacao.md) registra o método e o escopo. O [relatório pós-entrevista](relatorio-pos-entrevista.md) consolida os resultados da entrevista definitiva a partir do registro resumido fornecido pelo entrevistador, sem apresentar falas literais ou horários não verificados.
 
 O [planejamento individual da Entrega 4](../../../entrega-4/integrantes/joao-vitor/planejamento-individual.md) permanece como registro da etapa anterior.
 
