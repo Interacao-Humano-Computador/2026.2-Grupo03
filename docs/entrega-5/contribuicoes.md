@@ -9,7 +9,7 @@
 | Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro, registros do piloto e da entrevista e relato dos resultados; apoio de IA na organização e análise | [Visão geral](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
 | Gabriel Robson Nunes Neiva da Silva | Material a incorporar nesta seção | — | — |
 | Henrique Schneider Fernandes da Rosa | Material a incorporar nesta seção | — | — |
-| João Vitor Tavares de Sá Lima | Material a incorporar nesta seção | — | — |
+| João Vitor Tavares de Sá Lima | HTAs de biometria, storyboard, roteiro e estrutura de avaliação; gravações já realizadas e ainda não publicadas | [Visão geral](integrantes/joao-vitor/index.md) | [Espaço do vídeo](integrantes/joao-vitor/video-entrevista.md) |
 
 Fonte: materiais fornecidos para esta atualização (2026). As demais contribuições devem ser registradas com as respectivas evidências quando incorporadas.
 
@@ -20,6 +20,7 @@ Fonte: materiais fornecidos para esta atualização (2026). As demais contribui�
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Organização dos materiais disponíveis de Alexandre | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.2 | Inclusão dos materiais de João Vitor e registro das pendências de vídeo e resultados | João Vitor, com apoio do ChatGPT | — |
 
 ## 1. Introdução
 
@@ -47,3 +48,20 @@ Fonte: materiais desta atividade (2026).
 **Uso de IA generativa nesta página.** Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de Alexandre Vilar, para apoiar a organização do conteúdo, a redação das páginas, a estruturação dos HTAs e a adaptação das perguntas do livro. O storyboard foi desenhado por Alexandre e mantido na versão fornecida. Não foram gerados dados de participantes, resultados ou registros de entrevistas. A responsabilidade pelo conteúdo e pela revisão é dos autores.
 
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
+
+
+## 3. Materiais de João Vitor
+
+**Tabela 4 – Evidências dos materiais individuais de João Vitor**
+
+| Atividade | Evidência | Situação |
+| --- | --- | --- |
+| Modelagem da tarefa atual | [HTA atual](integrantes/joao-vitor/hta-atual.md) | Publicado |
+| Elaboração da narrativa | [Storyboard](integrantes/joao-vitor/storyboard.md) | Publicado |
+| Detalhamento da melhoria | [HTA do redesign](integrantes/joao-vitor/hta-redesign.md) | Publicado |
+| Preparação da entrevista | [Roteiro](integrantes/joao-vitor/roteiro-entrevista.md) | Publicado |
+| Procedimento de avaliação | [Avaliação](integrantes/joao-vitor/avaliacao.md) | Estruturado |
+| Gravação | [Espaço do vídeo](integrantes/joao-vitor/video-entrevista.md) | Realizada; link ainda não publicado |
+| Relato dos resultados | [Relatório pós-entrevista](integrantes/joao-vitor/relatorio-pos-entrevista.md) | Estrutura publicada; resultados aguardam conferência das gravações |
+
+Fonte: materiais fornecidos por João Vitor (2026).

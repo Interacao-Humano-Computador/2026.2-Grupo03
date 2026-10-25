@@ -9,7 +9,7 @@
 | Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro fundamentado, registros do piloto e da entrevista e relato individual dos resultados, com apoio de IA | [Material individual](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
 | Gabriel Robson Nunes Neiva da Silva | Material a incorporar nesta seção | — | — |
 | Henrique Schneider Fernandes da Rosa | Material a incorporar nesta seção | — | — |
-| João Vitor Tavares de Sá Lima | Material a incorporar nesta seção | — | — |
+| João Vitor Tavares de Sá Lima | HTAs de agendamento e gerenciamento de biometria, storyboard, roteiro e estrutura da avaliação; vídeos ainda não publicados | [Material individual](integrantes/joao-vitor/index.md) | [Espaço do vídeo](integrantes/joao-vitor/video-entrevista.md) |
 
 Fonte: materiais disponibilizados para esta organização (2026). A tabela não representa um balanço final das contribuições do grupo.
 
@@ -23,6 +23,7 @@ Fonte: materiais disponibilizados para esta organização (2026). A tabela não 
 | 25/10/2026 | 1.1 | Organização no padrão da Entrega 4; inclusão dos materiais de Alexandre e reserva dos espaços da entrevista e do relatório | Alexandre Vilar, com apoio do ChatGPT | — |
 
 | 25/10/2026 | 1.2 | Inclusão do relato e do registro do piloto; atualização dos materiais e situações de Alexandre | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.3 | Inclusão dos materiais de João Vitor e atualização da situação da entrega | João Vitor, com apoio do ChatGPT | — |
 Fonte: histórico da página e registro desta atualização (2026).
 
 ## 1. Identificação
@@ -36,7 +37,7 @@ Fonte: histórico da página e registro desta atualização (2026).
 | Prazo previsto no Plano de Ensino | 25/10/2026 |
 | Inspeção prevista no Plano de Ensino | 26/10/2026 – Grupo +1; registro ainda não incorporado |
 | Apresentação prevista no Plano de Ensino | 27/10/2026 |
-| Situação desta versão | Materiais, gravações e relato individual de Alexandre publicados; demais artefatos coletivos a incorporar |
+| Situação desta versão | Materiais e resultados de Alexandre publicados; materiais de João Vitor publicados, com vídeos e resultados ainda pendentes de incorporação |
 
 Fonte: [Plano de Ensino](../disciplina/plano-de-ensino.md) e materiais desta atividade (2026). As datas previstas não comprovam a realização das atividades.
 
@@ -57,6 +58,7 @@ O [planejamento da Entrega 4](../entrega-4/relatorio.md) é a referência da eta
 | Artefato | Página | Situação nesta versão |
 | --- | --- | --- |
 | Materiais de Alexandre | [Visão geral](integrantes/alexandre-vilar/index.md) | Organizados |
+| Materiais de João Vitor | [Visão geral](integrantes/joao-vitor/index.md) | HTAs, storyboard, roteiro e avaliação publicados; vídeo e resultados pendentes |
 | HTA do processo atual | [HTA atual](integrantes/alexandre-vilar/hta-atual.md) | Avaliação exploratória registrada; validação parcial |
 | Storyboard | [Storyboard](integrantes/alexandre-vilar/storyboard.md) | Narrativa e imagem publicadas |
 | Proposta de redesign | [HTA do redesign](integrantes/alexandre-vilar/hta-redesign.md) | Proposta detalhada; PDF disponível |
@@ -90,6 +92,12 @@ O HTA recebeu reconhecimento parcial de correspondência com o caminho relatado.
 O [piloto](integrantes/alexandre-vilar/avaliacao.md#5-teste-piloto) registra o ensaio do roteiro e a decisão de disponibilizar o notebook para navegação antes das perguntas. O procedimento é mencionado na abertura da entrevista definitiva. As opiniões do piloto não foram incorporadas à análise final de P01.
 
 Ainda faltam registros que dependem de confirmação do responsável: datas, locais e modalidades das sessões, recrutamento e relação entre os participantes do piloto e da entrevista definitiva.
+
+### 5.4 Material de João Vitor
+
+O material individual de João Vitor aborda **agendamento e gerenciamento de biometria no Detran-DF**. O [HTA atual](integrantes/joao-vitor/hta-atual.md) representa o fluxo de agendamento; o [redesign](integrantes/joao-vitor/hta-redesign.md) acrescenta reconfirmação, reagendamento e cancelamento. O [storyboard](integrantes/joao-vitor/storyboard.md) apresenta o caso de Carlos diante de um imprevisto.
+
+As gravações já foram realizadas, mas ainda não foram publicadas nesta versão. Por esse motivo, o [relatório pós-entrevista](integrantes/joao-vitor/relatorio-pos-entrevista.md) mantém respostas e conclusões como pendentes, sem atribuir resultados não verificados aos participantes.
 
 ## 6. Inspeção e verificação
 

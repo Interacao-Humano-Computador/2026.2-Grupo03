@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850">
+<style>
+  text{font-family:Arial,sans-serif;fill:#222} .panel{fill:#fff;stroke:#555;stroke-width:3}
+  .cap{font-size:22px}.bubble{fill:#fff;stroke:#777;stroke-width:2}.line{stroke:#444;stroke-width:4;fill:none}
+  .person{stroke:#444;stroke-width:4;fill:none}
+</style>
+<rect width="1200" height="850" fill="#f5f2e8"/>
+<g transform="translate(35,35)">
+<rect class="panel" x="0" y="0" width="340" height="300"/><circle class="person" cx="95" cy="125" r="22"/><path class="person" d="M95 147v70m0-45l-35 35m35-35l45 20m-45 25l-30 45m30-45l30 45"/><rect x="190" y="185" width="70" height="75" class="panel"/><ellipse class="bubble" cx="210" cy="85" rx="95" ry="45"/><text x="145" y="78" font-size="19">Beleza!</text><text x="135" y="102" font-size="19">Agendado.</text><text x="20" y="335" class="cap">Carlos agenda a biometria para daqui a 2 semanas.</text>
+</g>
+<g transform="translate(430,35)">
+<rect class="panel" x="0" y="0" width="340" height="300"/><circle class="person" cx="105" cy="150" r="22"/><path class="person" d="M105 172v65m0-40l-35 30m35-30l40 22"/><ellipse class="bubble" cx="220" cy="90" rx="105" ry="58"/><text x="150" y="78" font-size="18">Reunião de emergência!</text><text x="145" y="105" font-size="18">Não vou conseguir ir.</text><text x="20" y="335" class="cap">Perto da data surge um imprevisto.</text>
+</g>
+<g transform="translate(825,35)">
+<rect class="panel" x="0" y="0" width="340" height="300"/><circle class="person" cx="90" cy="190" r="22"/><path class="person" d="M90 212v55m0-35l-35 20m35-20l45-10"/><rect x="185" y="75" width="120" height="160" rx="8" class="panel"/><text x="198" y="105" font-size="18">Detran</text><text x="198" y="135" font-size="16">Deseja</text><text x="198" y="158" font-size="16">reconfirmar?</text><rect x="202" y="175" width="82" height="24" class="bubble"/><text x="225" y="193" font-size="14">SIM</text><rect x="202" y="207" width="82" height="24" class="bubble"/><text x="213" y="225" font-size="14">REAGENDAR</text><text x="20" y="335" class="cap">O sistema envia lembrete com opção de reagendar.</text>
+</g>
+<g transform="translate(150,455)">
+<rect class="panel" x="0" y="0" width="410" height="300"/><circle class="person" cx="90" cy="220" r="22"/><path class="person" d="M90 242v45m0-28l-35 15m35-15l40-10"/><rect x="185" y="55" width="150" height="95" class="panel"/><text x="205" y="90" font-size="17">Reagendar</text><text x="205" y="120" font-size="15">15 min</text><path class="line" d="M260 160 C260 190 310 190 310 220"/><rect x="270" y="220" width="95" height="55" class="panel"/><text x="290" y="253" font-size="16">SEX</text><text x="20" y="335" class="cap">Carlos escolhe nova data sem repetir todo o fluxo.</text>
+</g>
+<g transform="translate(650,455)">
+<rect class="panel" x="0" y="0" width="410" height="300"/><circle class="person" cx="150" cy="160" r="22"/><path class="person" d="M150 182v65m0-40l-35 25m35-25l50-5m-50 45l-28 42m28-42l28 42"/><rect x="210" y="185" width="45" height="60" class="panel"/><ellipse class="bubble" cx="290" cy="90" rx="78" ry="42"/><text x="250" y="98" font-size="21">Sucesso!</text><text x="20" y="335" class="cap">Confirma a nova data; a vaga anterior é liberada.</text>
+</g>
+</svg>
