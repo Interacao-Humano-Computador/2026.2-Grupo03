@@ -22,11 +22,7 @@ Fonte: registro desta versão (2026).
 
 ## 1. Gravação da entrevista
 
-Espaço reservado para inserir a gravação autorizada da entrevista.
-
-<div class="entrega5-reserva entrega5-reserva--video" role="region" aria-label="Espaço reservado para o vídeo da entrevista"></div>
-
-<!-- Inserir aqui o link ou a incorporação do vídeo autorizado. -->
+[Assistir à entrevista](https://youtu.be/U1eg2EeanWg?is=TA9OJrSPBYPRLlLP)
 
 [Voltar à avaliação individual](avaliacao.md).
 
