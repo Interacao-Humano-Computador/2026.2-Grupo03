@@ -20,6 +20,8 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 
 Fonte: registro desta versão (2026).
 
+[Baixar roteiro da entrevista com fundamentação](arquivos/roteiro-entrevista-decide-vistoria.pdf)
+
 ## 1. Primeiro E do DECIDE
 
 O primeiro E orienta a explorar perguntas que operacionalizem os objetivos da avaliação, considerando os usuários e suas atividades (Barbosa et al., 2021, seção 11.8, p. 264). As perguntas de exemplo utilizadas estão na Tabela 11.1, pp. 250-251; a validação do HTA utiliza também a seção 8.4.1, pp. 166-167.
@@ -44,6 +46,10 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 
 **O que investigar:** Investigar autonomia e necessidade de auxílio.
 
+**Figura 1 – Trecho que fundamenta a pergunta Q01**
+
+![Trecho do livro utilizado na pergunta Q01](arquivos/fonte-q01.png)
+
 **Fundamentação:** Barbosa et al. (2021), Tabela 11.1, p. 250 impressa / página 262 do PDF enviado.
 
 ### Q02. Informações para preparar o atendimento
@@ -55,6 +61,10 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 **Sondagem opcional:** Se necessário: onde procuraria as informações que faltaram?
 
 **O que investigar:** Investigar acesso às informações relevantes para a tarefa.
+
+**Figura 2 – Trecho que fundamenta a pergunta Q02**
+
+![Trecho do livro utilizado na pergunta Q02](arquivos/fonte-q02.png)
 
 **Fundamentação:** Barbosa et al. (2021), Tabela 11.1 (continuação), p. 251 impressa / página 263 do PDF enviado.
 
@@ -68,6 +78,10 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 
 **O que investigar:** Identificar barreiras sem pressupor a existência de um problema.
 
+**Figura 3 – Trecho que fundamenta a pergunta Q03**
+
+![Trecho do livro utilizado na pergunta Q03](arquivos/fonte-q03.png)
+
 **Fundamentação:** Barbosa et al. (2021), Tabela 11.1 (continuação), p. 251 impressa / página 263 do PDF enviado.
 
 ### Q04. Critério de conclusão da tarefa
@@ -79,6 +93,10 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 **Sondagem opcional:** O que precisaria ter em mãos ou ter confirmado?
 
 **O que investigar:** Verificar se o critério de sucesso do HTA faz sentido para o participante.
+
+**Figura 4 – Trecho que fundamenta a pergunta Q04**
+
+![Trecho do livro utilizado na pergunta Q04](arquivos/fonte-q04.png)
 
 **Fundamentação:** Barbosa et al. (2021), Seção 8.4.1, passo 2 da HTA, p. 166 impressa / página 178 do PDF enviado.
 
@@ -92,6 +110,10 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 
 **O que investigar:** Verificar completude e adequação da decomposição.
 
+**Figura 5 – Trecho que fundamenta a pergunta Q05**
+
+![Trecho do livro utilizado na pergunta Q05](arquivos/fonte-q05.png)
+
 **Fundamentação:** Barbosa et al. (2021), Seção 8.4.1, passos 4 e 5 da HTA, p. 167 impressa / página 179 do PDF enviado.
 
 ### Q06. Compreensão da sequência
@@ -103,6 +125,10 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 **Sondagem opcional:** Peça que a pessoa aponte o quadro correspondente.
 
 **O que investigar:** Investigar clareza da sequência proposta de agendamento.
+
+**Figura 6 – Trecho que fundamenta a pergunta Q06**
+
+![Trecho do livro utilizado na pergunta Q06](arquivos/fonte-q06.png)
 
 **Fundamentação:** Barbosa et al. (2021), Tabela 11.1, p. 250 impressa / página 262 do PDF enviado.
 
@@ -116,6 +142,10 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 
 **O que investigar:** Investigar o significado atribuído aos elementos efetivamente representados.
 
+**Figura 7 – Trecho que fundamenta a pergunta Q07**
+
+![Trecho do livro utilizado na pergunta Q07](arquivos/fonte-q07.png)
+
 **Fundamentação:** Barbosa et al. (2021), Tabela 11.1, p. 250 impressa / página 262 do PDF enviado.
 
 ### Q08. Necessidades atendidas e ausentes
@@ -127,6 +157,10 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 **Sondagem opcional:** Peça que relacione a resposta a uma situação concreta de uso.
 
 **O que investigar:** Identificar utilidade percebida e necessidades não contempladas.
+
+**Figura 8 – Trecho que fundamenta a pergunta Q08**
+
+![Trecho do livro utilizado na pergunta Q08](arquivos/fonte-q08.png)
 
 **Fundamentação:** Barbosa et al. (2021), Tabela 11.1, p. 250 impressa / página 262 do PDF enviado.
 
@@ -140,6 +174,10 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 
 **O que investigar:** Comparar facilidade percebida. Não medir eficiência real por opinião.
 
+**Figura 9 – Trecho que fundamenta a pergunta Q09**
+
+![Trecho do livro utilizado na pergunta Q09](arquivos/fonte-q09.png)
+
 **Fundamentação:** Barbosa et al. (2021), Tabela 11.1, p. 250 impressa / página 262 do PDF enviado.
 
 ### Q10. Preferência e justificativa
@@ -152,11 +190,15 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 
 **O que investigar:** Identificar preferência, razões e sugestões sem induzir aprovação.
 
+**Figura 10 – Trecho que fundamenta a pergunta Q10**
+
+![Trecho do livro utilizado na pergunta Q10](arquivos/fonte-q10.png)
+
 **Fundamentação:** Barbosa et al. (2021), Tabela 11.1, p. 250 impressa / página 262 do PDF enviado.
 
-## 4. Adequação ao storyboard recebido
+## 4. Adequação ao storyboard
 
-O PDF do roteiro foi preparado antes do envio do desenho. Suas perguntas consideram a proposta de local, data e horário e devem ser aplicadas somente aos elementos efetivamente presentes no storyboard publicado. Respostas sobre telas não desenhadas são expectativas, não evidências de uso. As perguntas permanecem abertas para evitar induzir aprovação da melhoria.
+O PDF do roteiro foi preparado com base no tema do StoryBoard.
 
 ## Referências
 
