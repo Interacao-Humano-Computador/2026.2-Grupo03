@@ -7,7 +7,7 @@
 | Integrante | Material | Evidência | Gravação |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro, registros do piloto e da entrevista e relato dos resultados; apoio de IA na organização e análise | [Visão geral](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
-| Gabriel Robson Nunes Neiva da Silva | Material a incorporar nesta seção | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Proposta de renovação guiada da CNH: HTAs, roteiro textual de storyboard, roteiro de entrevista e protótipo demonstrativo; avaliação pendente | [Visão geral](integrantes/gabriel-robson/index.md) | Não realizada |
 | Henrique Schneider Fernandes da Rosa | Material a incorporar nesta seção | — | — |
 | João Vitor Tavares de Sá Lima | HTAs de biometria, storyboard, roteiro, avaliação e relato dos resultados; gravações publicadas | [Visão geral](integrantes/joao-vitor/index.md) | [Vídeos](integrantes/joao-vitor/video-entrevista.md) |
 
