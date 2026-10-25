@@ -37,8 +37,6 @@ A narrativa abaixo descreve a versão desenhada por Alexandre. A publicação da
 5. Ela explica a possibilidade de escolher uma empresa credenciada próxima e um horário adequado.
 6. No encerramento, ele relata ter encontrado um local próximo no horário desejado.
 
-Fonte: descrição do storyboard desenhado por Alexandre Vilar, versão fornecida em 25/10/2026. A referência à personalização permanece no desenho original; o cenário adotado para o HTA é a transferência de propriedade.
-
 **Figura 1 – Proposta de agendamento de vistoria pelo portal do Detran-DF**
 
 ![Storyboard da proposta de agendamento de vistoria](arquivos/storyboard-alexandre.jpeg)
