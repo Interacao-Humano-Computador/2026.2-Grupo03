@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| João Vitor Tavares de Sá Lima | Realização da gravação da avaliação; publicação do link pendente | [Visão geral](index.md) | A incorporar |
+| João Vitor Tavares | Realização da gravação da avaliação; publicação do link pendente | [Visão geral](index.md) | A incorporar |
 
 Fonte: registro informado pelo responsável (2026).
 
@@ -16,7 +16,7 @@ Fonte: registro informado pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Reserva do espaço para publicação das gravações já realizadas | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.0 | Reserva do espaço para publicação das gravações já realizadas | João Vitor Tavares | — |
 
 Fonte: registro desta versão (2026).
 

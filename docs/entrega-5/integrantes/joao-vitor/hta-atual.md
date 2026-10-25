@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| João Vitor Tavares de Sá Lima | Elaboração do HTA do processo de agendamento de biometria | [Visão geral](index.md) | [Espaço do vídeo](video-entrevista.md) |
+| João Vitor Tavares | Elaboração do HTA do processo de agendamento de biometria | [Visão geral](index.md) | [Espaço do vídeo](video-entrevista.md) |
 
 Fonte: material elaborado pelo responsável (2026).
 
@@ -16,7 +16,7 @@ Fonte: material elaborado pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Publicação da árvore, decomposição e planos do processo atual | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.0 | Publicação da árvore, decomposição e planos do processo atual | João Vitor Tavares | — |
 
 Fonte: registro desta versão (2026).
 

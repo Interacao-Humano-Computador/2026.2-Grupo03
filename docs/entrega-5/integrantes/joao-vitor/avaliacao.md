@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| João Vitor Tavares de Sá Lima | Organização do procedimento de avaliação e dos materiais da entrevista | [Visão geral](index.md) | [Espaço do vídeo](video-entrevista.md) |
+| João Vitor Tavares | Organização do procedimento de avaliação e dos materiais da entrevista | [Visão geral](index.md) | [Espaço do vídeo](video-entrevista.md) |
 
 Fonte: materiais disponibilizados pelo responsável (2026).
 
@@ -16,7 +16,7 @@ Fonte: materiais disponibilizados pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Organização do procedimento e dos campos de registro no padrão da Entrega 5 | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.0 | Organização do procedimento e dos campos de registro no padrão da Entrega 5 | João Vitor Tavares | — |
 
 Fonte: registro desta versão (2026).
 

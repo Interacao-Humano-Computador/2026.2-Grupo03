@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| João Vitor Tavares de Sá Lima | Elaboração do storyboard do cenário de reagendamento de biometria | [Visão geral](index.md) | [Espaço do vídeo](video-entrevista.md) |
+| João Vitor Tavares | Elaboração do storyboard do cenário de reagendamento de biometria | [Visão geral](index.md) | [Espaço do vídeo](video-entrevista.md) |
 
 Fonte: material elaborado pelo responsável (2026).
 
@@ -16,7 +16,7 @@ Fonte: material elaborado pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Publicação da narrativa e representação do storyboard | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.0 | Publicação da narrativa e representação do storyboard | João Vitor Tavares | — |
 
 Fonte: registro desta versão (2026).
 
@@ -36,9 +36,9 @@ A representação abaixo organiza de forma legível a narrativa do desenho origi
 
 **Figura 1 – Storyboard da proposta de reagendamento de biometria**
 
-![Storyboard do cenário de Carlos](arquivos/storyboard-joao-vitor.svg)
+![Storyboard do cenário de Carlos](arquivos/storyboard-joao-vitor.png)
 
-Fonte: representação vetorial baseada no storyboard desenhado e fornecido por João Vitor (2026).
+Fonte: Storyboard desenvolvido por João Vitor Tavares(2026).
 
 ## 3. Relação com a análise de tarefas
 

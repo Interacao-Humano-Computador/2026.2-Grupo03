@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| João Vitor Tavares de Sá Lima | Organização das perguntas para avaliação do HTA e do storyboard | [Visão geral](index.md) | [Espaço do vídeo](video-entrevista.md) |
+| João Vitor Tavares | Organização das perguntas para avaliação do HTA e do storyboard | [Visão geral](index.md) | [Espaço do vídeo](video-entrevista.md) |
 
 Fonte: organização para esta atividade (2026).
 
@@ -36,7 +36,7 @@ Q1 a Q3 tratam do processo atual; Q4 e Q5, da validação do HTA; Q6 a Q8, do st
 
 **Pergunta:** Ao pensar em agendar a biometria no Detran-DF, quais etapas você esperaria realizar do início até a confirmação?
 
-**O que investigar:** modelo mental inicial e etapas lembradas.
+[Validaçãos](arquivos/p1.png)
 
 ### Q02. Localização do serviço
 
