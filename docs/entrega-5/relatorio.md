@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição incorporada | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | Storyboard, HTA atual, HTA do redesign, roteiro fundamentado e organização da avaliação individual, com apoio de IA | [Material individual](integrantes/alexandre-vilar/index.md) | [Espaço reservado](integrantes/alexandre-vilar/video-entrevista.md) |
+| Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro fundamentado, registros do piloto e da entrevista e relato individual dos resultados, com apoio de IA | [Material individual](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
 | Gabriel Robson Nunes Neiva da Silva | Material a incorporar nesta seção | — | — |
 | Henrique Schneider Fernandes da Rosa | Material a incorporar nesta seção | — | — |
 | João Vitor Tavares de Sá Lima | Material a incorporar nesta seção | — | — |
@@ -22,6 +22,7 @@ Fonte: materiais disponibilizados para esta organização (2026). A tabela não 
 | 25/10/2026 | 1.0 | Criação da página | Alexandre Vilar | João Vitor |
 | 25/10/2026 | 1.1 | Organização no padrão da Entrega 4; inclusão dos materiais de Alexandre e reserva dos espaços da entrevista e do relatório | Alexandre Vilar, com apoio do ChatGPT | — |
 
+| 25/10/2026 | 1.2 | Inclusão do relato e do registro do piloto; atualização dos materiais e situações de Alexandre | Alexandre Vilar, com apoio do ChatGPT | — |
 Fonte: histórico da página e registro desta atualização (2026).
 
 ## 1. Identificação
@@ -35,19 +36,19 @@ Fonte: histórico da página e registro desta atualização (2026).
 | Prazo previsto no Plano de Ensino | 25/10/2026 |
 | Inspeção prevista no Plano de Ensino | 26/10/2026 – Grupo +1; registro ainda não incorporado |
 | Apresentação prevista no Plano de Ensino | 27/10/2026 |
-| Situação desta versão | Materiais individuais de Alexandre organizados; vídeo e relatório pós-entrevista reservados |
+| Situação desta versão | Materiais, gravações e relato individual de Alexandre publicados; demais artefatos coletivos a incorporar |
 
 Fonte: [Plano de Ensino](../disciplina/plano-de-ensino.md) e materiais desta atividade (2026). As datas previstas não comprovam a realização das atividades.
 
 ## 2. Escopo da entrega
 
-O Plano de Ensino prevê o relato dos resultados da avaliação do storyboard e da análise de tarefas, além do planejamento da avaliação do protótipo de papel e do planejamento de seu relato. Esta versão organiza os materiais disponíveis de Alexandre; o registro da entrevista, seus resultados e os demais artefatos do grupo serão incorporados posteriormente.
+O Plano de Ensino prevê o relato dos resultados da avaliação do storyboard e da análise de tarefas, além do planejamento da avaliação do protótipo de papel e do planejamento de seu relato. Esta versão reúne os materiais de Alexandre, os registros da entrevista e do piloto e o relato individual dos resultados. Os demais materiais do grupo e o planejamento relativo ao protótipo de papel permanecem a incorporar pelos responsáveis.
 
 O cenário individual é a **vistoria para transferência de propriedade**. A proposta de melhoria é organizar o agendamento pelo portal com escolha de empresa credenciada, data e horário. O HTA atual descreve a busca de orientações; o redesign descreve o funcionamento proposto.
 
 ## 3. Organização da avaliação
 
-O [planejamento da Entrega 4](../entrega-4/relatorio.md) é a referência da etapa anterior. O [procedimento individual](integrantes/alexandre-vilar/avaliacao.md) reúne a aplicação do roteiro, a validação do HTA e a avaliação do storyboard. Não foram incorporadas evidências de sessões ou resultados nesta versão.
+O [planejamento da Entrega 4](../entrega-4/relatorio.md) é a referência da etapa anterior. O [procedimento individual](integrantes/alexandre-vilar/avaliacao.md) reúne a aplicação do roteiro, a validação do HTA e a avaliação do storyboard. O [relato individual](integrantes/alexandre-vilar/relatorio-pos-entrevista.md) relaciona as dez questões às evidências da entrevista e distingue os achados de suas limitações. A análise operacional do piloto está documentada separadamente, sem somar suas respostas aos resultados definitivos.
 
 ## 4. Artefatos da entrega
 
@@ -56,12 +57,12 @@ O [planejamento da Entrega 4](../entrega-4/relatorio.md) é a referência da eta
 | Artefato | Página | Situação nesta versão |
 | --- | --- | --- |
 | Materiais de Alexandre | [Visão geral](integrantes/alexandre-vilar/index.md) | Organizados |
-| HTA do processo atual | [HTA atual](integrantes/alexandre-vilar/hta-atual.md) | Modelo a validar |
-| Storyboard | [Storyboard](integrantes/alexandre-vilar/storyboard.md) | Narrativa disponível; imagem pendente de autorização |
+| HTA do processo atual | [HTA atual](integrantes/alexandre-vilar/hta-atual.md) | Avaliação exploratória registrada; validação parcial |
+| Storyboard | [Storyboard](integrantes/alexandre-vilar/storyboard.md) | Narrativa e imagem publicadas |
 | Proposta de redesign | [HTA do redesign](integrantes/alexandre-vilar/hta-redesign.md) | Proposta detalhada; PDF disponível |
-| Roteiro e fundamentação | [Perguntas e fontes](integrantes/alexandre-vilar/roteiro-entrevista.md) | Disponíveis para aplicação |
-| Vídeo da entrevista | [Espaço do vídeo](integrantes/alexandre-vilar/video-entrevista.md) | Reservado |
-| Relato da avaliação do storyboard e da HTA | [Espaço do relatório](integrantes/alexandre-vilar/relatorio-pos-entrevista.md) | Reservado |
+| Roteiro e fundamentação | [Perguntas e fontes](integrantes/alexandre-vilar/roteiro-entrevista.md) | Perguntas, fontes, prints e PDF publicados |
+| Vídeo da entrevista | [Vídeo da entrevista](integrantes/alexandre-vilar/video-entrevista.md) | Publicado |
+| Relato da avaliação do storyboard e da HTA | [Relatório pós-entrevista](integrantes/alexandre-vilar/relatorio-pos-entrevista.md) | Publicado |
 | Planejamento da avaliação e do relato do protótipo de papel | A incorporar pelos responsáveis | Conteúdo ainda não incorporado nesta seção |
 | Matriz de contribuição | [Contribuições](contribuicoes.md) | Materiais desta versão |
 
@@ -78,13 +79,17 @@ Fonte: materiais disponibilizados nesta atividade (2026).
 
 ### 5.2 Relatório pós-entrevista de Alexandre
 
-Espaço reservado para os resultados e a análise da avaliação.
+A entrevista definitiva foi analisada individualmente, com o participante identificado como P01. Ele relatou dificuldade para localizar orientações e uma empresa credenciada, considerou complexo o caminho atual e preferiu a proposta por percebê-la como mais direta e informativa.
 
-<div class="entrega5-reserva entrega5-reserva--relatorio" role="region" aria-label="Espaço reservado para o relatório pós-entrevista de Alexandre"></div>
+O HTA recebeu reconhecimento parcial de correspondência com o caminho relatado. A avaliação não demonstrou execução completa do processo proposto nem interpretação detalhada dos controles de local, data e horário. Não foram medidas redução de tempo ou eficiência real.
 
-<!-- Inserir o relatório aqui ou um resumo com link para a página individual preenchida. -->
+[Ler o relatório completo, com respostas, horários, recomendações e limitações](integrantes/alexandre-vilar/relatorio-pos-entrevista.md).
 
-[Abrir a página destinada ao relatório](integrantes/alexandre-vilar/relatorio-pos-entrevista.md).
+### 5.3 Teste-piloto e pendências de registro
+
+O [piloto](integrantes/alexandre-vilar/avaliacao.md#5-teste-piloto) registra o ensaio do roteiro e a decisão de disponibilizar o notebook para navegação antes das perguntas. O procedimento é mencionado na abertura da entrevista definitiva. As opiniões do piloto não foram incorporadas à análise final de P01.
+
+Ainda faltam registros que dependem de confirmação do responsável: datas, locais e modalidades das sessões, recrutamento e relação entre os participantes do piloto e da entrevista definitiva.
 
 ## 6. Inspeção e verificação
 
@@ -99,3 +104,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de Alexandre Vilar, para apoiar a organização do conteúdo, a redação das páginas, a estruturação dos HTAs e a adaptação das perguntas do livro. O storyboard foi desenhado por Alexandre e mantido na versão fornecida. Não foram gerados dados de participantes, resultados ou registros de entrevistas. A responsabilidade pelo conteúdo e pela revisão é dos autores.
+
+**Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.

@@ -18,6 +18,7 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Adaptação das perguntas e organização das referências da fundamentação | Alexandre Vilar, com apoio do ChatGPT | — |
 
+| 25/10/2026 | 1.1 | Correção dos avisos dos anexos já publicados e ligação à análise da entrevista | Alexandre Vilar, com apoio do ChatGPT | — |
 Fonte: registro desta versão (2026).
 
 [Baixar roteiro da entrevista com fundamentação](arquivos/roteiro-entrevista-decide-vistoria.pdf)
@@ -26,7 +27,7 @@ Fonte: registro desta versão (2026).
 
 O primeiro E orienta a explorar perguntas que operacionalizem os objetivos da avaliação, considerando os usuários e suas atividades (Barbosa et al., 2021, seção 11.8, p. 264). As perguntas de exemplo utilizadas estão na Tabela 11.1, pp. 250-251; a validação do HTA utiliza também a seção 8.4.1, pp. 166-167.
 
-As referências abaixo indicam as páginas impressas e as páginas correspondentes no arquivo do livro utilizado. As reproduções do livro e o PDF com esses prints não estão publicados nesta página.
+As referências abaixo indicam as páginas impressas e as páginas correspondentes no livro utilizado. Os dez prints de fundamentação estão apresentados junto às questões, e o PDF do roteiro está disponível no início da página.
 
 ## 2. Orientações de aplicação
 
@@ -198,7 +199,7 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 
 ## 4. Adequação ao storyboard
 
-O PDF do roteiro foi preparado com base no tema do StoryBoard.
+O roteiro foi preparado para o tema de vistoria para transferência de propriedade. Na sessão, as perguntas devem ser interpretadas considerando apenas os elementos efetivamente representados no storyboard. A [análise da entrevista](relatorio-pos-entrevista.md) distingue compreensão geral da proposta e interpretação detalhada de seus controles.
 
 ## Referências
 
@@ -207,3 +208,5 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selba
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de Alexandre Vilar, para apoiar a organização do conteúdo, a redação das páginas, a estruturação dos HTAs e a adaptação das perguntas do livro. O storyboard foi desenhado por Alexandre e mantido na versão fornecida. Não foram gerados dados de participantes, resultados ou registros de entrevistas. A responsabilidade pelo conteúdo e pela revisão é dos autores.
+
+**Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
