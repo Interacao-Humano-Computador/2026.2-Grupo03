@@ -52,6 +52,7 @@ plugins:
   - search
   - redirects:
       redirect_maps:
+        'entrega-5/docs/entrega-5/integrantes/alexandre-vilar/avaliacao.md': 'entrega-5/integrantes/alexandre-vilar/avaliacao.md'
         # Endereços antigos (publicados antes da organização por entrega) -> páginas atuais
         'acompanhamento/index.md': 'integrantes/index.md'
         'guia-estilo/contribuicao/contrib.md': 'entrega-3/contribuicoes.md'
@@ -238,9 +239,17 @@ nav:
 
   - "Entrega 5":
     - Relatório da entrega: entrega-5/relatorio.md
+    - Contribuições: entrega-5/contribuicoes.md
     - Material dos integrantes:
       - Alexandre Vilar:
+        - Visão geral: entrega-5/integrantes/alexandre-vilar/index.md
         - Avaliação do HTA e Storyboard: entrega-5/integrantes/alexandre-vilar/avaliacao.md
+        - HTA do processo atual: entrega-5/integrantes/alexandre-vilar/hta-atual.md
+        - Storyboard: entrega-5/integrantes/alexandre-vilar/storyboard.md
+        - HTA do redesign: entrega-5/integrantes/alexandre-vilar/hta-redesign.md
+        - Roteiro de entrevista e fontes: entrega-5/integrantes/alexandre-vilar/roteiro-entrevista.md
+        - Vídeo da entrevista: entrega-5/integrantes/alexandre-vilar/video-entrevista.md
+        - Relatório pós-entrevista: entrega-5/integrantes/alexandre-vilar/relatorio-pos-entrevista.md
 
   - Trabalhos Avaliativos:
     - Visão geral: trabalhos-avaliativos/index.md
