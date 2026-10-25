@@ -39,13 +39,11 @@ A narrativa abaixo descreve a versão desenhada por Alexandre. A publicação da
 
 Fonte: descrição do storyboard desenhado por Alexandre Vilar, versão fornecida em 25/10/2026. A referência à personalização permanece no desenho original; o cenário adotado para o HTA é a transferência de propriedade.
 
-<div class="entrega5-reserva entrega5-reserva--relatorio" role="region" aria-label="Espaço para inserir a imagem do storyboard após autorização"></div>
-
 **Figura 1 – Proposta de agendamento de vistoria pelo portal do Detran-DF**
 
 ![Storyboard da proposta de agendamento de vistoria](arquivos/storyboard-alexandre.jpeg)
 
-Fonte: elaborado por Alexandre Vilar (2026).
+Fonte: descrição do storyboard desenhado por Alexandre Vilar. A referência à personalização permanece no desenho original; o cenário adotado para o HTA é a transferência de propriedade.
 
 ## 3. Relação com a análise de tarefas
 
