@@ -18,12 +18,15 @@ Fonte: organização para esta atividade (2026).
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Criação da estrutura do relatório, sem antecipar resultados não verificados | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.1 | Inclusão do link da entrevista definitiva e manutenção dos resultados como pendentes de análise | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.2 | Registro do consentimento formal e preservação de anonimato do participante | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
 
 Fonte: registro desta versão (2026).
 
 ## 1. Identificação e objetivo
 
 Projeto: Interação Humano-Computador, Grupo 03, Entrega 5. Material individual: João Vitor. Cenário: agendamento e gerenciamento de biometria no Detran-DF.
+
+O participante da entrevista definitiva é identificado como **P01**. Houve consentimento formal para participação e gravação por meio de TCLE assinado em **24/10/2026**. A documentação pública preserva os dados pessoais e não publica a imagem assinada do termo.
 
 **Objetivo:** consolidar os resultados da avaliação do HTA atual, do storyboard e da proposta de redesign, relacionando cada conclusão às evidências das gravações.
 

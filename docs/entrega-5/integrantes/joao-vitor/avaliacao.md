@@ -18,6 +18,7 @@ Fonte: materiais disponibilizados pelo responsável (2026).
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Organização do procedimento e dos campos de registro no padrão da Entrega 5 | João Vitor Tavares | — |
 | 25/10/2026 | 1.1 | Publicação dos links do teste-piloto e da entrevista definitiva | João Vitor Tavares | — |
+| 25/10/2026 | 1.2 | Registro do TCLE assinado e dos cuidados de privacidade | João Vitor Tavares, com apoio do ChatGPT | — |
 
 Fonte: registro desta versão (2026).
 
@@ -57,7 +58,13 @@ As gravações já foram realizadas, segundo o responsável. O perfil dos partic
 | Coleta | Entrevista semiestruturada |
 | Análise | A completar no [relatório pós-entrevista](relatorio-pos-entrevista.md) |
 
-## 4. Materiais avaliados
+## 4. Aspectos éticos e consentimento
+
+Foi apresentado e assinado um **Termo de Consentimento Livre e Esclarecido (TCLE)** para a participação na atividade e para a gravação da entrevista. O termo foi assinado em **Brasília, em 24/10/2026**.
+
+O documento informa a finalidade acadêmica da coleta, a participação voluntária, o direito de interrupção e o compromisso de privacidade e anonimato. Por conter identificação e assinaturas, a imagem do TCLE não é publicada neste repositório aberto. O participante é identificado na documentação apenas pelo código **P01**.
+
+## 5. Materiais avaliados
 
 **Tabela 3 – Materiais e finalidade**
 
@@ -70,7 +77,7 @@ As gravações já foram realizadas, segundo o responsável. O perfil dos partic
 
 Fonte: materiais desta atividade (2026).
 
-## 5. Teste-piloto
+## 6. Teste-piloto
 
 O teste-piloto foi gravado e deve ser analisado separadamente dos resultados definitivos, registrando clareza das perguntas, apresentação dos materiais, funcionamento dos equipamentos e eventuais ajustes executados.
 
@@ -78,17 +85,17 @@ O teste-piloto foi gravado e deve ser analisado separadamente dos resultados def
 
 Os resultados do piloto não devem ser somados aos resultados da entrevista definitiva.
 
-## 6. Vídeo da entrevista
+## 7. Vídeo da entrevista
 
 A entrevista definitiva está publicada na [página do vídeo](video-entrevista.md).
 
 [Assistir à entrevista](https://youtu.be/n3JVUZSXZl4?is=M3ZSvo13Y-uiOahZ)
 
-## 7. Relatório pós-entrevista
+## 8. Relatório pós-entrevista
 
 O [relatório pós-entrevista](relatorio-pos-entrevista.md) está preparado para registrar as respostas e evidências reais. Nenhum resultado foi antecipado antes da conferência das gravações.
 
-## 8. Critérios de análise
+## 9. Critérios de análise
 
 Para cada questão, relacionar falas e observações ao objetivo correspondente. Registrar evidências com trechos ou horários da gravação, distinguir falas do participante de interpretações do avaliador e apontar limitações.
 
