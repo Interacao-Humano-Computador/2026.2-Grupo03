@@ -61,9 +61,15 @@ Fonte: materiais desta atividade (2026).
 
 Antes da sessão definitiva, o teste-piloto deve verificar a clareza das perguntas, a adequação dos materiais, o funcionamento dos equipamentos e se os dados permitem responder aos objetivos. O planejamento deve ser corrigido quando necessário, e os dados do piloto não integram os resultados definitivos (Barbosa et al., 2021, p. 260). A realização do piloto ainda não está documentada nesta página.
 
-## 6. Vídeo da entrevista
+[Assistir ao teste-piloto da entrevista](https://youtu.be/F2KLex1QFd0?is=ZwSM-oTrjRdkCajJ)
 
-O [espaço destinado ao vídeo](video-entrevista.md) está reservado para a gravação autorizada.
+## 6. Vídeo da entrevista
+- O consentimento foi obtido por meio do TCLE que foi apresentado ao entrevistado;
+- Houve autorização para gravar;
+- Houve autorização para divulgar a gravação;
+- Por meio do TCLE foi assegurada a possibilidade de desistência.
+  
+[Assistir à entrevista](https://youtu.be/U1eg2EeanWg?is=TA9OJrSPBYPRLlLP)
 
 ## 7. Relatório pós-entrevista
 
