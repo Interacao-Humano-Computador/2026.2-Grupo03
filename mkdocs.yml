@@ -236,6 +236,12 @@ nav:
         - "Planejamento individual": entrega-4/integrantes/joao-vitor/planejamento-individual.md
         - "Lista de verificação – Storyboard": entrega-4/integrantes/joao-vitor/lista-storyboard.md
 
+  - "Entrega 5":
+    - Relatório da entrega: entrega-5/relatorio.md
+    - Material dos integrantes:
+      - Alexandre Vilar:
+        - Avaliação do HTA e Storyboard: entrega-5/integrantes/alexandre-vilar/avaliacao.md
+
   - Trabalhos Avaliativos:
     - Visão geral: trabalhos-avaliativos/index.md
     - Alexandre Vilar: trabalhos-avaliativos/alexandre-vilar.md
