@@ -71,11 +71,8 @@ Fonte: materiais disponibilizados nesta atividade (2026).
 
 ### 5.1 Vídeo da entrevista de Alexandre
 
-Espaço reservado para a gravação autorizada.
+[Assistir à entrevista](https://youtu.be/U1eg2EeanWg?is=TA9OJrSPBYPRLlLP)
 
-<div class="entrega5-reserva entrega5-reserva--video" role="region" aria-label="Espaço reservado para o vídeo da entrevista de Alexandre"></div>
-
-<!-- Inserir o vídeo aqui e atualizar a página individual de vídeo. -->
 
 [Abrir a página destinada ao vídeo](integrantes/alexandre-vilar/video-entrevista.md).
 
