@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| João Vitor Tavares de Sá Lima | Estrutura do relato da avaliação; resultados aguardam conferência das gravações | [Visão geral](index.md) | [Vídeo](video-entrevista.md) |
+| João Vitor Tavares de Sá Lima | Estrutura do relato da avaliação; resultados aguardam análise do conteúdo da gravação | [Visão geral](index.md) | [Entrevista](https://youtu.be/n3JVUZSXZl4?is=M3ZSvo13Y-uiOahZ) |
 
 Fonte: organização para esta atividade (2026).
 
@@ -17,6 +17,7 @@ Fonte: organização para esta atividade (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Criação da estrutura do relatório, sem antecipar resultados não verificados | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.1 | Inclusão do link da entrevista definitiva e manutenção dos resultados como pendentes de análise | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
 
 Fonte: registro desta versão (2026).
 
@@ -30,7 +31,7 @@ Projeto: Interação Humano-Computador, Grupo 03, Entrega 5. Material individual
 
 A sessão utiliza entrevista semiestruturada apoiada nos artefatos publicados nesta pasta. Os resultados devem ser organizados por questão e por participante, com horários aproximados da gravação quando disponíveis.
 
-Nesta versão, a gravação ainda não foi incorporada à documentação; por isso, o relatório não atribui respostas ou conclusões aos participantes.
+A [gravação da entrevista definitiva](https://youtu.be/n3JVUZSXZl4?is=M3ZSvo13Y-uiOahZ) está incorporada à documentação. Entretanto, nesta versão, o conteúdo audiovisual ainda não foi transcrito ou analisado de forma verificável; por isso, o relatório não atribui respostas ou conclusões aos participantes.
 
 ## 3. Resultados por questão
 
@@ -88,7 +89,7 @@ As alterações nos artefatos devem ser justificadas pelos resultados efetivamen
 
 ## 6. Limitações
 
-Nesta versão, a principal limitação documental é a ausência dos links e da análise das gravações. Isso impede registrar respostas, recorrências, divergências e recomendações como resultados da avaliação.
+Nesta versão, os links das gravações estão publicados, mas a transcrição e a análise detalhada do conteúdo ainda não foram incorporadas. Isso impede registrar respostas, recorrências, divergências e recomendações como resultados da avaliação.
 
 ## 7. Conclusão
 

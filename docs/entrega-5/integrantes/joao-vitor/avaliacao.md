@@ -17,6 +17,7 @@ Fonte: materiais disponibilizados pelo responsável (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Organização do procedimento e dos campos de registro no padrão da Entrega 5 | João Vitor Tavares | — |
+| 25/10/2026 | 1.1 | Publicação dos links do teste-piloto e da entrevista definitiva | João Vitor Tavares | — |
 
 Fonte: registro desta versão (2026).
 
@@ -48,7 +49,7 @@ As gravações já foram realizadas, segundo o responsável. O perfil dos partic
 
 | Campo | Registro disponível |
 | --- | --- |
-| Fonte | Gravação realizada; link ainda não publicado |
+| Fonte | [Gravação da entrevista](https://youtu.be/n3JVUZSXZl4?is=M3ZSvo13Y-uiOahZ) |
 | Responsável pelo material | João Vitor |
 | Data, local e modalidade | A incorporar |
 | Duração | A incorporar |
@@ -71,13 +72,17 @@ Fonte: materiais desta atividade (2026).
 
 ## 5. Teste-piloto
 
-Caso tenha sido realizado, o teste-piloto deve ser documentado separadamente dos resultados definitivos, registrando clareza das perguntas, apresentação dos materiais, funcionamento dos equipamentos e ajustes executados.
+O teste-piloto foi gravado e deve ser analisado separadamente dos resultados definitivos, registrando clareza das perguntas, apresentação dos materiais, funcionamento dos equipamentos e eventuais ajustes executados.
 
-Nesta versão, os dados do piloto ainda não foram incorporados.
+[Assistir ao teste-piloto](https://youtu.be/sRd1cayuclE?is=bXcCp5_Hjm_scVqf)
+
+Os resultados do piloto não devem ser somados aos resultados da entrevista definitiva.
 
 ## 6. Vídeo da entrevista
 
-As gravações já foram feitas, mas os links não serão publicados nesta versão. O espaço está reservado na [página do vídeo](video-entrevista.md).
+A entrevista definitiva está publicada na [página do vídeo](video-entrevista.md).
+
+[Assistir à entrevista](https://youtu.be/n3JVUZSXZl4?is=M3ZSvo13Y-uiOahZ)
 
 ## 7. Relatório pós-entrevista
 
