@@ -11,6 +11,6 @@ da análise de tarefas e do storyboard.
 
 ## Histórico de versões
 
-| Versão | Data | Descrição | Autor | Revisor(es)|
-|---|---|---|---|
-| 1.0 | 25/10/2026 | Criação da página | Alexandre Vilar | João VItor
+| Versão | Data | Descrição | Autor | Revisor(es) |
+|---|---|---|---|---|
+| 1.0 | 25/10/2026 | Criação da página | Alexandre Vilar | João Vitor |
