@@ -17,12 +17,15 @@ Fonte: organização para esta atividade (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Organização do roteiro de entrevista no padrão da Entrega 5 | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.1 | Inclusão dos recortes de fundamentação abaixo das perguntas | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
 
 Fonte: registro desta versão (2026).
 
 ## 1. Fundamentação
 
 O roteiro operacionaliza os objetivos da avaliação, relacionando perguntas sobre o processo atual, validação do HTA, compreensão do storyboard e comparação com a proposta de redesign. A análise hierárquica de tarefas é tratada por Barbosa et al. (2021) na seção 8.4.1; o planejamento e o relato da avaliação são tratados nos capítulos 11 e 12.
+
+Os recortes apresentados abaixo registram os trechos utilizados como apoio para a formulação das perguntas.
 
 ## 2. Orientações de aplicação
 
@@ -36,61 +39,61 @@ Q1 a Q3 tratam do processo atual; Q4 e Q5, da validação do HTA; Q6 a Q8, do st
 
 **Pergunta:** Ao pensar em agendar a biometria no Detran-DF, quais etapas você esperaria realizar do início até a confirmação?
 
-[Validaçãos](arquivos/p1.png)
+![Trecho de fundamentação da pergunta Q01](arquivos/p1.png)
 
 ### Q02. Localização do serviço
 
 **Pergunta:** Como você procuraria o serviço de biometria dentro do portal? Em algum momento você esperaria ter dificuldade?
 
-**O que investigar:** estratégias de navegação e possíveis barreiras.
+![Trecho de fundamentação da pergunta Q02](arquivos/p2.png)
 
 ### Q03. Informações necessárias
 
 **Pergunta:** Que informações você considera necessárias antes de confirmar um agendamento de biometria?
 
-**O que investigar:** dados esperados para tomada de decisão.
+![Trecho de fundamentação da pergunta Q03](arquivos/p3.png)
 
 ### Q04. Critério de conclusão da tarefa
 
 **Pergunta:** Como você saberia que o agendamento foi concluído corretamente?
 
-**O que investigar:** critério de sucesso do HTA.
+![Trecho de fundamentação da pergunta Q04](arquivos/p4.png)
 
 ### Q05. Etapas e ordem do HTA
 
 **Pergunta:** Observando a árvore HTA atual, essas etapas correspondem ao caminho que você seguiria? O que acrescentaria, retiraria ou mudaria de ordem?
 
-**O que investigar:** completude e adequação da decomposição.
+![Trecho de fundamentação da pergunta Q05](arquivos/p5.png)
 
 ### Q06. Compreensão do storyboard
 
 **Pergunta:** Depois de acompanhar o storyboard, o que você entende que aconteceu com Carlos e qual problema a proposta tenta resolver?
 
-**O que investigar:** compreensão da narrativa e do problema.
+![Trecho de fundamentação da pergunta Q06](arquivos/p6.png)
 
 ### Q07. Notificação de reconfirmação
 
 **Pergunta:** O que você entende que a notificação enviada antes do atendimento permite fazer?
 
-**O que investigar:** significado atribuído a reconfirmar, reagendar e cancelar.
+![Trecho de fundamentação da pergunta Q07](arquivos/p7.png)
 
 ### Q08. Reagendamento
 
 **Pergunta:** Na situação de Carlos, como você esperaria que o reagendamento funcionasse? Há alguma informação ou etapa que ainda faltaria?
 
-**O que investigar:** expectativas e necessidades não contempladas.
+![Trecho de fundamentação da pergunta Q08](arquivos/p8.png)
 
 ### Q09. Facilidade percebida
 
 **Pergunta:** Comparando o fluxo atual com a proposta do storyboard e do redesign, qual parece mais fácil de entender e usar? Por quê?
 
-**O que investigar:** facilidade percebida, sem tratar a opinião como medição de eficiência.
+![Trecho de fundamentação da pergunta Q09](arquivos/p9.png)
 
 ### Q10. Preferência e sugestão
 
 **Pergunta:** Qual alternativa você preferiria para lidar com um imprevisto depois de já ter agendado a biometria? O que mudaria na proposta?
 
-**O que investigar:** preferência, justificativa e sugestões.
+![Trecho de fundamentação da pergunta Q10](arquivos/p10.png)
 
 ## 4. Cuidados de interpretação
 
