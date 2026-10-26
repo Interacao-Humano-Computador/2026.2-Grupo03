@@ -9,7 +9,7 @@ edit_uri: edit/main/docs/
 
 validation:
   unrecognized_links: warn
-  not_in_nav: ignore
+  omitted_files: ignore
   
 theme:
   name: material
