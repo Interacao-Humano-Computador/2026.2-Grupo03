@@ -17,8 +17,8 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Elaboração do storyboard e organização do HTA, do redesign e do roteiro de entrevista | Alexandre Vilar, com apoio do ChatGPT | — |
-
 | 25/10/2026 | 1.1 | Atualização dos materiais publicados, situação da avaliação e pendências de registro | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução
@@ -47,11 +47,15 @@ Fonte: materiais elaborados nesta atividade (2026).
 
 Estão publicados os HTAs, o storyboard, o roteiro com prints e PDF, as gravações do piloto e da entrevista e o relatório pós-entrevista. A [página da avaliação](avaliacao.md) registra o procedimento, o perfil disponível e as verificações operacionais do piloto.
 
-Permanecem a confirmar pelo responsável as datas, os locais e as modalidades das sessões; a forma de recrutamento e a experiência anterior com vistoria; e a relação entre os participantes do piloto e da sessão definitiva. A duração dos vídeos não foi tratada como duração total das sessões.
+O participante P01 do relato individual corresponde a P2 no [relatório coletivo](../../relatorio-do-grupo.md). Segundo a Tabela 4 desse relatório, ele tem 21 anos, é condutor habilitado, possui experiência básica no portal e foi entrevistado em 25/10/2026. Permanecem a confirmar local e modalidade da entrevista, data e logística do piloto, recrutamento, experiência prévia com vistoria e relação entre os participantes das duas sessões. A duração dos vídeos não foi tratada como duração total das sessões.
 
 As recomendações de próxima iteração e os limites de validação estão no [relatório](relatorio-pos-entrevista.md#8-encaminhamento-das-recomendacoes). O desenho foi mantido conforme decisão anterior do autor.
 
 O [planejamento individual da Entrega 4](../../../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md) permanece como registro da etapa anterior; seus cronogramas não comprovam a realização das sessões.
+
+## 4. Participação no relatório coletivo
+
+A consolidação inclui as respostas de P2, PS08 e seu reprojeto, a conferência documental do Fluxo 5 e o escopo preparatório do protótipo de papel. A definição da quantidade de participantes, dos avaliadores e das datas futuras continua pendente. Consulte as [seções 1 e 2](../../relatorio-do-grupo.md) e a [parte de Alexandre no protótipo](../../relatorio-do-grupo.md#382-escopo-preparatorio-do-prototipo-de-papel-alexandre-vilar).
 
 ## Referências
 
