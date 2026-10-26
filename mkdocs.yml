@@ -7,6 +7,10 @@ repo_url: !ENV [REPO_URL, 'https://github.com/Interacao-Humano-Computador/2026.2
 repo_name: !ENV [REPO_NAME, 'Interacao-Humano-Computador/2026.2-Grupo03']
 edit_uri: edit/main/docs/
 
+validation:
+  unrecognized_links: warn
+  not_in_nav: ignore
+  
 theme:
   name: material
   language: pt-BR
@@ -50,6 +54,7 @@ plugins:
   - search
   - redirects:
       redirect_maps:
+        'entrega-5/docs/entrega-5/integrantes/alexandre-vilar/avaliacao.md': 'entrega-5/integrantes/alexandre-vilar/avaliacao.md'
         # Endereços antigos (publicados antes da organização por entrega) -> páginas atuais
         'acompanhamento/index.md': 'integrantes/index.md'
         'guia-estilo/contribuicao/contrib.md': 'entrega-3/contribuicoes.md'
@@ -265,6 +270,15 @@ nav:
         - Roteiro de entrevista e fontes: entrega-5/integrantes/joao-vitor/roteiro-entrevista.md
         - Vídeo da entrevista: entrega-5/integrantes/joao-vitor/video-entrevista.md
         - Relatório pós-entrevista: entrega-5/integrantes/joao-vitor/relatorio-pos-entrevista.md
+
+      - Gabriel Robson:
+        - Visão geral: entrega-5/integrantes/gabriel-robson/index.md
+        - HTA de referência: entrega-5/integrantes/gabriel-robson/hta-atual.md
+        - Storyboard textual: entrega-5/integrantes/gabriel-robson/storyboard.md
+        - HTA do redesign: entrega-5/integrantes/gabriel-robson/hta-redesign.md
+        - Roteiro de entrevista: entrega-5/integrantes/gabriel-robson/roteiro-entrevista.md
+        - Estado da avaliação: entrega-5/integrantes/gabriel-robson/avaliacao.md
+        - Protótipo demonstrativo: entrega-5/integrantes/gabriel-robson/prototipo.html
 
   - Trabalhos Avaliativos:
     - Visão geral: trabalhos-avaliativos/index.md
