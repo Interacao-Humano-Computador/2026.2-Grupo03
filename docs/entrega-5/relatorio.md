@@ -25,6 +25,7 @@ Fonte: materiais disponibilizados para esta organização (2026). A tabela não 
 | 25/10/2026 | 1.3 | Inclusão dos materiais de João Vitor e atualização da situação da entrega | João Vitor, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider e do relatório do grupo (Google Docs, v1.8) | Henrique Schneider, com apoio do Claude | Gabriel Robson |
 | 25/10/2026 | 1.5 | Inclusão da consolidação de Alexandre no relatório do grupo e sincronização do perfil de P2 | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.6 | Atualização dos dados confirmados da entrevista e do piloto de Alexandre e do planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | — |
 Fonte: histórico da página e registro desta atualização (2026).
 
 ## 1. Identificação
@@ -94,7 +95,7 @@ O HTA recebeu reconhecimento parcial de correspondência com o caminho relatado.
 
 O [piloto](integrantes/alexandre-vilar/avaliacao.md#5-teste-piloto) registra o ensaio do roteiro e a decisão de disponibilizar o notebook para navegação antes das perguntas. O procedimento é mencionado na abertura da entrevista definitiva. As opiniões do piloto não foram incorporadas à análise final de P01.
 
-A Tabela 4 do [relatório coletivo](relatorio-do-grupo.md) registra P2 (P01 no relato individual), 21 anos, condutor habilitado, experiência básica no portal e sessão em 25/10/2026. Permanecem sem confirmação o local e a modalidade da entrevista, a data e a logística do piloto, o recrutamento e a relação entre os participantes das duas sessões.
+A entrevista de P2 (P01 no relato individual) ocorreu em 25/10/2026, presencialmente na casa de Alexandre, com duração aproximada de 10 minutos. O participante tem 21 anos, é habilitado e dirige, possui experiência básica no portal e foi convidado pessoalmente como amigo do autor. Não tinha experiência prévia com a tarefa de vistoria investigada. O piloto ocorreu em 24/10/2026, no mesmo local, com outra pessoa (PP01), que ajudou na preparação do material; essa condição está registrada como limitação metodológica, e as respostas do piloto não foram incorporadas aos resultados de P2.
 
 ### 5.4 Material de João Vitor
 
@@ -110,7 +111,7 @@ O [relato dos resultados](integrantes/henrique-schneider/relatorio-pos-entrevist
 
 ### 5.6 Consolidação da parte de Alexandre no relatório do grupo
 
-O [relatório coletivo](relatorio-do-grupo.md) incorpora as respostas de P2, a relação storyboard–HTA–perfil, PS08 e seu reprojeto, o Fluxo 5 e sua conferência documental. O escopo preparatório do protótipo de vistoria está definido; quantidade de participantes, papéis dos avaliadores e datas futuras seguem a definir. O registro individual e o coletivo usam os mesmos dados de perfil e de data disponíveis.
+O [relatório coletivo](relatorio-do-grupo.md) incorpora as respostas de P2, a relação storyboard–HTA–perfil, PS08 e seu reprojeto, o Fluxo 5 e sua conferência documental. O escopo preparatório do protótipo de vistoria está definido. Alexandre pretende convidar duas pessoas habilitadas e contar com João Vitor como apoio e revisor previsto. A realização até 28/10/2026 e na casa de Alexandre é provisória; permanecem a confirmar horários, local, participantes e divisão final dos papéis. O registro individual e o coletivo usam os mesmos dados de perfil e de data disponíveis.
 
 ## 6. Inspeção e verificação
 
@@ -129,3 +130,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
 
 **Atualização com IA generativa em 25/10/2026 (Henrique Schneider).** O Claude (Anthropic), a pedido de Henrique Schneider, auxiliou na inclusão dos materiais de Henrique Schneider e do relatório do grupo nesta página. Não foram gerados dados de participantes, datas de sessão ou resultados.
+
+**Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.

@@ -25,6 +25,7 @@ Fonte: materiais fornecidos para esta atualização (2026). As demais contribui�
 | 25/10/2026 | 1.3 | Atualização do status dos vídeos, avaliação e relato de João Vitor | João Vitor, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider | Henrique Schneider, com apoio do Claude | Gabriel Robson |
 | 25/10/2026 | 1.5 | Registro da consolidação de Alexandre, conferência do Fluxo 5 e escopo preparatório do protótipo | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.6 | Registro do apoio e revisão previstos de João Vitor e da logística provisória do protótipo | Alexandre Vilar, com apoio do ChatGPT | — |
 
 ## 1. Introdução
 
@@ -44,7 +45,7 @@ Esta matriz acompanha os materiais incorporados à [Entrega 5](relatorio.md). As
 | Teste-piloto e ajuste de procedimento | [Registro do piloto](integrantes/alexandre-vilar/avaliacao.md#5-teste-piloto) | Gravação e verificações documentadas |
 | Análise e relato | [Relatório pós-entrevista](integrantes/alexandre-vilar/relatorio-pos-entrevista.md) | Publicado |
 | Consolidação de P2 e conferência documental do Fluxo 5 | [Relatório do grupo](relatorio-do-grupo.md) | Respostas, PS08 e PH05–PH07 incorporados; revisão por pares não registrada |
-| Preparação da avaliação do protótipo de vistoria | [Escopo de Alexandre](relatorio-do-grupo.md#382-escopo-preparatorio-do-prototipo-de-papel-alexandre-vilar) | Tarefas e materiais propostos; logística e datas a definir |
+| Preparação da avaliação do protótipo de vistoria | [Escopo de Alexandre](relatorio-do-grupo.md#382-escopo-preparatorio-do-prototipo-de-papel-alexandre-vilar) | Meta de duas pessoas e apoio de João Vitor; prazo até 28/10 e local são provisórios |
 
 Fonte: materiais desta atividade (2026).
 
@@ -86,3 +87,9 @@ Fonte: materiais fornecidos por João Vitor (2026).
 | Relatório do grupo | [Relatório do grupo](relatorio-do-grupo.md) | Publicado a partir do Google Docs (v1.8) |
 
 Fonte: materiais fornecidos por Henrique Schneider (2026). O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta seção.
+
+## Revisão prevista dos materiais de Alexandre
+
+João Vitor foi indicado por Alexandre como revisor previsto dos materiais. A revisão ainda não está registrada como realizada; por isso, os históricos não o apresentam como revisor de uma versão já conferida.
+
+**Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.

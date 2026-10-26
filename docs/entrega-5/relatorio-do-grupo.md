@@ -31,6 +31,7 @@ Fonte: elaborado pelos autores (2026), com base no histórico de versões do rel
 | 25/10/2026 | 1.9 | Consolidação de P2 e do Fluxo 5 de Alexandre, achados de vistoria e sincronização dos dados disponíveis | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.10 | Conferência final: imagem da Figura 15; número de integrantes (quatro) nas seções 1.1, 1.3 e 3.4; retirada da linha e da seção de storyboard de ex-integrante (Tabela 4 e antiga seção 1.4.4); data do teste piloto na seção 3.7; minutagens de PS02 e PS03; parágrafo da citação de 20 minutos; versão da HTA na seção 3.8.1; ausência de relator nas sessões de Henrique (seção 1.9); título da capa | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.11 | Inclusão do vídeo de apresentação da parte de Henrique Schneider (https://youtu.be/m-QXJ-4WZkI) no cronograma executado (Tabela 19) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 2.0 | Complementação dos dados das sessões de Alexandre, limitações do piloto e planejamento provisório até 28/10 | Alexandre Vilar, com apoio do ChatGPT | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -117,13 +118,13 @@ Os avaliadores foram os quatro integrantes do Grupo 03. Os participantes foram r
 | Código | Faixa etária | Perfil de usuário | Experiência com o portal | Storyboard avaliado | Data | Modalidade |
 | --- | --- | --- | --- | --- | --- | --- |
 | P1 | 18 | Candidato a habilitação | Básica | João Vitor | 24/10/2026 | Biometria |
-| P2 | 21 | Condutor habilitado | Básica | Alexandre Vilar – vistoria para transferência de propriedade | 25/10/2026 | Não informada; serviço avaliado: vistoria veicular |
+| P2 | 21 | Condutor habilitado e condutor ativo, sem experiência prévia com a tarefa de vistoria investigada | Básica | Alexandre Vilar – vistoria para transferência de propriedade | 25/10/2026 | Presencial, casa de Alexandre; vistoria veicular |
 | P3 | 22 | Condutora habilitada em 2026; o agendamento da prova teórica foi feito pela autoescola | Usa o gov.br para consultar resultados e o considera confuso | Henrique Schneider | 25/10/2026 | Remota (Microsoft Teams) – Prova teórica |
 | P4 | 57 | Condutor habilitado há 39 anos; disse ter agendado pelo site, mas não se lembra do processo | Prefere os aplicativos no celular, também para o Detran; conta gov.br de nível ouro | Henrique Schneider | 25/10/2026 | Remota (Microsoft Teams) – Prova teórica |
 
 Fonte: Elaborado pelos autores (2026).
 
-**Correspondência dos códigos de Alexandre:** o participante P2 deste relatório é identificado como P01 no relato individual e na análise da entrevista de Alexandre. Trata-se da mesma sessão, vinculada ao vídeo U1eg2EeanWg. Idade, perfil, experiência básica e data foram registrados na Tabela 4 do relatório coletivo; a transcrição foi utilizada para analisar as respostas. Não foram informados local, modalidade ou forma de recrutamento dessa sessão. Os dados do piloto permanecem separados.
+**Correspondência dos códigos de Alexandre:** o participante P2 deste relatório é identificado como P01 no relato individual e na análise da entrevista de Alexandre. Trata-se da mesma sessão, vinculada ao vídeo U1eg2EeanWg. Idade, perfil, experiência básica e data foram registrados na Tabela 4 do relatório coletivo; a transcrição foi utilizada para analisar as respostas. Alexandre confirmou que a sessão foi presencial em sua casa, com duração aproximada de 10 minutos; P2 é um amigo habilitado e condutor convidado pessoalmente. O piloto foi feito em 24/10/2026, no mesmo local, com outra pessoa (PP01), que colaborou na preparação do material. Os dados das duas sessões permanecem separados.
 
 ### 1.4. Storyboards Avaliados e Relação com a Análise de Tarefas
 
@@ -298,7 +299,9 @@ Fonte: Elaborado pelos autores (2026).
 - **Sessão de P3 (storyboard de Henrique Schneider):** o arquivo enviado à participante antes da sessão não era o storyboard, que foi mostrado por compartilhamento de tela a partir de 12:39; desde cerca de 13:30, a página de apoio ao entrevistador, com as perguntas do roteiro, ficou visível junto com o storyboard. Além disso, P3 já é habilitada e não fez o agendamento sozinha, então suas respostas sobre o processo atual são relatos indiretos.
 - **Sessão de P4 (storyboard de Henrique Schneider):** o participante, habilitado há 39 anos, está fora do perfil “Candidato à habilitação” e não se lembrava do agendamento; por isso, o entrevistador descreveu o fluxo atual antes das perguntas do Bloco 1 (3:33–4:13). Na pergunta P9, a proposta foi descrita como pagamento depois da prova, e não como no storyboard, em que o pagamento ocorre durante a reserva, antes da prova (12:59–13:47); as respostas sobre o prazo foram consideradas apenas quanto à duração da reserva. Nas duas sessões de Henrique Schneider não houve relator: o registro foi feito pela gravação e pela transcrição automática do Teams.
 
-- **Sessão de P2 (Alexandre):** um participante, roteiro apoiado em transcrição automática e respostas parcialmente conduzidas por sondagens (4:45–5:34, 6:50–6:54 e 8:25–8:32). A navegação prévia é mencionada, mas não foram reconstruídos todos os cliques. Os dados sustentam preferência e utilidade percebida, não redução de tempo, execução integral do redesign ou validação de todos os seus controles. A data e o perfil vêm do registro coletivo; local e recrutamento permanecem sem informação.
+- **Sessão de P2 (Alexandre):** um participante, roteiro apoiado em transcrição automática e respostas parcialmente conduzidas por sondagens (4:45–5:34, 6:50–6:54 e 8:25–8:32). A navegação prévia é mencionada, mas não foram reconstruídos todos os cliques. Os dados sustentam preferência e utilidade percebida, não redução de tempo, execução integral do redesign ou validação de todos os seus controles. A data e o perfil constam do registro coletivo, complementados pelo autor: sessão presencial em sua casa, aproximadamente 10 minutos, amigo convidado pessoalmente e sem experiência prévia com a tarefa investigada. O recrutamento por conveniência é uma limitação adicional.
+
+- **Piloto de Alexandre:** em 24/10/2026, na casa do autor, com PP01, pessoa diferente de P2 e envolvida na preparação. O objetivo técnico era verificar enquadramento e áudio. O participante do piloto ajudou na preparação do material. Isso diverge da recomendação de utilizar alguém que não tenha participado do planejamento e da preparação da avaliação (Barbosa et al., 2021, p. 260). O ensaio serviu à verificação técnica e à fluidez da condução; não constitui uma verificação independente da compreensão por um usuário não envolvido. Suas respostas não integram os resultados definitivos. O autor relata que desligou o ventilador, colocou o celular na horizontal e ajustou a abordagem de algumas perguntas.
 
 ## 2. Relato dos Resultados da Avaliação da Análise de Tarefas (HTA)
 
@@ -573,12 +576,16 @@ A preparação da parte de Alexandre utiliza o [HTA do redesign de vistoria](int
 
 Fonte: proposta de preparação derivada do HTA e de PS08. Não descreve um protótipo já construído nem ações que P2 tenha executado.
 
-O público de referência é o perfil **condutor habilitado**. A quantidade de participantes, a justificativa do tamanho da amostra, o recrutamento e os nomes de quem simulará o sistema e observará a sessão precisam ser definidos pelo responsável. O piloto deverá preceder as sessões, e suas respostas não integrarão o relato definitivo. Datas, horários, local/modalidade, tempo estimado das tarefas e recursos de registro ainda não foram informados para a parte de Alexandre.
+O público de referência é o perfil **condutor habilitado**. Alexandre informou uma **meta provisória de dois participantes habilitados**, considerando convidar novamente P2, que já conhece o storyboard. Essa é uma avaliação exploratória com amostra pequena; o retorno de P2 será identificado para distinguir familiaridade prévia de compreensão do novo protótipo. Os participantes definitivos e a forma final de convite ainda serão confirmados.
+
+O autor pretende realizar o piloto e as sessões **até 28/10/2026, possivelmente em sua casa**. Local e prazo são provisórios; data e horários exatos ainda não foram definidos. O piloto do protótipo deverá ocorrer antes da primeira sessão, com alguém que não tenha colaborado no planejamento e na preparação dessa nova avaliação, e não reaproveitará como evidência de validação o piloto do storyboard de 24/10.
+
+**Apoio e revisão:** João Vitor dará apoio e foi indicado como revisor previsto. A distribuição de papéis proposta é Alexandre como “computador”, simulando as telas, e João Vitor como observador responsável pelas anotações; a divisão deverá ser confirmada antes das sessões. Não há revisão concluída registrada. Permanecem a definir o tempo estimado das tarefas e os recursos específicos de registro do protótipo.
 
 | Atividade de Alexandre | Base disponível | Situação |
 | --- | --- | --- |
 | Preparar as telas e partes móveis | Objetivos 1–5 do redesign e cenários acima | Escopo definido; construção não comprovada |
-| Definir participantes, papéis e logística | Perfil condutor habilitado | Quantidade, recrutamento, avaliadores e datas a definir |
+| Definir participantes, papéis e logística | Meta provisória de duas pessoas habilitadas; possível retorno de P2; apoio de João Vitor | Até 28/10/2026 e casa de Alexandre são previsões provisórias; confirmar participantes, horários, local e papéis |
 | Ensaiar a avaliação | Método coletivo e roteiro a adaptar ao protótipo | Piloto futuro a planejar; não é o piloto do storyboard já realizado |
 | Realizar as sessões e registrar os achados | Cenários e critérios de compreensão/execução | Sem datas ou registros de execução disponíveis |
 
@@ -643,13 +650,13 @@ Cada integrante acrescenta à Tabela 19 as tarefas e as datas do seu relato. As 
 
 Fonte: Elaborado pelos autores (2026).
 
-**Parte de Alexandre Vilar:** o relato do protótipo utilizará a estrutura da seção 4.1 e os modelos das Tabelas 17 e 18, separando problemas corrigidos entre sessões dos que permanecerem. As evidências serão vinculadas às telas, às tarefas e aos códigos dos participantes. O registro de planejamento disponível não define datas para Alexandre; as etapas abaixo não são apresentadas como executadas.
+**Parte de Alexandre Vilar:** o relato do protótipo utilizará a estrutura da seção 4.1 e os modelos das Tabelas 17 e 18, separando problemas corrigidos entre sessões dos que permanecerem. As evidências serão vinculadas às telas, às tarefas e aos códigos dos participantes. O autor prevê provisoriamente realizar as sessões até 28/10/2026; não definiu as datas da análise, da redação e da publicação do relato. João Vitor foi indicado como revisor previsto. As etapas abaixo não são apresentadas como executadas.
 
 | Tarefa | Integrante | Início | Fim |
 | --- | --- | --- | --- |
 | Consolidar problemas por tela e tarefa após as sessões | Alexandre Vilar | A definir | A definir |
 | Interpretar resultados e redigir o relato | Alexandre Vilar | A definir | A definir |
-| Realizar revisão cruzada | Alexandre Vilar e revisor a definir | A definir | A definir |
+| Realizar revisão cruzada | Alexandre Vilar e João Vitor (revisor previsto) | A definir | A definir |
 | Publicar o relato e registrar a versão | Alexandre Vilar | A definir | A definir |
 
 Fonte: etapas derivadas da estrutura coletiva do relato; datas dependem da definição das sessões futuras.
@@ -671,8 +678,8 @@ A Tabela 20 registra as atividades realmente executadas nesta entrega, com o res
 | Planejamento do relato do protótipo de papel | Henrique Schneider | 25/10/2026 | 25/10/2026 | Concluído (Henrique) |
 | Gravação do vídeo de apresentação | Henrique Schneider | 25/10/2026 | 25/10/2026 | Concluída (Henrique: [https://youtu.be/m-QXJ-4WZkI](https://youtu.be/m-QXJ-4WZkI)) |
 | Publicação no GitHub Pages | — | — | — | — |
-| Sessão de avaliação de vistoria | Alexandre Vilar | 25/10/2026 | 25/10/2026 | Realizada com P2, conforme o registro da Tabela 4 e a gravação |
-| Registro do teste-piloto e análise de seu procedimento | Alexandre Vilar | Não informado (sessão) | 25/10/2026 (registro) | Gravação e análise operacional publicadas; data da sessão do piloto a confirmar |
+| Sessão de avaliação de vistoria | Alexandre Vilar | 25/10/2026 | 25/10/2026 | Presencial em sua casa, com P2 convidado pessoalmente; aproximadamente 10 minutos, conforme esclarecimento do autor |
+| Teste-piloto do storyboard | Alexandre Vilar | 24/10/2026 | 24/10/2026 | Presencial em sua casa, com PP01, diferente de P2 e envolvido na preparação; finalidade técnica e limitação de independência registradas |
 | Conclusão do relato individual e publicação dos resultados de vistoria | Alexandre Vilar | Não informado (início) | 25/10/2026 (registro) | Relato publicado; data de registro conforme histórico da página individual |
 | Consolidação da participação de vistoria no relatório coletivo | Alexandre Vilar, com apoio do ChatGPT | 25/10/2026 | 25/10/2026 | Resultados de P2 e conferência do Fluxo 5 incorporados nesta versão |
 
@@ -755,3 +762,5 @@ SNYDER, Carolyn. **Paper prototyping**: the fast and easy way to design and refi
 
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para converter o relatório da Entrega 5 (Google Docs) em página do site, no formato das demais páginas: tabela de contribuição, histórico de versões, numeração das tabelas renumeradas a partir da Tabela 3 e fotos dos trechos citados, recortadas das páginas do livro. O texto do relatório não foi alterado; as linhas de tabelas sem dados de quem não faz mais parte da equipe ou de participantes não ouvidos foram omitidas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026a, p. 3).
+
+**Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
