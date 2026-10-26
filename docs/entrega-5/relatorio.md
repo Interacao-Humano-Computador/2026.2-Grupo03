@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro fundamentado, registros do piloto e da entrevista e relato individual dos resultados, com apoio de IA | [Material individual](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
 | Gabriel Robson Nunes Neiva da Silva | Material a incorporar nesta seção | — | — |
-| Henrique Schneider Fernandes da Rosa | Material a incorporar nesta seção | — | — |
+| Henrique Schneider Fernandes da Rosa | Storyboard, HTA, roteiro, entrevistas com P1 e P2, relato individual dos resultados, planejamento individual do protótipo de papel e relatório do grupo, com apoio de IA | [Material individual](integrantes/henrique-schneider/index.md) | [Vídeos](integrantes/henrique-schneider/video-entrevista.md) |
 | João Vitor Tavares de Sá Lima | HTAs de agendamento e gerenciamento de biometria, storyboard, roteiro, avaliação e relato dos resultados | [Material individual](integrantes/joao-vitor/index.md) | [Vídeos](integrantes/joao-vitor/video-entrevista.md) |
 
 Fonte: materiais disponibilizados para esta organização (2026). A tabela não representa um balanço final das contribuições do grupo.
@@ -24,6 +24,7 @@ Fonte: materiais disponibilizados para esta organização (2026). A tabela não 
 
 | 25/10/2026 | 1.2 | Inclusão do relato e do registro do piloto; atualização dos materiais e situações de Alexandre | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.3 | Inclusão dos materiais de João Vitor e atualização da situação da entrega | João Vitor, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider e do relatório do grupo (Google Docs, v1.8) | Henrique Schneider, com apoio do Claude | Gabriel Robson |
 Fonte: histórico da página e registro desta atualização (2026).
 
 ## 1. Identificação
@@ -37,7 +38,7 @@ Fonte: histórico da página e registro desta atualização (2026).
 | Prazo previsto no Plano de Ensino | 25/10/2026 |
 | Inspeção prevista no Plano de Ensino | 26/10/2026 – Grupo +1; registro ainda não incorporado |
 | Apresentação prevista no Plano de Ensino | 27/10/2026 |
-| Situação desta versão | Materiais e resultados de Alexandre publicados; materiais, gravações e relato individual de João Vitor publicados |
+| Situação desta versão | Materiais e resultados de Alexandre publicados; materiais, gravações e relato individual de João Vitor publicados; materiais e relato individual de Henrique Schneider e relatório do grupo publicados |
 
 Fonte: [Plano de Ensino](../disciplina/plano-de-ensino.md) e materiais desta atividade (2026). As datas previstas não comprovam a realização das atividades.
 
@@ -59,13 +60,15 @@ O [planejamento da Entrega 4](../entrega-4/relatorio.md) é a referência da eta
 | --- | --- | --- |
 | Materiais de Alexandre | [Visão geral](integrantes/alexandre-vilar/index.md) | Organizados |
 | Materiais de João Vitor | [Visão geral](integrantes/joao-vitor/index.md) | HTAs, storyboard, roteiro, avaliação, gravações e relato publicados |
+| Materiais de Henrique Schneider | [Visão geral](integrantes/henrique-schneider/index.md) | Storyboard, HTA, roteiro, vídeos, transcrições, relato e planejamento do protótipo de papel publicados |
+| Relatório do grupo | [Relatório do grupo](relatorio-do-grupo.md) | Publicado a partir do Google Docs (v1.8) |
 | HTA do processo atual | [HTA atual](integrantes/alexandre-vilar/hta-atual.md) | Avaliação exploratória registrada; validação parcial |
 | Storyboard | [Storyboard](integrantes/alexandre-vilar/storyboard.md) | Narrativa e imagem publicadas |
 | Proposta de redesign | [HTA do redesign](integrantes/alexandre-vilar/hta-redesign.md) | Proposta detalhada; PDF disponível |
 | Roteiro e fundamentação | [Perguntas e fontes](integrantes/alexandre-vilar/roteiro-entrevista.md) | Perguntas, fontes, prints e PDF publicados |
 | Vídeo da entrevista | [Vídeo da entrevista](integrantes/alexandre-vilar/video-entrevista.md) | Publicado |
 | Relato da avaliação do storyboard e da HTA | [Relatório pós-entrevista](integrantes/alexandre-vilar/relatorio-pos-entrevista.md) | Publicado |
-| Planejamento da avaliação e do relato do protótipo de papel | A incorporar pelos responsáveis | Conteúdo ainda não incorporado nesta seção |
+| Planejamento da avaliação e do relato do protótipo de papel | [Relatório do grupo, capítulos 3 e 4](relatorio-do-grupo.md#3-planejamento-da-avaliacao-do-prototipo-de-papel-framework-decide) | Planejamento coletivo e parte de Henrique Schneider publicados |
 | Matriz de contribuição | [Contribuições](contribuicoes.md) | Materiais desta versão |
 
 Fonte: materiais disponibilizados nesta atividade (2026).
@@ -99,6 +102,12 @@ O material individual de João Vitor aborda **agendamento e gerenciamento de bio
 
 A gravação definitiva está publicada e o [relatório pós-entrevista](integrantes/joao-vitor/relatorio-pos-entrevista.md) consolida os resultados a partir do registro resumido das respostas fornecido pelo entrevistador. O relatório distingue evidências resumidas de interpretações e não apresenta falas literais ou horários não verificados.
 
+### 5.5 Material de Henrique Schneider
+
+O material individual de Henrique Schneider aborda o **agendamento da prova teórica da primeira habilitação** (Fluxo 3 da HTA, persona Camila). O [storyboard](integrantes/henrique-schneider/storyboard.md) e a [HTA](integrantes/henrique-schneider/hta.md) apresentam a proposta de reservar o horário antes do pagamento e confirmar a prova quando o PIX compensa. O [roteiro](integrantes/henrique-schneider/roteiro-entrevista.md) foi testado em um piloto em 24/10/2026, e as duas entrevistas, com P1 e P2, foram realizadas em 25/10/2026 ([vídeos e transcrições](integrantes/henrique-schneider/video-entrevista.md)).
+
+O [relato dos resultados](integrantes/henrique-schneider/relatorio-pos-entrevista.md) registra sete problemas, com severidade, e o planejamento do reprojeto. O [planejamento individual do protótipo de papel](integrantes/henrique-schneider/prototipo-papel.md) corresponde à seção 3.8.1 do [relatório do grupo](relatorio-do-grupo.md).
+
 ## 6. Inspeção e verificação
 
 O registro da inspeção da Entrega 5 e as listas específicas serão incorporados quando disponibilizados pelo grupo. Nenhuma inspeção é apresentada como concluída nesta versão.
@@ -114,3 +123,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de Alexandre Vilar, para apoiar a organização do conteúdo, a redação das páginas, a estruturação dos HTAs e a adaptação das perguntas do livro. O storyboard foi desenhado por Alexandre e mantido na versão fornecida. Não foram gerados dados de participantes, resultados ou registros de entrevistas. A responsabilidade pelo conteúdo e pela revisão é dos autores.
 
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
+
+**Atualização com IA generativa em 25/10/2026 (Henrique Schneider).** O Claude (Anthropic), a pedido de Henrique Schneider, auxiliou na inclusão dos materiais de Henrique Schneider e do relatório do grupo nesta página. Não foram gerados dados de participantes, datas de sessão ou resultados.

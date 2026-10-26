@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro, registros do piloto e da entrevista e relato dos resultados; apoio de IA na organização e análise | [Visão geral](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
 | Gabriel Robson Nunes Neiva da Silva | Proposta de renovação guiada da CNH: HTAs, roteiro textual de storyboard, roteiro de entrevista e protótipo demonstrativo; avaliação pendente | [Visão geral](integrantes/gabriel-robson/index.md) | Não realizada |
-| Henrique Schneider Fernandes da Rosa | Material a incorporar nesta seção | — | — |
+| Henrique Schneider Fernandes da Rosa | Storyboard, HTA, roteiro, entrevistas com P1 e P2, relato dos resultados, planejamento individual do protótipo de papel e relatório do grupo; apoio de IA na organização e análise | [Visão geral](integrantes/henrique-schneider/index.md) | [Vídeos](integrantes/henrique-schneider/video-entrevista.md) |
 | João Vitor Tavares de Sá Lima | HTAs de biometria, storyboard, roteiro, avaliação e relato dos resultados; gravações publicadas | [Visão geral](integrantes/joao-vitor/index.md) | [Vídeos](integrantes/joao-vitor/video-entrevista.md) |
 
 Fonte: materiais fornecidos para esta atualização (2026). As demais contribuições devem ser registradas com as respectivas evidências quando incorporadas.
@@ -22,6 +22,7 @@ Fonte: materiais fornecidos para esta atualização (2026). As demais contribui�
 | 25/10/2026 | 1.0 | Organização dos materiais disponíveis de Alexandre | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.2 | Inclusão dos materiais de João Vitor | João Vitor, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.3 | Atualização do status dos vídeos, avaliação e relato de João Vitor | João Vitor, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider | Henrique Schneider, com apoio do Claude | Gabriel Robson |
 
 ## 1. Introdução
 
@@ -66,3 +67,19 @@ Fonte: materiais desta atividade (2026).
 | Relato dos resultados | [Relatório pós-entrevista](integrantes/joao-vitor/relatorio-pos-entrevista.md) | Resultados consolidados a partir do registro resumido da entrevista |
 
 Fonte: materiais fornecidos por João Vitor (2026).
+
+## 4. Materiais de Henrique Schneider
+
+**Tabela 5 – Evidências dos materiais individuais de Henrique Schneider**
+
+| Atividade | Evidência | Situação |
+| --- | --- | --- |
+| Elaboração da narrativa | [Storyboard](integrantes/henrique-schneider/storyboard.md) | Publicado |
+| Modelagem da tarefa | [HTA](integrantes/henrique-schneider/hta.md) | Publicada (v1.2) |
+| Preparação da entrevista e teste-piloto | [Roteiro](integrantes/henrique-schneider/roteiro-entrevista.md) | Publicado (v1.2); piloto em 24/10/2026 |
+| Gravação e transcrição | [Vídeos](integrantes/henrique-schneider/video-entrevista.md) | Gravações e transcrições anonimizadas de P1 e P2 publicadas |
+| Relato dos resultados | [Relatório pós-entrevista](integrantes/henrique-schneider/relatorio-pos-entrevista.md) | Publicado (v3.1) |
+| Planejamento do protótipo de papel | [Protótipo de papel](integrantes/henrique-schneider/prototipo-papel.md) | Publicado |
+| Relatório do grupo | [Relatório do grupo](relatorio-do-grupo.md) | Publicado a partir do Google Docs (v1.8) |
+
+Fonte: materiais fornecidos por Henrique Schneider (2026). O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta seção.
