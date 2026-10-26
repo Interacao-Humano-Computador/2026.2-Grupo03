@@ -17,8 +17,8 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Reserva do espaço para inclusão posterior do relatório | Alexandre Vilar, com apoio do ChatGPT | — |
-
 | 25/10/2026 | 1.1 | Publicação da análise das dez questões, evidências, limitações e encaminhamentos | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
 Fonte: registro desta versão (2026).
 
 ## 1. Identificação e objetivo
@@ -31,9 +31,10 @@ Objetivo: analisar as dificuldades relatadas na busca de orientações para vist
 | --- | --- |
 | Fonte | [Gravação da entrevista](https://www.youtube.com/watch?v=U1eg2EeanWg) |
 | Duração da gravação | 8 minutos e 58 segundos; duração exibida pelo player |
-| Participação analisada | Um entrevistador e um participante, identificado neste relato como P01 |
-| Perfil disponível | O entrevistador informa que P01 já havia navegado no portal; a conversa aborda essa experiência. Idade, ocupação, experiência prévia com vistoria e critérios de recrutamento não são informados. |
-| Data e modalidade da sessão | Data, local e modalidade não informados na transcrição; confirmação pendente do responsável. |
+| Participação analisada | Um entrevistador e um participante: P01 neste relato, correspondente a P2 no relatório coletivo (mesma gravação) |
+| Perfil disponível | Segundo a Tabela 4 do relatório coletivo: 21 anos, condutor habilitado, experiência básica no portal. A abertura menciona navegação prévia. Ocupação, experiência prévia com vistoria e recrutamento não foram informados. |
+| Data da sessão | 25/10/2026, conforme o registro da Tabela 4 do relatório coletivo. A transcrição não informa a data. |
+| Local e modalidade | Não informados; confirmação pendente. |
 | Data deste relatório | 25/10/2026; não corresponde necessariamente à data da sessão. |
 
 ## 2. Método e procedimento registrado
@@ -147,10 +148,12 @@ As evidências justificam investigar melhorias na visibilidade e na organizaçã
 
 ## Referências
 
-GRAVAÇÃO DA ENTREVISTA. Proposta de agendamento de vistoria do Detran-DF. YouTube, vídeo U1eg2EeanWg, duração exibida de 8min58s. Disponível em: [YouTube](https://www.youtube.com/watch?v=U1eg2EeanWg). Data da sessão não informada na transcrição.
+GRAVAÇÃO DA ENTREVISTA. Proposta de agendamento de vistoria do Detran-DF. YouTube, vídeo U1eg2EeanWg, duração exibida de 8min58s. Disponível em: [YouTube](https://www.youtube.com/watch?v=U1eg2EeanWg). Data da sessão: 25/10/2026, conforme o relatório coletivo; não informada na transcrição.
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. Interação Humano-Computador e Experiência do Usuário. 2021. Seções 11.7.4 e 11.7.5, pp. 262-263; seção 11.8, p. 264.
 
+
+Os resultados foram incorporados ao [relatório coletivo](../../relatorio-do-grupo.md), com a equivalência P01/P2 e a identificação do Fluxo 5. PS08 propõe severidade 3 para a dificuldade de localização, como julgamento exploratório a revisar. PH05–PH07 registram lacunas do modelo; não são apresentados como correções já feitas nos diagramas.
 
 ## 8. Encaminhamento das recomendações
 

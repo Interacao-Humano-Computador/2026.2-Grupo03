@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | Material de vistoria veicular citado no relatório (participante P2 e storyboard da seção 1.4.2) | [Material de Alexandre Vilar](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
+| Alexandre Vilar Valadares Fonsêca | Resultados de P2, storyboard de vistoria, Fluxo 5 da HTA, problemas e recomendações; consolidação dos dados disponíveis e escopo do planejamento do protótipo, com apoio de IA | [Material individual](integrantes/alexandre-vilar/index.md); [relato](integrantes/alexandre-vilar/relatorio-pos-entrevista.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
 | Gabriel Robson Nunes Neiva da Silva | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Estrutura do relatório, seções coletivas, storyboard, HTA e relato do Fluxo 3 (P3 e P4), parte individual do planejamento do protótipo de papel e cronograma executado | [Material de Henrique Schneider](integrantes/henrique-schneider/index.md) | [Entrevista com P3](https://youtu.be/TTIRe6Id010); [Entrevista com P4](https://youtu.be/4wEvZ1Okwwk) |
 | João Vitor Tavares de Sá Lima | Resultados da avaliação do storyboard de biometria e atualização do Fluxo 4 da HTA (versão 1.4) | [Material de João Vitor](integrantes/joao-vitor/index.md) | [Vídeos](integrantes/joao-vitor/video-entrevista.md) |
@@ -23,11 +23,12 @@ Fonte: elaborado pelos autores (2026), com base no histórico de versões do rel
 | 22/10/2026 | 1.1 | Formatação no padrão dos relatórios anteriores: fonte Arial, estilos dos títulos, quebra de página antes de cada capítulo e rodapé da disciplina | Claude (IA generativa), a pedido de Henrique Schneider | Grupo 03 |
 | 22/10/2026 | 1.2 | Redação das seções coletivas, tabelas-modelo, citações com capítulo, página e parágrafo, e referências; seções individuais marcadas para preenchimento | Claude (IA generativa), a pedido de Henrique Schneider | Grupo 03 |
 | 22/10/2026 | 1.3 | Inserção das imagens dos trechos citados (Figuras 1 a 15) no lugar dos marcadores, a partir de recortes das páginas das fontes | Claude (IA generativa), a pedido de Henrique Schneider | Grupo 03 |
-| 25/10/2026 | 1.4 | Inclusão dos resultados da avaliação do storyboard de biometria e atualização do Fluxo 4 da HTA, com sumário dos dados, análise, problemas encontrados e recomendações para o reprojeto.  | João Vitor Tavares  | Grupo 03 |
+| 25/10/2026 | 1.4 | Inclusão dos resultados da avaliação do storyboard de biometria e atualização do Fluxo 4 da HTA, com sumário dos dados, análise, problemas encontrados e recomendações para o reprojeto. | João Vitor Tavares | Grupo 03 |
 | 25/10/2026 | 1.5 | Preenchimento da parte de Henrique Schneider no planejamento da avaliação do protótipo de papel: seção 3.8.1 (telas, partes móveis, tarefas, participantes, recrutamento, avaliadores, teste piloto e registro, com item de conteúdo e Figura 15), linhas das Tabelas 15 e 18 e texto da seção 4.4; inclusão da referência de Nielsen (2000); renumeração da antiga Figura 15 para Figura 16 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.6 | Inclusão dos resultados da avaliação do storyboard de Henrique Schneider com a participante P3 (25/10/2026): seção 1.4.1, linha P3 da Tabela 3, coluna P3 da Tabela 5, problemas PS02 a PS05 nas Tabelas 7 e 8, Fluxo 3 nas Tabelas 11 e 12 e limitação da sessão na seção 1.9 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.7 | Conclusão da parte de Henrique Schneider: interpretação de P3 (seção 1.6), verificação e análise do Fluxo 3 (Tabela 11, PH03 na Tabela 12, seções 2.5 e 2.7), atividades de Henrique no cronograma executado (Tabela 19), ferramentas e referências dos documentos individuais; revisor Gabriel Robson nas versões 1.5 e 1.6 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.8 | Inclusão da segunda sessão de Henrique Schneider (P4), link da gravação de P4, retirada dos textos de instrução e publicação do relatório no GitHub Pages | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.9 | Consolidação de P2 e do Fluxo 5 de Alexandre, achados de vistoria e sincronização dos dados disponíveis | Alexandre Vilar, com apoio do ChatGPT | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -114,11 +115,13 @@ Os avaliadores foram os cinco integrantes do Grupo 03. Os participantes foram re
 | Código | Faixa etária | Perfil de usuário | Experiência com o portal | Storyboard avaliado | Data | Modalidade |
 | --- | --- | --- | --- | --- | --- | --- |
 | P1 | 18 | Candidato a habilitação | Básica | João Vitor | 24/10/2026 | Biometria |
-| P2 | 21 | Condutor habilitado | Básica | Alexandre Vilar | 25/10/2026 | Vistoria veicular |
+| P2 | 21 | Condutor habilitado | Básica | Alexandre Vilar – vistoria para transferência de propriedade | 25/10/2026 | Não informada; serviço avaliado: vistoria veicular |
 | P3 | 22 | Condutora habilitada em 2026; o agendamento da prova teórica foi feito pela autoescola | Usa o gov.br para consultar resultados e o considera confuso | Henrique Schneider | 25/10/2026 | Remota (Microsoft Teams) – Prova teórica |
 | P4 | 57 | Condutor habilitado há 39 anos; disse ter agendado pelo site, mas não se lembra do processo | Prefere os aplicativos no celular, também para o Detran; conta gov.br de nível ouro | Henrique Schneider | 25/10/2026 | Remota (Microsoft Teams) – Prova teórica |
 
 Fonte: Elaborado pelos autores (2026).
+
+**Correspondência dos códigos de Alexandre:** o participante P2 deste relatório é identificado como P01 no relato individual e na análise da entrevista de Alexandre. Trata-se da mesma sessão, vinculada ao vídeo U1eg2EeanWg. Idade, perfil, experiência básica e data foram registrados na Tabela 4 do relatório coletivo; a transcrição foi utilizada para analisar as respostas. Não foram informados local, modalidade ou forma de recrutamento dessa sessão. Os dados do piloto permanecem separados.
 
 ### 1.4. Storyboards Avaliados e Relação com a Análise de Tarefas
 
@@ -134,7 +137,7 @@ Fonte: PREECE; ROGERS; SHARP (2005, p. 263).
 
 | Integrante | Tarefa representada | Fluxo da HTA | Persona |
 | --- | --- | --- | --- |
-| Alexandre Vilar | — | — | — |
+| Alexandre Vilar | Obter orientações e escolher empresa para vistoria de transferência de propriedade; proposta de agendamento por local, data e horário | [Fluxo 5 – HTA atual](integrantes/alexandre-vilar/hta-atual.md) e [redesign proposto](integrantes/alexandre-vilar/hta-redesign.md) | Perfil condutor habilitado, associado à proto-persona João Paulo na Entrega 2; identificação direta de P2 com a persona não foi investigada |
 | Gabriel Robson | — | — | — |
 | Henrique Schneider | Agendar a prova teórica da primeira habilitação no portal do Detran-DF | Fluxo 3 (criado nesta entrega) | Camila |
 | João Vitor | Agendar a biometria presencial no portal do Detran-DF | Fluxo 4 | Carlos |
@@ -173,6 +176,10 @@ O storyboard foi avaliado com a participante P3 em 25/10/2026, em sessão remota
 
 ![Storyboard da proposta de agendamento de vistoria, de Alexandre Vilar](integrantes/alexandre-vilar/arquivos/storyboard-alexandre.jpeg)
 
+Na sessão de 25/10/2026, P2 relatou dificuldade para localizar orientações e uma empresa credenciada (1:58–3:26). Reconheceu o caminho geral do HTA, mas o percebeu como complexo (4:04–5:34), e considerou a proposta do storyboard mais direta e fácil de aprender (5:36–8:21). Manifestou preferência pela proposta (8:22–8:53). As respostas não demonstram a execução de um agendamento nem a compreensão detalhada de todos os controles. O [relato individual](integrantes/alexandre-vilar/relatorio-pos-entrevista.md) apresenta a análise de Q01 a Q10, evidências e limitações.
+
+**Relação dos quadros com o HTA:** os quadros iniciais estabelecem a necessidade de vistoria e a dificuldade de obter orientações (HTA atual, tarefas 1 a 3); os quadros em que a companheira apresenta o serviço e a escolha de local/horário correspondem conceitualmente às tarefas 1 e 3 do redesign; o quadro final expressa o resultado pretendido. A história não detalha o preenchimento dos dados, a revisão ou a emissão do comprovante (tarefas 2, 4 e 5 do redesign), que continuam a avaliar em um protótipo. Não se atribui ao desenho a representação de telas que não aparecem nele.
+
 #### 1.4.3. Storyboard — João Vitor Tavares
 
 ![Storyboard da proposta de reagendamento de biometria, de João Vitor](integrantes/joao-vitor/arquivos/storyboard-joao-vitor.png)
@@ -187,10 +194,10 @@ Os dados coletados são qualitativos: respostas, comentários e reações dos pa
 
 | Questão de avaliação | P1 | P2 | P3 | P4 | Recorrência |
 | --- | --- | --- | --- | --- | --- |
-| Fidelidade à realidade | o participante já havia realizado um agendamento antes e teve que enfrentar imprevistos.  | — | Considerou a sequência dos quadros correta, mas na experiência dela o agendamento foi feito pela autoescola e o pagamento pelos pais; houve espera de quase um mês e no máximo duas opções de data (4:44–5:53; 12:57–15:25). | Os quadros “parecem com a vida real”, sem passo faltando ou sobrando (7:19–7:38); lembra pouco do agendamento, feito pelo site em minutos e com muitas opções de data e hora (3:16–5:35). | — |
-| Clareza na interação | O participante compreendeu a proposta apresentada e considerou o fluxo do storyboard mais prático do que o processo atual | — | Descreveu com as próprias palavras os oito quadros e disse que nenhum quadro foi menos claro (16:09–18:24). | O quadro 2 foi o menos claro: no gov.br, o serviço “Habilitação” não aparece de início, exige busca e o termo é genérico (7:59–10:53). | — |
-| Alinhamento com as personas | o incômodo com a repetição do processo são compatíveis com as personas. | — | A pressa da Camila fez sentido para ela; a diferença é que Camila age sozinha, enquanto ela dependeu da autoescola e dos pais por achar o gov.br confuso e ter pouco tempo (18:39–19:28). | Não se identificou com Camila: o caminho do storyboard é “muito simples”, especialmente no quadro 2 (11:24); está fora do perfil “Candidato à habilitação”. | — |
-| Coerência de metas | O participante compreendeu que a proposta busca facilitar a confirmação, o reagendamento ou o cancelamento após um imprevisto e preferiu essa alternativa. | — | Entendeu que Camila conseguiu marcar e fazer a prova de acordo com a sua rotina (19:35–19:55). | Entendeu que Camila conseguiu agendar a prova e apontou o quadro 8 em resposta a uma pergunta aberta (12:13–12:22). | — |
+| Fidelidade à realidade | o participante já havia realizado um agendamento antes e teve que enfrentar imprevistos. | Relata dificuldade para localizar a vistoria e uma empresa credenciada (1:58–3:26); reconhece correspondência geral do HTA com o caminho percebido (4:04–5:34). Não foi demonstrada conclusão da tarefa. | Considerou a sequência dos quadros correta, mas na experiência dela o agendamento foi feito pela autoescola e o pagamento pelos pais; houve espera de quase um mês e no máximo duas opções de data (4:44–5:53; 12:57–15:25). | Os quadros “parecem com a vida real”, sem passo faltando ou sobrando (7:19–7:38); lembra pouco do agendamento, feito pelo site em minutos e com muitas opções de data e hora (3:16–5:35). | — |
+| Clareza na interação | O participante compreendeu a proposta apresentada e considerou o fluxo do storyboard mais prático do que o processo atual | Compreende a oposição entre a dificuldade inicial do personagem e uma proposta mais direta (5:36–6:28). A resposta sobre local, data e horário é geral e não valida os controles (6:29–7:00). | Descreveu com as próprias palavras os oito quadros e disse que nenhum quadro foi menos claro (16:09–18:24). | O quadro 2 foi o menos claro: no gov.br, o serviço “Habilitação” não aparece de início, exige busca e o termo é genérico (7:59–10:53). | — |
+| Alinhamento com as personas | o incômodo com a repetição do processo são compatíveis com as personas. | A Tabela 4 o classifica como condutor habilitado com experiência básica no portal. Há correspondência de perfil com João Paulo, mas a identificação com a persona não foi perguntada; resposta direta não disponível. | A pressa da Camila fez sentido para ela; a diferença é que Camila age sozinha, enquanto ela dependeu da autoescola e dos pais por achar o gov.br confuso e ter pouco tempo (18:39–19:28). | Não se identificou com Camila: o caminho do storyboard é “muito simples”, especialmente no quadro 2 (11:24); está fora do perfil “Candidato à habilitação”. | — |
+| Coerência de metas | O participante compreendeu que a proposta busca facilitar a confirmação, o reagendamento ou o cancelamento após um imprevisto e preferiu essa alternativa. | Espera local, data, horário, credenciamento e confirmação (3:29–4:01); acredita que a proposta facilitaria o atendimento e a prefere (7:03–8:53). Trata-se de utilidade percebida, não de sucesso medido no agendamento. | Entendeu que Camila conseguiu marcar e fazer a prova de acordo com a sua rotina (19:35–19:55). | Entendeu que Camila conseguiu agendar a prova e apontou o quadro 8 em resposta a uma pergunta aberta (12:13–12:22). | — |
 
 Fonte: Elaborado pelos autores (2026).
 
@@ -207,6 +214,10 @@ A análise ocorreu em duas etapas. Primeiro, cada integrante interpretou os dado
 Fonte: BARBOSA; SILVA (2010, pp. 311–312).
 
 **Storyboard de Henrique Schneider (P3 e P4):** os dois reconheceram a sequência dos quadros como fiel e entenderam que Camila conseguiu agendar a prova. As sessões convergem em dois pontos: o serviço de Habilitação é difícil de encontrar no gov.br (PS05) e um prazo de reserva de 3 a 5 horas é curto, devendo chegar a 24 horas (PS04). A espera, a falta de datas, os pré-requisitos desconhecidos (PS02 e PS03) e o medo de perder a vaga apareceram só com P3, que tirou a habilitação neste ano; P4, habilitado há 39 anos e fora do perfil da persona, agendou sem dificuldade, mas se lembra pouco do processo. P4 também apontou que o quadro 2 simplifica o acesso ao serviço (PS06) e que os quadros mostram só o celular (PS07). Com dois participantes de perfis diferentes, os resultados indicam tendências; as limitações das sessões estão na seção 1.9.
+
+**Storyboard de Alexandre Vilar (P2):** Q01 a Q03 indicam dificuldade relatada nas tarefas de obter orientações e escolher uma empresa. Q05 fornece reconhecimento parcial do HTA, sem nova ordem sugerida. Q06 a Q10 indicam compreensão do benefício geral e preferência pelo redesign, mas não demonstram uso de controles ou desempenho real. A relação com a persona é documental, a partir do perfil registrado, e não uma identificação expressa do participante.
+
+**Consolidação transversal de P2:** há convergência temática com os relatos de dificuldade de localizar um serviço específico no portal registrados para P1, P3 e P4. As tarefas são diferentes (vistoria, biometria e prova teórica), portanto essa convergência não representa frequência de um mesmo defeito na mesma tela nem autoriza somar as sessões como teste de um único fluxo. A gravidade e a frequência dos problemas próprios da vistoria são registradas separadamente.
 
 ### 1.7. Lista de Problemas Encontrados
 
@@ -250,8 +261,11 @@ A Tabela 8 apresenta a lista consolidada de problemas, ordenada por gravidade e 
 | PS05 | Agendamento da prova teórica (Henrique), quadro 2 | 1. Acessar o portal (1.2. Abrir “Habilitação”) | facilidade de aprendizado | P3 considera o gov.br confuso e deixou o agendamento com a autoescola e o pagamento com os pais (18:39–19:28). P4 relatou que o serviço “Habilitação” não aparece de início no gov.br, exige busca, e o termo é genérico (7:59–10:31). | 3 | 2 participantes |
 | PS06 | Agendamento da prova teórica (Henrique), quadro 2 | 1. Acessar o portal | facilidade de aprendizado | O quadro 2 mostra como simples o acesso ao serviço, que no portal real exige busca; foi o quadro menos claro para P4, que não se identificou com a persona por isso (10:53–11:24). | 2 | 1 participante |
 | PS07 | Agendamento da prova teórica (Henrique), quadros 2 a 7 | — | satisfação do usuário | Os quadros mostram só o uso pelo celular, mas P4 fez todo o processo pela web (16:16). | 1 | 1 participante |
+| PS08 | Vistoria (Alexandre), dúvida do personagem sobre onde realizar o atendimento | HTA atual: 1.3 e 3.1–3.3 | Facilidade de aprendizado; eficiência | P2 relata não localizar orientações de vistoria e uma empresa credenciada (1:58–3:26), sem alcançar esse subobjetivo na experiência relatada. Não se verificou ausência da informação em todo o portal. | 3 (proposta do avaliador) | 1 participante (P2) |
 
 Fonte: Elaborado pelos autores (2026).
+
+**Justificativa de PS08:** propõe-se grau 3 porque a dificuldade relatada impede a escolha informada do local, prejudicando um objetivo central da tarefa. Trata-se de julgamento exploratório com um participante: a repetição do relato em Q01–Q03 não aumenta a frequência para três ocorrências independentes; persistência e recorrência em outros usuários não foram medidas. A classificação deverá ser revista pelo responsável e pelos pares. A ausência de detalhe dos controles no storyboard é registrada como limite de validação, sem classificá-la como falha de uso observada.
 
 ### 1.8. Planejamento para o Reprojeto
 
@@ -268,6 +282,7 @@ Os problemas da Tabela 8 orientam o reprojeto, que será representado no protót
 | PS05 | Dar ao serviço um nome específico (por exemplo, “Habilitação – CNH”), destacá-lo entre os serviços mais acessados do gov.br, como sugeriu P4 (10:59–11:13), e mostrar no início do serviço as etapas do processo e em qual delas o candidato está. | 3 | Henrique Schneider | Sim (Telas 1 e 2) |
 | PS06 | Mostrar no quadro 2 do storyboard a busca pelo serviço no gov.br, para que o storyboard não esconda essa etapa. | 2 | Henrique Schneider | Não (alteração do storyboard, v1.1) |
 | PS07 | Indicar no storyboard que o serviço pode ser usado no celular ou no computador. | 1 | Henrique Schneider | Não (alteração do storyboard, v1.1) |
+| PS08 | Destacar a finalidade da vistoria e o acesso à relação de credenciadas; na proposta, reunir orientações e permitir escolher local, data e horário com resumo e confirmação. Verificar em protótipo a compreensão e a execução das escolhas. | 3 (proposta a revisar) | Alexandre Vilar | Prevista no escopo da seção 3.8.2; sessões ainda não realizadas |
 
 Fonte: Elaborado pelos autores (2026).
 
@@ -280,6 +295,8 @@ Fonte: Elaborado pelos autores (2026).
 - **Fontes sobre o portal:** alguns fluxos atuais do portal foram descritos com base em fontes secundárias e na experiência dos integrantes, pois certas telas exigem login gov.br.
 - **Sessão de P3 (storyboard de Henrique Schneider):** o arquivo enviado à participante antes da sessão não era o storyboard, que foi mostrado por compartilhamento de tela a partir de 12:39; desde cerca de 13:30, a página de apoio ao entrevistador, com as perguntas do roteiro, ficou visível junto com o storyboard. Além disso, P3 já é habilitada e não fez o agendamento sozinha, então suas respostas sobre o processo atual são relatos indiretos.
 - **Sessão de P4 (storyboard de Henrique Schneider):** o participante, habilitado há 39 anos, está fora do perfil “Candidato à habilitação” e não se lembrava do agendamento; por isso, o entrevistador descreveu o fluxo atual antes das perguntas do Bloco 1 (3:33–4:13). Na pergunta P9, a proposta foi descrita como pagamento depois da prova, e não como no storyboard, em que o pagamento ocorre durante a reserva, antes da prova (12:59–13:47); as respostas sobre o prazo foram consideradas apenas quanto à duração da reserva.
+
+- **Sessão de P2 (Alexandre):** um participante, roteiro apoiado em transcrição automática e respostas parcialmente conduzidas por sondagens (4:45–5:34, 6:50–6:54 e 8:25–8:32). A navegação prévia é mencionada, mas não foram reconstruídos todos os cliques. Os dados sustentam preferência e utilidade percebida, não redução de tempo, execução integral do redesign ou validação de todos os seus controles. A data e o perfil vêm do registro coletivo; local e recrutamento permanecem sem informação.
 
 ## 2. Relato dos Resultados da Avaliação da Análise de Tarefas (HTA)
 
@@ -325,7 +342,7 @@ Fonte: Elaborado pelos autores com base em Barbosa e Silva (2010, cap. 6, pp. 19
 | Fluxo 2 | Solicitar a segunda via da CNH | Entrega 2, seção 2.3.2 | — |
 | Fluxo 3 | Agendar a prova teórica da primeira habilitação | Entrega 5 (storyboard) | Henrique Schneider |
 | Fluxo 4 | Agendar Biometria no Portal Detran DF | Entrega 5 (storyboard) | João Vitor Tavares |
-| Fluxo 5 | — | — | — |
+| Fluxo 5 | Obter orientações e escolher empresa para vistoria de transferência de propriedade; redesign: agendar por local, data e horário | Entrega 5 – [HTA atual](integrantes/alexandre-vilar/hta-atual.md) e [HTA do redesign](integrantes/alexandre-vilar/hta-redesign.md) | Alexandre Vilar |
 
 Fonte: Elaborado pelos autores (2026).
 
@@ -337,15 +354,17 @@ Para cada fluxo, registrou-se o resultado de cada critério da Tabela 10 (atende
 
 | Critério | Fluxo 1 | Fluxo 2 | Fluxo 3 | Fluxo 4 | Fluxo 5 |
 | --- | --- | --- | --- | --- | --- |
-| Objetivo geral | — | — | Atende parcialmente (verificação do autor) | Atende  | — |
-| Decomposição | — | — | Atende (verificação do autor) | Atende  | — |
-| Plano | — | — | Atende (verificação do autor) | Atende  | — |
-| Tipo de plano | — | — | Atende (verificação do autor) | Atende  | — |
-| Operações | — | — | Atende (verificação do autor; corrigido na HTA v1.2) | Atende  | — |
-| Problemas e recomendações | — | — | Atende (verificação do autor) | Atende  | — |
-| Fidelidade | — | — | Atende parcialmente (P3 e P4) | Atende  | — |
+| Objetivo geral | — | — | Atende parcialmente (verificação do autor) | Atende | Atende parcialmente: ação e critério de sucesso definidos; estado final deve ser explicitado no objetivo 0 |
+| Decomposição | — | — | Atende (verificação do autor) | Atende | Atende: numeração hierárquica e operações nas folhas |
+| Plano | — | — | Atende (verificação do autor) | Atende | Atende: planos 0 a 4 no atual e 0 a 5 no redesign |
+| Tipo de plano | — | — | Atende (verificação do autor) | Atende | Atende: sequência e regras condicionais de seleção/retorno identificáveis nos planos |
+| Operações | — | — | Atende (verificação do autor; corrigido na HTA v1.2) | Atende | Atende parcialmente: ações identificáveis; entradas e feedback não especificados em cada operação |
+| Problemas e recomendações | — | — | Atende (verificação do autor) | Atende | Atende parcialmente: achados vinculados a subobjetivos nesta consolidação; falta detalhamento por operação no artefato |
+| Fidelidade | — | — | Atende parcialmente (P3 e P4) | Atende | Atende parcialmente: P2 reconhece o caminho, sem demonstração da tarefa concluída; redesign não executado |
 
 Fonte: Elaborado pelos autores (2026).
+
+Os resultados do Fluxo 5 decorrem de conferência documental dos HTAs publicados e confronto com o relato de P2, organizados com apoio de IA. Não são apresentados como inspeção independente por outro integrante. Os estados parciais mantêm explícitas as lacunas, sem converter recomendações em correções executadas.
 
 ### 2.5. Interpretação e Análise dos Dados
 
@@ -353,24 +372,31 @@ A interpretação busca identificar quais subobjetivos concentram as dificuldade
 
 **Fluxo 3 (Henrique Schneider):** as entrevistas com P3 e P4 concentraram as dificuldades no acesso ao serviço (operação 1.2), relatado pelos dois, e, no caso de P3, nos subobjetivos 2 (verificar os pré-requisitos), 3 (escolher unidade, data e horário) e 4 (reservar e pagar), que a HTA marcava como hipóteses. Essas três hipóteses foram confirmadas por P3 e não observadas em P4, que agendou sem dificuldade. A lacuna apontada pelos dois é o prazo da reserva, que o plano 4 não definia (PH02), e P4 descreveu a busca pelo serviço no gov.br (PH04). Na verificação dos critérios da Tabela 10, feita pelo próprio autor com apoio do Claude, o objetivo 0 está descrito como ação, com o estado final indicado só no feedback, e as operações não registravam a ação (PH03), o que foi corrigido na versão 1.2 da HTA. A inspeção por outro integrante continua pendente.
 
+**Fluxo 5 (Alexandre Vilar):** o relato de P2 concentra as dificuldades em localizar orientações (1.3) e identificar uma empresa (3.1–3.3), conforme Q01–Q03. A ligação com esses nós é uma interpretação da tarefa, não um registro de erros de clique. Em Q05, P2 reconhece a sequência geral, mas não sugere mudanças concretas na ordem. No atual e no redesign, as operações têm rótulos de ação, porém não registram individualmente entrada e feedback; os objetivos 0 estão formulados como ações e têm critérios finais em seções separadas. Por isso, a fidelidade, o objetivo geral e a especificação das operações recebem atendimento parcial. Os modelos não foram considerados integralmente validados.
+
 ### 2.6. Lista de Problemas Encontrados
 
 **Tabela 13 – Problemas encontrados na HTA**
 
 | ID | Fluxo | Objetivo ou operação | Critério não atendido | Descrição do problema | Correção proposta |
 | --- | --- | --- | --- | --- | --- |
-| PH01 | Agendamento de Biometria  | Confirmar e emitir comprovante  | Eficiência e Prevenção de Erros / Falta de lembrete e reconfirmação  | O sistema não envia lembretes nem permite reconfirmação/cancelamento prévio, aumentando o absenteísmo e o retrabalho para remarcar.  | Implementar notificações automáticas prévias (Email/SMS/WhatsApp) com botões para confirmação, cancelamento ou reagendamento rápido.  |
+| PH01 | Agendamento de Biometria | Confirmar e emitir comprovante | Eficiência e Prevenção de Erros / Falta de lembrete e reconfirmação | O sistema não envia lembretes nem permite reconfirmação/cancelamento prévio, aumentando o absenteísmo e o retrabalho para remarcar. | Implementar notificações automáticas prévias (Email/SMS/WhatsApp) com botões para confirmação, cancelamento ou reagendamento rápido. |
 | PH02 | Fluxo 3 – Agendar a prova teórica | 4. Reservar e pagar (plano 4) | Fidelidade | O plano 4 não define o prazo da reserva. P3 e P4 consideraram insuficiente o prazo de 3 a 5 horas apresentado nas entrevistas e sugeriram 24 horas (P3: 20:50–21:30; P4: 13:47–15:12). | Definir no plano 4 um prazo de reserva de 24 horas, com aviso uma hora antes de expirar, e validar esse prazo no protótipo de papel. |
 | PH03 | Fluxo 3 – Agendar a prova teórica | Operações 1.1, 1.2, 3.1 a 3.3 e 4.1 | Operações | As operações 1.1, 1.2, 3.1 a 3.3 e 4.1 não registram a ação, e 1.2 e 4.1 também não registram a entrada (input), elementos que Barbosa e Silva (2010, cap. 6, seç. 6.4.1, p. 193) incluem na especificação de uma operação. | Corrigido na HTA do Fluxo 3, versão 1.2 (25/10/2026): entrada, ação e feedback registrados em cada operação. |
 | PH04 | Fluxo 3 – Agendar a prova teórica | 1.2 Abrir “Habilitação” e o agendamento da prova | Fidelidade | A HTA não registrava a dificuldade de localizar o serviço no gov.br, relatada por P4: o serviço não aparece de início, exige busca e o termo “habilitação” é genérico (7:59–10:31). | Registrado como problema da operação 1.2 na HTA v1.2, com a recomendação de nome específico e destaque entre os serviços mais acessados. |
+| PH05 | Fluxo 5 – HTA atual e redesign | Operações do nível mais baixo | Operações | As tabelas listam ações, mas não especificam entrada e feedback para cada operação. O redesign registra entrada e sucesso apenas em nível global. | Documentar entrada, ação e feedback por operação em uma próxima versão; não há registro de correção executada nesta consolidação. |
+| PH06 | Fluxo 5 – HTA atual | 1.3 e 3.1–3.3 | Fidelidade; problemas e recomendações | P2 relata não localizar orientações ou credenciada (1:58–3:26). O percurso detalhado e a conclusão desses nós não foram demonstrados. | Vincular PS08 aos nós e observar uma execução futura para verificar pontos de interrupção; não afirmar ausência do serviço com base somente no relato. |
+| PH07 | Fluxo 5 – HTA atual e redesign | Objetivo 0 | Objetivo geral | Os objetivos 0 são enunciados como ações; os critérios de sucesso são apresentados separadamente. | Explicitar o estado final esperado no objetivo 0 ao revisar o artefato, preservando a distinção entre obter informações e ter um agendamento confirmado. |
 
 Fonte: Elaborado pelos autores (2026).
 
 ### 2.7. HTA Revisada e Recomendações de IHC
 
-As correções da Tabela 13 foram aplicadas às tabelas e diagramas HTA. A versão revisada de cada fluxo é apresentada a seguir e substitui a versão da Entrega 2 como base para o protótipo de papel.
+O estado das correções da Tabela 13 é apresentado por fluxo. Há correções já realizadas e recomendações ainda não executadas; uma recomendação não substitui automaticamente uma versão anterior do artefato.
 
 **Fluxo 3 (Henrique Schneider):** a HTA foi revisada para as versões 1.1 e 1.2 (25/10/2026). A versão 1.2 registra no plano 4 o prazo de reserva de 24 horas sugerido por P3 e P4, a ser testado no protótipo de papel; a entrada, a ação e o feedback de cada operação (PH03); o problema de localização do serviço na operação 1.2 (PH04); e, na Tabela 4 da HTA, o resultado das duas entrevistas para cada nó. O diagrama não mudou, porque nenhum dos participantes apontou passos faltando ou sobrando. O documento completo está no arquivo “HTA - Agendamento Prova Teórica - Henrique Schneider.pdf” (v1.2).
+
+**Fluxo 5 (Alexandre Vilar):** os [HTAs publicados](integrantes/alexandre-vilar/index.md) permanecem com as árvores e os planos existentes. Esta consolidação acrescenta sua conferência documental, os resultados parciais e PH05–PH07; não afirma que os diagramas foram corrigidos. O desenho do storyboard foi mantido por decisão anterior do autor. PS08 e as recomendações do relato orientam a preparação de um protótipo para verificar as escolhas e a clareza das orientações, sem confundir o funcionamento proposto com o processo atual do portal.
 
 ## 3. Planejamento da Avaliação do Protótipo de Papel (Framework DECIDE)
 
@@ -533,6 +559,27 @@ O objetivo 6 da HTA (remarcar a prova) fica fora do escopo, porque as regras de 
 
 Fonte: Elaborado pelos autores (2026).
 
+#### 3.8.2. Escopo Preparatório do Protótipo de Papel — Alexandre Vilar
+
+A preparação da parte de Alexandre utiliza o [HTA do redesign de vistoria](integrantes/alexandre-vilar/hta-redesign.md) e os resultados de P2. O escopo disponível permite definir os seguintes cenários e telas; a construção e as sessões ainda não estão registradas como realizadas.
+
+| Cenário proposto | Objetivos do redesign | Material a preparar | Evidência que se pretende coletar |
+| --- | --- | --- | --- |
+| Precisa providenciar a vistoria para transferir o veículo e quer identificar o serviço e seus requisitos | 1 e 2 | Acesso por finalidade e orientações/dados solicitados | Se a pessoa entende a finalidade e a próxima ação sem ajuda |
+| Quer escolher uma empresa e um atendimento compatível com sua rotina | 3 | Relação de empresas, localização, calendário e horários; estado de indisponibilidade | Se consegue escolher local, data e horário e entende o retorno quando não há disponibilidade |
+| Deseja conferir o atendimento escolhido e saber como comparecer | 4 e 5 | Resumo para revisão, correção dos dados, confirmação e comprovante com orientações | Se diferencia revisão de confirmação e identifica local, data, horário e preparação |
+
+Fonte: proposta de preparação derivada do HTA e de PS08. Não descreve um protótipo já construído nem ações que P2 tenha executado.
+
+O público de referência é o perfil **condutor habilitado**. A quantidade de participantes, a justificativa do tamanho da amostra, o recrutamento e os nomes de quem simulará o sistema e observará a sessão precisam ser definidos pelo responsável. O piloto deverá preceder as sessões, e suas respostas não integrarão o relato definitivo. Datas, horários, local/modalidade, tempo estimado das tarefas e recursos de registro ainda não foram informados para a parte de Alexandre.
+
+| Atividade de Alexandre | Base disponível | Situação |
+| --- | --- | --- |
+| Preparar as telas e partes móveis | Objetivos 1–5 do redesign e cenários acima | Escopo definido; construção não comprovada |
+| Definir participantes, papéis e logística | Perfil condutor habilitado | Quantidade, recrutamento, avaliadores e datas a definir |
+| Ensaiar a avaliação | Método coletivo e roteiro a adaptar ao protótipo | Piloto futuro a planejar; não é o piloto do storyboard já realizado |
+| Realizar as sessões e registrar os achados | Cenários e critérios de compreensão/execução | Sem datas ou registros de execução disponíveis |
+
 ## 4. Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel
 
 ### 4.1. Estrutura do Relato
@@ -594,6 +641,17 @@ Cada integrante acrescenta à Tabela 19 as tarefas e as datas do seu relato. As 
 
 Fonte: Elaborado pelos autores (2026).
 
+**Parte de Alexandre Vilar:** o relato do protótipo utilizará a estrutura da seção 4.1 e os modelos das Tabelas 17 e 18, separando problemas corrigidos entre sessões dos que permanecerem. As evidências serão vinculadas às telas, às tarefas e aos códigos dos participantes. O registro de planejamento disponível não define datas para Alexandre; as etapas abaixo não são apresentadas como executadas.
+
+| Tarefa | Integrante | Início | Fim |
+| --- | --- | --- | --- |
+| Consolidar problemas por tela e tarefa após as sessões | Alexandre Vilar | A definir | A definir |
+| Interpretar resultados e redigir o relato | Alexandre Vilar | A definir | A definir |
+| Realizar revisão cruzada | Alexandre Vilar e revisor a definir | A definir | A definir |
+| Publicar o relato e registrar a versão | Alexandre Vilar | A definir | A definir |
+
+Fonte: etapas derivadas da estrutura coletiva do relato; datas dependem da definição das sessões futuras.
+
 ## 5. Cronograma Executado
 
 A Tabela 20 registra as atividades realmente executadas nesta entrega, com o responsável e as datas de início e fim, para comparação com o cronograma planejado na Entrega 1.
@@ -611,6 +669,10 @@ A Tabela 20 registra as atividades realmente executadas nesta entrega, com o res
 | Planejamento do relato do protótipo de papel | Henrique Schneider | 25/10/2026 | 25/10/2026 | Concluído (Henrique) |
 | Gravação do vídeo de apresentação | — | — | — | — |
 | Publicação no GitHub Pages | — | — | — | — |
+| Sessão de avaliação de vistoria | Alexandre Vilar | 25/10/2026 | 25/10/2026 | Realizada com P2, conforme o registro da Tabela 4 e a gravação |
+| Registro do teste-piloto e análise de seu procedimento | Alexandre Vilar | Não informado (sessão) | 25/10/2026 (registro) | Gravação e análise operacional publicadas; data da sessão do piloto a confirmar |
+| Conclusão do relato individual e publicação dos resultados de vistoria | Alexandre Vilar | Não informado (início) | 25/10/2026 (registro) | Relato publicado; data de registro conforme histórico da página individual |
+| Consolidação da participação de vistoria no relatório coletivo | Alexandre Vilar, com apoio do ChatGPT | 25/10/2026 | 25/10/2026 | Resultados de P2 e conferência do Fluxo 5 incorporados nesta versão |
 
 Fonte: Elaborado pelos autores (2026).
 
@@ -636,6 +698,8 @@ Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação
 - **Claude (Anthropic):** utilizado na estruturação dos capítulos deste relatório, na redação das seções coletivas, na elaboração das tabelas-modelo, na conferência das citações de Barbosa e Silva (2010) e de Preece, Rogers e Sharp (2005), na formatação do documento e na elaboração de um storyboard de referência. Em 25/10/2026, a pedido de Henrique Schneider, também foi utilizado para redigir a parte dele no planejamento da avaliação do protótipo de papel (seção 3.8.1 e linhas de Henrique nas Tabelas 16 e 19) a partir da HTA e do storyboard do autor, e para recortar a página 358 de Barbosa e Silva (2010) usada na Figura 15; as datas, o número de participantes e a construção do protótipo foram definidos pelo autor. Ainda em 25/10/2026, foi utilizado para organizar os resultados da entrevista de P3 (storyboard de Henrique Schneider) a partir da transcrição automática e da gravação da sessão, preenchendo a seção 1.4.1 e as linhas de P3 e de Henrique nas Tabelas 4, 6, 8, 9, 12 e 13; a gravidade dos problemas PS02 a PS05 é uma proposta a confirmar pelo autor. Na parte de Henrique Schneider, também foi utilizado para redigir as análises do Fluxo 3 nas seções 1.6, 2.5 e 2.7, verificar a HTA do Fluxo 3 com os critérios da Tabela 10 (Tabela 12 e PH03), registrar as atividades de Henrique no cronograma executado (Tabela 20) e anonimizar a transcrição da entrevista de P3. Também organizou os resultados da segunda entrevista de Henrique (P4), atualizou as tabelas e análises correspondentes e retirou do relatório os textos de instrução que restavam (“inserir aqui”, “a preencher”).
 - **Gemini (Google):** utilizado na validação do documento e na redação dos relatórios de entrevistas
 
+- **ChatGPT (OpenAI), na parte de Alexandre Vilar:** utilizado na organização do relato individual a partir da transcrição automática e, nesta atualização, no preenchimento das Tabelas 5, 6, 8, 9 e 11–13, na conferência documental do Fluxo 5, no registro das evidências e no escopo preparatório do protótipo. A classificação PS08 é uma proposta de julgamento a revisar, não uma medição. Perfil e data da sessão foram sincronizados com a Tabela 4 já publicada; não foram inventados dados de recrutamento, local, modalidade ou datas futuras. A revisão por outro integrante ainda não está registrada para esta contribuição.
+
 ### 3. Ferramentas Utilizadas
 
 - **Google Docs e Google Drive:** redação colaborativa e controle de versões do relatório.
@@ -650,6 +714,8 @@ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023**: informação e docume
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 10520**: informação e documentação: citações em documentos: apresentação. Rio de Janeiro: ABNT, 2023.
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. 1. ed. Rio de Janeiro: Elsevier, 2010.
+
+BARBOSA, Simone Diniz Junqueira et al. **Interação Humano-Computador e Experiência do Usuário**. 2021. Seções 8.4.1 e 11.7–11.8. Edição utilizada no roteiro e no relato individual de Alexandre Vilar.
 
 GRUPO 03. **Segunda Entrega**: perfil de usuário, aspectos éticos e análise de tarefas. Projeto da disciplina de Interação Humano-Computador, Universidade de Brasília, 2026a. Disponível em: https://interacao-humano-computador.github.io/2026.2-Grupo03/.
 

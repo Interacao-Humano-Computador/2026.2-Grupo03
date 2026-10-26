@@ -17,8 +17,8 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Organização do procedimento de avaliação e dos materiais da entrevista | Alexandre Vilar, com apoio do ChatGPT | — |
-
 | 25/10/2026 | 1.1 | Registro do perfil disponível, sessão definitiva, análise operacional do piloto e ligação ao relato | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
 Fonte: registro desta versão (2026).
 
 ## 1. Objetivo e escopo
@@ -43,7 +43,7 @@ A avaliação proposta utiliza entrevista semiestruturada apoiada no HTA e no st
 
 ## 3. Perfil dos participantes
 
-Foi analisado **um participante da entrevista definitiva**, identificado como **P01**. O entrevistador informa que ele havia navegado no portal antes das perguntas (0:59-1:09). P01 relata dificuldades para localizar orientações de vistoria. Forma de recrutamento e experiência anterior com vistoria não foram informadas; não se inferem idade, ocupação ou outros dados de perfil.
+Foi analisado **um participante da entrevista definitiva**, identificado como **P01 nesta página e P2 no relatório coletivo** (mesma sessão, vídeo U1eg2EeanWg). A [Tabela 4 do relatório coletivo](../../relatorio-do-grupo.md#13-numero-e-perfil-dos-participantes-e-avaliadores) registra **21 anos, condutor habilitado, experiência básica no portal e sessão em 25/10/2026**. Esses dados vêm do registro coletivo, não foram inferidos das falas. O entrevistador informa navegação prévia (0:59-1:09). Recrutamento e experiência anterior com vistoria não foram informados.
 
 O participante do piloto é tratado separadamente. Não foi confirmado se é uma pessoa distinta de P01 ou se teve envolvimento no planejamento; essas informações permanecem pendentes de registro.
 
@@ -54,7 +54,8 @@ O participante do piloto é tratado separadamente. Não foi confirmado se é uma
 | Fonte | [Gravação da entrevista](https://www.youtube.com/watch?v=U1eg2EeanWg) |
 | Participantes analisados | Um participante (P01) e um entrevistador |
 | Responsável pelo material | Alexandre Vilar |
-| Data, local e modalidade da sessão | Não informados na transcrição; confirmar com o responsável |
+| Data da sessão | 25/10/2026, conforme a Tabela 4 do relatório coletivo |
+| Local e modalidade da sessão | Não informados; confirmar com o responsável |
 | Duração da gravação | 8min58s, conforme o player; a duração total da sessão não foi informada |
 | Navegação no portal | Mencionada como anterior à aplicação do roteiro; não foi reconstruído o percurso completo de cliques |
 | Materiais apresentados | HTA, planos e storyboard, apresentados na abertura da entrevista |
@@ -118,7 +119,7 @@ Analisar inicialmente cada participante separadamente, relacionando as falas e o
 
 ## 9. Registros ainda a confirmar
 
-- Data, local e modalidade do piloto e da entrevista definitiva.
+- Data, local e modalidade do piloto; local e modalidade da entrevista definitiva (a data de 25/10/2026 já consta no relatório coletivo).
 - Forma de recrutamento e experiência anterior de P01 com vistoria, se pertinentes ao perfil definido.
 - Relação entre os participantes do piloto e da sessão definitiva e eventual participação no planejamento.
 - Duração total das sessões, caso tenha sido registrada fora das gravações.
