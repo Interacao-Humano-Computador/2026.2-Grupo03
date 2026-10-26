@@ -1,8 +1,10 @@
 site_name: INTERAÇÃO HUMANO COMPUTADOR | Grupo 03
 site_description: Documentacao academica do projeto de Interacao Humano-Computador.
-site_url: https://interacao-humano-computador.github.io/2026.2-Grupo03/
-repo_url: https://github.com/Interacao-Humano-Computador/2026.2-Grupo03
-repo_name: Interacao-Humano-Computador/2026.2-Grupo03
+# No GitHub Actions, o workflow de deploy preenche estas variáveis com o endereço do repositório que publica
+# (oficial ou fork). Localmente, valem os endereços do repositório oficial.
+site_url: !ENV [SITE_URL, 'https://interacao-humano-computador.github.io/2026.2-Grupo03/']
+repo_url: !ENV [REPO_URL, 'https://github.com/Interacao-Humano-Computador/2026.2-Grupo03']
+repo_name: !ENV [REPO_NAME, 'Interacao-Humano-Computador/2026.2-Grupo03']
 edit_uri: edit/main/docs/
 
 validation:
@@ -52,6 +54,7 @@ plugins:
   - search
   - redirects:
       redirect_maps:
+        'entrega-5/docs/entrega-5/integrantes/alexandre-vilar/avaliacao.md': 'entrega-5/integrantes/alexandre-vilar/avaliacao.md'
         # Endereços antigos (publicados antes da organização por entrega) -> páginas atuais
         'acompanhamento/index.md': 'integrantes/index.md'
         'guia-estilo/contribuicao/contrib.md': 'entrega-3/contribuicoes.md'
@@ -235,6 +238,47 @@ nav:
         - Visão geral: entrega-4/integrantes/joao-vitor/index.md
         - "Planejamento individual": entrega-4/integrantes/joao-vitor/planejamento-individual.md
         - "Lista de verificação – Storyboard": entrega-4/integrantes/joao-vitor/lista-storyboard.md
+
+  - "Entrega 5":
+    - Relatório da entrega: entrega-5/relatorio.md
+    - Contribuições: entrega-5/contribuicoes.md
+    - Relatório do grupo: entrega-5/relatorio-do-grupo.md
+    - Material dos integrantes:
+      - Alexandre Vilar:
+        - Visão geral: entrega-5/integrantes/alexandre-vilar/index.md
+        - Avaliação do HTA e Storyboard: entrega-5/integrantes/alexandre-vilar/avaliacao.md
+        - HTA do processo atual: entrega-5/integrantes/alexandre-vilar/hta-atual.md
+        - Storyboard: entrega-5/integrantes/alexandre-vilar/storyboard.md
+        - HTA do redesign: entrega-5/integrantes/alexandre-vilar/hta-redesign.md
+        - Roteiro de entrevista e fontes: entrega-5/integrantes/alexandre-vilar/roteiro-entrevista.md
+        - Vídeo da entrevista: entrega-5/integrantes/alexandre-vilar/video-entrevista.md
+        - Relatório pós-entrevista: entrega-5/integrantes/alexandre-vilar/relatorio-pos-entrevista.md
+      - Henrique Schneider:
+        - Visão geral: entrega-5/integrantes/henrique-schneider/index.md
+        - Storyboard: entrega-5/integrantes/henrique-schneider/storyboard.md
+        - HTA: entrega-5/integrantes/henrique-schneider/hta.md
+        - Roteiro de entrevista: entrega-5/integrantes/henrique-schneider/roteiro-entrevista.md
+        - Vídeos da entrevista: entrega-5/integrantes/henrique-schneider/video-entrevista.md
+        - Relatório pós-entrevista: entrega-5/integrantes/henrique-schneider/relatorio-pos-entrevista.md
+        - Protótipo de papel: entrega-5/integrantes/henrique-schneider/prototipo-papel.md
+      - João Vitor:
+        - Visão geral: entrega-5/integrantes/joao-vitor/index.md
+        - Avaliação do HTA e Storyboard: entrega-5/integrantes/joao-vitor/avaliacao.md
+        - HTA do processo atual: entrega-5/integrantes/joao-vitor/hta-atual.md
+        - Storyboard: entrega-5/integrantes/joao-vitor/storyboard.md
+        - HTA do redesign: entrega-5/integrantes/joao-vitor/hta-redesign.md
+        - Roteiro de entrevista e fontes: entrega-5/integrantes/joao-vitor/roteiro-entrevista.md
+        - Vídeo da entrevista: entrega-5/integrantes/joao-vitor/video-entrevista.md
+        - Relatório pós-entrevista: entrega-5/integrantes/joao-vitor/relatorio-pos-entrevista.md
+
+      - Gabriel Robson:
+        - Visão geral: entrega-5/integrantes/gabriel-robson/index.md
+        - HTA de referência: entrega-5/integrantes/gabriel-robson/hta-atual.md
+        - Storyboard textual: entrega-5/integrantes/gabriel-robson/storyboard.md
+        - HTA do redesign: entrega-5/integrantes/gabriel-robson/hta-redesign.md
+        - Roteiro de entrevista: entrega-5/integrantes/gabriel-robson/roteiro-entrevista.md
+        - Estado da avaliação: entrega-5/integrantes/gabriel-robson/avaliacao.md
+        - Protótipo demonstrativo: entrega-5/integrantes/gabriel-robson/prototipo.html
 
   - Trabalhos Avaliativos:
     - Visão geral: trabalhos-avaliativos/index.md

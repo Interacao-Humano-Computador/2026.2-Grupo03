@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | Nenhuma até esta versão | — | — |
+| Alexandre Vilar Valadares Fonsêca | Inclusão do acesso à Entrega 5 | [E5](../entrega-5/relatorio.md) | — |
 | Gabriel Robson Nunes Neiva da Silva | Nenhuma até esta versão | — | — |
 | Henrique Schneider Fernandes da Rosa | Criação da página e dos relatórios das Entregas 1 a 4; atualização para a organização por entrega | [E1](../entrega-1/relatorio.md) · [E2](../entrega-2/relatorio.md) · [E3](../entrega-3/relatorio.md) · [E4](../entrega-4/relatorio.md) | — |
 | João Vitor Tavares de Sá Lima | Nenhuma até esta versão | — | — |
@@ -21,6 +21,7 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 15/10/2026 | 1.0 | Criação da página e dos relatórios das Entregas 1 a 4 | Henrique Schneider | — |
 | 17/10/2026 | 1.1 | Organização por entrega: links para os relatórios em cada aba de entrega, inclusão da tabela de contribuição e revisão do resumo | Henrique Schneider | — |
+| 25/10/2026 | 1.2 | Inclusão da Entrega 5 e do acesso aos materiais organizados | Alexandre Vilar, com apoio do ChatGPT | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -38,6 +39,7 @@ O Quadro 1 resume as entregas e leva a cada relatório.
 | 2 | Perfil do Usuário, Aspectos Éticos e Análise de Tarefas | 27/09/2026 | [Relatório da Entrega 2](../entrega-2/relatorio.md) |
 | 3 | Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo | 06/10/2026 | [Relatório da Entrega 3](../entrega-3/relatorio.md) |
 | 4 | Planejamento da Avaliação do Storyboard e da Análise de Tarefas | 13/10/2026 | [Relatório da Entrega 4](../entrega-4/relatorio.md) |
+| 5 | Avaliação do Storyboard e da Análise de Tarefas; planejamento da avaliação do protótipo de papel | 25/10/2026 | [Relatório da Entrega 5](../entrega-5/relatorio.md) |
 
 Fonte: elaborado pelos autores (2026), com os prazos de Sales (2026, pp. 4–5).
 
@@ -50,3 +52,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página e o quadro das entregas a partir do Plano de Ensino e dos relatórios publicados no site. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+**Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na inclusão da linha da Entrega 5 e de seu registro no histórico.

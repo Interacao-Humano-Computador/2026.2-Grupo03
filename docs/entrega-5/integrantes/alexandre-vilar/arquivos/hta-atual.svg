@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="650" viewBox="0 0 1440 650" role="img" aria-labelledby="title desc">
+<title id="title">HTA do processo atual: obter informações e escolher uma empresa para vistoria</title>
+<desc id="desc">Objetivo zero dividido em quatro tarefas: localizar orientações; compreender requisitos; localizar empresa credenciada; organizar informações. Cada tarefa possui três subtarefas.</desc>
+<rect width="1440" height="650" fill="#ffffff"/>
+<rect x="170" y="20" width="1100" height="80" rx="10" fill="#143e56" stroke="#aec9d2"/>
+<text x="720.0" y="55.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ffffff">0. Obter informações e escolher uma empresa credenciada para realizar a vistoria para transferência de</text>
+<text x="720.0" y="77.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ffffff">propriedade</text>
+<path d="M720,100 L720,125" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M195.0,125 L1245.0,125" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M195.0,125 L195.0,150" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="30" y="150" width="330" height="75" rx="10" fill="#143e56" stroke="#aec9d2"/>
+<text x="195.0" y="182.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ffffff">1. Localizar orientações sobre</text>
+<text x="195.0" y="204.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ffffff">vistoria</text>
+<path d="M195.0,225 L195.0,245" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M38,245 L195.0,245" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M38,245 L38,550" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M38,320 L55,320" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="55" y="270" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="207.5" y="326.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">1.1 Acessar o site do Detran-DF</text>
+<path d="M38,435 L55,435" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="55" y="385" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="207.5" y="430.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">1.2 Localizar informações sobre</text>
+<text x="207.5" y="452.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">transferência de propriedade</text>
+<path d="M38,550 L55,550" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="55" y="500" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="207.5" y="545.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">1.3 Identificar orientações sobre</text>
+<text x="207.5" y="567.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">vistoria veicular</text>
+<path d="M545.0,125 L545.0,150" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="380" y="150" width="330" height="75" rx="10" fill="#143e56" stroke="#aec9d2"/>
+<text x="545.0" y="182.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ffffff">2. Compreender os requisitos do</text>
+<text x="545.0" y="204.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ffffff">atendimento</text>
+<path d="M545.0,225 L545.0,245" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M388,245 L545.0,245" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M388,245 L388,550" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M388,320 L405,320" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="405" y="270" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="557.5" y="315.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">2.1 Consultar requisitos e</text>
+<text x="557.5" y="337.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">documentos aplicáveis</text>
+<path d="M388,435 L405,435" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="405" y="385" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="557.5" y="430.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">2.2 Identificar quem pode realizar</text>
+<text x="557.5" y="452.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">a vistoria</text>
+<path d="M388,550 L405,550" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="405" y="500" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="557.5" y="545.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">2.3 Verificar como ocorre o</text>
+<text x="557.5" y="567.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">atendimento e se exige agendamento</text>
+<path d="M895.0,125 L895.0,150" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="730" y="150" width="330" height="75" rx="10" fill="#143e56" stroke="#aec9d2"/>
+<text x="895.0" y="182.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ffffff">3. Localizar uma empresa</text>
+<text x="895.0" y="204.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ffffff">credenciada</text>
+<path d="M895.0,225 L895.0,245" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M738,245 L895.0,245" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M738,245 L738,550" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M738,320 L755,320" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="755" y="270" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="907.5" y="315.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">3.1 Acessar a relação de empresas</text>
+<text x="907.5" y="337.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">credenciadas</text>
+<path d="M738,435 L755,435" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="755" y="385" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="907.5" y="430.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">3.2 Identificar as opções de</text>
+<text x="907.5" y="452.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">localização disponíveis</text>
+<path d="M738,550 L755,550" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="755" y="500" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="907.5" y="534.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">3.3 Selecionar uma empresa conforme</text>
+<text x="907.5" y="556.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">localização e informações</text>
+<text x="907.5" y="578.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">disponíveis</text>
+<path d="M1245.0,125 L1245.0,150" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="1080" y="150" width="330" height="75" rx="10" fill="#143e56" stroke="#aec9d2"/>
+<text x="1245.0" y="182.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ffffff">4. Organizar informações para o</text>
+<text x="1245.0" y="204.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ffffff">atendimento</text>
+<path d="M1245.0,225 L1245.0,245" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M1088,245 L1245.0,245" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M1088,245 L1088,550" stroke="#177f80" stroke-width="2" fill="none"/>
+<path d="M1088,320 L1105,320" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="1105" y="270" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="1257.5" y="315.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">4.1 Registrar nome e endereço da</text>
+<text x="1257.5" y="337.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">empresa</text>
+<path d="M1088,435 L1105,435" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="1105" y="385" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="1257.5" y="430.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">4.2 Confirmar com a empresa</text>
+<text x="1257.5" y="452.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">informações ausentes no portal</text>
+<path d="M1088,550 L1105,550" stroke="#177f80" stroke-width="2" fill="none"/>
+<rect x="1105" y="500" width="305" height="100" rx="10" fill="#eaf3f5" stroke="#aec9d2"/>
+<text x="1257.5" y="545.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">4.3 Reunir orientações e documentos</text>
+<text x="1257.5" y="567.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#243c49">para comparecer</text>
+</svg>
