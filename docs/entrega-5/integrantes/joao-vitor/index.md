@@ -1,0 +1,62 @@
+# Entrega 5 – João Vitor
+
+## Tabela de contribuição
+
+**Tabela 1 – Contribuição no artefato Entrega 5 – João Vitor**
+
+| Integrante | Contribuição | Atividade (link) | Gravação (link) |
+| --- | --- | --- | --- |
+| João Vitor Tavares de Sá Lima | HTAs de agendamento de biometria, storyboard e organização das páginas individuais | [Visão geral](index.md) | [Vídeos](video-entrevista.md) |
+
+Fonte: materiais disponibilizados pelo responsável (2026).
+
+## Histórico de versões
+
+**Tabela 2 – Histórico de versões do artefato Entrega 5 – João Vitor**
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+| 25/10/2026 | 1.0 | Criação e organização da página no padrão individual da Entrega 5 | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.1 | Atualização do status dos vídeos e do relatório pós-entrevista | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+
+Fonte: registro desta versão (2026).
+
+## 1. Introdução
+
+Esta página reúne os materiais individuais de João Vitor para a **Entrega 5 — Avaliação do Storyboard e da Análise de Tarefas**, tendo como cenário o **agendamento e gerenciamento de biometria no portal do Detran-DF**.
+
+O HTA atual representa o agendamento com autenticação, localização do serviço, escolha de posto, data e horário e emissão do comprovante. O HTA do redesign acrescenta possibilidades de **reconfirmação, reagendamento e cancelamento**, associadas a uma notificação prévia. O storyboard acompanha Carlos, que agenda a biometria, enfrenta um imprevisto e utiliza a proposta de redesign para reagendar.
+
+Os elementos de reconfirmação, reagendamento rápido e liberação automática de vaga são propostas de design representadas nos artefatos; esta documentação não os trata como funcionalidades comprovadamente existentes no portal atual.
+
+## 2. Trabalhos individuais
+
+**Tabela 3 – Materiais de João Vitor na Entrega 5**
+
+| Material | Conteúdo | Página |
+| --- | --- | --- |
+| Avaliação individual | Objetivos, procedimento, materiais e registros da avaliação | [Abrir avaliação](avaliacao.md) |
+| HTA do processo atual | Objetivo, imagem, subtarefas e planos | [Abrir HTA](hta-atual.md) |
+| Storyboard | Narrativa de Carlos e representação do desenho | [Abrir storyboard](storyboard.md) |
+| HTA do redesign | Proposta com gerenciamento de agendamentos | [Abrir redesign](hta-redesign.md) |
+| Roteiro da entrevista | Questões de avaliação e fundamentação | [Abrir roteiro](roteiro-entrevista.md) |
+| Vídeos da avaliação | Teste-piloto e entrevista definitiva publicados | [Abrir vídeos](video-entrevista.md) |
+| Relatório pós-entrevista | Resultados consolidados a partir do registro resumido da entrevista definitiva | [Abrir relatório](relatorio-pos-entrevista.md) |
+
+Fonte: materiais compartilhados nesta atividade (2026).
+
+## 3. Situação dos materiais
+
+As imagens do HTA atual e do HTA do redesign estão incorporadas, o storyboard está publicado e os links do teste-piloto e da entrevista definitiva estão disponíveis na [página de vídeos](video-entrevista.md).
+
+A [avaliação individual](avaliacao.md) registra o método e o escopo. O [relatório pós-entrevista](relatorio-pos-entrevista.md) consolida os resultados da entrevista definitiva a partir do registro resumido fornecido pelo entrevistador, sem apresentar falas literais ou horários não verificados.
+
+O [planejamento individual da Entrega 4](../../../entrega-4/integrantes/joao-vitor/planejamento-individual.md) permanece como registro da etapa anterior.
+
+## Referências
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. 2021.
+
+## Agradecimentos e uso de IA generativa
+
+Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de João Vitor, para apoiar a organização das páginas Markdown conforme o padrão da Entrega 5 e a transcrição estrutural dos artefatos enviados. Não foram inventadas falas de participantes, resultados de entrevistas, datas de sessão ou links de gravações. A responsabilidade pela revisão acadêmica do conteúdo é do autor.
