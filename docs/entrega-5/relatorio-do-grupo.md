@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Resultados de P2, storyboard de vistoria, Fluxo 5 da HTA, problemas e recomendações; consolidação dos dados disponíveis e escopo do planejamento do protótipo, com apoio de IA | [Material individual](integrantes/alexandre-vilar/index.md); [relato](integrantes/alexandre-vilar/relatorio-pos-entrevista.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
 | Gabriel Robson Nunes Neiva da Silva | — | — | — |
-| Henrique Schneider Fernandes da Rosa | Estrutura do relatório, seções coletivas, storyboard, HTA e relato do Fluxo 3 (P3 e P4), parte individual do planejamento do protótipo de papel e cronograma executado | [Material de Henrique Schneider](integrantes/henrique-schneider/index.md) | [Entrevista com P3](https://youtu.be/TTIRe6Id010); [Entrevista com P4](https://youtu.be/4wEvZ1Okwwk) |
+| Henrique Schneider Fernandes da Rosa | Estrutura do relatório, seções coletivas, storyboard, HTA e relato do Fluxo 3 (P3 e P4), parte individual do planejamento do protótipo de papel e cronograma executado | [Material de Henrique Schneider](integrantes/henrique-schneider/index.md) | [Entrevista com P3](https://youtu.be/TTIRe6Id010); [Entrevista com P4](https://youtu.be/4wEvZ1Okwwk); [Apresentação](https://youtu.be/m-QXJ-4WZkI) |
 | João Vitor Tavares de Sá Lima | Resultados da avaliação do storyboard de biometria e atualização do Fluxo 4 da HTA (versão 1.4) | [Material de João Vitor](integrantes/joao-vitor/index.md) | [Vídeos](integrantes/joao-vitor/video-entrevista.md) |
 
 Fonte: elaborado pelos autores (2026), com base no histórico de versões do relatório.
@@ -29,6 +29,8 @@ Fonte: elaborado pelos autores (2026), com base no histórico de versões do rel
 | 25/10/2026 | 1.7 | Conclusão da parte de Henrique Schneider: interpretação de P3 (seção 1.6), verificação e análise do Fluxo 3 (Tabela 11, PH03 na Tabela 12, seções 2.5 e 2.7), atividades de Henrique no cronograma executado (Tabela 19), ferramentas e referências dos documentos individuais; revisor Gabriel Robson nas versões 1.5 e 1.6 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.8 | Inclusão da segunda sessão de Henrique Schneider (P4), link da gravação de P4, retirada dos textos de instrução e publicação do relatório no GitHub Pages | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.9 | Consolidação de P2 e do Fluxo 5 de Alexandre, achados de vistoria e sincronização dos dados disponíveis | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.10 | Conferência final: imagem da Figura 15; número de integrantes (quatro) nas seções 1.1, 1.3 e 3.4; retirada da linha e da seção de storyboard de ex-integrante (Tabela 4 e antiga seção 1.4.4); data do teste piloto na seção 3.7; minutagens de PS02 e PS03; parágrafo da citação de 20 minutos; versão da HTA na seção 3.8.1; ausência de relator nas sessões de Henrique (seção 1.9); título da capa | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.11 | Inclusão do vídeo de apresentação da parte de Henrique Schneider (https://youtu.be/m-QXJ-4WZkI) no cronograma executado (Tabela 19) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -71,7 +73,7 @@ Conforme o planejamento da Entrega 4, a avaliação teve quatro objetivos: repre
 
 Fonte: Grupo 03 (2026b, p. 4).
 
-O escopo da avaliação compreende cinco storyboards, um por integrante, como exige o item 10 da lista de verificação da Apresentação 4 do Plano de Ensino (SALES, 2026a, p. 13). Cada storyboard representa uma tarefa do portal do Detran-DF modelada na HTA, e cada quadro está relacionado a um objetivo ou operação dessa HTA (item 9 da mesma lista).
+O escopo da avaliação compreende quatro storyboards, um por integrante, como exige o item 10 da lista de verificação da Apresentação 4 do Plano de Ensino (SALES, 2026a, p. 13). Cada storyboard representa uma tarefa do portal do Detran-DF modelada na HTA, e cada quadro está relacionado a um objetivo ou operação dessa HTA (item 9 da mesma lista).
 
 ### 1.2. Método de Avaliação Empregado
 
@@ -108,7 +110,7 @@ Fonte: BARBOSA; SILVA (2010, p. 307).
 
 ### 1.3. Número e Perfil dos Participantes e Avaliadores
 
-Os avaliadores foram os cinco integrantes do Grupo 03. Os participantes foram recrutados entre pessoas compatíveis com os perfis de usuário da Entrega 2: condutor habilitado (persona João Paulo) e candidato à habilitação (persona Camila) (GRUPO 03, 2026a, seção 1.4). O perfil de servidor ou agente do Detran (persona Ricardo) não foi incluído, porque suas tarefas pertencem a sistemas institucionais restritos e não ao portal público. Para preservar o anonimato, os participantes são identificados por códigos (P1, P2…), conforme a Tabela 4.
+Os avaliadores foram os quatro integrantes do Grupo 03. Os participantes foram recrutados entre pessoas compatíveis com os perfis de usuário da Entrega 2: condutor habilitado (persona João Paulo) e candidato à habilitação (persona Camila) (GRUPO 03, 2026a, seção 1.4). O perfil de servidor ou agente do Detran (persona Ricardo) não foi incluído, porque suas tarefas pertencem a sistemas institucionais restritos e não ao portal público. Para preservar o anonimato, os participantes são identificados por códigos (P1, P2…), conforme a Tabela 4.
 
 **Tabela 4 – Perfil dos participantes**
 
@@ -133,7 +135,7 @@ Um storyboard é, segundo Preece, Rogers e Sharp, uma série de desenhos que mos
 
 Fonte: PREECE; ROGERS; SHARP (2005, p. 263).
 
-**Tabela 5 – Relação entre storyboards, fluxos a HTA e personas**
+**Tabela 5 – Relação entre storyboards, fluxos da HTA e personas**
 
 | Integrante | Tarefa representada | Fluxo da HTA | Persona |
 | --- | --- | --- | --- |
@@ -256,7 +258,7 @@ A Tabela 8 apresenta a lista consolidada de problemas, ordenada por gravidade e 
 | --- | --- | --- | --- | --- | --- | --- |
 | PS01 | Agendamento de biometria | Localizar o serviço de Biometria | eficiência/ facilidade de aprendizado | P1 relatou dificuldade para localizar o serviço específico que desejava agendar, embora considerasse o restante do processo relativamente simples. | 3 | 1 participante |
 | PS02 | Agendamento da prova teórica (Henrique), quadro 3 | 2. Verificar os pré-requisitos | facilidade de aprendizado | P3 não sabia que precisava fazer a biometria e não encontrou no portal onde confirmar os pré-requisitos; soube por amigas e confirmou perguntando a outras pessoas (7:14–8:26). Confirma a hipótese da HTA de que a candidata descobre as pendências tarde. | 3 | 1 participante |
-| PS03 | Agendamento da prova teórica (Henrique), quadro 4 | 3. Escolher unidade, data e horário | eficiência; satisfação do usuário | P3 esperou quase um mês pelo agendamento e teve no máximo duas opções de data, aceitando o que havia (4:44–5:53; 16:09–18:19). Confirma a hipótese da HTA de falta de horário. | 3 | 1 participante |
+| PS03 | Agendamento da prova teórica (Henrique), quadro 4 | 3. Escolher unidade, data e horário | eficiência; satisfação do usuário | P3 esperou quase um mês pelo agendamento e teve no máximo duas opções de data, aceitando o que havia (4:44–5:53; 12:57–15:25). Confirma a hipótese da HTA de falta de horário. | 3 | 1 participante |
 | PS04 | Agendamento da prova teórica (Henrique), quadros 5 e 6 | 4. Reservar e pagar (plano 4) | segurança no uso; satisfação do usuário | P3 relatou medo de perder a vaga durante o pagamento, porque as vagas eram disputadas (12:57–15:25). Sobre a proposta, P3 e P4 consideraram insuficiente uma reserva de 3 a 5 horas e sugeriram 24 horas, para quem precisa juntar o dinheiro da taxa (P3: 20:50–21:30; P4: 13:47–15:12). | 3 | 2 participantes (prazo: P3 e P4; medo de perder a vaga: P3) |
 | PS05 | Agendamento da prova teórica (Henrique), quadro 2 | 1. Acessar o portal (1.2. Abrir “Habilitação”) | facilidade de aprendizado | P3 considera o gov.br confuso e deixou o agendamento com a autoescola e o pagamento com os pais (18:39–19:28). P4 relatou que o serviço “Habilitação” não aparece de início no gov.br, exige busca, e o termo é genérico (7:59–10:31). | 3 | 2 participantes |
 | PS06 | Agendamento da prova teórica (Henrique), quadro 2 | 1. Acessar o portal | facilidade de aprendizado | O quadro 2 mostra como simples o acesso ao serviço, que no portal real exige busca; foi o quadro menos claro para P4, que não se identificou com a persona por isso (10:53–11:24). | 2 | 1 participante |
@@ -276,7 +278,7 @@ Os problemas da Tabela 8 orientam o reprojeto, que será representado no protót
 | ID do problema | Proposta de correção | Prioridade | Responsável | Será avaliada no protótipo de papel? |
 | --- | --- | --- | --- | --- |
 | PS01 | Disponibilizar, após o agendamento, opções diretas de confirmar presença, reagendar ou cancelar, evitando que o usuário precise repetir todo o processo. A ação poderá ser acessada também por notificação enviada por e-mail, SMS ou WhatsApp. | 3 | João Vitor Tavares | Sim |
-| PS02 | Mostrar, antes do calendário, a lista de pré-requisitos (curso, biometria e exames) com a situação de cada um, o que levar e o caminho para resolver o que faltar, e enviar lembretes das etapas marcadas, como sugeriu P3 (22:29–23:57). | 3 | Henrique Schneider | Sim (Tela 2) |
+| PS02 | Mostrar, antes do calendário, a lista de pré-requisitos (curso, biometria e exames) com a situação de cada um, o que levar e o caminho para resolver o que faltar, e enviar lembretes das etapas marcadas, como sugeriu P3 (22:29–23:43). | 3 | Henrique Schneider | Sim (Tela 2) |
 | PS03 | Mostrar a disponibilidade por unidade em um calendário e sugerir a data livre mais próxima, como recomenda a HTA (objetivo 3). | 3 | Henrique Schneider | Sim (Tela 3 e tarefa T2) |
 | PS04 | Reservar o horário antes do pagamento e testar no protótipo um prazo de reserva de 24 horas, sugerido por P3, com aviso uma hora antes de expirar e mensagem informando que a vaga foi liberada (21:03–22:18). | 3 | Henrique Schneider | Sim (Tela 4 e tarefa T4) |
 | PS05 | Dar ao serviço um nome específico (por exemplo, “Habilitação – CNH”), destacá-lo entre os serviços mais acessados do gov.br, como sugeriu P4 (10:59–11:13), e mostrar no início do serviço as etapas do processo e em qual delas o candidato está. | 3 | Henrique Schneider | Sim (Telas 1 e 2) |
@@ -294,7 +296,7 @@ Fonte: Elaborado pelos autores (2026).
 - **Nível de abstração do storyboard:** o storyboard representa a tarefa em desenhos simplificados, então não permite avaliar detalhes de leiaute, rótulos e mensagens da interface.
 - **Fontes sobre o portal:** alguns fluxos atuais do portal foram descritos com base em fontes secundárias e na experiência dos integrantes, pois certas telas exigem login gov.br.
 - **Sessão de P3 (storyboard de Henrique Schneider):** o arquivo enviado à participante antes da sessão não era o storyboard, que foi mostrado por compartilhamento de tela a partir de 12:39; desde cerca de 13:30, a página de apoio ao entrevistador, com as perguntas do roteiro, ficou visível junto com o storyboard. Além disso, P3 já é habilitada e não fez o agendamento sozinha, então suas respostas sobre o processo atual são relatos indiretos.
-- **Sessão de P4 (storyboard de Henrique Schneider):** o participante, habilitado há 39 anos, está fora do perfil “Candidato à habilitação” e não se lembrava do agendamento; por isso, o entrevistador descreveu o fluxo atual antes das perguntas do Bloco 1 (3:33–4:13). Na pergunta P9, a proposta foi descrita como pagamento depois da prova, e não como no storyboard, em que o pagamento ocorre durante a reserva, antes da prova (12:59–13:47); as respostas sobre o prazo foram consideradas apenas quanto à duração da reserva.
+- **Sessão de P4 (storyboard de Henrique Schneider):** o participante, habilitado há 39 anos, está fora do perfil “Candidato à habilitação” e não se lembrava do agendamento; por isso, o entrevistador descreveu o fluxo atual antes das perguntas do Bloco 1 (3:33–4:13). Na pergunta P9, a proposta foi descrita como pagamento depois da prova, e não como no storyboard, em que o pagamento ocorre durante a reserva, antes da prova (12:59–13:47); as respostas sobre o prazo foram consideradas apenas quanto à duração da reserva. Nas duas sessões de Henrique Schneider não houve relator: o registro foi feito pela gravação e pela transcrição automática do Teams.
 
 - **Sessão de P2 (Alexandre):** um participante, roteiro apoiado em transcrição automática e respostas parcialmente conduzidas por sondagens (4:45–5:34, 6:50–6:54 e 8:25–8:32). A navegação prévia é mencionada, mas não foram reconstruídos todos os cliques. Os dados sustentam preferência e utilidade percebida, não redução de tempo, execução integral do redesign ou validação de todos os seus controles. A data e o perfil vêm do registro coletivo; local e recrutamento permanecem sem informação.
 
@@ -456,7 +458,7 @@ Fonte: BARBOSA; SILVA (2010, p. 359).
 ### 3.4. I — Identificar e Administrar as Questões Práticas
 
 - **Papéis:** cada sessão terá dois avaliadores, um que simula o sistema (“computador”) e um observador que registra a sessão. Barbosa e Silva indicam que a coleta de dados nesse método “deve ser realizada por pelo menos dois avaliadores: um responsável por simular o comportamento do sistema e outro por observar a experiência de uso” (BARBOSA; SILVA, 2010, cap. 10, seção 10.2.3, p. 360, 2º parágrafo), conforme a Figura 13.
-- **Participantes:** cinco participantes, um para cada protótipo, recrutados entre os perfis condutor habilitado e candidato à habilitação, preferencialmente diferentes dos participantes da avaliação dos storyboards. O número foi definido pelo prazo da entrega e pela disponibilidade dos avaliadores, critérios que Barbosa e Silva apontam para a escolha da avaliação (BARBOSA; SILVA, 2010, cap. 9, seção 9.6, p. 303, 3º parágrafo).
+- **Participantes:** pelo menos um participante para cada um dos quatro protótipos (o número de cada integrante está na seção 3.8), recrutados entre os perfis condutor habilitado e candidato à habilitação, preferencialmente diferentes dos participantes da avaliação dos storyboards. O número foi definido pelo prazo da entrega e pela disponibilidade dos avaliadores, critérios que Barbosa e Silva apontam para a escolha da avaliação (BARBOSA; SILVA, 2010, cap. 9, seção 9.6, p. 303, 3º parágrafo).
 - **Local e modalidade:** sessões presenciais no campus UnB Gama (FCTE) ou em local escolhido pelo participante. A modalidade presencial é necessária porque o participante manipula as telas de papel.
 - **Duração:** até 30 minutos por sessão, incluindo TCLE, tarefas e entrevista pós-teste.
 - **Materiais:** telas desenhadas à mão, recortes para menus, mensagens e listas, notas adesivas, canetas, cenários das tarefas impressos, TCLE, roteiro de entrevista pré e pós-teste e celular para gravação de áudio.
@@ -505,7 +507,7 @@ Antes de tirar conclusões, o grupo considerará a confiabilidade dos dados e as
 
 ### 3.7. Teste Piloto
 
-O teste piloto será realizado em 2/10/2026, com um integrante do grupo no papel de participante, antes das sessões definitivas. Seu objetivo, segundo Barbosa e Silva, “é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo” (BARBOSA; SILVA, 2010, cap. 9, seção 9.7.2, p. 307, 2º parágrafo), conforme a Figura 4. O piloto verificará a clareza das instruções e dos cenários, o tempo de cada tarefa e o funcionamento da gravação. Os resultados do piloto não serão apresentados no relato da avaliação, pois esses dados devem ser descartados (BARBOSA; SILVA, 2010, cap. 9, p. 307, 3º parágrafo).
+O teste piloto será realizado em 28/10/2026, com um integrante do grupo no papel de participante, antes das sessões definitivas. Seu objetivo, segundo Barbosa e Silva, “é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo” (BARBOSA; SILVA, 2010, cap. 9, seção 9.7.2, p. 307, 2º parágrafo), conforme a Figura 4. O piloto verificará a clareza das instruções e dos cenários, o tempo de cada tarefa e o funcionamento da gravação. Os resultados do piloto não serão apresentados no relato da avaliação, pois esses dados devem ser descartados (BARBOSA; SILVA, 2010, cap. 9, p. 307, 3º parágrafo).
 
 ### 3.8. Cronograma da Avaliação do Protótipo de Papel por Integrante
 
@@ -513,7 +515,7 @@ Cada integrante planeja a avaliação do seu próprio protótipo de papel e regi
 
 #### 3.8.1. Protótipo de Papel e Sessões — Henrique Schneider
 
-O protótipo de papel de Henrique Schneider representa a tarefa do seu storyboard, agendar a prova teórica da primeira habilitação com reserva de horário (Fluxo 3, persona Camila; Tabela 5), na versão proposta da sua HTA (HTA do agendamento da prova teórica, v1.0, 22/10/2026). O protótipo será construído pelo próprio autor. Cada tela corresponde a um objetivo da HTA:
+O protótipo de papel de Henrique Schneider representa a tarefa do seu storyboard, agendar a prova teórica da primeira habilitação com reserva de horário (Fluxo 3, persona Camila; Tabela 5), na versão proposta da sua HTA (HTA do agendamento da prova teórica, v1.2, 25/10/2026, revisada após a avaliação do storyboard). O protótipo será construído pelo próprio autor. Cada tela corresponde a um objetivo da HTA:
 
 - Tela 1 – entrada com a conta gov.br e abertura do serviço “Habilitação” (objetivos 1.1 e 1.2);
 - Tela 2 – pré-requisitos, com a situação do curso teórico, da biometria e dos exames (objetivo 2);
@@ -531,7 +533,7 @@ Fonte: BARBOSA; SILVA (2010, p. 358).
 
 Autor do item de conteúdo (Figura 15): Henrique Schneider.
 
-Os participantes executarão as tarefas abaixo. Cada uma deve durar bem menos que o limite de 20 minutos por tarefa indicado por Barbosa e Silva (2010, cap. 9, seção 9.7.2, p. 306, 3º parágrafo), para que a sessão caiba nos 30 minutos previstos na seção 3.4:
+Os participantes executarão as tarefas abaixo. Cada uma deve durar bem menos que o limite de 20 minutos por tarefa indicado por Barbosa e Silva (2010, cap. 9, seção 9.7.2, p. 306, 2º parágrafo), para que a sessão caiba nos 30 minutos previstos na seção 3.4:
 
 - T1 – “Você terminou o curso teórico e quer fazer a prova na unidade de Taguatinga. Agende a prova para a data mais próxima, no período da manhã.” (objetivos 1 a 4.1);
 - T2 – “Na data que você escolheu não há horário disponível. Encontre outra opção.” (plano 3);
@@ -667,7 +669,7 @@ A Tabela 20 registra as atividades realmente executadas nesta entrega, com o res
 | Consolidação e relato dos resultados | Henrique Schneider | 24/10/2026 | 25/10/2026 | Concluída (Henrique) |
 | Planejamento da avaliação do protótipo de papel | Henrique Schneider | 25/10/2026 | 25/10/2026 | Concluído (Henrique) |
 | Planejamento do relato do protótipo de papel | Henrique Schneider | 25/10/2026 | 25/10/2026 | Concluído (Henrique) |
-| Gravação do vídeo de apresentação | — | — | — | — |
+| Gravação do vídeo de apresentação | Henrique Schneider | 25/10/2026 | 25/10/2026 | Concluída (Henrique: [https://youtu.be/m-QXJ-4WZkI](https://youtu.be/m-QXJ-4WZkI)) |
 | Publicação no GitHub Pages | — | — | — | — |
 | Sessão de avaliação de vistoria | Alexandre Vilar | 25/10/2026 | 25/10/2026 | Realizada com P2, conforme o registro da Tabela 4 e a gravação |
 | Registro do teste-piloto e análise de seu procedimento | Alexandre Vilar | Não informado (sessão) | 25/10/2026 (registro) | Gravação e análise operacional publicadas; data da sessão do piloto a confirmar |
