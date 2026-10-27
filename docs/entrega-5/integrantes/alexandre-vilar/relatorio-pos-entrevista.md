@@ -17,8 +17,9 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Reserva do espaço para inclusão posterior do relatório | Alexandre Vilar, com apoio do ChatGPT | — |
-
 | 25/10/2026 | 1.1 | Publicação da análise das dez questões, evidências, limitações e encaminhamentos | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.3 | Inclusão de local, modalidade, recrutamento, duração, limite do piloto e revisão prevista | Alexandre Vilar, com apoio do ChatGPT | — |
 Fonte: registro desta versão (2026).
 
 ## 1. Identificação e objetivo
@@ -31,9 +32,11 @@ Objetivo: analisar as dificuldades relatadas na busca de orientações para vist
 | --- | --- |
 | Fonte | [Gravação da entrevista](https://www.youtube.com/watch?v=U1eg2EeanWg) |
 | Duração da gravação | 8 minutos e 58 segundos; duração exibida pelo player |
-| Participação analisada | Um entrevistador e um participante, identificado neste relato como P01 |
-| Perfil disponível | O entrevistador informa que P01 já havia navegado no portal; a conversa aborda essa experiência. Idade, ocupação, experiência prévia com vistoria e critérios de recrutamento não são informados. |
-| Data e modalidade da sessão | Data, local e modalidade não informados na transcrição; confirmação pendente do responsável. |
+| Participação analisada | Um entrevistador e um participante: P01 neste relato, correspondente a P2 no relatório coletivo (mesma gravação) |
+| Perfil e recrutamento | P01/P2: 21 anos, habilitado, condutor, experiência básica no portal; amigo de Alexandre convidado pessoalmente. Sem experiência prévia com a tarefa de vistoria investigada, conforme esclarecimento do autor. |
+| Data da sessão | 25/10/2026, conforme o registro da Tabela 4 do relatório coletivo. A transcrição não informa a data. |
+| Local e modalidade | Casa de Alexandre; presencial, conforme informação do responsável. |
+| Duração total da sessão | Aproximadamente 10 minutos, estimativa informada por Alexandre. |
 | Data deste relatório | 25/10/2026; não corresponde necessariamente à data da sessão. |
 
 ## 2. Método e procedimento registrado
@@ -129,7 +132,7 @@ O HTA do redesign foi elaborado antes da entrevista. Os dados fornecem apoio exp
 
 ## 6. Limitações e cuidados na interpretação
 
-Participação única: os resultados descrevem P01 e não permitem identificar recorrência entre usuários ou generalizar a preferência. Não foram informados todos os elementos do perfil e do recrutamento.
+Participação única e recrutamento por conveniência: os resultados descrevem P01/P2, amigo habilitado convidado pessoalmente por Alexandre, sem experiência prévia com a tarefa de vistoria investigada. A relação com o entrevistador pode influenciar as respostas. Os dados não permitem medir recorrência entre usuários ou generalizar a preferência.
 
 Dados autorrelatados: a transcrição informa navegação anterior, mas não permite reconstituir todos os cliques, o ponto exato das dificuldades ou a conclusão da tarefa. Não foram coletadas medidas comparáveis de duração, erros ou sucesso de uso da proposta.
 
@@ -139,6 +142,8 @@ Influência da condução: em 4:45-5:34, o entrevistador direciona o acompanhame
 
 Fonte automática: há erros de reconhecimento de fala e marcação nem sempre clara da troca de falantes. Por isso, este relato usa paráfrases, e os horários devem ser conferidos na gravação antes da publicação acadêmica definitiva. O piloto foi analisado separadamente na [página da avaliação](avaliacao.md#5-teste-piloto). Suas respostas não foram incorporadas aos resultados definitivos deste relatório.
 
+**Limite do piloto:** O participante do piloto ajudou na preparação do material. Isso diverge da recomendação de utilizar alguém que não tenha participado do planejamento e da preparação da avaliação (Barbosa et al., 2021, p. 260). O ensaio serviu à verificação técnica e à fluidez da condução; não constitui uma verificação independente da compreensão por um usuário não envolvido. Suas respostas não integram os resultados definitivos. O piloto foi realizado com PP01 em 24/10/2026, uma pessoa diferente de P01/P2; as respostas das duas pessoas não foram misturadas.
+
 ## 7. Conclusão
 
 Nesta entrevista, P01 relatou dificuldade para localizar orientações de vistoria e identificar onde seria atendido. Considerou o caminho complexo, reconheceu correspondência geral do HTA com sua experiência e manifestou preferência pela proposta do storyboard por percebê-la como mais direta e informativa.
@@ -147,10 +152,12 @@ As evidências justificam investigar melhorias na visibilidade e na organizaçã
 
 ## Referências
 
-GRAVAÇÃO DA ENTREVISTA. Proposta de agendamento de vistoria do Detran-DF. YouTube, vídeo U1eg2EeanWg, duração exibida de 8min58s. Disponível em: [YouTube](https://www.youtube.com/watch?v=U1eg2EeanWg). Data da sessão não informada na transcrição.
+GRAVAÇÃO DA ENTREVISTA. Proposta de agendamento de vistoria do Detran-DF. YouTube, vídeo U1eg2EeanWg, duração exibida de 8min58s. Disponível em: [YouTube](https://www.youtube.com/watch?v=U1eg2EeanWg). Data da sessão: 25/10/2026; local: casa de Alexandre; modalidade: presencial; duração total estimada em cerca de 10 minutos, conforme registro coletivo e informações complementares do autor.
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. Interação Humano-Computador e Experiência do Usuário. 2021. Seções 11.7.4 e 11.7.5, pp. 262-263; seção 11.8, p. 264.
 
+
+Os resultados foram incorporados ao [relatório coletivo](../../relatorio-do-grupo.md), com a equivalência P01/P2 e a identificação do Fluxo 5. PS08 propõe severidade 3 para a dificuldade de localização, como julgamento exploratório a revisar. PH05–PH07 registram lacunas do modelo; não são apresentados como correções já feitas nos diagramas.
 
 ## 8. Encaminhamento das recomendações
 
@@ -168,8 +175,14 @@ Fonte: decisões anteriores do autor e análise desta entrevista. Recomendaçõe
 
 ## Agradecimentos e uso de IA generativa
 
-O relato foi preparado com apoio do ChatGPT (OpenAI), a pedido de Alexandre Vilar, a partir da transcrição automática da gravação. As evidências estão indicadas por horários aproximados; os dados não foram fabricados. Recomenda-se ao responsável conferir os trechos e completar os registros da sessão antes da versão acadêmica definitiva.
+O relato foi preparado com apoio do ChatGPT (OpenAI), a pedido de Alexandre Vilar, a partir da transcrição automática da gravação. As evidências estão indicadas por horários aproximados; os dados não foram fabricados. Os dados da sessão foram complementados pelo autor. João Vitor é o revisor previsto; a conferência dos trechos e da análise ainda não está registrada como concluída.
+
+## Revisão prevista
+
+João Vitor foi indicado por Alexandre como revisor previsto dos materiais. A revisão ainda não está registrada como realizada; por isso, os históricos não o apresentam como revisor de uma versão já conferida.
 
 [Voltar à avaliação individual](avaliacao.md).
 
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
+
+**Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
