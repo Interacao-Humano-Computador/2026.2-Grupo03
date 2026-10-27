@@ -11,6 +11,11 @@ permissions:
   pages: write
   id-token: write
 
+# Um deploy por vez; um push novo não cancela o deploy que já está em andamento.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -27,15 +32,23 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: 3.x
+          cache: pip
 
       - name: Instalar dependências
         run: pip install -r requirements.txt
 
       - name: Configurar GitHub Pages
+        id: pages
         uses: actions/configure-pages@v5
 
       - name: Gerar documentação
-        run: mkdocs build
+        env:
+          # Endereço do site e do repositório que está publicando (oficial ou fork)
+          SITE_URL: ${{ steps.pages.outputs.base_url }}/
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+          REPO_NAME: ${{ github.repository }}
+          DISABLE_MKDOCS_2_WARNING: "true"
+        run: mkdocs build --strict
 
       - name: Fazer upload do site
         uses: actions/upload-pages-artifact@v3

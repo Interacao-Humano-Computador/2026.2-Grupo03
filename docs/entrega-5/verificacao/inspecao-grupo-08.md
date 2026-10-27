@@ -252,10 +252,10 @@ A IA generativa foi usada exclusivamente como auxílio, conforme o Código de Co
 | Etapa | Ferramenta de IA | Auxílio prestado | Verificação humana |
 | :--- | :--- | :--- | :--- |
 | 1. Transcrição e adaptação da lista | Claude | Extração dos itens do Plano de Ensino e adaptação à Entrega 5 | Conferência dos itens com o PDF do plano |
-| 2. Redação dos itens criados pelo grupo (R e N) | Claude | Proposta de redação dos itens, distribuídos entre os integrantes | Henrique Schneider Fernandes da Rosa |
-| 3. Justificativas e evidências | Claude | Leitura das páginas do Grupo 08 e redação das justificativas a partir das respostas dadas na gravação | Henrique Schneider Fernandes da Rosa |
-| 4. Minutos e horários | Claude | Estimativa dos minutos pela posição de cada item na transcrição | Henrique Schneider Fernandes da Rosa |
-| 5. Página e figuras | Claude | Montagem desta página e recorte das fotos das fontes | Henrique Schneider Fernandes da Rosa |
+| 2. Redação dos itens criados pelo grupo (R e N) | Claude | Proposta de redação dos itens, distribuídos entre os integrantes | **[VERIFICAR: revisão e aprovação de cada item pelo seu autor]** |
+| 3. Justificativas e evidências | Claude | Leitura das páginas do Grupo 08 e redação das justificativas a partir das respostas dadas na gravação | **[VERIFICAR: conferência das justificativas]** |
+| 4. Minutos e horários | Claude | Estimativa dos minutos pela posição de cada item na transcrição | **[VERIFICAR: conferência no vídeo]** |
+| 5. Página e figuras | Claude | Montagem desta página e recorte das fotos das fontes | **[VERIFICAR: revisão final]** |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
