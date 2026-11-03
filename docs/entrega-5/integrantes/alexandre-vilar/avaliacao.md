@@ -17,8 +17,9 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Organização do procedimento de avaliação e dos materiais da entrevista | Alexandre Vilar, com apoio do ChatGPT | — |
-
 | 25/10/2026 | 1.1 | Registro do perfil disponível, sessão definitiva, análise operacional do piloto e ligação ao relato | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.3 | Registro dos dados informados pelo autor sobre sessões, piloto, ajustes e planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | — |
 Fonte: registro desta versão (2026).
 
 ## 1. Objetivo e escopo
@@ -43,23 +44,29 @@ A avaliação proposta utiliza entrevista semiestruturada apoiada no HTA e no st
 
 ## 3. Perfil dos participantes
 
-Foi analisado **um participante da entrevista definitiva**, identificado como **P01**. O entrevistador informa que ele havia navegado no portal antes das perguntas (0:59-1:09). P01 relata dificuldades para localizar orientações de vistoria. Forma de recrutamento e experiência anterior com vistoria não foram informadas; não se inferem idade, ocupação ou outros dados de perfil.
+Foi analisado um participante da sessão definitiva, **P01 neste relato e P2 no relatório coletivo** (mesma gravação U1eg2EeanWg): 21 anos, condutor habilitado e experiência básica no portal, conforme a Tabela 4 do relatório coletivo. Alexandre esclareceu que ele é um amigo que possui habilitação e dirige, convidado pessoalmente. Trata-se de recrutamento por conveniência. Não tinha experiência prévia com a tarefa de vistoria investigada; ao ser convidado a realizá-la no portal, considerou o processo confuso. Não se extrapola essa informação para todos os serviços do Detran.
 
-O participante do piloto é tratado separadamente. Não foi confirmado se é uma pessoa distinta de P01 ou se teve envolvimento no planejamento; essas informações permanecem pendentes de registro.
+O piloto foi realizado com **outra pessoa**, identificada aqui como **PP01**, que ajudou na preparação do material. PP01 não é o participante P01/P2 da entrevista definitiva. Seus dados não são somados à análise de P2.
 
 ### 3.1 Registro da sessão definitiva
 
-| Campo | Registro disponível |
+| Campo | Registro |
 | --- | --- |
 | Fonte | [Gravação da entrevista](https://www.youtube.com/watch?v=U1eg2EeanWg) |
-| Participantes analisados | Um participante (P01) e um entrevistador |
-| Responsável pelo material | Alexandre Vilar |
-| Data, local e modalidade da sessão | Não informados na transcrição; confirmar com o responsável |
-| Duração da gravação | 8min58s, conforme o player; a duração total da sessão não foi informada |
-| Navegação no portal | Mencionada como anterior à aplicação do roteiro; não foi reconstruído o percurso completo de cliques |
-| Materiais apresentados | HTA, planos e storyboard, apresentados na abertura da entrevista |
-| Coleta | Dez perguntas abertas e sondagens, aproximadamente entre 1:58 e 8:53 |
-| Análise | Interpretação individual por questão, com evidências e limitações no [relatório](relatorio-pos-entrevista.md) |
+| Participantes analisados | Um participante (P01/P2) e um entrevistador |
+| Responsável pelo material e pela condução | Alexandre Vilar |
+| Data | 25/10/2026 |
+| Local e modalidade | Casa de Alexandre; presencial |
+| Recrutamento | Amigo habilitado e condutor, convidado pessoalmente |
+| Experiência com a tarefa | Sem experiência prévia com a vistoria investigada, conforme esclarecimento do autor |
+| Duração total aproximada | Cerca de 10 minutos, estimativa informada por Alexandre |
+| Duração da gravação | 8min58s, conforme o player; não se confunde com a estimativa da sessão completa |
+| Navegação no portal | Anterior à aplicação do roteiro, mencionada em 0:59–1:09; não foram reconstruídos todos os cliques |
+| Materiais apresentados | HTA, planos e storyboard |
+| Coleta | Dez perguntas e sondagens, aproximadamente entre 1:58 e 8:53 |
+| Análise | [Relatório pós-entrevista](relatorio-pos-entrevista.md), com evidências, interpretação e limitações |
+
+Fonte: gravação, registro coletivo e informações complementares fornecidas por Alexandre em 25/10/2026.
 
 ## 4. Materiais avaliados
 
@@ -95,10 +102,15 @@ Antes da sessão definitiva, o teste-piloto deve verificar a clareza das pergunt
 
 Fonte: análise da transcrição automática do [vídeo do piloto](https://www.youtube.com/watch?v=F2KLex1QFd0). Horários aproximados. As opiniões do participante do piloto não foram somadas às respostas de P01.
 
-### 5.2 Ajustes e limites do registro
+### 5.2 Dados confirmados e ajustes após o piloto
 
-O ajuste com evidência explícita foi a organização da navegação com o notebook antes da entrevista. A comparação com a abertura da sessão definitiva é compatível com sua aplicação. Não foram informadas a data do piloto, a identidade de seu participante ou uma lista formal de todas as mudanças executadas. A repetição de pergunta e o esclarecimento de foco são oportunidades de melhoria identificadas nesta análise, não alterações já comprovadas.
+O piloto ocorreu em **24/10/2026, presencialmente na casa de Alexandre**, depois da elaboração das perguntas. Seu objetivo imediato era verificar o enquadramento e o áudio da sala. A gravação publicada tem 8min47s; a duração total do ensaio não foi informada.
 
+Além de organizar a navegação com o notebook antes das perguntas, Alexandre informou os seguintes ajustes: **desligou o ventilador, posicionou o celular na horizontal e modificou a abordagem de algumas perguntas para facilitar a conversa**. As mudanças de formulação não foram documentadas item a item; não se atribuem a elas efeitos de melhoria que não foram medidos.
+
+O participante do piloto ajudou na preparação do material. Isso diverge da recomendação de utilizar alguém que não tenha participado do planejamento e da preparação da avaliação (Barbosa et al., 2021, p. 260). O ensaio serviu à verificação técnica e à fluidez da condução; não constitui uma verificação independente da compreensão por um usuário não envolvido. Suas respostas não integram os resultados definitivos.
+
+Para o próximo piloto, relativo ao protótipo de papel, deverá ser convidada uma pessoa que não tenha colaborado no planejamento e na preparação dessa nova avaliação. O piloto do storyboard de 24/10 não substitui esse ensaio futuro.
 
 ## 6. Vídeo da entrevista
 - O consentimento foi obtido por meio do TCLE que foi apresentado ao entrevistado;
@@ -116,14 +128,14 @@ O [relatório pós-entrevista](relatorio-pos-entrevista.md) apresenta as dez res
 
 Analisar inicialmente cada participante separadamente, relacionando as falas e observações às questões do roteiro. Se houver vários participantes, comparar os achados e registrar recorrências e divergências. Para cada questão, apresentar uma resposta apoiada em evidências ou indicar a insuficiência dos dados. O relato deve registrar objetivos, método, perfis, resumo dos dados, interpretação, problemas e recomendações (Barbosa et al., 2021, seções 11.7.4 e 11.7.5, pp. 262-263).
 
-## 9. Registros ainda a confirmar
+## 9. Próxima avaliação e revisão
 
-- Data, local e modalidade do piloto e da entrevista definitiva.
-- Forma de recrutamento e experiência anterior de P01 com vistoria, se pertinentes ao perfil definido.
-- Relação entre os participantes do piloto e da sessão definitiva e eventual participação no planejamento.
-- Duração total das sessões, caso tenha sido registrada fora das gravações.
+- **Previsão provisória:** piloto e sessões do protótipo até 28/10/2026, possivelmente na casa de Alexandre; data e horário exatos ainda a confirmar.
+- **Participantes pretendidos:** duas pessoas habilitadas. Alexandre considera convidar novamente o participante do storyboard; a familiaridade anterior será registrada e os novos dados serão tratados como avaliação do protótipo, sem misturá-los aos da sessão anterior.
+- **Apoio confirmado:** João Vitor. Distribuição de papéis proposta: Alexandre simula o sistema e João Vitor observa/anota; confirmar a divisão antes da sessão.
+- **Revisor previsto:** João Vitor. A revisão não está registrada como concluída.
 
-Essas informações não foram inferidas a partir da data de publicação dos arquivos ou do tempo dos vídeos.
+Permanecem a definir os horários, a confirmação dos participantes e do local, a divisão final dos papéis e o tempo estimado de cada tarefa do protótipo. O perfil e a duração total de PP01 não foram detalhados; isso fica registrado como limite documental do piloto já realizado.
 
 ## Referências
 
@@ -134,3 +146,5 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selba
 **Uso de IA generativa nesta página.** Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de Alexandre Vilar, para apoiar a organização do conteúdo, a redação das páginas, a estruturação dos HTAs e a adaptação das perguntas do livro. O storyboard foi desenhado por Alexandre e mantido na versão fornecida. Não foram gerados dados de participantes, resultados ou registros de entrevistas. A responsabilidade pelo conteúdo e pela revisão é dos autores.
 
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
+
+**Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.

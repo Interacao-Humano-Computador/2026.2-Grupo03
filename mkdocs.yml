@@ -9,7 +9,7 @@ edit_uri: edit/main/docs/
 
 validation:
   unrecognized_links: warn
-  not_in_nav: ignore
+  omitted_files: ignore
   
 theme:
   name: material
@@ -242,6 +242,7 @@ nav:
   - "Entrega 5":
     - Relatório da entrega: entrega-5/relatorio.md
     - Contribuições: entrega-5/contribuicoes.md
+    - Inspeção do Grupo 08: entrega-5/verificacao/inspecao-grupo-08.md
     - Relatório do grupo: entrega-5/relatorio-do-grupo.md
     - Lista de verificação: entrega-5/verificacao/lista-de-verificacao.md
     - Material dos integrantes:
@@ -251,6 +252,7 @@ nav:
         - HTA do processo atual: entrega-5/integrantes/alexandre-vilar/hta-atual.md
         - Storyboard: entrega-5/integrantes/alexandre-vilar/storyboard.md
         - HTA do redesign: entrega-5/integrantes/alexandre-vilar/hta-redesign.md
+        - Planejamento do protótipo de papel: entrega-5/integrantes/alexandre-vilar/prototipo-papel.md
         - Roteiro de entrevista e fontes: entrega-5/integrantes/alexandre-vilar/roteiro-entrevista.md
         - Vídeo da entrevista: entrega-5/integrantes/alexandre-vilar/video-entrevista.md
         - Relatório pós-entrevista: entrega-5/integrantes/alexandre-vilar/relatorio-pos-entrevista.md
@@ -280,6 +282,19 @@ nav:
         - Roteiro de entrevista: entrega-5/integrantes/gabriel-robson/roteiro-entrevista.md
         - Estado da avaliação: entrega-5/integrantes/gabriel-robson/avaliacao.md
         - Protótipo demonstrativo: entrega-5/integrantes/gabriel-robson/prototipo.html
+
+  - "Entrega 6":
+    - Material dos integrantes:
+      - Henrique Schneider:
+        - Visão geral: entrega-6/integrantes/henrique-schneider/index.md
+        - Roteiro do protótipo de papel: entrega-6/integrantes/henrique-schneider/prototipo-papel.md
+        - Especificação da alta fidelidade: entrega-6/integrantes/henrique-schneider/especificacao-alta-fidelidade.md
+        - Planejamento do teste de usabilidade: entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md
+      - João Vitor:
+        - Visão geral: entrega-6/integrantes/joao-vitor/index.md
+        - Protótipo de papel: entrega-6/integrantes/joao-vitor/prototipo-papel.md
+        - Planejamento da alta fidelidade: entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md
+        - Vídeo da avaliação: entrega-6/integrantes/joao-vitor/video-avaliacao.md
 
   - Trabalhos Avaliativos:
     - Visão geral: trabalhos-avaliativos/index.md

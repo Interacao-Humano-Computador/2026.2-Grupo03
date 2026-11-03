@@ -6,7 +6,7 @@
 
 | Integrante | Material | Evidência | Gravação |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro, registros do piloto e da entrevista e relato dos resultados; apoio de IA na organização e análise | [Visão geral](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
+| Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro, piloto, entrevista, relato individual e consolidação de P2/Fluxo 5 no relatório do grupo; apoio de IA na organização e análise | [Visão geral](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
 | Gabriel Robson Nunes Neiva da Silva | Proposta de renovação guiada da CNH: HTAs, roteiro textual de storyboard, roteiro de entrevista e protótipo demonstrativo; avaliação pendente | [Visão geral](integrantes/gabriel-robson/index.md) | Não realizada |
 | Henrique Schneider Fernandes da Rosa | Storyboard, HTA, roteiro, entrevistas com P1 e P2, relato dos resultados, planejamento individual do protótipo de papel e relatório do grupo; apoio de IA na organização e análise | [Visão geral](integrantes/henrique-schneider/index.md) | [Vídeos](integrantes/henrique-schneider/video-entrevista.md) |
 | João Vitor Tavares de Sá Lima | HTAs de biometria, storyboard, roteiro, avaliação e relato dos resultados; gravações publicadas | [Visão geral](integrantes/joao-vitor/index.md) | [Vídeos](integrantes/joao-vitor/video-entrevista.md) |
@@ -20,9 +20,12 @@ Fonte: materiais fornecidos para esta atualização (2026). As demais contribui�
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Organização dos materiais disponíveis de Alexandre | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.1 | Atualização das evidências de Alexandre com gravações, piloto e análise pós-entrevista | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.2 | Inclusão dos materiais de João Vitor | João Vitor, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.3 | Atualização do status dos vídeos, avaliação e relato de João Vitor | João Vitor, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider | Henrique Schneider, com apoio do Claude | Gabriel Robson |
+| 25/10/2026 | 1.5 | Registro da consolidação de Alexandre, conferência do Fluxo 5 e escopo preparatório do protótipo | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.6 | Registro do apoio e revisão previstos de João Vitor e da logística provisória do protótipo | Alexandre Vilar, com apoio do ChatGPT | — |
 
 ## 1. Introdução
 
@@ -41,8 +44,9 @@ Esta matriz acompanha os materiais incorporados à [Entrega 5](relatorio.md). As
 | Gravação da sessão | [Vídeo da entrevista](integrantes/alexandre-vilar/video-entrevista.md) | Publicado |
 | Teste-piloto e ajuste de procedimento | [Registro do piloto](integrantes/alexandre-vilar/avaliacao.md#5-teste-piloto) | Gravação e verificações documentadas |
 | Análise e relato | [Relatório pós-entrevista](integrantes/alexandre-vilar/relatorio-pos-entrevista.md) | Publicado |
+| Consolidação de P2 e conferência documental do Fluxo 5 | [Relatório do grupo](relatorio-do-grupo.md) | Respostas, PS08 e PH05–PH07 incorporados; revisão por pares não registrada |
+| Preparação da avaliação do protótipo de vistoria | [Escopo de Alexandre](relatorio-do-grupo.md#382-escopo-preparatorio-do-prototipo-de-papel-alexandre-vilar) | Meta de duas pessoas e apoio de João Vitor; prazo até 28/10 e local são provisórios |
 
-| 25/10/2026 | 1.1 | Atualização das evidências de Alexandre com gravações, piloto e análise pós-entrevista | Alexandre Vilar, com apoio do ChatGPT | — |
 Fonte: materiais desta atividade (2026).
 
 ## Agradecimentos e uso de IA generativa
@@ -83,3 +87,9 @@ Fonte: materiais fornecidos por João Vitor (2026).
 | Relatório do grupo | [Relatório do grupo](relatorio-do-grupo.md) | Publicado a partir do Google Docs (v1.8) |
 
 Fonte: materiais fornecidos por Henrique Schneider (2026). O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta seção.
+
+## Revisão prevista dos materiais de Alexandre
+
+João Vitor foi indicado por Alexandre como revisor previsto dos materiais. A revisão ainda não está registrada como realizada; por isso, os históricos não o apresentam como revisor de uma versão já conferida.
+
+**Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.

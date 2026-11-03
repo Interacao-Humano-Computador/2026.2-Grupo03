@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Nenhuma até esta versão | — | — |
 | Gabriel Robson Nunes Neiva da Silva | Nenhuma até esta versão | — | — |
-| Henrique Schneider Fernandes da Rosa | Correção do título (versão 0.2) e inclusão das tabelas de vídeos por entrega (versões 1.0 e 1.1) | [Commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | — |
+| Henrique Schneider Fernandes da Rosa | Correção do título (versão 0.2) e inclusão das tabelas de vídeos por entrega (versões 1.0 e 1.1) e do vídeo da Entrega 5 (versão 1.2) | [Commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | — |
 | João Vitor Tavares de Sá Lima | Nenhuma até esta versão | — | — |
 
 Fonte: elaborado pelos autores (2026). A versão 0.1 da página foi criada pelo ex-integrante Eduardo Ribeiro Gomes da Silva (Tabela 2).
@@ -23,6 +23,7 @@ Fonte: elaborado pelos autores (2026). A versão 0.1 da página foi criada pelo 
 | 27/09/2026 | 0.2 | Correção do título (registro recuperado do commit 530579c) | Henrique Schneider | — |
 | 15/10/2026 | 1.0 | Inclusão das tabelas de vídeos por entrega, com os integrantes de cada gravação, a partir das atas, dos relatórios e do histórico do repositório | Henrique Schneider | — |
 | 17/10/2026 | 1.1 | Organização por entrega: inclusão da tabela de contribuição, do link do vídeo da Entrega 1 informado no relatório entregue e renumeração das tabelas | Henrique Schneider | — |
+| 25/10/2026 | 1.2 | Inclusão do vídeo de apresentação da Entrega 5 (parte de Henrique Schneider) na Tabela 3 | Henrique Schneider, com apoio do Claude (IA generativa) | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -44,6 +45,7 @@ A Tabela 3 lista as apresentações das entregas, com a data da apresentação e
 | 2 – Perfil do Usuário, Aspectos Éticos e Análise de Tarefas | 29/09/2026 | — | — | [Relatório](assets/pdfs/entregas/relatorio-entrega-2-grupo-03.pdf) |
 | 3 – Princípios Gerais, Metas de Usabilidade e Guia de Estilo | 08/10/2026 | — | — | — |
 | 4 – Planejamento da Avaliação do Storyboard e da Análise de Tarefas | 15/10/2026 | — | — | [Relatório](assets/pdfs/entregas/relatorio-entrega-4-grupo-03.pdf) |
+| 5 – Relato do Storyboard e da HTA e Planejamento do Protótipo de Papel | 27/10/2026 | [YouTube](https://youtu.be/m-QXJ-4WZkI) (parte de Henrique Schneider) | Henrique Schneider | [Relatório](entrega-5/relatorio-do-grupo.md) |
 
 Fonte: elaborado pelos autores (2026), com as datas do Plano de Ensino (SALES, 2026, pp. 4–5) e o link do vídeo da Entrega 1 informado no relatório entregue (GRUPO 03, 2026, p. 2).
 

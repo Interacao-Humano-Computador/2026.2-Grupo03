@@ -17,8 +17,8 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Estruturação do objetivo, da árvore de tarefas e dos planos do processo atual | Alexandre Vilar, com apoio do ChatGPT | — |
-
 | 25/10/2026 | 1.1 | Ligação aos resultados da entrevista e explicitação dos limites de validação | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
 Fonte: registro desta versão (2026).
 
 ## 1. Objetivo e recorte
@@ -69,6 +69,10 @@ O usuário identifica uma empresa credenciada, registra sua localização e comp
 ## Relação com os resultados da entrevista
 
 A [avaliação realizada](relatorio-pos-entrevista.md) registra reconhecimento parcial do caminho por P01, acompanhado de dificuldade para localizar orientações e identificar a empresa. A árvore permanece nesta versão; a validação não é considerada integral porque não foram reconstituídas todas as operações e os planos em uma tarefa concluída.
+
+## Conferência no relatório coletivo
+
+Este modelo está identificado como **Fluxo 5** na [avaliação coletiva](../../relatorio-do-grupo.md#24-sumario-dos-dados-coletados). A conferência documental distingue atendimento dos planos e da decomposição de lacunas na formulação do estado final e na especificação de entrada e feedback por operação (PH05–PH07). A árvore não foi alterada nesta consolidação. P01 corresponde ao participante coletivo P2.
 
 ## Referências
 

@@ -21,10 +21,11 @@ Fonte: materiais disponibilizados para esta organização (2026). A tabela não 
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Criação da página | Alexandre Vilar | João Vitor |
 | 25/10/2026 | 1.1 | Organização no padrão da Entrega 4; inclusão dos materiais de Alexandre e reserva dos espaços da entrevista e do relatório | Alexandre Vilar, com apoio do ChatGPT | — |
-
 | 25/10/2026 | 1.2 | Inclusão do relato e do registro do piloto; atualização dos materiais e situações de Alexandre | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.3 | Inclusão dos materiais de João Vitor e atualização da situação da entrega | João Vitor, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider e do relatório do grupo (Google Docs, v1.8) | Henrique Schneider, com apoio do Claude | Gabriel Robson |
+| 25/10/2026 | 1.5 | Inclusão da consolidação de Alexandre no relatório do grupo e sincronização do perfil de P2 | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.6 | Atualização dos dados confirmados da entrevista e do piloto de Alexandre e do planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | — |
 Fonte: histórico da página e registro desta atualização (2026).
 
 ## 1. Identificação
@@ -94,7 +95,7 @@ O HTA recebeu reconhecimento parcial de correspondência com o caminho relatado.
 
 O [piloto](integrantes/alexandre-vilar/avaliacao.md#5-teste-piloto) registra o ensaio do roteiro e a decisão de disponibilizar o notebook para navegação antes das perguntas. O procedimento é mencionado na abertura da entrevista definitiva. As opiniões do piloto não foram incorporadas à análise final de P01.
 
-Ainda faltam registros que dependem de confirmação do responsável: datas, locais e modalidades das sessões, recrutamento e relação entre os participantes do piloto e da entrevista definitiva.
+A entrevista de P2 (P01 no relato individual) ocorreu em 25/10/2026, presencialmente na casa de Alexandre, com duração aproximada de 10 minutos. O participante tem 21 anos, é habilitado e dirige, possui experiência básica no portal e foi convidado pessoalmente como amigo do autor. Não tinha experiência prévia com a tarefa de vistoria investigada. O piloto ocorreu em 24/10/2026, no mesmo local, com outra pessoa (PP01), que ajudou na preparação do material; essa condição está registrada como limitação metodológica, e as respostas do piloto não foram incorporadas aos resultados de P2.
 
 ### 5.4 Material de João Vitor
 
@@ -107,6 +108,10 @@ A gravação definitiva está publicada e o [relatório pós-entrevista](integra
 O material individual de Henrique Schneider aborda o **agendamento da prova teórica da primeira habilitação** (Fluxo 3 da HTA, persona Camila). O [storyboard](integrantes/henrique-schneider/storyboard.md) e a [HTA](integrantes/henrique-schneider/hta.md) apresentam a proposta de reservar o horário antes do pagamento e confirmar a prova quando o PIX compensa. O [roteiro](integrantes/henrique-schneider/roteiro-entrevista.md) foi testado em um piloto em 24/10/2026, e as duas entrevistas, com P1 e P2, foram realizadas em 25/10/2026 ([vídeos e transcrições](integrantes/henrique-schneider/video-entrevista.md)).
 
 O [relato dos resultados](integrantes/henrique-schneider/relatorio-pos-entrevista.md) registra sete problemas, com severidade, e o planejamento do reprojeto. O [planejamento individual do protótipo de papel](integrantes/henrique-schneider/prototipo-papel.md) corresponde à seção 3.8.1 do [relatório do grupo](relatorio-do-grupo.md).
+
+### 5.6 Consolidação da parte de Alexandre no relatório do grupo
+
+O [relatório coletivo](relatorio-do-grupo.md) incorpora as respostas de P2, a relação storyboard–HTA–perfil, PS08 e seu reprojeto, o Fluxo 5 e sua conferência documental. O escopo preparatório do protótipo de vistoria está definido. Alexandre pretende convidar duas pessoas habilitadas e contar com João Vitor como apoio e revisor previsto. A realização até 28/10/2026 e na casa de Alexandre é provisória; permanecem a confirmar horários, local, participantes e divisão final dos papéis. O registro individual e o coletivo usam os mesmos dados de perfil e de data disponíveis.
 
 ## 6. Inspeção e verificação
 
@@ -125,3 +130,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
 
 **Atualização com IA generativa em 25/10/2026 (Henrique Schneider).** O Claude (Anthropic), a pedido de Henrique Schneider, auxiliou na inclusão dos materiais de Henrique Schneider e do relatório do grupo nesta página. Não foram gerados dados de participantes, datas de sessão ou resultados.
+
+**Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.

@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Storyboard, HTA, roteiro, entrevistas com P1 e P2, relato dos resultados e planejamento individual do protótipo de papel | [Visão geral](index.md) | [Vídeos das entrevistas](video-entrevista.md) |
+| Henrique Schneider Fernandes da Rosa | Storyboard, HTA, roteiro, entrevistas com P1 e P2, relato dos resultados e planejamento individual do protótipo de papel | [Visão geral](index.md) | [Vídeos das entrevistas](video-entrevista.md); [Apresentação da Entrega 5](https://youtu.be/m-QXJ-4WZkI) |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -17,6 +17,7 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Publicação da visão geral do material de Henrique Schneider na Entrega 5 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.1 | Inclusão do vídeo de apresentação da Entrega 5 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -43,7 +44,7 @@ Fonte: elaborado pelo autor (2026).
 
 ## 3. Situação dos materiais
 
-Estão publicados o storyboard, a HTA (v1.2), o roteiro (v1.2), o relato dos resultados (v3.1), as gravações das duas sessões e as transcrições anonimizadas das duas sessões. O teste-piloto do roteiro foi realizado em 24/10/2026, às 15:24, pelo próprio autor.
+Estão publicados o storyboard, a HTA (v1.2), o roteiro (v1.2), o relato dos resultados (v3.1), as gravações das duas sessões e as transcrições anonimizadas das duas sessões. O vídeo de apresentação da parte de Henrique Schneider na Entrega 5 está no [YouTube](https://youtu.be/m-QXJ-4WZkI) (não listado). O teste-piloto do roteiro foi realizado em 24/10/2026, às 15:24, pelo próprio autor.
 
 O planejamento da avaliação do protótipo de papel está na [seção 3.8.1 do relatório do grupo](../../relatorio-do-grupo.md#381-prototipo-de-papel-e-sessoes-henrique-schneider) e na [página do protótipo](prototipo-papel.md). O [planejamento individual da Entrega 4](../../../entrega-4/integrantes/henrique-schneider/planejamento-individual.md) permanece como registro da etapa anterior.
 
