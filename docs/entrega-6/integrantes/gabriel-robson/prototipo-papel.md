@@ -8,69 +8,70 @@ Este protótipo apresenta uma proposta de fluxo para orientar o cidadão no proc
 
 ## 2. Sequência do protótipo
 
-### 2.1. Acesso ao agendamento presencial
+### 2.1. Acessar o agendamento presencial
 
-A primeira tela apresenta a área de agendamento e a opção de iniciar um atendimento presencial relacionado à renovação da CNH.
+A primeira tela apresenta a opção de atendimento presencial. O usuário seleciona essa opção para iniciar o fluxo de agendamento relacionado ao serviço desejado.
 
-![Tela inicial de agendamento presencial](imagens/01-agendamento-atendimento-presencial.jpeg)
+![Tela inicial de agendamento presencial](imagens/01-inicio-agendamento.jpg)
 
 *Figura 1 – Tela inicial com a opção de atendimento presencial. Fonte: elaborado pelo autor (2026).*
 
 ### 2.2. Iniciar um novo agendamento
 
-Nesta etapa, o usuário encontra a opção para iniciar um novo agendamento, dando continuidade ao fluxo.
+Depois de acessar a área de agendamento, o usuário encontra a opção **“Novo agendamento”**. Essa ação inicia uma nova solicitação, enquanto a opção “Voltar” permite retornar à tela anterior.
 
-![Opção de novo agendamento](imagens/02-novo-agendamento.jpeg)
+![Opção de novo agendamento](imagens/02-novo-agendamento.jpg)
 
 *Figura 2 – Tela com a opção “Novo agendamento”. Fonte: elaborado pelo autor (2026).*
 
-### 2.3. Informar os dados do atendimento
+### 2.3. Preencher as informações do agendamento
 
-A tela apresenta campos para selecionar as informações necessárias ao agendamento, como o tipo de atendimento e a localidade. O desenho representa a escolha dessas informações antes de avançar.
+Nesta etapa, o usuário deve selecionar as informações solicitadas pelo formulário, como o tipo de atendimento e a unidade/local de atendimento. Após preencher os campos, pode avançar para concluir a solicitação.
 
-![Seleção dos dados do agendamento](imagens/03-selecao-dados-agendamento.jpeg)
+![Preenchimento das informações do agendamento](imagens/03-preenchimento-agendamento.jpg)
 
-*Figura 3 – Seleção das informações iniciais do atendimento. Fonte: elaborado pelo autor (2026).*
+*Figura 3 – Formulário para selecionar as informações necessárias ao agendamento. Fonte: elaborado pelo autor (2026).*
 
-### 2.4. Escolher o tipo de serviço
+### 2.4. Selecionar a categoria do serviço
 
-O usuário pode consultar uma lista de categorias de atendimento e selecionar aquela que corresponde à sua necessidade.
+O protótipo apresenta uma lista de categorias de atendimento, como biometria, habilitação, veículos e outros serviços. O usuário deve localizar a categoria que corresponde à renovação da CNH.
 
-![Lista de tipos de atendimento](imagens/04-lista-tipos-atendimento.jpeg)
+![Lista de categorias de atendimento](imagens/04-selecao-tipo-atendimento.jpg)
 
-*Figura 4 – Lista de categorias disponíveis para orientar a escolha do serviço. Fonte: elaborado pelo autor (2026).*
+*Figura 4 – Lista de categorias para orientar a escolha do atendimento. Fonte: elaborado pelo autor (2026).*
 
-### 2.5. Consultar os serviços disponíveis
+### 2.5. Consultar os serviços mais acessados
 
-Depois de escolher a categoria, o protótipo apresenta cartões com serviços do Detran-DF, incluindo consulta à CNH e agendamento. A proposta é facilitar a identificação do serviço relacionado à renovação.
+A tela reúne cartões de acesso rápido a serviços do Detran-DF, como boleto virtual, consulta de CNH e agendamento. A organização em cartões busca facilitar a localização do serviço pretendido.
 
-![Cartões de serviços disponíveis](imagens/05-servicos-disponiveis.jpeg)
+![Cartões de serviços mais acessados](imagens/05-servicos-mais-acessados.jpg)
 
-*Figura 5 – Cartões de serviços apresentados ao usuário. Fonte: elaborado pelo autor (2026).*
+*Figura 5 – Cartões de serviços apresentados na área de serviços mais acessados. Fonte: elaborado pelo autor (2026).*
 
-### 2.6. Conferir e confirmar a solicitação
+### 2.6. Conferir e confirmar o agendamento
 
-Antes de finalizar, o usuário visualiza um resumo com a data e o horário escolhidos e pode confirmar ou voltar para alterar a seleção.
+Antes de finalizar, o usuário visualiza uma mensagem com o dia e o horário selecionados. Em seguida, pode escolher **“Sim”** para confirmar ou **“Não”** para não confirmar a solicitação.
 
-![Confirmação do agendamento](imagens/06-confirmacao-agendamento.jpeg)
+![Confirmação do agendamento](imagens/06-confirmacao-agendamento.jpg)
 
-*Figura 6 – Tela de conferência da data e do horário antes da confirmação. Fonte: elaborado pelo autor (2026).*
+*Figura 6 – Confirmação do dia e do horário selecionados antes de concluir. Fonte: elaborado pelo autor (2026).*
 
-### 2.7. Consultar detalhes dos serviços
+### 2.7. Consultar novamente as opções de serviço
 
-A última fotografia complementa a etapa de escolha, mostrando a lista de serviços que pode ser consultada durante a navegação.
+A última fotografia registra novamente a lista de categorias de atendimento, permitindo visualizar as opções disponíveis durante a navegação e apoiar a escolha do serviço correto.
 
-![Detalhamento dos serviços](imagens/07-detalhamento-servicos.jpeg)
+![Menu de categorias de atendimento](imagens/07-menu-servicos.jpg)
 
-*Figura 7 – Detalhamento das opções de serviço disponíveis. Fonte: elaborado pelo autor (2026).*
+*Figura 7 – Menu com as categorias de atendimento disponíveis. Fonte: elaborado pelo autor (2026).*
 
 ## 3. Tarefas propostas para avaliação
 
 - **T1:** localizar a opção de agendamento presencial.
 - **T2:** iniciar um novo agendamento.
-- **T3:** identificar e selecionar a categoria de atendimento relacionada à renovação da CNH.
-- **T4:** consultar os serviços apresentados.
-- **T5:** conferir as informações e identificar como confirmar ou voltar para corrigir uma escolha.
+- **T3:** preencher as informações solicitadas para o atendimento.
+- **T4:** localizar a categoria relacionada à renovação da CNH.
+- **T5:** consultar as opções de serviço apresentadas.
+- **T6:** conferir o dia e o horário e identificar como confirmar ou recusar o agendamento.
 
 ## 4. Observações e limites
 
