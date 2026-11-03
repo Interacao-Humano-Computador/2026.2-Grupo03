@@ -28,13 +28,13 @@ Esta página reúne os materiais de Alexandre Vilar para a Entrega 6. O cenário
 
 | Material | Conteúdo | Página |
 | --- | --- | --- |
-| Protótipo de papel | Fluxo, cenário de teste e espaço para as fotos | [Abrir protótipo](prototipo-papel.md) |
+| Protótipo de papel | Fluxo, cenário de teste e 12 fotos do passo a passo | [Abrir protótipo](prototipo-papel.md) |
 | Planejamento da alta fidelidade | Escopo, observações previstas e cronograma | [Abrir planejamento](planejamento-alta-fidelidade.md) |
 | Vídeo da avaliação | Espaços para o teste-piloto e para a entrevista | [Abrir vídeos](video-avaliacao.md) |
 
 ## 3. Situação dos materiais
 
-O protótipo de papel foi concluído e as fotos serão adicionadas. A entrevista inicialmente prevista não ocorreu porque o participante desmarcou. A nova sessão está prevista para **03/11/2026**. O relato dos resultados será elaborado após a avaliação.
+O protótipo de papel foi concluído e as fotos estão disponíveis na página do protótipo. A entrevista inicialmente prevista não ocorreu porque o participante desmarcou. A nova sessão está prevista para **03/11/2026**. O relato dos resultados será elaborado após a avaliação.
 
 ## Agradecimentos e uso de IA generativa
 

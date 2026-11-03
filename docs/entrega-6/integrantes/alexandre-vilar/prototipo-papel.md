@@ -35,11 +35,53 @@ O protótipo de papel representa uma proposta de agendamento de **Vistoria de Tr
 
 ## 3. Protótipo de papel
 
-**Figura 1 – Telas do agendamento de Vistoria de Transferência Veicular**
+![Página inicial com o botão Agendamento presencial](arquivos/PrototipoPapel01.jpeg)
 
-*Espaço reservado para as fotos do protótipo de papel.*
+*Figura 1 – Página inicial com o botão Agendamento presencial.*
 
-<!-- Ao adicionar as fotos, salve-as em arquivos/ ao lado desta página e substitua o aviso por imagens Markdown com texto alternativo. -->
+![Aba de agendamento com a opção Atendimento presencial](arquivos/PrototipoPapel02.jpeg)
+
+*Figura 2 – Aba de agendamento com a opção Atendimento presencial.*
+
+![Opção Novo agendamento](arquivos/PrototipoPapel03.jpeg)
+
+*Figura 3 – Opção Novo agendamento.*
+
+![Formulário de novo atendimento presencial](arquivos/PrototipoPapel04.jpeg)
+
+*Figura 4 – Formulário de novo atendimento presencial.*
+
+![Lista de serviços com a opção Vistoria de Transferência Veicular](arquivos/PrototipoPapel05.jpeg)
+
+*Figura 5 – Lista de serviços com a opção Vistoria de Transferência Veicular.*
+
+![Vistoria de Transferência Veicular selecionada](arquivos/PrototipoPapel06.jpeg)
+
+*Figura 6 – Vistoria de Transferência Veicular selecionada.*
+
+![Lista de locais de atendimento com a opção Lago Sul](arquivos/PrototipoPapel07.jpeg)
+
+*Figura 7 – Lista de locais de atendimento com a opção Lago Sul.*
+
+![Lago Sul selecionado como local de atendimento](arquivos/PrototipoPapel08.jpeg)
+
+*Figura 8 – Lago Sul selecionado como local de atendimento.*
+
+![Lista de datas com a opção 14/11/2026](arquivos/PrototipoPapel09.jpeg)
+
+*Figura 9 – Lista de datas com a opção 14/11/2026.*
+
+![Data de 14/11/2026 selecionada](arquivos/PrototipoPapel10.jpeg)
+
+*Figura 10 – Data de 14/11/2026 selecionada.*
+
+![Lista de horários com a opção 15h00](arquivos/PrototipoPapel11.jpeg)
+
+*Figura 11 – Lista de horários com a opção 15h00.*
+
+![Formulário preenchido com Lago Sul, 14/11/2026 e 15h00, antes de clicar em Concluir](arquivos/PrototipoPapel12.jpeg)
+
+*Figura 12 – Formulário preenchido com Lago Sul, 14/11/2026 e 15h00, antes de clicar em Concluir.*
 
 Fonte: elaborado pelo autor (2026).
 
