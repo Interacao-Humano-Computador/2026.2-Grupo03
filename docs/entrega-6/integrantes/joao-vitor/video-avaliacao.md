@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| João Vitor Tavares de Sá Lima | Reserva do espaço para publicação das gravações da avaliação | [Visão geral](index.md) | definir |
+| João Vitor Tavares de Sá Lima | Publicação das gravações da avaliação | [Visão geral](index.md) | [Teste-piloto](https://youtu.be/sJCeGbWq3nc) |
 
 Fonte: registro do responsável (2026).
 
@@ -17,6 +17,7 @@ Fonte: registro do responsável (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 02/11/2026 | 1.0 | Criação dos espaços para o teste-piloto e para a sessão definitiva | João Vitor Tavares de Sá Lima | - |
+| 03/11/2026 | 1.1 | Adição do vídeo do teste-piloto | João Vitor Tavares de Sá Lima | - |
 
 Fonte: registro desta versão (2026).
 
@@ -24,9 +25,7 @@ Fonte: registro desta versão (2026).
 
 ### Teste-piloto
 
-**Vídeo:** definir
-
-O espaço será atualizado após a realização e publicação do teste-piloto.
+[Assistir ao teste-piloto](https://youtu.be/sJCeGbWq3nc)
 
 ### Sessão definitiva / entrevista
 
