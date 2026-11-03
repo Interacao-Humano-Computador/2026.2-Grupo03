@@ -29,7 +29,7 @@ Integrantes do grupo: Alexandre Vilar, Gabriel Robson, Henrique Schneider e Joã
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
-| 26/10/2026 | 1.0 | Criação da lista de verificação da Entrega 5 e registro dos resultados da inspeção do Grupo 08: respostas, evidências (minutos da gravação e links), versão, data e hora de cada item e fundamentação com foto das fontes. | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 26/10/2026 | 1.0 | Criação da lista de verificação da Entrega 5 e registro dos resultados da inspeção do Grupo 08: respostas, evidências (minutos da gravação e links), versão, data e hora de cada item e fundamentação com foto das fontes. | Henrique Schneider | **Alexandre Vilar** |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
