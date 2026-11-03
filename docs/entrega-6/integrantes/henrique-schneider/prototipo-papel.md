@@ -105,15 +105,15 @@ A Tabela 3 é o cronograma das sessões. A janela original (28/10 a 30/10/2026) 
 
 | Atividade                                      | Data                                                                                | Horário           | Local             | Participante        |
 |------------------------------------------------|-------------------------------------------------------------------------------------|-------------------|-------------------|---------------------|
-| Redesenho das telas e peças à mão              | **[VERIFICAR: nova data, antes do teste-piloto do protótipo de alta fidelidade]** | —                 | —                 | —                   |
-| Teste-piloto                                   | **[VERIFICAR: nova data, antes do teste-piloto do protótipo de alta fidelidade]** | **[VERIFICAR]** | **[VERIFICAR]** | Piloto (descartado) |
-| Sessão 1                                       | **[VERIFICAR: nova data, antes do teste-piloto do protótipo de alta fidelidade]** | **[VERIFICAR]** | **[VERIFICAR]** | P5                  |
-| Sessão 2                                       | **[VERIFICAR: nova data, antes do teste-piloto do protótipo de alta fidelidade]** | **[VERIFICAR]** | **[VERIFICAR]** | P6                  |
-| Sessão 3 (opcional)                            | **[VERIFICAR: nova data, antes do teste-piloto do protótipo de alta fidelidade]** | **[VERIFICAR]** | **[VERIFICAR]** | P7                  |
-| Interpretação e consolidação (Apêndices C e D) | **[VERIFICAR: nova data, antes do teste-piloto do protótipo de alta fidelidade]** | —                 | Remoto            | —                   |
-| Relato (seção 1.4.1 do relatório do grupo)     | **[VERIFICAR: nova data, antes do teste-piloto do protótipo de alta fidelidade]** | —                 | Remoto            | —                   |
+| Redesenho das telas e peças impressas            | **03/11/2026** | **10:30:00**                 | **Laboratório Ai Lab Makers**                 | **Henrique Schneider**                   |
+| Teste-piloto                                   | **03/11/2026** | **11:00:00** | **Laboratório Ai Lab Makers** | **Henrique Schneider** (descartado) |
+| Sessão 1                                       | **03/11/2026** | **14:00:00** | **Laboratório Ai Lab Makers** | P5                  |
+| Sessão 2                                       | **03/11/2026** | **14:30:00** | **Laboratório Ai Lab Makers** | P6                  |
+| Sessão 3 (opcional)                            | **-** | **-** | **-** | P7                  |
+| Interpretação e consolidação (Apêndices C e D) | **03/11/2026** | —                 | Remoto            | —                   |
+| Relato (seção 1.4.1 do relatório do grupo)     | **03/11/2026** | —                 | Remoto            | —                   |
 
-Fonte: elaborado pelo autor (2026), a partir da Tabela 14 do Relatório da Entrega 5 (Grupo 03), com as datas a redefinir. Os códigos P5 a P7 continuam a numeração dos participantes do autor (P1 e P2 avaliaram o storyboard); **[VERIFICAR: ajustar se o grupo usar outra numeração no relatório]**.
+Fonte: elaborado pelo autor (2026), a partir da Tabela 14 do Relatório da Entrega 5 (Grupo 03), com as datas a redefinir. Os códigos P5 a P7 continuam a numeração dos participantes do autor (P1 e P2 avaliaram o storyboard);.
 
 ## 5. Questões éticas
 
