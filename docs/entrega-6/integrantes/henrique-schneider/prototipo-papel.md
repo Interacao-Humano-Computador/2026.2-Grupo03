@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Roteiro da avaliação do protótipo de papel: método, questões, participantes, ética, teste-piloto, roteiro passo a passo, cartões de tarefa, folha do observador e tabelas de problemas | [Visão geral](index.md) | [Apresentação da Entrega 6](index.md#4-apresentacao) |
+| Henrique Schneider Fernandes da Rosa | Roteiro da avaliação do protótipo de papel: método, questões, participantes, ética, teste-piloto, roteiro passo a passo, cartões de tarefa, folha do observador e tabelas de problemas | [Visão geral](index.md) | [Apresentação da Entrega 6](https://youtu.be/sI_3rqIQbCU) |
 
 Fonte: elaborado pelo autor (2026).
 

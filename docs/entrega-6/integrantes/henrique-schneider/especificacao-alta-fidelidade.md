@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Especificação do protótipo vertical do agendamento da prova teórica: escopo, guia de estilo, fluxo, telas, estados das tarefas e checklist de construção | [Visão geral](index.md) | [Apresentação da Entrega 6](index.md#4-apresentacao) |
+| Henrique Schneider Fernandes da Rosa | Especificação do protótipo vertical do agendamento da prova teórica: escopo, guia de estilo, fluxo, telas, estados das tarefas e checklist de construção | [Visão geral](index.md) | [Apresentação da Entrega 6](https://youtu.be/sI_3rqIQbCU) |
 
 Fonte: elaborado pelo autor (2026).
 
