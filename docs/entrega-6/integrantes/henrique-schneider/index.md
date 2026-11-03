@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Roteiro e relato da avaliação do protótipo de papel, especificação do protótipo de alta fidelidade, planejamento do teste de usabilidade, materiais do participante, guia do grupo e parte de planejamento do relatório do grupo (seção 2.8.1) | [Visão geral](index.md) | [Apresentação da Entrega 6](#4-apresentacao) |
+| Henrique Schneider Fernandes da Rosa | Roteiro e relato da avaliação do protótipo de papel, especificação do protótipo de alta fidelidade, planejamento do teste de usabilidade, materiais do participante, guia do grupo e parte de planejamento do relatório do grupo (seção 2.8.1) | [Visão geral](index.md) | [Apresentação da Entrega 6](https://youtu.be/sI_3rqIQbCU) |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -17,7 +17,7 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 02/11/2026 | 1.0 | Publicação da visão geral do material de Henrique Schneider na Entrega 6, das três páginas de planejamento e dos PDFs | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
-| 03/11/2026 | 1.1 | Registro da Sessão 1 e do teste-piloto do protótipo de papel (03/11/2026), com links das gravações; novas versões do roteiro da sessão (v1.3), do TCLE do protótipo de papel (v1.1), da especificação (v1.2), do planejamento do teste de usabilidade (v1.2) e do roteiro da apresentação (v1.2); novo cronograma da avaliação de alta fidelidade | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 03/11/2026 | 1.1 | Link do vídeo da apresentação; registro da Sessão 1 e do teste-piloto do protótipo de papel (03/11/2026), com links das gravações; novas versões do roteiro da sessão (v1.3), do TCLE do protótipo de papel (v1.1), da especificação (v1.2), do planejamento do teste de usabilidade (v1.2) e do roteiro da apresentação (v1.2); novo cronograma da avaliação de alta fidelidade | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -55,7 +55,7 @@ A parte de Henrique Schneider no relatório do grupo está nas seções 1.4.1 (r
 
 ## 4. Apresentação
 
-O vídeo da apresentação da parte de Henrique Schneider na Entrega 6 será publicado no YouTube como “não listado” **[VERIFICAR: link do vídeo]**. O roteiro da gravação está no [PDF do roteiro da apresentação](arquivos/roteiro-apresentacao-entrega-6.pdf).
+O vídeo da apresentação da parte de Henrique Schneider na Entrega 6 está publicado no YouTube como “não listado”: [assista à apresentação](https://youtu.be/sI_3rqIQbCU). O roteiro da gravação está no [PDF do roteiro da apresentação](arquivos/roteiro-apresentacao-entrega-6.pdf).
 
 ## Referências
 

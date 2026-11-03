@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Planejamento do teste de usabilidade do protótipo de alta fidelidade: objetivos, questões, medidas, valores-alvo propostos, participantes, ética, piloto, roteiro e apêndices | [Visão geral](index.md) | [Apresentação da Entrega 6](index.md#4-apresentacao) |
+| Henrique Schneider Fernandes da Rosa | Planejamento do teste de usabilidade do protótipo de alta fidelidade: objetivos, questões, medidas, valores-alvo propostos, participantes, ética, piloto, roteiro e apêndices | [Visão geral](index.md) | [Apresentação da Entrega 6](https://youtu.be/sI_3rqIQbCU) |
 
 Fonte: elaborado pelo autor (2026).
 
