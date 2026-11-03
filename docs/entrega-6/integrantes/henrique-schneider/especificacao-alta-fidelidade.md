@@ -16,8 +16,9 @@ Fonte: elaborado pelo autor (2026).
 
 | Data       | Versão | Descrição                                                                                                                                                                                                                                                                                                                                  | Autor(es)                                                                | Revisor(es)                |
 |------------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------|
-| 27/10/2026 | 1.0    | Criação da especificação: escopo, requisitos visuais do guia de estilo, fluxo, telas, estados para as tarefas do teste e checklist de construção, a partir do modelo do protótipo de papel (v1.0), da HTA (v1.2) e do relato da avaliação do storyboard (v3.1). A Seção 8 fica para ser preenchida com os resultados do protótipo de papel | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | **[VERIFICAR: revisor]** |
-| 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 27/10/2026 | 1.0    | Criação da especificação: escopo, requisitos visuais do guia de estilo, fluxo, telas, estados para as tarefas do teste e checklist de construção, a partir do modelo do protótipo de papel (v1.0), da HTA (v1.2) e do relato da avaliação do storyboard (v3.1). A Seção 8 fica para ser preenchida com os resultados do protótipo de papel | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
+| 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 03/11/2026 | 1.2 | Seção 8 e Tabela 12 preenchidas com os problemas PC01, PC02 e PN01 a PN04 da Sessão 1 do protótipo de papel; datas de exemplo e cronograma atualizados | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -25,7 +26,7 @@ Fonte: elaborado pelo autor (2026).
 
 Este documento especifica o protótipo de alta fidelidade do agendamento da prova teórica que o autor vai construir para o teste de usabilidade da Entrega 7. Ele traduz as Telas 1 a 5 e as peças soltas do protótipo de papel (Modelo do protótipo de papel, v1.0) em telas interativas, aplica o guia de estilo do grupo (Grupo 03, Guia de Estilo, v1.3) e indica o que precisa existir no protótipo para que as tarefas T1 a T4 possam ser executadas e medidas (Roteiro do teste de usabilidade, v1.0).
 
-A especificação é provisória em um ponto: as sessões do protótipo de papel ainda vão acontecer, e os problemas encontrados nelas devem alterar as telas antes da construção. A Seção 8 registra essas alterações. A ferramenta de construção é escolha do autor **[VERIFICAR: ferramenta (por exemplo, Figma, Penpot ou HTML)]**; a especificação não depende dela.
+As alterações vindas da avaliação do protótipo de papel (Sessão 1, de 03/11/2026) estão na Seção 8. Como foi uma única sessão, as alterações são propostas a verificar no teste, e não correções confirmadas. A ferramenta de construção é escolha do autor **[VERIFICAR: ferramenta (por exemplo, Figma, Penpot ou HTML)]**; a especificação não depende dela.
 
 ## 2. Fundamentação
 
@@ -56,7 +57,7 @@ Fonte: Preece, Rogers e Sharp (2005, p. 266).
 | Tarefa coberta                | Agendar a prova teórica com reserva de horário: objetivos 1 a 5 da HTA e planos 3 e 4                                                                                                                                                              | HTA v1.2; Relatório E5, seç. 3.8.1                               |
 | Fora do escopo                | Objetivo 6 (remarcar), login real no gov.br, pagamento real, outros serviços do portal. Botões fora do fluxo ficam visíveiroteiros, mas sem ação, com a mensagem “Função fora deste protótipo”                                                            | HTA v1.2, Tabela 2 (objetivo 6)                                  |
 | Dispositivos                  | Celular como formato principal (360 × 800 px) e uma versão para computador (largura de 1024 px ou mais), porque o participante P2 fez todo o processo pela web                                                                                     | Relato do storyboard v3.1, problema 07; Guia de Estilo, seç. 3.1 |
-| Dados                         | Fictícios: candidata “Camila”, unidade Taguatinga, horário das 9h. As datas de exemplo devem ser posteriores às sessões de teste (05/11 a 08/11/2026) para não parecerem vencidas **[VERIFICAR: definir datas, p. ex., a partir de 16/11/2026]** | Storyboard, quadro 4; cronograma da Entrega 7                    |
+| Dados                         | Fictícios: candidata “Camila”, unidade Taguatinga, horário das 9h. As datas de exemplo devem ser posteriores às sessões de teste (09/11 a 11/11/2026) para não parecerem vencidas: usar datas a partir de 16/11/2026 | Storyboard, quadro 4; cronograma da Entrega 7                    |
 | Valores e regras do Detran-DF | Taxa, unidades que aplicam a prova e documentos exigidos não foram conferidos no portal: usar texto genérico ou deixar marcado **[VERIFICAR: taxa, unidades e documentos no portal do Detran-DF]**                                               | Modelo do protótipo de papel v1.0                                |
 | Prazo da reserva              | 24 horas, com aviso 1 hora antes de expirar                                                                                                                                                                                                        | HTA v1.2, plano 4 (sugestão de P1 e P2)                          |
 
@@ -224,17 +225,20 @@ Fonte: elaborado pelo autor (2026), a partir das tarefas do Relatório da Entreg
 
 ## 8. Alterações a partir do protótipo de papel
 
-Preencher depois das sessões do protótipo de papel, com os problemas dos Apêndices C e D do roteiro da sessão (e das Tabelas 3, 5 e 6 do relatório da Entrega 6). Cada linha diz o que muda nesta especificação e em qual tabela.
+Preenchida com os problemas dos Apêndices C e D do roteiro da sessão (e das Tabelas 3, 5 e 6 do relatório da Entrega 6), todos da Sessão 1 (P5). Cada linha diz o que muda nesta especificação e em qual tabela.
 
 **Tabela 12 – Alterações na especificação decorrentes da avaliação do protótipo de papel**
 
-| Problema (ID)     | Tela / tabela | Alteração | Questão a verificar no teste |
-|-------------------|---------------|-----------|------------------------------|
-| **[VERIFICAR]** |               |           |                              |
-|                   |               |           |                              |
-|                   |               |           |                              |
+| Problema (ID) | Tela / tabela | Alteração | Questão a verificar no teste |
+|---------------|---------------|-----------|------------------------------|
+| PC01 | Tela 5 (Tabela 10) | Manter o botão “Voltar para página inicial”, que foi escrito no papel durante a sessão | Depois da confirmação, o participante encontra sem ajuda como sair da tela (T3) |
+| PC02 | Tela 5 (Tabela 10) e Tela 0 (Tabela 5) | Manter o botão “Consultar prova”, escrito no papel durante a sessão. Avaliar, na Tela 0, um item “Prova” com “Agendar prova” e “Consultar prova” (sugestão do participante, ainda não testada) | O participante encontra a prova já agendada sem usar “Agendar prova” (T3) |
+| PN01 | Telas 1 e 2 (Tabelas 6 e 7) | Diferenciar visualmente marcadores de botões ou usar caixas expansíveis (drop-down) com os detalhes de cada etapa, mantendo as seis visíveis | O participante não tenta tocar nas etapas como se fossem botões (T1) |
+| PN02 | Tela 3 (Tabela 8) | Aumentar o botão “OK” da data mais próxima e dar a ele aparência de ação | O participante entende que o botão leva direto à próxima tela (T1) |
+| PN03 | Tela 3 (Tabela 8) | Mostrar uma mensagem curta de “data não disponível” ao tocar numa data indisponível | O participante entende por que a data não pode ser escolhida (T2) |
+| PN04 | Tela 3 (Tabela 8) | Trocar os círculos de seleção de horário por botões ou rótulos selecionáveis | O participante escolhe o horário sem confundir a lista com uma tabela (T1) |
 
-Fonte: elaborado pelo autor (2026).
+Fonte: elaborado pelo autor (2026), a partir dos Apêndices C e D do roteiro da sessão do protótipo de papel (v1.3).
 
 ## 9. Checklist antes do teste-piloto
 
@@ -268,6 +272,6 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 
 Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado, em 27/10/2026, a pedido do autor, para redigir esta especificação a partir do modelo do protótipo de papel, da HTA, do relato do storyboard e do guia de estilo do grupo, para desenhar a Figura 3 com os valores do guia e para localizar e recortar os trechos de Preece, Rogers e Sharp (2005) das Figuras 1 e 2. A decisão sobre a Tela 0, a ferramenta e a construção do protótipo são do autor. A ferramenta não é autora do documento, e seu uso não exime o autor da responsabilidade pelo conteúdo.
 
-Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site.
+Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site, e em 03/11/2026, para preencher a Seção 8 com os problemas da Sessão 1.
 
 A versão em PDF deste artefato está disponível para download: [Especificação do Protótipo de Alta Fidelidade (PDF)](arquivos/especificacao-prototipo-alta-fidelidade.pdf).

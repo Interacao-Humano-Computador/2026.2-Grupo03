@@ -16,14 +16,15 @@ Fonte: elaborado pelo autor (2026).
 
 | Data       | Versão | Descrição                                                                                                                                                                                                                                                                                                   | Autor(es)                                                                | Revisor(es)                |
 |------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------|
-| 27/10/2026 | 1.0    | Criação do roteiro: método, questões e medidas, valores-alvo propostos, participantes e logística, ética, teste-piloto, roteiro da sessão e apêndices (questionário pré-teste, cartões de cenário, folha de medição, entrevista pós-teste e consolidação), a partir do capítulo 2 do relatório da Entrega 6 | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | **[VERIFICAR: revisor]** |
-| 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 27/10/2026 | 1.0    | Criação do roteiro: método, questões e medidas, valores-alvo propostos, participantes e logística, ética, teste-piloto, roteiro da sessão e apêndices (questionário pré-teste, cartões de cenário, folha de medição, entrevista pós-teste e consolidação), a partir do capítulo 2 do relatório da Entrega 6 | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
+| 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 03/11/2026 | 1.2 | Novo cronograma (Tabela 4): construção em 07 e 08/11, piloto em 08/11, sessões de 09 a 11/11, consolidação e relato até 15/11; número de participantes e observador definidos; piloto passa a considerar a experiência do piloto do protótipo de papel | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 
 Fonte: elaborado pelo autor (2026).
 
 ## 1. Introdução
 
-Este roteiro detalha a parte do autor no planejamento da avaliação do protótipo de alta fidelidade (relatório da Entrega 6, seç. 2.8.1). O teste será executado entre 05/11 e 08/11/2026 e relatado na Entrega 7, com prazo em 15/11/2026 (Sales, 2026, p. 5). O protótipo é o descrito na Especificação do protótipo de alta fidelidade (v1.0) e cobre a tarefa de agendar a prova teórica com reserva de horário (HTA v1.2, objetivos 1 a 5).
+Este roteiro detalha a parte do autor no planejamento da avaliação do protótipo de alta fidelidade (relatório da Entrega 6, seç. 2.8.1). O piloto está previsto para 08/11/2026 e as sessões para 09/11 a 11/11/2026; o teste é relatado na Entrega 7, com prazo em 15/11/2026 (Sales, 2026, p. 5). O protótipo é o descrito na Especificação do protótipo de alta fidelidade (v1.0) e cobre a tarefa de agendar a prova teórica com reserva de horário (HTA v1.2, objetivos 1 a 5).
 
 O documento segue a ordem do framework DECIDE usada nos planejamentos do grupo: objetivos e questões (Seções 2 e 3), método (Seção 4), questões práticas (Seção 5), questões éticas (Seção 6), interpretação dos dados (Seção 7), teste-piloto (Seção 8) e roteiro da sessão (Seção 9). Os apêndices trazem o material de apoio que, segundo Barbosa e Silva (2010, cap. 9, seç. 9.7.2, p. 306, 1º parágrafo), deve ser preparado e impresso antes da coleta (Figura 1).
 
@@ -102,9 +103,9 @@ Fonte: Barbosa e Silva (2010, p. 309).
 ## 5. Participantes e questões práticas
 
 - **Perfil:** candidatos à primeira habilitação no DF que ainda vão agendar a prova teórica ou a agendaram recentemente (persona Camila; Grupo 03, Relatório da Entrega 2, seç. 1.4). Os participantes devem representar o público-alvo do sistema (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 305, 2º parágrafo).
-- **Quantidade:** **[VERIFICAR: número]**, no mínimo três. Nielsen (2000 apud Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 305, 3º parágrafo) afirma que cinco usuários bastam para encontrar a maioria dos problemas; com menos, os resultados são indícios, e não resultados estatisticamente significativos.
+- **Quantidade:** três participantes (P8 a P10), que é o mínimo. Nielsen (2000 apud Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 305, 3º parágrafo) afirma que cinco usuários bastam para encontrar a maioria dos problemas; com menos, os resultados são indícios, e não resultados estatisticamente significativos.
 - **Recrutamento:** pessoas que não participaram das avaliações do storyboard (P1, P2) nem do protótipo de papel, para que o conhecimento prévio das telas não altere o tempo e os erros; evitar conhecidos próximos (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 308, 3º parágrafo).
-- **Papéis:** dois avaliadores, como recomendam Barbosa e Silva: “É recomendável que pelo menos dois avaliadores trabalhem na coleta de dados” (2010, cap. 9, seç. 9.7.3, p. 309, 5º parágrafo). Henrique Schneider conduz a sessão; o observador cronometra e preenche o Apêndice C **[VERIFICAR: nome do observador]**.
+- **Papéis:** dois avaliadores, como recomendam Barbosa e Silva: “É recomendável que pelo menos dois avaliadores trabalhem na coleta de dados” (2010, cap. 9, seç. 9.7.3, p. 309, 5º parágrafo). Henrique Schneider conduz a sessão; o observador, outro integrante do grupo combinado antes de cada sessão, cronometra e preenche o Apêndice C. Se nenhum integrante estiver disponível, a sessão é gravada com autorização, a folha é preenchida a partir da gravação e a limitação é registrada no relato, como ocorreu na Sessão 1 do protótipo de papel.
 - **Local e equipamento:** presencial, no campus UnB Gama (FCTE) ou em local escolhido pelo participante, com o protótipo aberto num celular **[VERIFICAR: celular do avaliador ou do participante]**; cronômetro; gravação da tela e do áudio somente se autorizada no TCLE. Se for remoto, o participante compartilha a tela pelo Microsoft Teams **[VERIFICAR: modalidade]**.
 - **Duração:** até 30 minutos por sessão; cada tarefa leva poucos minutos, bem abaixo do limite de 20 minutos (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 306, 2º parágrafo).
 - **Orçamento:** impressão do TCLE, dos cartões e das folhas.
@@ -113,13 +114,13 @@ Fonte: Barbosa e Silva (2010, p. 309).
 
 | Atividade                    | Data                                                     | Horário           | Local             | Participante        |
 |------------------------------|----------------------------------------------------------|-------------------|-------------------|---------------------|
-| Construção do protótipo      | até 04/11/2026 **[VERIFICAR]**                         | —                 | —                 | —                   |
-| Teste-piloto                 | **[VERIFICAR]**                                        | **[VERIFICAR]** | **[VERIFICAR]** | Piloto (descartado) |
-| Sessões 1 a 3 (ou mais)      | 05/11 a 08/11/2026 **[VERIFICAR: dia de cada sessão]** | **[VERIFICAR]** | **[VERIFICAR]** | P8, P9, P10…        |
-| Interpretação e consolidação | 09/11 a 10/11/2026                                       | —                 | Remoto            | —                   |
-| Relato e publicação          | 11/11 a 15/11/2026                                       | —                 | Remoto            | —                   |
+| Construção do protótipo      | 07/11 a 08/11/2026 (fim de semana)                       | —                 | Remoto            | —                   |
+| Teste-piloto                 | 08/11/2026                                               | A combinar        | Campus UnB Gama (FCTE) ou remoto | Piloto (descartado) |
+| Sessões 1 a 3 (ou mais)      | 09/11 a 11/11/2026                                       | A combinar com cada participante | Campus UnB Gama (FCTE) ou local escolhido pelo participante | P8, P9, P10…        |
+| Interpretação e consolidação | 12/11 a 13/11/2026                                       | —                 | Remoto            | —                   |
+| Relato e publicação          | 13/11 a 15/11/2026                                       | —                 | Remoto            | —                   |
 
-Fonte: elaborado pelo autor (2026), com as datas do cronograma da Entrega 1 (Grupo 03, Relatório da Entrega 1, seç. 4.13, p. 9) e o prazo da Entrega 7 (Sales, 2026, p. 5). Os códigos continuam a numeração dos participantes do autor.
+Fonte: elaborado pelo autor (2026). As datas foram redefinidas em 03/11/2026, depois que o cronograma da Entrega 1 (Grupo 03, Relatório da Entrega 1, seç. 4.13, p. 9) ficou desatualizado; o prazo da Entrega 7 é o do Plano de Ensino (Sales, 2026, p. 5). Os horários serão combinados com cada pessoa. Os códigos continuam a numeração dos participantes do autor.
 
 ## 6. Questões éticas
 
@@ -151,7 +152,7 @@ Fonte: Barbosa e Silva (2010, p. 343).
 
 ## 8. Teste-piloto
 
-O piloto é conduzido como uma sessão normal, com alguém que “não deve ter se envolvido no planejamento e na preparação da avaliação” (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 308, 1º parágrafo). Além da clareza dos cenários e do tempo, o livro pede que o avaliador faça “uma breve análise dos dados coletados” para conferir se eles respondem às questões (Barbosa; Silva, 2010, p. 307, 2º parágrafo). No piloto deste teste, conferir também: (a) se os links de início de cada tarefa e os atalhos de “PIX compensado” e “expiração” funcionam (Especificação, Tabela 11); (b) se o observador consegue cronometrar e anotar ao mesmo tempo; (c) se os valores-alvo da Tabela 3 são realistas. Os dados do piloto são descartados (Barbosa; Silva, 2010, p. 307, 3º parágrafo), e as mudanças entram na Tabela 1.
+O piloto é conduzido como uma sessão normal, com alguém que “não deve ter se envolvido no planejamento e na preparação da avaliação” (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 308, 1º parágrafo). Além da clareza dos cenários e do tempo, o livro pede que o avaliador faça “uma breve análise dos dados coletados” para conferir se eles respondem às questões (Barbosa; Silva, 2010, p. 307, 2º parágrafo). No piloto deste teste, conferir também: (a) se os links de início de cada tarefa e os atalhos de “PIX compensado” e “expiração” funcionam (Especificação, Tabela 11); (b) se o observador consegue cronometrar e anotar ao mesmo tempo; (c) se os valores-alvo da Tabela 3 são realistas. Pela experiência do piloto do protótipo de papel, feito pelo próprio autor em 03/11/2026, o piloto deste teste deve ser feito por alguém que não participou da construção do protótipo nem do planejamento, para que também confira se os cenários são entendidos sem explicação. Os dados do piloto são descartados (Barbosa; Silva, 2010, p. 307, 3º parágrafo), e as mudanças entram na Tabela 1.
 
 ## 9. Roteiro da sessão
 
@@ -355,8 +356,8 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 
 ## Agradecimentos e uso de IA generativa
 
-Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado, em 27/10/2026, a pedido do autor, para redigir este roteiro e os apêndices a partir do capítulo 2 do relatório da Entrega 6, propor os valores-alvo da Tabela 3 (a confirmar pelo autor depois do piloto) e localizar e recortar os trechos de Barbosa e Silva (2010) das Figuras 1 a 7. Datas, local, observador e número de participantes ficam a cargo do autor. A ferramenta não é autora do documento, e seu uso não exime o autor da responsabilidade pelo conteúdo.
+Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado, em 27/10/2026, a pedido do autor, para redigir este roteiro e os apêndices a partir do capítulo 2 do relatório da Entrega 6, propor os valores-alvo da Tabela 3 (a confirmar pelo autor depois do piloto) e localizar e recortar os trechos de Barbosa e Silva (2010) das Figuras 1 a 7. O calendário (Tabela 4), o número de participantes e o papel do observador foram propostos a partir das informações do autor de 03/11/2026 e ficam a cargo dele. A ferramenta não é autora do documento, e seu uso não exime o autor da responsabilidade pelo conteúdo.
 
-Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site.
+Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site, e em 03/11/2026, para atualizar o calendário e os papéis.
 
 A versão em PDF deste artefato está disponível para download: [Planejamento do Teste de Usabilidade (PDF)](arquivos/roteiro-teste-usabilidade-alta-fidelidade.pdf).
