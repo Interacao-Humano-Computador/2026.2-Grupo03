@@ -36,7 +36,7 @@ A proposta busca ajudar o cidadão a entender as etapas, identificar quais infor
 | Material | Conteúdo | Página |
 | --- | --- | --- |
 | Protótipo de papel | Rascunho das telas e tarefas para orientar a renovação da CNH | [Abrir protótipo](prototipo-papel.md) |
-| Especificação e protótipo demonstrativo | Fluxo, telas, estados e limites da proposta | [Protótipo da Entrega 5](../../entrega-5/integrantes/gabriel-robson/prototipo.html) |
+| Especificação e protótipo demonstrativo | Fluxo, telas, estados e limites da proposta | [Protótipo da Entrega 5](../../../entrega-5/integrantes/gabriel-robson/prototipo.html) |
 | Planejamento do teste de usabilidade | Objetivos, questões, tarefas, medidas, participantes, ética e roteiro | [Abrir planejamento](planejamento-alta-fidelidade.md) |
 | Registro da avaliação | Espaço para adicionar gravações e resultados depois das sessões | [Registro](video-avaliacao.md) |
 
