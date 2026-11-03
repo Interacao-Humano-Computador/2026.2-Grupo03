@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Roteiro da avaliação do protótipo de papel: método, questões, participantes, ética, teste-piloto, roteiro passo a passo, cartões de tarefa, folha do observador e tabelas de problemas | [Visão geral](index.md) | [Apresentação da Entrega 6](index.md#4-apresentacao) |
+| Henrique Schneider Fernandes da Rosa | Roteiro da avaliação do protótipo de papel: método, questões, participantes, ética, teste-piloto, roteiro passo a passo, cartões de tarefa, folha do observador e tabelas de problemas | [Visão geral](index.md) | [Apresentação da Entrega 6](https://youtu.be/sI_3rqIQbCU) |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -16,15 +16,16 @@ Fonte: elaborado pelo autor (2026).
 
 | Data       | Versão | Descrição                                                                                                                                                                                                                                                                                       | Autor(es)                                                                | Revisor(es)                |
 |------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------|
-| 27/10/2026 | 1.0    | Criação do roteiro da sessão, dos cartões de tarefa (Apêndice A), da folha do observador (Apêndice B) e das tabelas de ciclos de reprojeto e de consolidação (Apêndices C e D), a partir do planejamento da Entrega 5 (seções 3.4 a 3.8.1 e 4.1 a 4.4) e do modelo do protótipo de papel (v1.0) | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | **[VERIFICAR: revisor]** |
-| 02/11/2026 | 1.1    | Atualização do cronograma (Tabela 3): a janela de 28/10 a 30/10/2026 passou sem as sessões, e as novas datas ficam a definir pelo autor                                                                                                                                                         | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | **[VERIFICAR: revisor]** |
-| 02/11/2026 | 1.2 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 27/10/2026 | 1.0    | Criação do roteiro da sessão, dos cartões de tarefa (Apêndice A), da folha do observador (Apêndice B) e das tabelas de ciclos de reprojeto e de consolidação (Apêndices C e D), a partir do planejamento da Entrega 5 (seções 3.4 a 3.8.1 e 4.1 a 4.4) e do modelo do protótipo de papel (v1.0) | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
+| 02/11/2026 | 1.1    | Atualização do cronograma (Tabela 3): a janela de 28/10 a 30/10/2026 passou sem as sessões, e as novas datas ficam a definir pelo autor                                                                                                                                                         | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
+| 02/11/2026 | 1.2 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 03/11/2026 | 1.3 | Registro da execução: teste-piloto e Sessão 1 (P5) em 03/11/2026, com links das gravações; Tabela 3 com as datas realizadas; papéis, recrutamento e ética ajustados ao que ocorreu; limitações; Apêndices C e D preenchidos com os problemas PC01, PC02 e PN01 a PN04 | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 
 Fonte: elaborado pelo autor (2026).
 
 ## 1. Introdução
 
-Este documento operacionaliza a avaliação do protótipo de papel do agendamento da prova teórica, planejada pelo autor na Entrega 5 (Grupo 03, Relatório da Entrega 5, seç. 3.8.1). As sessões previstas para 25/10/2026 não foram realizadas; este roteiro reorganiza a execução para a janela do cronograma geral do grupo, que previa o teste-piloto em 28/10 e as sessões de 28/10 a 30/10/2026 (Grupo 03, Relatório da Entrega 5, Tabela 14). Essa janela também passou sem as sessões; as novas datas ficam na Tabela 3. Os resultados serão relatados na seção 1.4.1 do relatório da Entrega 6.
+Este documento operacionaliza a avaliação do protótipo de papel do agendamento da prova teórica, planejada pelo autor na Entrega 5 (Grupo 03, Relatório da Entrega 5, seç. 3.8.1). As sessões previstas para 25/10/2026 não foram realizadas; este roteiro reorganiza a execução para a janela do cronograma geral do grupo, que previa o teste-piloto em 28/10 e as sessões de 28/10 a 30/10/2026 (Grupo 03, Relatório da Entrega 5, Tabela 14). Essa janela também passou sem as sessões. O teste-piloto e a Sessão 1 foram realizados em 03/11/2026 (Tabela 3), e não haverá outras sessões. Os problemas encontrados estão nos Apêndices C e D, e o relato está na seção 1.4.1 do relatório da Entrega 6.
 
 O protótipo avaliado é o redesenhado à mão pelo autor a partir do modelo das Telas 1 a 5 e das peças soltas A a G (Modelo do protótipo de papel, v1.0). O documento traz a fundamentação do método (Seção 2), as questões de avaliação (Seção 3), os participantes e a logística (Seção 4), os cuidados éticos (Seção 5), o teste-piloto (Seção 6), o roteiro passo a passo (Seção 7) e o que o observador anota (Seção 8). Os apêndices trazem os cartões de tarefa, a folha do observador e as tabelas para registrar os ciclos de reprojeto e consolidar os problemas.
 
@@ -79,19 +80,19 @@ Os objetivos são os do planejamento do grupo: identificar problemas de usabilid
 | Os rótulos, menus e mensagens correspondem ao vocabulário do participante? | T1                   | Telas 1 e 2                 | 04 – serviço difícil de encontrar; termo “habilitação” genérico |
 | Os problemas do storyboard voltam a ocorrer nas telas reprojetadas?        | T1, T2               | Telas 2/2B e 3; peças A e C | 01 – pré-requisitos desconhecidos; 02 – poucas datas            |
 | O participante percebe as confirmações e o feedback de cada etapa?         | T1, T3, T4           | Telas 4 e 5; peças D, E e F | 03 – medo de perder a vaga; 05 – prazo da reserva               |
-| Qual alternativa o participante prefere e por quê?                         | Entrevista pós-teste | —                           | **[VERIFICAR: só se houver duas versões de alguma tela]**     |
+| Qual alternativa o participante prefere e por quê?                         | Entrevista pós-teste | —                           | Não aplicável: o protótipo tinha uma só versão de cada tela     |
 
 Fonte: elaborado pelo autor (2026), a partir do Relatório da Entrega 5 (Grupo 03, Tabela 13) e do relato da avaliação do storyboard (v3.1, Tabela 7).
 
 ## 4. Participantes e logística
 
-- **Perfil:** candidatos à primeira habilitação que ainda vão agendar a prova teórica ou que a agendaram recentemente, correspondentes à persona Camila (Grupo 03, Relatório da Entrega 2, seç. 1.4). Preferencialmente pessoas diferentes de P1 e P2, que já conhecem a proposta pelo storyboard.
-- **Quantidade:** três participantes, no mínimo dois, como no planejamento (Grupo 03, Relatório da Entrega 5, seç. 3.8.1). O número é menor que os cinco usuários que, segundo Nielsen (2000 apud Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 305, 3º parágrafo), bastam para encontrar a maioria dos problemas; por isso, os resultados serão tratados como indícios sobre a qualidade de uso.
+- **Perfil:** candidatos à primeira habilitação que ainda vão agendar a prova teórica ou que a agendaram recentemente, correspondentes à persona Camila (Grupo 03, Relatório da Entrega 2, seç. 1.4). Preferencialmente pessoas diferentes de P1 e P2, que já conhecem a proposta pelo storyboard. O participante da Sessão 1 (P5) estava em situação similar à da persona Camila, segundo o autor.
+- **Quantidade:** o planejamento previa três participantes, no mínimo dois (Grupo 03, Relatório da Entrega 5, seç. 3.8.1). Foi realizada uma sessão (P5), abaixo do mínimo previsto, e não haverá outras. O número é menor que os cinco usuários que, segundo Nielsen (2000 apud Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 305, 3º parágrafo), bastam para encontrar a maioria dos problemas; por isso, os resultados são tratados como indícios sobre a qualidade de uso, e não como confirmação de que os problemas se repetem ou de que outros não existem.
 - **Recrutamento:** sempre que possível, evitar conhecidos próximos, para que a relação com o avaliador não contamine os dados; se não for possível, explicar que o objetivo é encontrar problemas na interface e que a opinião do participante ajuda a melhorá-la (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 308, 3º parágrafo), conforme a Figura 5.
-- **Papéis:** Henrique Schneider faz o papel de “computador”; o observador é outro integrante do grupo **[VERIFICAR: nome do observador]**. Se não houver observador disponível, a sessão é gravada (com autorização) e a folha do Apêndice B é preenchida a partir da gravação, registrando essa limitação no relato.
-- **Local e modalidade:** presencial, porque o participante manipula as folhas de papel; campus UnB Gama (FCTE) ou local escolhido pelo participante, numa mesa com espaço para as folhas.
+- **Papéis:** o planejamento previa dois avaliadores, um no papel de “computador” e outro como observador. Na Sessão 1, Henrique Schneider foi o operador (“computador”) e não houve outro observador. Por isso, a sessão foi gravada com autorização e a folha do Apêndice B foi preenchida a partir da gravação; essa limitação (um único avaliador) consta do relato.
+- **Local e modalidade:** presencial, porque o participante manipula as folhas de papel; numa mesa com espaço para as folhas. A Sessão 1 ocorreu no Laboratório Ai Lab Makers (Tabela 3).
 - **Duração:** até 30 minutos por sessão, incluindo TCLE, pré-teste, tarefas e entrevista pós-teste (Grupo 03, Relatório da Entrega 5, seç. 3.4).
-- **Materiais:** Telas 1, 2, 2B, 3, 4 e 5 desenhadas à mão; peças soltas A a G em post-its; tiras em branco e caneta para a peça B; cartões de tarefa (Apêndice A); TCLE do protótipo de papel (duas vias); folha do observador (Apêndice B), uma por participante; celular para gravar áudio, se autorizado; cronômetro.
+- **Materiais:** Telas 1, 2, 2B, 3, 4 e 5 desenhadas à mão; peças soltas A a G em post-its; tiras em branco e caneta para a peça B; cartões de tarefa (Apêndice A); TCLE do protótipo de papel (duas vias); folha do observador (Apêndice B), uma por participante; celular para gravar áudio e vídeo, se autorizado; cronômetro.
 
 **Figura 5 – Trecho de Barbosa e Silva (2010, cap. 9, seç. 9.7.2, p. 308) sobre o recrutamento de participantes**
 
@@ -99,25 +100,24 @@ Fonte: elaborado pelo autor (2026), a partir do Relatório da Entrega 5 (Grupo 0
 
 Fonte: Barbosa e Silva (2010, p. 308).
 
-A Tabela 3 é o cronograma das sessões. A janela original (28/10 a 30/10/2026) vinha do cronograma geral do grupo e passou sem as sessões; as novas datas, o horário e o local de cada sessão são decididos pelo autor.
+A Tabela 3 é o cronograma realizado. A janela original (28/10 a 30/10/2026) vinha do cronograma geral do grupo e passou sem as sessões; todas as atividades ocorreram em 03/11/2026.
 
 **Tabela 3 – Cronograma da avaliação do protótipo de papel (Henrique Schneider)**
 
-| Atividade                                      | Data                                                                                | Horário           | Local             | Participante        |
-|------------------------------------------------|-------------------------------------------------------------------------------------|-------------------|-------------------|---------------------|
-| Redesenho das telas e peças impressas            | **03/11/2026** | **10:30:00**                 | **Laboratório Ai Lab Makers**                 | **Henrique Schneider**                   |
-| Teste-piloto                                   | **03/11/2026** | **11:00:00** | **Laboratório Ai Lab Makers** | **Henrique Schneider** (descartado) |
-| Sessão 1                                       | **03/11/2026** | **14:00:00** | **Laboratório Ai Lab Makers** | P5                  |
-| Sessão 2                                       | **03/11/2026** | **14:30:00** | **Laboratório Ai Lab Makers** | P6                  |
-| Sessão 3 (opcional)                            | **-** | **-** | **-** | P7                  |
-| Interpretação e consolidação (Apêndices C e D) | **03/11/2026** | —                 | Remoto            | —                   |
-| Relato (seção 1.4.1 do relatório do grupo)     | **03/11/2026** | —                 | Remoto            | —                   |
+| Atividade                                      | Data       | Horário          | Local                       | Participante                        |
+|------------------------------------------------|------------|------------------|-----------------------------|-------------------------------------|
+| Redesenho das telas e peças impressas          | 03/11/2026 | 10:30            | Laboratório Ai Lab Makers   | Henrique Schneider                  |
+| Teste-piloto                                   | 03/11/2026 | 14:00 a 14:30    | Laboratório Ai Lab Makers   | Henrique Schneider (descartado)     |
+| Sessão 1                                       | 03/11/2026 | 16:48 (17 min 37 s) | Laboratório Ai Lab Makers | P5                                  |
+| Sessões 2 e 3 (opcionais)                      | —          | —                | —                           | Não realizadas                      |
+| Interpretação e consolidação (Apêndices C e D) | 03/11/2026 | —                | Remoto                      | —                                   |
+| Relato (seção 1.4.1 do relatório do grupo)     | 03/11/2026 | —                | Remoto                      | —                                   |
 
-Fonte: elaborado pelo autor (2026), a partir da Tabela 14 do Relatório da Entrega 5 (Grupo 03), com as datas a redefinir. Os códigos P5 a P7 continuam a numeração dos participantes do autor (P1 e P2 avaliaram o storyboard);.
+Fonte: elaborado pelo autor (2026), a partir da Tabela 14 do Relatório da Entrega 5 (Grupo 03), com as datas e os horários informados pelo autor em 03/11/2026 e a duração da Sessão 1 medida na gravação. O código P5 continua a numeração dos participantes do autor (P1 e P2 avaliaram o storyboard). Gravações: [Sessão 1](https://youtu.be/S7j1gd70_Is) e [teste-piloto](https://youtu.be/pOa8ROlt2jw) (vídeos não listados no YouTube).
 
 ## 5. Questões éticas
 
-Antes de começar, o avaliador explica o objetivo do estudo, entrega o TCLE do protótipo de papel em duas vias e pede autorização para gravar o áudio. O termo atesta que o participante entende as garantias e concorda em participar, e os participantes “nunca devem se sentir desconfortáveis, seja física ou psicologicamente” (Barbosa; Silva, 2010, cap. 5, seç. 5.4, p. 141, 2º parágrafo), conforme a Figura 6. O protótipo não usa dados reais do participante: o nome “Camila”, a unidade e as datas são fictícios. No relato, os participantes aparecem apenas pelos códigos da Tabela 3.
+Antes de começar, o avaliador explica o objetivo do estudo, entrega o TCLE do protótipo de papel em duas vias e pede autorização para gravar o áudio e o vídeo (rosto do participante e as folhas de papel). O termo atesta que o participante entende as garantias e concorda em participar, e os participantes “nunca devem se sentir desconfortáveis, seja física ou psicologicamente” (Barbosa; Silva, 2010, cap. 5, seç. 5.4, p. 141, 2º parágrafo), conforme a Figura 6. O protótipo não usa dados reais do participante: o nome “Camila”, a unidade e as datas são fictícios. No relato, o participante aparece apenas pelo código P5 (Tabela 3); o nome do participante não é registrado.
 
 **Figura 6 – Trecho de Barbosa e Silva (2010, cap. 5, seç. 5.4, p. 141) sobre o termo de consentimento e o conforto dos participantes**
 
@@ -135,7 +135,9 @@ Fonte: Barbosa e Silva (2010, p. 310).
 
 ## 6. Teste-piloto
 
-O objetivo do teste-piloto “é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo”; ele é conduzido como uma sessão normal e verifica se a linguagem dos materiais é clara, se os equipamentos funcionam e se o tempo é adequado (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 307, 2º parágrafo), conforme a Figura 8. O participante do piloto pode ser um colega ou alguém próximo, mas “não deve ter se envolvido no planejamento e na preparação da avaliação” (Barbosa; Silva, 2010, p. 308, 1º parágrafo). Por isso, o piloto não deve ser feito pelo próprio autor nem por quem ajudou a desenhar o protótipo.
+O objetivo do teste-piloto “é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo”; ele é conduzido como uma sessão normal e verifica se a linguagem dos materiais é clara, se os equipamentos funcionam e se o tempo é adequado (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 307, 2º parágrafo), conforme a Figura 8. O participante do piloto pode ser um colega ou alguém próximo, mas “não deve ter se envolvido no planejamento e na preparação da avaliação” (Barbosa; Silva, 2010, p. 308, 1º parágrafo). Por isso, o ideal é que o piloto não seja feito pelo próprio autor nem por quem ajudou a desenhar o protótipo.
+
+**Limitação.** O teste-piloto foi realizado em 03/11/2026, das 14h00 às 14h30, e teve o próprio autor como participante ([gravação](https://youtu.be/pOa8ROlt2jw)). Isso contraria a recomendação acima: o autor conhece as telas e as tarefas e, por isso, o piloto serve para conferir tempo e funcionamento dos materiais, mas não mostra se os cartões de tarefa são entendidos por quem não participou do planejamento. Os dados do piloto foram descartados e não entram no relato.
 
 **Figura 8 – Trecho de Barbosa e Silva (2010, cap. 9, seç. 9.7.2, p. 307) sobre o teste-piloto**
 
@@ -286,31 +288,29 @@ Fonte: elaborado pelo autor (2026).
 
 ## Apêndice C – Problemas corrigidos entre as sessões
 
-Preencher depois de cada sessão (etapa 10 da Tabela 4). Mesmas colunas da Tabela 3 do relatório da Entrega 6 e da Tabela 16 do Relatório da Entrega 5, acrescidas da sessão em que o problema apareceu e da sessão a partir da qual a correção valeu.
+Preenchido depois da Sessão 1 (etapa 10 da Tabela 4). Mesmas colunas da Tabela 3 do relatório da Entrega 6 e da Tabela 16 do Relatório da Entrega 5, acrescidas da sessão em que o problema apareceu e da sessão a partir da qual a correção valeu. Os tempos entre parênteses são posições na [gravação da Sessão 1](https://youtu.be/S7j1gd70_Is).
 
 **Tabela 7 – Problemas corrigidos durante os ciclos de avaliação e reprojeto**
 
 | ID   | Local (tela/peça) | Fatores de usabilidade | Descrição e justificativa | Correção no papel | Visto em / corrigido para | Voltou a ocorrer? |
 |------|-------------------|------------------------|---------------------------|-------------------|---------------------------|-------------------|
-| PC01 |                   |                        |                           |                   |                           |                   |
-| PC02 |                   |                        |                           |                   |                           |                   |
-| PC03 |                   |                        |                           |                   |                           |                   |
-| PC04 |                   |                        |                           |                   |                           |                   |
+| PC01 | Tela 5 (Prova confirmada) | Eficiência; satisfação do usuário | A tela não tinha opção de voltar. O participante apontou a falta e disse que voltaria para a página inicial. | Botão “Voltar para página inicial” escrito no papel durante a sessão. | Visto na Sessão 1 (P5); corrigido na própria sessão | Não verificado: a gravação não registra nova execução depois da correção. |
+| PC02 | Tela 5 (Prova confirmada) | Eficiência; facilidade de aprendizado; satisfação do usuário | Depois de pagar, não havia como consultar a prova já agendada. O participante já tinha achado “meio redundante” usar “Agendar prova” para ver a confirmação (4:14–5:02), pediu um botão para consultar a prova (14:58–16:31) e, ao fim da entrevista, disse que só faltava poder consultar o status (16:36–17:36). | Botão “Consultar prova” escrito no papel durante a sessão (14:58–16:31). | Visto na Sessão 1 (P5); corrigido na própria sessão | Não verificado: a gravação não registra nova execução depois da correção. |
 
 Fonte: elaborado pelo autor (2026), com base em Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 361).
 
 ## Apêndice D – Consolidação dos problemas não corrigidos
 
-Preencher ao final das sessões. A prioridade combina a severidade da Figura 9 e o número de participantes em que o problema ocorreu, como orientam Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 361, 4º parágrafo). A coluna “No protótipo de alta fidelidade” liga cada problema à especificação do protótipo (documento da Entrega 6).
+Preenchido ao final da Sessão 1, a única realizada. A prioridade combina a severidade da Figura 9 e o número de participantes em que o problema ocorreu, como orientam Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 361, 4º parágrafo). Com um único participante, a frequência é sempre 1 de 1, e a severidade é a classificação adotada pelo autor; por isso, a priorização é provisória. A coluna “No protótipo de alta fidelidade” liga cada problema à tela da Especificação do protótipo de alta fidelidade e à linha da Tabela 12 dessa especificação.
 
 **Tabela 8 – Problemas não corrigidos e prioridade de correção**
 
 | ID   | Local (tela/peça) | Fatores de usabilidade | Descrição e justificativa | Sev. (1–4) | Freq. (nº de P) | Sugestão de correção | No protótipo de alta fidelidade |
 |------|-------------------|------------------------|---------------------------|------------|-----------------|----------------------|---------------------------------|
-| PN01 |                   |                        |                           |            |                 |                      |                                 |
-| PN02 |                   |                        |                           |            |                 |                      |                                 |
-| PN03 |                   |                        |                           |            |                 |                      |                                 |
-| PN04 |                   |                        |                           |            |                 |                      |                                 |
+| PN01 | Telas 1 e 2 (lista de etapas e itens de “antes de agendar”) | Facilidade de aprendizado; satisfação do usuário | As etapas parecem botões, mas são só marcadores: o participante perguntou se podia consultá-las e, na Tela 2, se eram “etapas” ou “botões”. Henrique explicou que são marcadores. | 2 (pequeno) | 1 de 1 (P5) | Diferenciar visualmente marcadores e botões, ou usar caixas expansíveis (drop-down) com os detalhes de cada etapa, mantendo as seis visíveis (sugestão do participante). | Telas 1 e 2; Tabela 12, linha PN01 |
+| PN02 | Tela 3 (botão “OK” da data mais próxima) | Facilidade de aprendizado; eficiência | O botão é pequeno e não parece clicável: o participante não entendeu que, ao tocar nele, iria direto para a próxima tela, e achou que teria de ver a data mais próxima e tocar no calendário. | 2 (pequeno) | 1 de 1 (P5) | Tornar o botão maior e com aparência de ação (sugestão do participante). | Tela 3; Tabela 12, linha PN02 |
+| PN03 | Tela 3 (datas indisponíveis, riscadas) | Facilidade de aprendizado; satisfação do usuário | Ao tocar numa data riscada não acontece nada. O participante achou subentendido que não pode clicar, mas disse que, “pra qualquer caso”, seria bom mostrar que a data não está disponível. | 1 (cosmético) | 1 de 1 (P5) | Mostrar uma mensagem curta de “data não disponível” ao tocar na data (sugestão do participante). | Tela 3; Tabela 12, linha PN03 |
+| PN04 | Tela 3B (horários e vagas) | Facilidade de aprendizado; eficiência | A lista de horários com vagas parece uma tabela: na revisão tela a tela, o participante ficou confuso sobre como escolher o horário e achou que precisaria tocar na linha; Henrique explicou que a escolha é nos círculos. Em T1 ele escolheu o horário das 16 h sem pedir ajuda. | 2 (pequeno) | 1 de 1 (P5) | Trocar os círculos por botões ou rótulos selecionáveis para cada horário (sugestão do participante). | Tela 3 (seleção de horário); Tabela 12, linha PN04 |
 
 Fonte: elaborado pelo autor (2026), com base em Barbosa e Silva (2010, cap. 10, seç. 10.2.3, pp. 361–362).
 
@@ -334,8 +334,10 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 
 ## Agradecimentos e uso de IA generativa
 
-Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado, em 27/10/2026, a pedido do autor, para redigir este roteiro, os cartões, a folha do observador e as tabelas dos apêndices a partir do planejamento da Entrega 5 e do modelo do protótipo de papel, e para localizar no livro de Barbosa e Silva (2010) e recortar os trechos das Figuras 1 a 9. Datas, local, observador e participantes ficam a cargo do autor e estão marcados com [VERIFICAR]. A ferramenta não é autora do documento, e seu uso não exime o autor da responsabilidade pelo conteúdo.
+Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado, em 27/10/2026, a pedido do autor, para redigir este roteiro, os cartões, a folha do observador e as tabelas dos apêndices a partir do planejamento da Entrega 5 e do modelo do protótipo de papel, e para localizar no livro de Barbosa e Silva (2010) e recortar os trechos das Figuras 1 a 9. As datas, o local, os participantes, a execução das sessões e a classificação de severidade são do autor. A ferramenta não é autora do documento, e seu uso não exime o autor da responsabilidade pelo conteúdo.
 
 Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site.
+
+Em 03/11/2026, a pedido do autor, o Claude foi usado para consultar a transcrição e a gravação da Sessão 1, redigir os Apêndices C e D e o registro da execução a partir dessa gravação e das informações dadas pelo autor, e atualizar esta página. Os fatos da sessão (datas, horários, papéis, ausência de observador, tarefas executadas e participante) foram informados pelo autor ou conferidos na gravação; nenhum dado foi inventado.
 
 A versão em PDF deste artefato está disponível para download: [Roteiro da Sessão do Protótipo de Papel (PDF)](arquivos/roteiro-sessao-prototipo-papel.pdf).
