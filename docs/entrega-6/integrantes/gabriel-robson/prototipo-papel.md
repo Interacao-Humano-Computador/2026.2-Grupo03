@@ -4,7 +4,7 @@
 
 ## 1. Objetivo
 
-Este protótipo apresenta uma proposta de fluxo para orientar o cidadão no processo de renovação da Carteira Nacional de Habilitação (CNH) no contexto do Detran-DF. As fotografias abaixo preservam os desenhos originais feitos à mão e mostram a sequência de navegação planejada.
+Este protótipo apresenta uma proposta de fluxo para orientar o cidadão no processo de renovação da Carteira Nacional de Habilitação (CNH) no contexto do Detran-DF. As fotografias originais dos desenhos feitos à mão foram organizadas em sete etapas. As legendas e a ordem estão documentadas abaixo; os arquivos de imagem ainda precisam ser adicionados ao repositório para aparecerem nesta página.
 
 ## 2. Sequência do protótipo
 
@@ -12,7 +12,7 @@ Este protótipo apresenta uma proposta de fluxo para orientar o cidadão no proc
 
 A primeira tela apresenta a opção de atendimento presencial. O usuário seleciona essa opção para iniciar o fluxo de agendamento relacionado ao serviço desejado.
 
-![Tela inicial de agendamento presencial](imagens/01-inicio-agendamento.jpg)
+*Fotografia original da etapa 1: ainda pendente de publicação no repositório.*
 
 *Figura 1 – Tela inicial com a opção de atendimento presencial. Fonte: elaborado pelo autor (2026).*
 
@@ -20,7 +20,7 @@ A primeira tela apresenta a opção de atendimento presencial. O usuário seleci
 
 Depois de acessar a área de agendamento, o usuário encontra a opção **“Novo agendamento”**. Essa ação inicia uma nova solicitação, enquanto a opção “Voltar” permite retornar à tela anterior.
 
-![Opção de novo agendamento](imagens/02-novo-agendamento.jpg)
+*Fotografia original da etapa 2: ainda pendente de publicação no repositório.*
 
 *Figura 2 – Tela com a opção “Novo agendamento”. Fonte: elaborado pelo autor (2026).*
 
@@ -28,7 +28,7 @@ Depois de acessar a área de agendamento, o usuário encontra a opção **“Nov
 
 Nesta etapa, o usuário deve selecionar as informações solicitadas pelo formulário, como o tipo de atendimento e a unidade/local de atendimento. Após preencher os campos, pode avançar para concluir a solicitação.
 
-![Preenchimento das informações do agendamento](imagens/03-preenchimento-agendamento.jpg)
+*Fotografia original da etapa 3: ainda pendente de publicação no repositório.*
 
 *Figura 3 – Formulário para selecionar as informações necessárias ao agendamento. Fonte: elaborado pelo autor (2026).*
 
@@ -36,7 +36,7 @@ Nesta etapa, o usuário deve selecionar as informações solicitadas pelo formul
 
 O protótipo apresenta uma lista de categorias de atendimento, como biometria, habilitação, veículos e outros serviços. O usuário deve localizar a categoria que corresponde à renovação da CNH.
 
-![Lista de categorias de atendimento](imagens/04-selecao-tipo-atendimento.jpg)
+*Fotografia original da etapa 4: ainda pendente de publicação no repositório.*
 
 *Figura 4 – Lista de categorias para orientar a escolha do atendimento. Fonte: elaborado pelo autor (2026).*
 
@@ -44,7 +44,7 @@ O protótipo apresenta uma lista de categorias de atendimento, como biometria, h
 
 A tela reúne cartões de acesso rápido a serviços do Detran-DF, como boleto virtual, consulta de CNH e agendamento. A organização em cartões busca facilitar a localização do serviço pretendido.
 
-![Cartões de serviços mais acessados](imagens/05-servicos-mais-acessados.jpg)
+*Fotografia original da etapa 5: ainda pendente de publicação no repositório.*
 
 *Figura 5 – Cartões de serviços apresentados na área de serviços mais acessados. Fonte: elaborado pelo autor (2026).*
 
@@ -52,7 +52,7 @@ A tela reúne cartões de acesso rápido a serviços do Detran-DF, como boleto v
 
 Antes de finalizar, o usuário visualiza uma mensagem com o dia e o horário selecionados. Em seguida, pode escolher **“Sim”** para confirmar ou **“Não”** para não confirmar a solicitação.
 
-![Confirmação do agendamento](imagens/06-confirmacao-agendamento.jpg)
+*Fotografia original da etapa 6: ainda pendente de publicação no repositório.*
 
 *Figura 6 – Confirmação do dia e do horário selecionados antes de concluir. Fonte: elaborado pelo autor (2026).*
 
@@ -60,7 +60,7 @@ Antes de finalizar, o usuário visualiza uma mensagem com o dia e o horário sel
 
 A última fotografia registra novamente a lista de categorias de atendimento, permitindo visualizar as opções disponíveis durante a navegação e apoiar a escolha do serviço correto.
 
-![Menu de categorias de atendimento](imagens/07-menu-servicos.jpg)
+*Fotografia original da etapa 7: ainda pendente de publicação no repositório.*
 
 *Figura 7 – Menu com as categorias de atendimento disponíveis. Fonte: elaborado pelo autor (2026).*
 
