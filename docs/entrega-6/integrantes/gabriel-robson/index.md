@@ -19,7 +19,7 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 03/11/2026 | 1.0 | Criação da visão geral e estrutura inicial dos materiais individuais para a proposta de renovação da CNH | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Pendente |
-| 03/11/2026 | 1.1 | Inclusão das fotografias originais do protótipo de papel, em sequência e com legendas explicativas | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Pendente |
+| 04/11/2026 | 1.1 | Organização das legendas e da sequência das sete fotografias; publicação das imagens originais ainda pendente | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Pendente |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -44,7 +44,7 @@ Fonte: elaborado pelo autor (2026).
 
 ## 3. Situação dos materiais
 
-A documentação, as fotografias do protótipo de papel e o protótipo demonstrativo constituem uma proposta inicial. O protótipo de papel foi registrado em fotografias originais e documentado em sequência, com legendas, na página [Protótipo de papel](prototipo-papel.md). O teste-piloto, as sessões com participantes, as gravações autorizadas e o relato dos resultados ainda não foram realizados ou registrados nesta página. Portanto, não há resultados de avaliação a apresentar nesta versão.
+A documentação e o protótipo demonstrativo constituem uma proposta inicial. A sequência e as legendas das sete fotografias originais estão documentadas na página [Protótipo de papel](prototipo-papel.md); os arquivos das fotografias ainda aguardam publicação no repositório. O teste-piloto, as sessões com participantes, as gravações autorizadas e o relato dos resultados ainda não foram realizados ou registrados nesta página. Portanto, não há resultados de avaliação a apresentar nesta versão.
 
 ## 4. Apresentação
 
