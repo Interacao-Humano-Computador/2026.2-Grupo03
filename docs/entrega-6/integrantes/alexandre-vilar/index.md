@@ -17,6 +17,7 @@ Fonte: materiais elaborados pelo responsável (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 02/11/2026 | 1.0 | Criação das páginas individuais da Entrega 6 | Alexandre Vilar Valadares Fonsêca | - |
+| 03/11/2026 | 1.1 | Atualização da situação da avaliação e dos materiais | Alexandre Vilar Valadares Fonsêca | - |
 
 Fonte: registro desta versão (2026).
 
@@ -28,13 +29,13 @@ Esta página reúne os materiais de Alexandre Vilar para a Entrega 6. O cenário
 
 | Material | Conteúdo | Página |
 | --- | --- | --- |
-| Protótipo de papel | Fluxo, cenário de teste e 12 fotos do passo a passo | [Abrir protótipo](prototipo-papel.md) |
+| Protótipo de papel | Fluxo, 12 fotos, cenário de teste e relato da avaliação | [Abrir protótipo](prototipo-papel.md) |
 | Planejamento da alta fidelidade | Escopo, observações previstas e cronograma | [Abrir planejamento](planejamento-alta-fidelidade.md) |
-| Vídeo da avaliação | Espaços para o teste-piloto e para a entrevista | [Abrir vídeos](video-avaliacao.md) |
+| Vídeo da avaliação | Gravações do teste-piloto e da entrevista | [Abrir vídeos](video-avaliacao.md) |
 
 ## 3. Situação dos materiais
 
-O protótipo de papel foi concluído e as fotos estão disponíveis na página do protótipo. A entrevista inicialmente prevista não ocorreu porque o participante desmarcou. A nova sessão está prevista para **03/11/2026**. O relato dos resultados será elaborado após a avaliação.
+O protótipo de papel foi concluído e as fotos estão disponíveis na página do protótipo. A entrevista foi realizada em **03/11/2026**. O [relato da avaliação](prototipo-papel.md#5-relato-da-avaliacao) registra a principal melhoria identificada: indicar com mais clareza a disponibilidade de datas e horários.
 
 ## Agradecimentos e uso de IA generativa
 
