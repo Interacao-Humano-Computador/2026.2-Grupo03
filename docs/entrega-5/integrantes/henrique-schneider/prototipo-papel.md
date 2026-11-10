@@ -17,6 +17,7 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Publicação da parte de Henrique Schneider no planejamento da avaliação do protótipo de papel (seções 3.8.1 e 4.4 do relatório do grupo) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.1 | Inclusão dos links para o roteiro da sessão e para o protótipo de alta fidelidade no Figma, que correspondem às telas e às peças deste planejamento (nova Seção 5) | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -87,6 +88,10 @@ Fonte: Relatório da Entrega 5 (GRUPO 03, 2026b, Tabela 19).
 
 O planejamento coletivo (Framework DECIDE) está no [capítulo 3 do relatório do grupo](../../relatorio-do-grupo.md#3-planejamento-da-avaliacao-do-prototipo-de-papel-framework-decide).
 
+## 5. Execução e protótipo de alta fidelidade
+
+Este planejamento foi executado na Entrega 6. O [roteiro da sessão do protótipo de papel](../../../entrega-6/integrantes/henrique-schneider/prototipo-papel.md) registra o teste-piloto e a Sessão 1, e o [Apêndice E desse roteiro](../../../entrega-6/integrantes/henrique-schneider/prototipo-papel.md#apendice-e-correspondencia-entre-o-prototipo-de-papel-e-o-figma) liga cada tela e cada peça descritas na Seção 1 aos quadros do [protótipo de alta fidelidade no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT). A [especificação do protótipo de alta fidelidade](../../../entrega-6/integrantes/henrique-schneider/especificacao-alta-fidelidade.md) descreve as alterações vindas da avaliação do papel.
+
 ## Referências
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
@@ -101,4 +106,4 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir das seções 3.8.1 e 4.4 do Relatório da Entrega 5, sem alterar o planejamento registrado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir das seções 3.8.1 e 4.4 do Relatório da Entrega 5, sem alterar o planejamento registrado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3). Em 10/11/2026, também a pedido do autor, o Claude foi usado para incluir a Seção 5, com os links para o roteiro da sessão e para o Figma, sem alterar o planejamento.

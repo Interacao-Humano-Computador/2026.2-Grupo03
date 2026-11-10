@@ -19,7 +19,7 @@ Fonte: elaborado pelo autor (2026).
 | 27/10/2026 | 1.0    | Criação do roteiro: método, questões e medidas, valores-alvo propostos, participantes e logística, ética, teste-piloto, roteiro da sessão e apêndices (questionário pré-teste, cartões de cenário, folha de medição, entrevista pós-teste e consolidação), a partir do capítulo 2 do relatório da Entrega 6 | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.2 | Novo cronograma (Tabela 4): construção em 07 e 08/11, piloto em 08/11, sessões de 09 a 11/11, consolidação e relato até 15/11; número de participantes e observador definidos; piloto passa a considerar a experiência do piloto do protótipo de papel | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
-| 10/11/2026 | 1.3 | Registro do protótipo construído no Figma (link e fluxos de início das tarefas); a T1 passa a começar na Tela 0 | Henrique Schneider, com apoio do Claude (IA generativa) | A definir |
+| 10/11/2026 | 1.3 | Registro do protótipo construído no Figma (link e fluxos de início das tarefas); a T1 passa a começar na Tela 0 | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelo autor (2026).
 
