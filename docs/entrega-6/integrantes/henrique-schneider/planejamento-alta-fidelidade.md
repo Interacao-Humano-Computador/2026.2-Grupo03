@@ -19,12 +19,13 @@ Fonte: elaborado pelo autor (2026).
 | 27/10/2026 | 1.0    | Criação do roteiro: método, questões e medidas, valores-alvo propostos, participantes e logística, ética, teste-piloto, roteiro da sessão e apêndices (questionário pré-teste, cartões de cenário, folha de medição, entrevista pós-teste e consolidação), a partir do capítulo 2 do relatório da Entrega 6 | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.2 | Novo cronograma (Tabela 4): construção em 07 e 08/11, piloto em 08/11, sessões de 09 a 11/11, consolidação e relato até 15/11; número de participantes e observador definidos; piloto passa a considerar a experiência do piloto do protótipo de papel | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 10/11/2026 | 1.3 | Registro do protótipo construído no Figma (link e fluxos de início das tarefas); a T1 passa a começar na Tela 0 | Henrique Schneider, com apoio do Claude (IA generativa) | A definir |
 
 Fonte: elaborado pelo autor (2026).
 
 ## 1. Introdução
 
-Este roteiro detalha a parte do autor no planejamento da avaliação do protótipo de alta fidelidade (relatório da Entrega 6, seç. 2.8.1). O piloto está previsto para 08/11/2026 e as sessões para 09/11 a 11/11/2026; o teste é relatado na Entrega 7, com prazo em 15/11/2026 (Sales, 2026, p. 5). O protótipo é o descrito na Especificação do protótipo de alta fidelidade (v1.0) e cobre a tarefa de agendar a prova teórica com reserva de horário (HTA v1.2, objetivos 1 a 5).
+Este roteiro detalha a parte do autor no planejamento da avaliação do protótipo de alta fidelidade (relatório da Entrega 6, seç. 2.8.1). O piloto está previsto para 08/11/2026 e as sessões para 09/11 a 11/11/2026; o teste é relatado na Entrega 7, com prazo em 15/11/2026 (Sales, 2026, p. 5). O protótipo é o descrito na Especificação do protótipo de alta fidelidade (v1.3) e cobre a tarefa de agendar a prova teórica com reserva de horário (HTA v1.2, objetivos 1 a 5). Ele foi construído no Figma em 10/11/2026 e está no arquivo [Detran-DF – Agendamento da Prova Teórica – Alta Fidelidade](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT). No modo de apresentação, o avaliador abre o fluxo “0 · Avaliador” (ou os fluxos “T1” a “T4”), nas versões para celular e para computador (especificação, Seção 10).
 
 O documento segue a ordem do framework DECIDE usada nos planejamentos do grupo: objetivos e questões (Seções 2 e 3), método (Seção 4), questões práticas (Seção 5), questões éticas (Seção 6), interpretação dos dados (Seção 7), teste-piloto (Seção 8) e roteiro da sessão (Seção 9). Os apêndices trazem o material de apoio que, segundo Barbosa e Silva (2010, cap. 9, seç. 9.7.2, p. 306, 1º parágrafo), deve ser preparado e impresso antes da coleta (Figura 1).
 
@@ -197,7 +198,7 @@ O questionário coleta informações que podem influenciar a interação: caract
 
 > **Tarefa 4.** A reserva expirou antes de o pagamento compensar. Recupere um horário para a prova.
 
-Mesmos textos do protótipo de papel (Grupo 03, Relatório da Entrega 5, seç. 3.8.1), para permitir a comparação dos resultados. Se a Tela 0 for incluída no protótipo, a T1 começa nela, sem mudar o texto do cartão.
+Mesmos textos do protótipo de papel (Grupo 03, Relatório da Entrega 5, seç. 3.8.1), para permitir a comparação dos resultados. A Tela 0 foi incluída no protótipo, e por isso a T1 começa nela, sem mudar o texto do cartão.
 
 ## Apêndice C – Folha de medição (uma por participante)
 
@@ -358,6 +359,6 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 
 Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado, em 27/10/2026, a pedido do autor, para redigir este roteiro e os apêndices a partir do capítulo 2 do relatório da Entrega 6, propor os valores-alvo da Tabela 3 (a confirmar pelo autor depois do piloto) e localizar e recortar os trechos de Barbosa e Silva (2010) das Figuras 1 a 7. O calendário (Tabela 4), o número de participantes e o papel do observador foram propostos a partir das informações do autor de 03/11/2026 e ficam a cargo dele. A ferramenta não é autora do documento, e seu uso não exime o autor da responsabilidade pelo conteúdo.
 
-Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site, e em 03/11/2026, para atualizar o calendário e os papéis.
+Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site, e em 03/11/2026, para atualizar o calendário e os papéis. Em 10/11/2026, foi usado para registrar o link do protótipo construído no Figma.
 
 A versão em PDF deste artefato está disponível para download: [Planejamento do Teste de Usabilidade (PDF)](arquivos/roteiro-teste-usabilidade-alta-fidelidade.pdf).
