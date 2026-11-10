@@ -1,0 +1,8 @@
+{
+  "name": "Ligar interações – Protótipo Detran-DF",
+  "id": "ligar-interacoes-detran-df-local",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page"
+}

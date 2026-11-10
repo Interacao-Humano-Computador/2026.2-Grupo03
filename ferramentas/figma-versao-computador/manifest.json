@@ -1,0 +1,8 @@
+{
+  "name": "Versão para computador – Protótipo Detran-DF",
+  "id": "versao-computador-detran-df-local",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page"
+}
