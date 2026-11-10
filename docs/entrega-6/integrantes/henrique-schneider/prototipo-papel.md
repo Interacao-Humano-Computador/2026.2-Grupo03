@@ -16,6 +16,10 @@ Fonte: elaborado pelo autor (2026).
 
 | Data       | Versão | Descrição                                                                                                                                                                                                                                                                                       | Autor(es)                                                                | Revisor(es)                |
 |------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------|
+| 27/10/2026 | 1.0    | Criação do roteiro da sessão, dos cartões de tarefa (Apêndice A), da folha do observador (Apêndice B) e das tabelas de ciclos de reprojeto e de consolidação (Apêndices C e D), a partir do planejamento da Entrega 5 (seções 3.4 a 3.8.1 e 4.1 a 4.4) e do modelo do protótipo de papel (v1.0) | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | **[VERIFICAR: revisor]** |
+| 02/11/2026 | 1.1    | Atualização do cronograma (Tabela 3): a janela de 28/10 a 30/10/2026 passou sem as sessões, e as novas datas ficam a definir pelo autor                                                                                                                                                         | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | **[VERIFICAR: revisor]** |
+| 02/11/2026 | 1.2 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 05/11/2026 | 1.3 | Inclusão da seção 9, com as fotos do protótipo de papel construído (Figuras 10 a 13) | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | **[VERIFICAR: revisor]** |
 | 27/10/2026 | 1.0    | Criação do roteiro da sessão, dos cartões de tarefa (Apêndice A), da folha do observador (Apêndice B) e das tabelas de ciclos de reprojeto e de consolidação (Apêndices C e D), a partir do planejamento da Entrega 5 (seções 3.4 a 3.8.1 e 4.1 a 4.4) e do modelo do protótipo de papel (v1.0) | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.1    | Atualização do cronograma (Tabela 3): a janela de 28/10 a 30/10/2026 passou sem as sessões, e as novas datas ficam a definir pelo autor                                                                                                                                                         | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.2 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
@@ -180,6 +184,34 @@ Na folha do Apêndice B, para cada tarefa, o observador registra: (a) se a taref
 Fonte: Barbosa e Silva (2010, p. 320).
 
 Os problemas corrigidos entre sessões vão para o Apêndice C, e os que permanecerem ao final, para o Apêndice D. As duas tabelas seguem os modelos das Tabelas 16 e 17 do Relatório da Entrega 5 e alimentam diretamente as Tabelas 3 e 5 do relatório da Entrega 6.
+
+## 9. Protótipo de papel construído
+
+O protótipo usado nas sessões foi desenhado à mão pelo autor a partir do modelo das telas e das peças soltas (Modelo do protótipo de papel, v1.0). As Figuras 10 a 12 mostram as telas na ordem do fluxo de agendamento, e a Figura 13 mostra as peças soltas que o “computador” coloca sobre as telas durante a simulação.
+
+**Figura 10 – Telas 0, 1 e 2 do protótipo de papel: (a) serviços, (b) Habilitação e (c) antes de agendar**
+
+![Fotografia das Telas 0, 1 e 2 desenhadas à mão: página de serviços do Detran-DF com busca e mais acessados, página de Habilitação 1ª CNH com as seis etapas e o botão Agendar prova, e página Antes de agendar com a lista de requisitos marcados e o botão Escolher unidade, data e horário](arquivos/prototipo-papel-telas-0-1-2.jpg)
+
+Fonte: elaborado pelo autor (2026).
+
+**Figura 11 – Telas 3 e 3B do protótipo de papel: (a) onde e quando e (b) horários disponíveis**
+
+![Fotografia das Telas 3 e 3B desenhadas à mão: passo 2 de 3 com a escolha da unidade Taguatinga, a data mais próxima disponível e um calendário do mês, e passo 3 de 3 com a lista de horários, a quantidade de vagas e o botão Reservar](arquivos/prototipo-papel-telas-3-3b.jpg)
+
+Fonte: elaborado pelo autor (2026).
+
+**Figura 12 – Telas 4 e 5 do protótipo de papel: (a) horário reservado e (b) prova confirmada**
+
+![Fotografia das Telas 4 e 5 desenhadas à mão: horário reservado com aviso de vaga guardada por 24 horas, valor a pagar e botão Copiar chave PIX, e prova confirmada com data, hora, o que levar e os botões Baixar comprovante e Ativar lembrete](arquivos/prototipo-papel-telas-4-5.jpg)
+
+Fonte: elaborado pelo autor (2026).
+
+**Figura 13 – Peças soltas do protótipo de papel: (a) unidades e reserva do dia, (b) confirmação e aviso e (c) mensagens curtas**
+
+![Fotografia das peças soltas desenhadas à mão: nomes de unidades, cartão Reservar horário no dia, caixa Deseja confirmar esse horário com Sim e Não, aviso Selecione um horário e mensagens curtas como Código copiado, Comprovante baixado, Função indisponível e Lembrete ativado](arquivos/prototipo-papel-pecas-soltas.jpg)
+
+Fonte: elaborado pelo autor (2026).
 
 ## Apêndice A – Cartões de tarefa (recortar e entregar um por vez)
 
@@ -379,6 +411,7 @@ Em 10/11/2026, também a pedido do autor, o Claude foi usado para redigir o Apê
 
 Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site.
 
+Em 05/11/2026, também a pedido do autor, o Claude foi usado para incluir na seção 9 as fotos do protótipo de papel tiradas pelo autor (Figuras 10 a 13), com legendas e textos alternativos. As fotos e o protótipo são do autor.
 Em 03/11/2026, a pedido do autor, o Claude foi usado para consultar a transcrição e a gravação da Sessão 1, redigir os Apêndices C e D e o registro da execução a partir dessa gravação e das informações dadas pelo autor, e atualizar esta página. Os fatos da sessão (datas, horários, papéis, ausência de observador, tarefas executadas e participante) foram informados pelo autor ou conferidos na gravação; nenhum dado foi inventado.
 
 A versão em PDF deste artefato está disponível para download: [Roteiro da Sessão do Protótipo de Papel (PDF)](arquivos/roteiro-sessao-prototipo-papel.pdf).

@@ -18,6 +18,8 @@ Fonte: material elaborado pelo responsável (2026).
 | --- | --- | --- | --- | --- |
 | 02/11/2026 | 1.0 | Documentação do fluxo e do cenário de avaliação | Alexandre Vilar Valadares Fonsêca | **[VERIFICAR: revisor]** |
 | 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 02/11/2026 | 1.0 | Documentação do fluxo e do cenário de avaliação | Alexandre Vilar Valadares Fonsêca | - |
+| 03/11/2026 | 1.1 | Inclusão do relato e dos achados da avaliação | Alexandre Vilar Valadares Fonsêca | - |
 
 Fonte: registro desta versão (2026).
 
@@ -92,9 +94,19 @@ Fonte: elaborado pelo autor (2026).
 
 A tarefa é considerada concluída quando o participante chega à tela de confirmação com o serviço, o local, a data e o horário corretos. Registra-se separadamente se ele precisou de ajuda e se reconheceu a mensagem de confirmação.
 
-## 5. Situação da avaliação
+## 5. Relato da avaliação
 
-A entrevista inicialmente prevista foi cancelada pelo participante. A nova sessão está prevista para **03/11/2026**. Os resultados serão registrados depois da realização da sessão.
+A sessão de **03/11/2026** avaliou o cenário T1 com um participante, usando a técnica de **pensar em voz alta**. O avaliador apresentou o cenário e indicou o Lago Sul como local do atendimento.
+
+| Trecho da entrevista | Observação | Implicação para o redesign |
+| --- | --- | --- |
+| [1:41–2:16](https://youtu.be/aLhUbnt0ST8?t=101) | O participante verbalizou a entrada pelo agendamento presencial e encontrou a opção Vistoria de Transferência Veicular. | Manter os rótulos e o caminho de acesso usados no teste. |
+| [2:25–3:08](https://youtu.be/aLhUbnt0ST8?t=145) | A sessão passou pela escolha de local, data e horário. O horário das 15h00 foi mencionado e o participante indicou que concluiu a tarefa. | Verificar na próxima avaliação se a tela final comunica, por si só, que o agendamento foi confirmado. |
+| [3:19–3:53](https://youtu.be/aLhUbnt0ST8?t=199) | O participante considerou o percurso claro e sugeriu indicar melhor quais datas e horários estavam disponíveis. | Usar os rótulos **Datas disponíveis** e **Horários disponíveis**. Se opções sem vaga forem exibidas, marcá-las como **Indisponível**. |
+
+O intervalo entre a primeira ação verbalizada e a indicação de conclusão foi de aproximadamente **1 min 27 s**, incluindo o tempo de verbalização e de interação com o papel. A análise se refere a uma sessão e foi feita com apoio de legendas automáticas; não foi possível confirmar por esse registro se o participante reconheceu a tela final como confirmação.
+
+Os vídeos do teste-piloto e da entrevista estão na [página de vídeo da avaliação](video-avaliacao.md).
 
 [Voltar à visão geral](index.md).
 
