@@ -22,8 +22,9 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 27/09/2026 | 1.0 | Elaboração inicial e consolidação da matriz de contribuição e sintetização de atividades da Entrega 2. | Henrique Schneider | Alexandre Vilar |
 | 27/09/2026 | 1.1 | Atualização das atribuições e alinhamento dos responsáveis principais pelos artefatos da Entrega 2. | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 1.2 | Padronização da estrutura e das legendas, inclusão da linha de Eduardo Ribeiro, retirada dos campos de link de exemplo e inclusão da seção de uso de IA | Henrique Schneider | — |
-| 17/10/2026 | 1.3 | Registro das contribuições de Eduardo Ribeiro já documentadas em históricos e na ata da Reunião 01 e revisão das tabelas | Henrique Schneider | — |
+| 15/10/2026 | 1.2 | Padronização da estrutura e das legendas, inclusão da linha de Eduardo Ribeiro, retirada dos campos de link de exemplo e inclusão da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.3 | Registro das contribuições de Eduardo Ribeiro já documentadas em históricos e na ata da Reunião 01 e revisão das tabelas | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -102,3 +103,5 @@ Fonte: elaborado pelos autores (2026).
 ### Uso de IA generativa na reorganização da página
 
 O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, em 15/10/2026 e 17/10/2026, para reorganizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico, legendas e chamadas das tabelas), incluir na Tabela 3 a linha de Eduardo Ribeiro com as contribuições já registradas nos históricos de versão e na ata da Reunião 01 e retirar os campos de link de exemplo. As contribuições registradas pelo grupo não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

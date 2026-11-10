@@ -19,10 +19,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Integrantes do grupo |
+| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Integrantes do grupo) |
 | 06/10/2026 | 1.1 | Adição dos princípios gerais do projeto e conformidades do Detran-DF | Henrique Schneider | Alexandre Vilar |
-| 15/10/2026 | 1.2 | Padronização da estrutura e das legendas; correção do tema da entrega na introdução e na legenda da Tabela 3 (constava "Entrega 2"); inclusão da linha de Eduardo Ribeiro; preenchimento das células vazias com as evidências da inspeção do Grupo 07; inclusão da seção de uso de IA | Henrique Schneider | — |
-| 17/10/2026 | 1.3 | Organização da página e retirada das linhas sem conteúdo das tabelas | Henrique Schneider | — |
+| 15/10/2026 | 1.2 | Padronização da estrutura e das legendas; correção do tema da entrega na introdução e na legenda da Tabela 3 (constava "Entrega 2"); inclusão da linha de Eduardo Ribeiro; preenchimento das células vazias com as evidências da inspeção do Grupo 07; inclusão da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.3 | Organização da página e retirada das linhas sem conteúdo das tabelas | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -86,3 +87,5 @@ Fonte: elaborado pelos autores (2026).
 ### Uso de IA generativa na padronização da página (15 e 17/10/2026)
 
 O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina, corrigir o tema da entrega, copiado da Entrega 2, e organizar nas tabelas as evidências do relatório de inspeção do Grupo 07 (autoria dos itens e links das gravações). As contribuições registradas pelos integrantes foram mantidas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

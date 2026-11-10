@@ -19,7 +19,8 @@ Fonte: elaborado pelo autor (2026).
 | 27/10/2026 | 1.0    | Criação da especificação: escopo, requisitos visuais do guia de estilo, fluxo, telas, estados para as tarefas do teste e checklist de construção, a partir do modelo do protótipo de papel (v1.0), da HTA (v1.2) e do relato da avaliação do storyboard (v3.1). A Seção 8 fica para ser preenchida com os resultados do protótipo de papel | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.2 | Seção 8 e Tabela 12 preenchidas com os problemas PC01, PC02 e PN01 a PN04 da Sessão 1 do protótipo de papel; datas de exemplo e cronograma atualizados | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
-| 10/11/2026 | 1.3 | Protótipo construído no Figma: ferramenta, inclusão da Tela 0 e forma dos atalhos do avaliador definidas; nova Seção 10 com o link, as telas construídas e as diferenças em relação a esta especificação; situação do checklist da Seção 9 | Henrique Schneider, com apoio do Claude (IA generativa) | A definir |
+| 10/11/2026 | 1.3 | Protótipo construído no Figma: ferramenta, inclusão da Tela 0 e forma dos atalhos do avaliador definidas; nova Seção 10 com o link, as telas construídas e as diferenças em relação a esta especificação; situação do checklist da Seção 9 | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.4 | Inclusão do link para o Apêndice E do roteiro do protótipo de papel, que liga as telas e as peças do papel aos quadros do Figma | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -281,6 +282,8 @@ Os quadros estão na página “Protótipo”, em sete seções: “Componentes�
 | Avisos sobrepostos | TOAST, OV2 | (os mesmos) | “Função fora deste protótipo” e “Comprovante salvo no celular”; fecham sozinhos |
 
 Fonte: elaborado pelo autor (2026).
+
+A Tabela 13 parte das telas da especificação. O caminho inverso, das telas e peças do protótipo de papel (Telas 1 a 5 e peças A a G) para os quadros do Figma, com link direto para cada quadro do celular, está no [Apêndice E do roteiro da sessão do protótipo de papel](prototipo-papel.md#apendice-e-correspondencia-entre-o-prototipo-de-papel-e-o-figma), que também mostra onde foram tratados os problemas PC01, PC02 e PN01 a PN04.
 
 ### 10.3 Atalhos do avaliador
 

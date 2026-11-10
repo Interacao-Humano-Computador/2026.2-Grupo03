@@ -19,13 +19,14 @@ Fonte: materiais fornecidos para esta atualização (2026). As demais contribui�
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Organização dos materiais disponíveis de Alexandre | Alexandre Vilar, com apoio do ChatGPT | — |
-| 25/10/2026 | 1.1 | Atualização das evidências de Alexandre com gravações, piloto e análise pós-entrevista | Alexandre Vilar, com apoio do ChatGPT | — |
-| 25/10/2026 | 1.2 | Inclusão dos materiais de João Vitor | João Vitor, com apoio do ChatGPT | — |
-| 25/10/2026 | 1.3 | Atualização do status dos vídeos, avaliação e relato de João Vitor | João Vitor, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.0 | Organização dos materiais disponíveis de Alexandre | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.1 | Atualização das evidências de Alexandre com gravações, piloto e análise pós-entrevista | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.2 | Inclusão dos materiais de João Vitor | João Vitor, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.3 | Atualização do status dos vídeos, avaliação e relato de João Vitor | João Vitor, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
 | 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider | Henrique Schneider, com apoio do Claude | Gabriel Robson |
-| 25/10/2026 | 1.5 | Registro da consolidação de Alexandre, conferência do Fluxo 5 e escopo preparatório do protótipo | Alexandre Vilar, com apoio do ChatGPT | — |
-| 25/10/2026 | 1.6 | Registro do apoio e revisão previstos de João Vitor e da logística provisória do protótipo | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.5 | Registro da consolidação de Alexandre, conferência do Fluxo 5 e escopo preparatório do protótipo | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.6 | Registro do apoio e revisão previstos de João Vitor e da logística provisória do protótipo | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.7 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 ## 1. Introdução
 
@@ -55,6 +56,7 @@ Fonte: materiais desta atividade (2026).
 
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
 
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
 
 ## 3. Materiais de João Vitor
 

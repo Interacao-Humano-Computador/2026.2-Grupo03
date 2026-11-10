@@ -20,9 +20,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da página: transcrição da lista do Plano de Ensino e da lista aplicada pela monitoria em 01/10/2026, levantamento das listas do grupo, das listas por artefato pedidas pelo professor e das aplicações | Henrique Schneider | — |
-| 17/10/2026 | 1.1 | Transferência da avaliação da monitoria para página própria, inclusão do quadro das listas de verificação individuais e reorganização das seções | Henrique Schneider | — |
-| 19/10/2026 | 1.2 | Inclusão das listas de verificação individuais de Gabriel Robson (personas, elenco de personas e HTA) | Henrique Schneider | — |
+| 15/10/2026 | 1.0 | Criação da página: transcrição da lista do Plano de Ensino e da lista aplicada pela monitoria em 01/10/2026, levantamento das listas do grupo, das listas por artefato pedidas pelo professor e das aplicações | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.1 | Transferência da avaliação da monitoria para página própria, inclusão do quadro das listas de verificação individuais e reorganização das seções | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 19/10/2026 | 1.2 | Inclusão das listas de verificação individuais de Gabriel Robson (personas, elenco de personas e HTA) | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -148,3 +149,5 @@ SILVA, Giovana Barbosa da. *Atividade avaliativa: IHC: Etapa 2: Grupo 3*. Brasí
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever a lista do Plano de Ensino e o enunciado da atividade de listas de verificação, levantar nas páginas do site as listas do grupo, as listas individuais e as aplicações já registradas, montar os quadros e transferir a transcrição da avaliação da monitoria para página própria. Nenhum item, resposta ou autoria foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

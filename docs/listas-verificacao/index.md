@@ -19,9 +19,10 @@ Fonte: elaborado pelos autores (2026), com base nas páginas de verificação de
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da aba "Listas de Verificação", que reúne por entrega as listas do professor, da monitoria e do grupo e as inspeções | Henrique Schneider | — |
-| 17/10/2026 | 2.0 | Reestruturação como página-guia da aba: quadro por entrega com os endereços atuais, listas individuais dos integrantes, inspeções realizadas (quadro trazido da antiga página Verificação, versão 1.2) e orientações de aplicação | Henrique Schneider | — |
-| 19/10/2026 | 2.1 | Inclusão das listas de verificação individuais de Gabriel Robson no Quadro 2 | Henrique Schneider | — |
+| 15/10/2026 | 1.0 | Criação da aba "Listas de Verificação", que reúne por entrega as listas do professor, da monitoria e do grupo e as inspeções | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 2.0 | Reestruturação como página-guia da aba: quadro por entrega com os endereços atuais, listas individuais dos integrantes, inspeções realizadas (quadro trazido da antiga página Verificação, versão 1.2) e orientações de aplicação | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 19/10/2026 | 2.1 | Inclusão das listas de verificação individuais de Gabriel Robson no Quadro 2 | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -133,3 +134,5 @@ SILVA, Giovana Barbosa da. *Atividade avaliativa: IHC: Etapa 2: Grupo 3*. Brasí
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar a aba "Listas de Verificação" e montar os quadros desta página a partir das páginas de cada entrega, do material dos integrantes e da antiga página de Verificação. Nenhum item, resposta ou autoria foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

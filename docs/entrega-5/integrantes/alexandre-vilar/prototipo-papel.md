@@ -19,7 +19,8 @@ Fonte: intenções informadas por Alexandre Vilar em 25/10/2026.
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Organização das intenções de avaliação e revisão informadas pelo autor | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.0 | Organização das intenções de avaliação e revisão informadas pelo autor | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 ## 1. Objetivo e escopo
 
@@ -108,3 +109,5 @@ GRUPO 03. *Relatório da Entrega 5*. 2026. [Capítulos 3 e 4: planejamento colet
 ## Agradecimentos e uso de IA generativa
 
 Em 25/10/2026, o ChatGPT (OpenAI), a pedido de Alexandre Vilar, apoiou a organização deste planejamento a partir do HTA e das intenções informadas pelo autor. Estimativas e distribuição de papéis estão identificadas como propostas. A autoria e a responsabilidade pela revisão são humanas; não foram gerados resultados de sessões futuras.
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

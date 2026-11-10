@@ -16,9 +16,10 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Estruturação do objetivo, da árvore de tarefas e dos planos do processo atual | Alexandre Vilar, com apoio do ChatGPT | — |
-| 25/10/2026 | 1.1 | Ligação aos resultados da entrevista e explicitação dos limites de validação | Alexandre Vilar, com apoio do ChatGPT | — |
-| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.0 | Estruturação do objetivo, da árvore de tarefas e dos planos do processo atual | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.1 | Ligação aos resultados da entrevista e explicitação dos limites de validação | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 Fonte: registro desta versão (2026).
 
 ## 1. Objetivo e recorte
@@ -83,3 +84,5 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selba
 **Uso de IA generativa nesta página.** Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de Alexandre Vilar, para apoiar a organização do conteúdo, a redação das páginas, a estruturação dos HTAs e a adaptação das perguntas do livro. O storyboard foi desenhado por Alexandre e mantido na versão fornecida. Não foram gerados dados de participantes, resultados ou registros de entrevistas. A responsabilidade pelo conteúdo e pela revisão é dos autores.
 
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
