@@ -284,6 +284,10 @@ nav:
         - Protótipo demonstrativo: entrega-5/integrantes/gabriel-robson/prototipo.html
 
   - "Entrega 6":
+    - Relatório da entrega: entrega-6/relatorio.md
+    - Contribuições: entrega-6/contribuicoes.md
+    - Verificação:
+      - Lista de verificação: entrega-6/verificacao/lista-de-verificacao.md
     - Material dos integrantes:
       - Henrique Schneider:
         - Visão geral: entrega-6/integrantes/henrique-schneider/index.md
@@ -300,6 +304,12 @@ nav:
         - Protótipo de papel: entrega-6/integrantes/joao-vitor/prototipo-papel.md
         - Planejamento da alta fidelidade: entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md
         - Vídeo da avaliação: entrega-6/integrantes/joao-vitor/video-avaliacao.md
+
+  - "Entrega 7":
+    - Relatório da entrega: entrega-7/relatorio.md
+
+  - "Entrega 8":
+    - Verificação dos artefatos: entrega-8/verificacao-dos-artefatos.md
 
   - Trabalhos Avaliativos:
     - Visão geral: trabalhos-avaliativos/index.md
