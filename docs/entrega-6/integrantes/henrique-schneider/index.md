@@ -18,6 +18,7 @@ Fonte: elaborado pelo autor (2026).
 | --- | --- | --- | --- | --- |
 | 02/11/2026 | 1.0 | Publicação da visão geral do material de Henrique Schneider na Entrega 6, das três páginas de planejamento e dos PDFs | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.1 | Link do vídeo da apresentação; registro da Sessão 1 e do teste-piloto do protótipo de papel (03/11/2026), com links das gravações; novas versões do roteiro da sessão (v1.3), do TCLE do protótipo de papel (v1.1), da especificação (v1.2), do planejamento do teste de usabilidade (v1.2) e do roteiro da apresentação (v1.2); novo cronograma da avaliação de alta fidelidade | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 10/11/2026 | 1.2 | Registro do protótipo de alta fidelidade construído no Figma (link na Tabela 3); novas versões da especificação (v1.3) e do planejamento do teste de usabilidade (v1.3) | Henrique Schneider, com apoio do Claude (IA generativa) | A definir |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -35,8 +36,9 @@ O teste-piloto e a Sessão 1 da avaliação do protótipo de papel foram realiza
 | --- | --- | --- |
 | Roteiro da sessão do protótipo de papel (v1.3) | Método, questões, participantes, ética, teste-piloto, roteiro em 10 etapas, cartões de tarefa, folha do observador e tabelas de problemas corrigidos (PC01, PC02) e não corrigidos (PN01 a PN04) da Sessão 1 | [Abrir roteiro](prototipo-papel.md) |
 | Material do participante – protótipo de papel (v1.1) | Apresentação do estudo, TCLE em duas vias e autorização de gravação de áudio, rosto e vídeo | [PDF](arquivos/tcle-prototipo-papel.pdf) |
-| Especificação do protótipo de alta fidelidade (v1.2) | Protótipo vertical: escopo, requisitos do guia de estilo, fluxo, Telas 0 a 5, estados e atalhos do avaliador por tarefa e checklist de construção | [Abrir especificação](especificacao-alta-fidelidade.md) |
-| Planejamento do teste de usabilidade (v1.2) | Objetivos, questões, medidas e valores-alvo propostos, participantes, ética, teste-piloto, roteiro da sessão e Apêndices A a E | [Abrir planejamento](planejamento-alta-fidelidade.md) |
+| Especificação do protótipo de alta fidelidade (v1.3) | Protótipo vertical: escopo, requisitos do guia de estilo, fluxo, Telas 0 a 5, estados e atalhos do avaliador por tarefa, checklist de construção e registro do protótipo construído (Seção 10) | [Abrir especificação](especificacao-alta-fidelidade.md) |
+| Protótipo de alta fidelidade (Figma) | Versões para celular (360 × 800 px) e computador (1280 px), navegáveis, com página do avaliador e fluxos de início das tarefas T1 a T4 | [Abrir no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) |
+| Planejamento do teste de usabilidade (v1.3) | Objetivos, questões, medidas e valores-alvo propostos, participantes, ética, teste-piloto, roteiro da sessão e Apêndices A a E | [Abrir planejamento](planejamento-alta-fidelidade.md) |
 | Material do participante – teste de usabilidade (v1.0) | Apresentação do estudo, TCLE em duas vias e autorização de gravação da tela e do áudio | [PDF](arquivos/tcle-teste-usabilidade.pdf) |
 | Roteiro da apresentação gravada (v1.2) | Blocos, tempos, telas e falas da apresentação da parte de Henrique Schneider | [PDF](arquivos/roteiro-apresentacao-entrega-6.pdf) |
 | Guia do grupo para a Entrega 6 (v1.0) | Parte de cada integrante, calendário, lista de verificação e modelos de folhas | [PDF](arquivos/guia-do-grupo-entrega-6.pdf) |
@@ -49,7 +51,7 @@ A avaliação do protótipo de papel foi feita em 03/11/2026: o teste-piloto (14
 
 Os problemas da Sessão 1 estão no roteiro da sessão: dois corrigidos no papel durante a sessão (PC01 e PC02) e quatro não corrigidos (PN01 a PN04), que alimentam a Seção 8 da especificação do protótipo de alta fidelidade.
 
-A construção do protótipo de alta fidelidade está prevista para 07 e 08/11/2026, o piloto do teste de usabilidade para 08/11/2026 e as sessões para 09 a 11/11/2026, com relato na Entrega 7 (prazo em 15/11/2026). Os valores-alvo do teste de usabilidade são uma proposta do autor, a confirmar no teste-piloto, porque as metas de usabilidade da Entrega 3 não têm valores numéricos (GRUPO 03, 2026a, seç. 2).
+A construção do protótipo de alta fidelidade estava prevista para 07 e 08/11/2026 e foi feita em 10/11/2026, no Figma, com versões para celular e computador (especificação, Seção 10). O piloto do teste de usabilidade e as sessões estavam previstos para 08/11 e 09 a 11/11/2026 **[VERIFICAR: novas datas do piloto e das sessões]**; o relato continua na Entrega 7 (prazo em 15/11/2026). Os valores-alvo do teste de usabilidade são uma proposta do autor, a confirmar no teste-piloto, porque as metas de usabilidade da Entrega 3 não têm valores numéricos (GRUPO 03, 2026a, seç. 2).
 
 A parte de Henrique Schneider no relatório do grupo está nas seções 1.4.1 (relato do protótipo de papel) e 2.8.1 (planejamento do protótipo de alta fidelidade), nas Tabelas 1, 2, 3, 5, 6, 9, 10, 14 e 15 e no capítulo 3 (planejamento do relato).
 
@@ -67,4 +69,4 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 27/10/2026, 02/11/2026 e 03/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir os documentos listados na Tabela 3, organizar esta página e, em 03/11/2026, redigir o relato da Sessão 1 a partir da gravação e das informações dadas pelo autor. As datas, os horários, os papéis e o participante foram informados pelo autor ou conferidos na gravação; não foram inventados dados. A ferramenta não é autora do artefato, e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 27/10/2026, 02/11/2026 e 03/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir os documentos listados na Tabela 3, organizar esta página e, em 03/11/2026, redigir o relato da Sessão 1 a partir da gravação e das informações dadas pelo autor. Em 10/11/2026, foi usado para construir o protótipo de alta fidelidade no Figma a partir da especificação e para registrar o link nesta página. As datas, os horários, os papéis e o participante foram informados pelo autor ou conferidos na gravação; não foram inventados dados. A ferramenta não é autora do artefato, e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

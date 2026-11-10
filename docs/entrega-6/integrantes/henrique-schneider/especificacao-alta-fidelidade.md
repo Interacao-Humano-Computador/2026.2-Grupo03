@@ -19,6 +19,7 @@ Fonte: elaborado pelo autor (2026).
 | 27/10/2026 | 1.0    | Criação da especificação: escopo, requisitos visuais do guia de estilo, fluxo, telas, estados para as tarefas do teste e checklist de construção, a partir do modelo do protótipo de papel (v1.0), da HTA (v1.2) e do relato da avaliação do storyboard (v3.1). A Seção 8 fica para ser preenchida com os resultados do protótipo de papel | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.2 | Seção 8 e Tabela 12 preenchidas com os problemas PC01, PC02 e PN01 a PN04 da Sessão 1 do protótipo de papel; datas de exemplo e cronograma atualizados | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 10/11/2026 | 1.3 | Protótipo construído no Figma: ferramenta, inclusão da Tela 0 e forma dos atalhos do avaliador definidas; nova Seção 10 com o link, as telas construídas e as diferenças em relação a esta especificação; situação do checklist da Seção 9 | Henrique Schneider, com apoio do Claude (IA generativa) | A definir |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -26,7 +27,7 @@ Fonte: elaborado pelo autor (2026).
 
 Este documento especifica o protótipo de alta fidelidade do agendamento da prova teórica que o autor vai construir para o teste de usabilidade da Entrega 7. Ele traduz as Telas 1 a 5 e as peças soltas do protótipo de papel (Modelo do protótipo de papel, v1.0) em telas interativas, aplica o guia de estilo do grupo (Grupo 03, Guia de Estilo, v1.3) e indica o que precisa existir no protótipo para que as tarefas T1 a T4 possam ser executadas e medidas (Roteiro do teste de usabilidade, v1.0).
 
-As alterações vindas da avaliação do protótipo de papel (Sessão 1, de 03/11/2026) estão na Seção 8. Como foi uma única sessão, as alterações são propostas a verificar no teste, e não correções confirmadas. A ferramenta de construção é escolha do autor **[VERIFICAR: ferramenta (por exemplo, Figma, Penpot ou HTML)]**; a especificação não depende dela.
+As alterações vindas da avaliação do protótipo de papel (Sessão 1, de 03/11/2026) estão na Seção 8. Como foi uma única sessão, as alterações são propostas a verificar no teste, e não correções confirmadas. O protótipo foi construído no Figma, em 10/11/2026; o link, as telas e as diferenças em relação a esta especificação estão na Seção 10.
 
 ## 2. Fundamentação
 
@@ -121,7 +122,7 @@ As Tabelas 5 a 10 especificam cada tela: elementos, textos e comportamento, com 
 
 ### 6.1 Tela 0 – Serviços do Detran-DF (opcional)
 
-O problema 04 (severidade 3, P1 e P2) é que o serviço de habilitação é difícil de encontrar no gov.br e o termo é genérico; a HTA recomenda dar ao serviço um nome específico e destacá-lo entre os mais acessados (HTA v1.2, operação 1.2). O protótipo de papel começava já dentro do serviço, e por isso não testava essa recomendação. Incluir a Tela 0 permite testá-la no início da tarefa T1. **[VERIFICAR: decidir se a Tela 0 entra; se entrar, o cartão da T1 começa nela]**
+O problema 04 (severidade 3, P1 e P2) é que o serviço de habilitação é difícil de encontrar no gov.br e o termo é genérico; a HTA recomenda dar ao serviço um nome específico e destacá-lo entre os mais acessados (HTA v1.2, operação 1.2). O protótipo de papel começava já dentro do serviço, e por isso não testava essa recomendação. Incluir a Tela 0 permite testá-la no início da tarefa T1. A Tela 0 foi incluída no protótipo construído, e a T1 começa nela (Seção 10).
 
 **Tabela 5 – Tela 0: serviços do Detran-DF**
 
@@ -210,7 +211,7 @@ Fonte: elaborado pelo autor (2026), a partir do Modelo do protótipo de papel (v
 
 ## 7. Estados necessários para as tarefas do teste
 
-As tarefas T2 a T4 dependem de situações que não acontecem sozinhas num protótipo: um dia sem vagas, o PIX compensado e a reserva expirada. A Tabela 11 indica o estado inicial de cada tarefa e como o avaliador o aciona sem que o participante perceba. Uma forma simples é ter um link de início para cada tarefa (por exemplo, uma página do avaliador com “Iniciar T1 … T4”) e, dentro da Tela 4, um atalho discreto para “simular PIX compensado” e “simular expiração” **[VERIFICAR: como implementar na ferramenta escolhida]**.
+As tarefas T2 a T4 dependem de situações que não acontecem sozinhas num protótipo: um dia sem vagas, o PIX compensado e a reserva expirada. A Tabela 11 indica o estado inicial de cada tarefa e como o avaliador o aciona sem que o participante perceba. Uma forma simples é ter um link de início para cada tarefa (por exemplo, uma página do avaliador com “Iniciar T1 … T4”) e, dentro da Tela 4, um atalho discreto para “simular PIX compensado” e “simular expiração”. No Figma, isso foi feito com uma página do avaliador (quadros A0 e DA0) e com áreas invisíveis de 44 × 44 px nos cantos da Tela 4 (Seção 10.3).
 
 **Tabela 11 – Estados do protótipo por tarefa**
 
@@ -250,6 +251,62 @@ Fonte: elaborado pelo autor (2026), a partir dos Apêndices C e D do roteiro da 
 - [ ] Os itens [VERIFICAR] deste documento foram resolvidos ou deixados com texto genérico.
 - [ ] Link ou arquivo do protótipo registrado na página da Entrega 6 do site e no roteiro do teste.
 
+**Situação em 10/11/2026.** O protótipo foi construído com dados fictícios e datas posteriores às sessões; os botões fora do escopo mostram o aviso “Função fora deste protótipo”; os estados têm texto e ícone, e os alvos de toque têm 44 px ou mais. O link foi registrado nesta especificação e na página da Entrega 6, mas ainda não no PDF do roteiro do teste. As transições e os atalhos do avaliador foram criados, mas ainda precisam ser percorridos no modo de apresentação do Figma, no celular e no computador, antes do teste-piloto. Os itens [VERIFICAR] sobre taxa, unidades, documentos e ordem das etapas continuam abertos: o protótipo usa valores ilustrativos (Seção 10.4).
+
+## 10. Protótipo construído
+
+### 10.1 Acesso
+
+O protótipo está no arquivo do Figma [Detran-DF – Agendamento da Prova Teórica – Alta Fidelidade](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT). Para testar, abrir o modo de apresentação (Present) e escolher um dos fluxos: “0 · Avaliador”, que leva às tarefas, ou diretamente “T1” a “T4”, nas versões “Celular” e “Computador”.
+
+Os quadros estão na página “Protótipo”, em sete seções: “Componentes”, três seções do celular (360 × 800 px) e três do computador (1280 px de largura). Cada quadro tem um código no início do nome (por exemplo, “M3A” para a Tela 3 inicial no celular e “D3A” para a mesma tela no computador), usado nas tabelas abaixo.
+
+### 10.2 Telas construídas
+
+**Tabela 13 – Telas do protótipo construído**
+
+| Tela da especificação | Celular | Computador | Observação |
+|---|---|---|---|
+| Página do avaliador | A0 | DA0 | Botões “Iniciar T1” a “Iniciar T4” e “Mostrar aviso D” |
+| Tela 0 – Serviços | M0, M0S | D0, D0S | M0S é o estado da busca com “prova teó” digitado; item “Prova teórica” com “Agendar prova” e “Consultar prova” (PC02) |
+| Tela 1 – Habilitação · 1ª CNH | M1 | D1 | Etapas que abrem e fecham ao toque (PN01) |
+| Telas 2 e 2B – Antes de agendar | M2, M2B | D2, D2B | — |
+| Tela 3 – Escolha onde e quando | M3A, M3U, M3B, M3C, M3T2, M3S, M3D, M3E | D3A, D3U, D3B, D3C, D3T2, D3S, D3D, D3E | Lista de unidades aberta (U); 16/11 sem vagas e aviso C (T2, S); botão “Escolher seg, 16/11” (PN02); horários como botões (PN04) |
+| Tela 4 – Horário reservado | M4A, M4B, M4C | D4A, D4B, D4C | M4B: “Código copiado”, que volta sozinho para a M4A; M4C: reserva em 18/11 (fim da T2) |
+| Diálogo E – Reserva expirada | M4X | D4X | Início da T4 |
+| Aviso D – 1 hora antes | ND | DND | Celular: tela de bloqueio; computador: notificação do navegador |
+| Notificação F – Prova confirmada | NF | DNF | Início da T3 |
+| Tela 5 – Prova confirmada | M5A, M5B | D5A, D5B | “Consultar prova” (PC02) e “Voltar para página inicial” (PC01); M5B: lembrete ativado |
+| Meus agendamentos | M6 | D6 | Destino de “Consultar prova” |
+| Avisos sobrepostos | TOAST, OV2 | (os mesmos) | “Função fora deste protótipo” e “Comprovante salvo no celular”; fecham sozinhos |
+
+Fonte: elaborado pelo autor (2026).
+
+### 10.3 Atalhos do avaliador
+
+Além dos botões da página do avaliador, a Tela 4 (M4A, M4C, D4A e D4C) tem três áreas invisíveis de 44 × 44 px:
+
+- **canto superior direito**, logo abaixo da barra de passos: abre o aviso D (1 hora antes de expirar);
+- **canto inferior esquerdo**: simula o PIX compensado e abre a notificação F;
+- **canto inferior direito**: simula a expiração e abre o diálogo E.
+
+### 10.4 Diferenças em relação a esta especificação
+
+**Tabela 14 – Diferenças entre o protótipo construído e a especificação**
+
+| Item | Especificação | Protótipo construído | Motivo |
+|---|---|---|---|
+| Horários (Tabela 8) | 8h, 9h, 10h e 14h | 9h e 14h, com o texto “Restam poucas vagas neste dia”; só o 9h avança | Cada horário exigiria uma cópia da Tela 4; 9h é o único horário da manhã, como pede a T1 |
+| Dias do calendário | Qualquer dia com vagas | Só 16/11 e 18/11 avançam; 16/11 é sem vagas nas telas da T2 | Datas usadas nas tarefas T1 e T2 |
+| Trocar unidade | Escolher outra unidade | Taguatinga volta à tela anterior; as outras unidades mostram “Função fora deste protótipo” | A T2 pode terminar por “Ver 18/11” |
+| Data de “hoje” | — | Quarta-feira, 11/11/2026; reserva feita às 14h30 e válida até 12/11/2026, às 14h30 | Datas posteriores às sessões e compatíveis com o prazo de 24 horas |
+| Taxa, unidades e documentos | [VERIFICAR] | “R$ 00,00”, cinco unidades ilustrativas e os documentos da especificação | Valores não conferidos no portal do Detran-DF |
+| Tipografia (Tabela 3) | Arial | Arimo, fonte com as mesmas medidas da Arial | A Arial não está disponível no Figma |
+| Foco visível (Tabela 3) | Contorno de 3 px | Mostrado nos campos em uso (busca e unidade) | O Figma não simula a navegação por teclado |
+| “Baixar comprovante” (Tabela 10) | Confirmação curta | Aviso “Comprovante salvo no celular” | — |
+
+Fonte: elaborado pelo autor (2026).
+
 ## Referências
 
 GRUPO 03. *Guia de Estilo do Detran-DF*. Versão 1.3. Entrega 3 do projeto da disciplina de Interação Humano-Computador. Brasília: Universidade de Brasília, 2026. Disponível em: https://interacao-humano-computador.github.io/2026.2-Grupo03/.
@@ -273,5 +330,7 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado, em 27/10/2026, a pedido do autor, para redigir esta especificação a partir do modelo do protótipo de papel, da HTA, do relato do storyboard e do guia de estilo do grupo, para desenhar a Figura 3 com os valores do guia e para localizar e recortar os trechos de Preece, Rogers e Sharp (2005) das Figuras 1 e 2. A decisão sobre a Tela 0, a ferramenta e a construção do protótipo são do autor. A ferramenta não é autora do documento, e seu uso não exime o autor da responsabilidade pelo conteúdo.
 
 Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site, e em 03/11/2026, para preencher a Seção 8 com os problemas da Sessão 1.
+
+Em 10/11/2026, também a pedido do autor, o Claude foi usado para construir o protótipo no Figma a partir desta especificação: componentes, cores e estilos de texto, telas do celular e plugins locais que montaram a versão para computador e ligaram as interações, rodados pelo autor no Figma. Na mesma data, foi usado para registrar o protótipo na Seção 10. O autor rodou os plugins e é responsável por conferir o protótipo antes do teste-piloto.
 
 A versão em PDF deste artefato está disponível para download: [Especificação do Protótipo de Alta Fidelidade (PDF)](arquivos/especificacao-prototipo-alta-fidelidade.pdf).
