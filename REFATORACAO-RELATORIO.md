@@ -313,9 +313,76 @@ Pedidos do Henrique em 15/10/2026, depois da primeira rodada: (1) "uma aba com a
 - Links locais no HTML gerado: 0 quebrados (fora a página 404, que usa caminhos absolutos do site publicado).
 - Conferência visual no Chromium, nos temas claro e escuro: visão geral e página de integrante (abas por entrega), Listas da Entrega 2 e Atas. As nove abas cabem na barra a 1280 px e a 1440 px.
 
+## 11. Terceira rodada: ligação entre o papel e o Figma, padronização e Entregas 6 a 8 (10/11/2026)
+
+Pedido do Henrique: conferir o material do GitHub, padronizar o projeto, ligar o protótipo de papel ao Figma e adiantar a avaliação, a lista de verificação, a inspeção e as entregas seguintes. O trabalho foi feito na branch `refatoracao/padrao-disciplina` (CLAUDE.md, seção 1, item 7), com um commit por tema. O Henrique autorizou os commits, os pushes e os PRs e pediu para adiantar a avaliação, a lista de verificação, a inspeção e as entregas seguintes; por isso a navegação e as páginas novas não esperaram confirmação intermediária (CLAUDE.md, seção 1, item 8).
+
+### 11.1 O que foi feito
+
+| Tema | O que mudou |
+| --- | --- |
+| Papel ↔ Figma | Apêndice E no roteiro do protótipo de papel (v1.4), com a Tabela 9 (telas e peças A a G do papel × quadros do Figma, com link direto para os do celular) e a Tabela 10 (problemas PC01, PC02 e PN01 a PN04 × onde foram tratados). Links de volta na Seção 5 do planejamento do papel da Entrega 5 (v1.1), na especificação (v1.4) e na página da Entrega 6 de Henrique |
+| Padronização | As seis páginas de Gabriel Robson na Entrega 5 receberam tabela de contribuição, histórico no formato do grupo, legendas e a declaração do uso do Claude. Revisores "A definir" das linhas de 10/11/2026 foram trocados por **[VERIFICAR: revisor]** |
+| Entrega 6 | Novas páginas: relatório da entrega, contribuições e lista de verificação (D1 a D11 com autoavaliação preliminar, 11 itens de conteúdo propostos e quadros de inspeção) |
+| Entrega 7 | Nova página com a estrutura do relato dos resultados, **sem dados**: as sessões do teste de usabilidade não foram registradas |
+| Entrega 8 | Nova página com a matriz de conformidade D1 a D11 de todas as páginas do site, gerada por `ferramentas/auditoria-site/auditoria.py` |
+| Navegação | `mkdocs.yml`: Entrega 6 ganhou Relatório, Contribuições e Verificação; foram criadas as abas Entrega 7 e Entrega 8. Nenhuma página existente mudou de endereço |
+
+### 11.2 Resultado da verificação automática
+
+**Tabela 11.1 – Páginas conformes por item em 10/11/2026**
+
+| Item | Conforme | Total avaliado |
+| --- | ---: | ---: |
+| D1 Histórico de versão | 148 | 148 |
+| D2 Autor e revisor nominal | 7 | 148 |
+| D3 Referências | 136 | 148 |
+| D4 Legenda e fonte das tabelas e imagens (heurística) | 91 | 148 |
+| D5 Introdução | 111 | 148 |
+| D10 Tabela de contribuição | 148 | 148 |
+| D11 Uso de IA generativa | 133 | 148 |
+
+O site tem 150 páginas e 108 marcadores **[VERIFICAR]** abertos. O D2 é o pior item: 280 linhas de histórico usam "—" como revisor (convenção adotada em 17/10/2026, quando os marcadores saíram do site), e o CLAUDE.md (seção 4) manda usar **[VERIFICAR: revisor]**. Não troquei, porque contradiz a decisão do grupo de 17/10/2026 e mexeria em 137 arquivos.
+
+### 11.3 Desvios e decisões a confirmar
+
+| Tema | O que foi feito | Decisão do grupo |
+| --- | --- | --- |
+| Revisores no histórico | Mantidos como estão, exceto nas linhas novas e nas páginas de Gabriel Robson | Manter "—" ou trocar tudo por **[VERIFICAR: revisor]** (CLAUDE.md, seção 4) |
+| Itens de conteúdo da Entrega 6 (C1 a C11) | Propostos pelo Claude a partir das fontes que as páginas já citam; "Autor do item" ficou como **[VERIFICAR]** | Confirmar ou substituir pela lista do professor, se houver no Moodle |
+| Inspeção do Grupo +1 (Entregas 6 e 7) | Nenhuma resposta foi criada: não há dados nem gravação de outro grupo | Registrar a inspeção feita ou prevista |
+| Eduardo Ribeiro e Camile | Não aparecem nas novas páginas (a Entrega 5 já usa quatro integrantes); nenhuma menção existente foi alterada | Confirmar a equipe nas Entregas 6 a 8 |
+| Autoria da lista da Entrega 6 | Contribuição atribuída a Henrique (solicitante), com apoio do Claude | Confirmar |
+
+### 11.4 Pendências novas (com responsável sugerido)
+
+| Pendência | Página | Responsável sugerido |
+| --- | --- | --- |
+| Compartilhar o arquivo do Figma como "qualquer pessoa com o link pode ver" | Todas as que citam o Figma | Henrique |
+| Percorrer as transições do Figma no modo de apresentação (celular e computador) | Especificação, Seção 9 | Henrique |
+| Regerar os PDFs da especificação, do roteiro do papel e do planejamento do teste | `arquivos/` de Henrique | Henrique |
+| Conferir a peça B e a peça G do Apêndice E | Roteiro do papel, Tabela 9 | Henrique |
+| Referências (D3), introdução (D5) e declaração de IA (D11) nas páginas da Entrega 6 | Alexandre Vilar (3 a 4 páginas) e João Vitor (4 páginas) | Cada autor |
+| Links dos vídeos e resultado das sessões | Alexandre Vilar e João Vitor, Entrega 6 | Cada autor |
+| Contribuição de Gabriel Robson na Entrega 6; revisor e declaração do ChatGPT nas páginas da Entrega 5 | Entrega 6 e páginas de Gabriel Robson na Entrega 5 | Gabriel Robson |
+| Introdução (D5) das seis páginas de Gabriel Robson | Entrega 5 | Gabriel Robson |
+| Registro da inspeção do Grupo +1 (04/11/2026) e atas da semana | Lista da Entrega 6 e Atas | Grupo |
+| Cronograma executado das Entregas 5 e 6 | Cronograma executado | Henrique |
+| Realizar e relatar o teste de usabilidade (piloto e sessões) | Entrega 7 | Autores de cada proposta |
+| Lista individual "Cenários" (prazo 10/11/2026, 23:30) | Moodle | Cada integrante |
+| Conferência humana da Entrega 8 | Entrega 8 | Grupo |
+
+### 11.5 Validação
+
+- `mkdocs build --strict`: sem avisos.
+- Links internos e âncoras: 0 quebrados nas 150 páginas (verificação própria; os 53 avisos de âncora `#figura-N` são falsos positivos, pois os ids vêm de `<a id>`).
+- Os links do Figma, do YouTube e dos demais endereços externos não foram abertos nesta rodada. O arquivo do Figma é privado até ser compartilhado.
+- Não houve conferência visual nos temas claro e escuro nesta rodada.
+
 ## Histórico de versões
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 15/10/2026 | 1.0 | Criação do relatório da refatoração | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | [VERIFICAR: revisor] |
 | 15/10/2026 | 1.1 | Inclusão da seção 10 (abas Listas de Verificação, Atas e Integrantes), da nota sobre os números depois da segunda rodada e da atualização do alerta 3 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | [VERIFICAR: revisor] |
+| 10/11/2026 | 1.2 | Inclusão da seção 11 (terceira rodada: ligação entre o papel e o Figma, padronização e Entregas 6 a 8) | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | [VERIFICAR: revisor] |

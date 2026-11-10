@@ -10,8 +10,8 @@ Estas páginas saíram da navegação do site em 17/10/2026 porque eram rascunho
 | `entrega-3-caracteristicas-da-plataforma.md` | Características da plataforma (esboço) | `docs/entrega-3/principios-metas-e-guia/` |
 | `entrega-4-eduardo-ribeiro.md` | Planejamento individual de Eduardo Ribeiro (esqueleto; ele saiu da equipe) | Não volta para o site |
 | `entrega-5-relato-storyboard.md`, `entrega-5-relato-analise-de-tarefas.md`, `entrega-5-planejamento-prototipo-papel.md` | Esqueletos da Entrega 5 | `docs/entrega-5/` |
-| `entrega-6-relato-prototipo-papel.md`, `entrega-6-planejamento-alta-fidelidade.md` | Esqueletos da Entrega 6 | `docs/entrega-6/` |
-| `entrega-7-relato-alta-fidelidade.md` | Esqueleto da Entrega 7 | `docs/entrega-7/` |
-| `entrega-8-verificacao-dos-artefatos.md` | Esqueleto da Entrega 8 | `docs/entrega-8/` |
+| `entrega-6-relato-prototipo-papel.md`, `entrega-6-planejamento-alta-fidelidade.md` | Esqueletos da Entrega 6 | Substituídos em 10/11/2026 por `docs/entrega-6/relatorio.md` e pelas páginas de Henrique Schneider |
+| `entrega-7-relato-alta-fidelidade.md` | Esqueleto da Entrega 7 | Substituído em 10/11/2026 por `docs/entrega-7/relatorio.md` |
+| `entrega-8-verificacao-dos-artefatos.md` | Esqueleto da Entrega 8 | Substituído em 10/11/2026 por `docs/entrega-8/verificacao-dos-artefatos.md` |
 | `projeto-final.md` | Esqueleto do projeto final (14 tópicos do Plano de Ensino) | `docs/projeto-final/` |
 | `listas-entregas-5-a-8.md` | Listas de verificação previstas para as Entregas 5 a 8 | `docs/entrega-N/verificacao/` |
