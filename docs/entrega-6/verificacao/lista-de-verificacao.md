@@ -38,7 +38,7 @@ O Plano de Ensino traz a lista de referência só até a Entrega 4 (Sales, 2026,
 | Código | Questão – o GitHub Pages possui: | Autoavaliação preliminar | Situação nas páginas da Entrega 6 |
 | :---: | --- | :---: | --- |
 | D1 | O histórico de versão padronizado? | Sim | As 12 páginas individuais e as 3 páginas da entrega têm histórico no formato do grupo (Data, Versão, Descrição, Autor(es), Revisor(es)) |
-| D2 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | Incompleto | Os autores estão indicados. Os revisores das páginas de Henrique Schneider estão como **[VERIFICAR: revisor]** nas versões de 10/11/2026, e as páginas de Alexandre Vilar e de João Vitor têm “-” |
+| D2 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | Incompleto | Os autores estão indicados. Em 10/11/2026, os revisores genéricos ou vazios (“-”, “—”, “A definir”) das páginas da entrega foram trocados por **[VERIFICAR: revisor]**, porque ainda não há revisor nominal registrado |
 | D3 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | Incompleto | 8 das 12 páginas individuais não têm seção de referências (4 de Alexandre Vilar e 4 de João Vitor) |
 | D4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto? | Incompleto | Verificação por contagem: 5 páginas têm menos legendas ou fontes do que tabelas e imagens (3 de Alexandre Vilar e 2 de Henrique Schneider). A chamada no texto precisa de conferência humana |
 | D5 | Um texto fazendo uma introdução dos artefatos? | Incompleto | 6 páginas individuais não têm introdução (3 de Alexandre Vilar e 3 de João Vitor) |

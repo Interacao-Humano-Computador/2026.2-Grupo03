@@ -340,15 +340,15 @@ Pedido do Henrique: conferir o material do GitHub, padronizar o projeto, ligar o
 | D4 Legenda e fonte das tabelas e imagens (heurística) | 91 | 148 |
 | D5 Introdução | 111 | 148 |
 | D10 Tabela de contribuição | 148 | 148 |
-| D11 Uso de IA generativa | 133 | 148 |
+| D11 Uso de IA generativa | 146 | 148 |
 
-O site tem 150 páginas e 108 marcadores **[VERIFICAR]** abertos. O D2 é o pior item: 280 linhas de histórico usam "—" como revisor (convenção adotada em 17/10/2026, quando os marcadores saíram do site), e o CLAUDE.md (seção 4) manda usar **[VERIFICAR: revisor]**. Não troquei, porque contradiz a decisão do grupo de 17/10/2026 e mexeria em 137 arquivos.
+O site tem 150 páginas e 814 marcadores **[VERIFICAR]** abertos (eram 108 antes da troca dos revisores). O D2 é o pior item: nenhuma página tem revisor nominal diferente do autor na última versão. Depois da primeira medição, o Henrique mandou aplicar o CLAUDE.md (seção 4): 312 linhas de histórico com revisor genérico ou vazio (280 "—", 12 "Integrantes do grupo", 9 "-", 5 "Grupo 03", 3 "Todos os integrantes do grupo" e 3 outras) foram trocadas por **[VERIFICAR: revisor]** em 127 páginas. Cada página ganhou uma linha de histórico (versão +0.1) e a frase de uso de IA; 13 páginas que não tinham a seção de IA ganharam a seção, com um marcador para o autor declarar o uso próprio.
 
 ### 11.3 Desvios e decisões a confirmar
 
 | Tema | O que foi feito | Decisão do grupo |
 | --- | --- | --- |
-| Revisores no histórico | Mantidos como estão, exceto nas linhas novas e nas páginas de Gabriel Robson | Manter "—" ou trocar tudo por **[VERIFICAR: revisor]** (CLAUDE.md, seção 4) |
+| Revisores no histórico | Trocados por **[VERIFICAR: revisor]** em todo o site, por pedido do Henrique (CLAUDE.md, seção 4). Isso reverte a convenção de 17/10/2026 ("—") | Cada autor indicar um revisor nominal diferente dele |
 | Itens de conteúdo da Entrega 6 (C1 a C11) | Propostos pelo Claude a partir das fontes que as páginas já citam; "Autor do item" ficou como **[VERIFICAR]** | Confirmar ou substituir pela lista do professor, se houver no Moodle |
 | Inspeção do Grupo +1 (Entregas 6 e 7) | Nenhuma resposta foi criada: não há dados nem gravação de outro grupo | Registrar a inspeção feita ou prevista |
 | Eduardo Ribeiro e Camile | Não aparecem nas novas páginas (a Entrega 5 já usa quatro integrantes); nenhuma menção existente foi alterada | Confirmar a equipe nas Entregas 6 a 8 |

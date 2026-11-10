@@ -21,12 +21,13 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Consolidação das atividades, responsáveis, prazos e marcos do projeto. | — | — |
-| 17/09/2026 | 1.1 | Alteração de autores e adequação ás mudanças descritas em aula. | Henrique | — |
+| 10/09/2026 | 1.0 | Consolidação das atividades, responsáveis, prazos e marcos do projeto. | — | **[VERIFICAR: revisor]** |
+| 17/09/2026 | 1.1 | Alteração de autores e adequação ás mudanças descritas em aula. | Henrique | **[VERIFICAR: revisor]** |
 | 24/09/2026 | 1.2 | Alteração do autor da tarefa: "Redigir o Termo de Consentimento (TCLE)" e finalização da tarefa | Henrique | João Vitor |
-| 06/10/2026 | 1.3 | Alteração de autores e de prazos da entrega 3 | Henrique | — |
-| 15/10/2026 | 1.4 | Padronização da estrutura (tabela de contribuição, numeração das seções e dos quadros), inclusão do Quadro 18 (gravação e ajustes por etapa), do vínculo com o cronograma executado e da seção de uso de IA | Henrique Schneider | — |
-| 17/10/2026 | 1.5 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição; retirada do Quadro 18 | Henrique Schneider | — |
+| 06/10/2026 | 1.3 | Alteração de autores e de prazos da entrega 3 | Henrique | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.4 | Padronização da estrutura (tabela de contribuição, numeração das seções e dos quadros), inclusão do Quadro 18 (gravação e ajustes por etapa), do vínculo com o cronograma executado e da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.5 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição; retirada do Quadro 18 | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.6 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -264,3 +265,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, numeração das seções e legendas dos quadros), incluir o vínculo com o cronograma executado e corrigir a grafia de um nome. Tarefas, responsáveis, datas e situações do planejamento não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

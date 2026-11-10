@@ -19,11 +19,12 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Integrantes do grupo |
-| 14/10/2026 | 1.1 | Registro da lista de verificação para a inspeção da Entrega 4 do Grupo 01 (Grupo -1) e da declaração de uso de IA correspondente | Henrique Schneider | — |
-| 14/10/2026 | 1.2 | Registro da reunião de inspeção do Grupo 01 (Grupo -1), dos autores dos itens adicionais N1 a N7 e do vídeo da inspeção | Henrique Schneider | — |
-| 15/10/2026 | 1.3 | Correção do tema da entrega na introdução e das legendas (constavam "Entrega 2" e "Entrega 3"); inclusão da linha de Eduardo Ribeiro, das contribuições do planejamento (cronogramas individuais), dos vídeos registrados e da seção de uso de IA; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | — |
-| 17/10/2026 | 1.4 | Organização por entrega; retirada da linha de Eduardo Ribeiro, que não integrava mais o grupo na Entrega 4; inclusão das listas individuais de verificação do storyboard | Henrique Schneider | — |
+| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Integrantes do grupo) |
+| 14/10/2026 | 1.1 | Registro da lista de verificação para a inspeção da Entrega 4 do Grupo 01 (Grupo -1) e da declaração de uso de IA correspondente | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 14/10/2026 | 1.2 | Registro da reunião de inspeção do Grupo 01 (Grupo -1), dos autores dos itens adicionais N1 a N7 e do vídeo da inspeção | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.3 | Correção do tema da entrega na introdução e das legendas (constavam "Entrega 2" e "Entrega 3"); inclusão da linha de Eduardo Ribeiro, das contribuições do planejamento (cronogramas individuais), dos vídeos registrados e da seção de uso de IA; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.4 | Organização por entrega; retirada da linha de Eduardo Ribeiro, que não integrava mais o grupo na Entrega 4; inclusão das listas individuais de verificação do storyboard | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -102,3 +103,5 @@ Fonte: elaborado pelos autores (2026).
 ### Uso de IA generativa na organização desta página
 
 Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para corrigir o tema da entrega e as legendas copiadas de outras entregas, incluir as contribuições dos cronogramas individuais (Relatório da Entrega 4, pp. 7–14), as listas individuais de verificação do storyboard, o uso do Gemini declarado no relatório e os vídeos registrados na ata da Reunião 02, e organizar as tabelas. As contribuições já registradas não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

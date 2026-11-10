@@ -19,10 +19,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Integrantes do Grupo |
+| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Integrantes do Grupo) |
 | 06/10/2026 | 1.1 | Adição dos principios gerais e conformidades do Detran-DF | Henrique Schneider, Alexandre Vilar | João Vitor |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, seções numeradas), conversão dos "Quadros" com fotos do livro em Figuras com legenda, texto alternativo e fonte, correção da página das Figuras 1 e 2 (p. 265) após conferência no livro e inclusão da seção de uso de IA | Henrique Schneider | — |
-| 17/10/2026 | 1.3 | Revisão das citações de Tognazzini (2003) e Cooper (1999), feitas por meio de Barbosa e Silva (2010), e organização da página | Henrique Schneider | — |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, seções numeradas), conversão dos "Quadros" com fotos do livro em Figuras com legenda, texto alternativo e fonte, correção da página das Figuras 1 e 2 (p. 265) após conferência no livro e inclusão da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.3 | Revisão das citações de Tognazzini (2003) e Cooper (1999), feitas por meio de Barbosa e Silva (2010), e organização da página | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -170,3 +171,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico e seções numeradas); organizar as fotos do livro já incluídas pelos autores como Figuras numeradas, com legenda acima, texto alternativo e fonte abaixo; conferir no livro de Barbosa e Silva (2010) a página de cada figura, corrigindo a das Figuras 1 e 2 (de p. 264 para p. 265); renumerar a subseção de eficiência do usuário, que repetia o número 8; e padronizar as citações de Tognazzini (2003) e Cooper (1999) na forma *apud*. Fundamentações e aplicações ao Detran-DF não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

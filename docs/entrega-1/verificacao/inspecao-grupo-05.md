@@ -21,9 +21,10 @@ Fonte: elaborado pelos autores (2026), com base na seção 6 do relatório de in
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Criação da lista de verificação da Entrega 1 do Grupo 05. | Grupo 03 | — |
-| 15/10/2026 | 1.1 | Transcrição, para o site, do relatório de inspeção entregue em 07/09/2026 (identificação, checklist de conformidade, pontos positivos e conclusão), recuperado do histórico do repositório; o modelo de lista da v1.0 foi mantido na seção 5 | Henrique Schneider | — |
-| 17/10/2026 | 1.2 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição; retirada do modelo de lista da versão 1.0, que não foi aplicado | Henrique Schneider | — |
+| 10/09/2026 | 1.0 | Criação da lista de verificação da Entrega 1 do Grupo 05. | Grupo 03 | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.1 | Transcrição, para o site, do relatório de inspeção entregue em 07/09/2026 (identificação, checklist de conformidade, pontos positivos e conclusão), recuperado do histórico do repositório; o modelo de lista da v1.0 foi mantido na seção 5 | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.2 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição; retirada do modelo de lista da versão 1.0, que não foi aplicado | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -85,3 +86,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para recuperar do histórico do Git o relatório de inspeção da Entrega 1, transcrevê-lo para as seções 1 a 4 sem alterar status, locais ou conclusões e organizar as tabelas de identificação e de contribuição. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

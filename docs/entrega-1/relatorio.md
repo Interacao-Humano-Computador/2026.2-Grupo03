@@ -21,9 +21,10 @@ Fonte: elaborado pelos autores (2026), com base no relatório entregue (Grupo 03
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/09/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Relatório da Etapa 1: Planejamento do Projeto") | Grupo 03 (ver seção 6 do PDF) | — |
-| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, transcrição da comparação dos sites preliminares, matriz de conformidade com a lista do Plano de Ensino após a refatoração e inspeção; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | — |
-| 17/10/2026 | 2.1 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira nas tabelas de contribuição e de artefatos e do link do vídeo registrado no relatório entregue; retirada da matriz de conformidade | Henrique Schneider | — |
+| 06/09/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Relatório da Etapa 1: Planejamento do Projeto") | Grupo 03 (ver seção 6 do PDF) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, transcrição da comparação dos sites preliminares, matriz de conformidade com a lista do Plano de Ensino após a refatoração e inspeção; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 2.1 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira nas tabelas de contribuição e de artefatos e do link do vídeo registrado no relatório entregue; retirada da matriz de conformidade | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -109,3 +110,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 As declarações de uso de IA generativa dos artefatos da Entrega 1 estão nas próprias páginas: o Google Gemini foi declarado nas páginas [Ferramentas](planejamento/ferramentas.md) e [Processo de Design](planejamento/processo-de-design.md).
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever o relatório da Entrega 1 para esta página (extração do texto do PDF entregue, transcrição da comparação dos sites preliminares na Tabela 5 e das citações da seção 5) e organizar as Tabelas 1, 3 e 4 a partir dos históricos de versão, dos commits, dos relatórios entregues e do Plano de Ensino. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

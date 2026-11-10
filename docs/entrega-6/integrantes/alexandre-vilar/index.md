@@ -16,7 +16,8 @@ Fonte: materiais elaborados pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 02/11/2026 | 1.0 | Criação das páginas individuais da Entrega 6 | Alexandre Vilar Valadares Fonsêca | - |
+| 02/11/2026 | 1.0 | Criação das páginas individuais da Entrega 6 | Alexandre Vilar Valadares Fonsêca | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: registro desta versão (2026).
 
@@ -39,3 +40,5 @@ O protótipo de papel foi concluído e as fotos estão disponíveis na página d
 ## Agradecimentos e uso de IA generativa
 
 O ChatGPT (OpenAI) apoiou a organização e a redação das páginas a partir do fluxo e do cronograma fornecidos pelo autor.
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

@@ -19,9 +19,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da página e dos relatórios das Entregas 1 a 4 | Henrique Schneider | — |
-| 17/10/2026 | 1.1 | Organização por entrega: links para os relatórios em cada aba de entrega, inclusão da tabela de contribuição e revisão do resumo | Henrique Schneider | — |
-| 25/10/2026 | 1.2 | Inclusão da Entrega 5 e do acesso aos materiais organizados | Alexandre Vilar, com apoio do ChatGPT | — |
+| 15/10/2026 | 1.0 | Criação da página e dos relatórios das Entregas 1 a 4 | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.1 | Organização por entrega: links para os relatórios em cada aba de entrega, inclusão da tabela de contribuição e revisão do resumo | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.2 | Inclusão da Entrega 5 e do acesso aos materiais organizados | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -54,3 +55,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página e o quadro das entregas a partir do Plano de Ensino e dos relatórios publicados no site. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na inclusão da linha da Entrega 5 e de seu registro no histórico.
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

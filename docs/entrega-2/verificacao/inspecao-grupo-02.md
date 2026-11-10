@@ -20,9 +20,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/10/2026 | 0.1 | Criação do arquivo vazio da página | Henrique Schneider | — |
-| 15/10/2026 | 1.0 | Transcrição, para o site, do relatório de inspeção entregue em 02/10/2026 (identificação, 21 itens com resposta e hora, fontes dos itens adicionais) | Henrique Schneider | — |
-| 17/10/2026 | 1.1 | Inclusão das fotos dos trechos citados como fonte dos itens adicionais (Figuras 1 a 5) e conferência das páginas dos itens 17, 18 e 19 | Henrique Schneider | — |
+| 06/10/2026 | 0.1 | Criação do arquivo vazio da página | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.0 | Transcrição, para o site, do relatório de inspeção entregue em 02/10/2026 (identificação, 21 itens com resposta e hora, fontes dos itens adicionais) | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.1 | Inclusão das fotos dos trechos citados como fonte dos itens adicionais (Figuras 1 a 5) e conferência das páginas dos itens 17, 18 e 19 | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -124,3 +125,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever para o site o relatório de inspeção da Entrega 2 entregue pelo grupo (extração do texto do PDF e organização nas Tabelas 3 e 4), sem alterar perguntas, respostas ou horários. Em 17/10/2026, a ferramenta foi usada para localizar nos livros e nos slides os trechos citados como fonte dos itens adicionais e recortar as fotos desses trechos (Figuras 1 a 5). A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

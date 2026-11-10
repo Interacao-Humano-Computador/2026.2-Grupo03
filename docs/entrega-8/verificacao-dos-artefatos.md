@@ -73,11 +73,11 @@ Os itens D6 a D9 (cronograma executado, atas, gravação da reunião e vídeos �
 | D4 Legenda e fonte das tabelas e imagens | 91 | 148 |
 | D5 Introdução | 111 | 148 |
 | D10 Tabela de contribuição | 148 | 148 |
-| D11 Uso de IA generativa | 133 | 148 |
+| D11 Uso de IA generativa | 146 | 148 |
 
 Fonte: elaborado pelos autores (2026), com `ferramentas/auditoria-site/auditoria.py`.
 
-As páginas “Não se aplica” são a página inicial e o modelo de ata. O D2 é o item com mais páginas não conformes, porque as linhas de histórico mantêm “—”, “-” ou “[VERIFICAR: revisor]” como revisor.
+As páginas “Não se aplica” são a página inicial e o modelo de ata. O D2 é o item com mais páginas não conformes: em 10/11/2026, os revisores genéricos ou vazios (“—”, “-”, “A definir”) do histórico foram trocados por **[VERIFICAR: revisor]**, e a página só passa a Conforme quando houver um revisor nominal diferente do autor.
 
 ## 5. Matriz por página
 
@@ -88,28 +88,28 @@ Um quadro por entrega, numerados a partir do Quadro 2. As siglas são C (Conform
 
 | Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA | [VERIFICAR] abertos |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-| [entrega-1/integrantes/alexandre-vilar/exercicio-swebok.md](../entrega-1/integrantes/alexandre-vilar/exercicio-swebok.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-1/integrantes/alexandre-vilar/exercicio-verificacao-validacao.md](../entrega-1/integrantes/alexandre-vilar/exercicio-verificacao-validacao.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-1/integrantes/alexandre-vilar/index.md](../entrega-1/integrantes/alexandre-vilar/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/integrantes/alexandre-vilar/lista-decide.md](../entrega-1/integrantes/alexandre-vilar/lista-decide.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-1/integrantes/gabriel-robson/index.md](../entrega-1/integrantes/gabriel-robson/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/integrantes/henrique-schneider/exercicio-planejamento-avaliacao.md](../entrega-1/integrantes/henrique-schneider/exercicio-planejamento-avaliacao.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-1/integrantes/henrique-schneider/index.md](../entrega-1/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/integrantes/joao-vitor/exercicio-verificacao-validacao.md](../entrega-1/integrantes/joao-vitor/exercicio-verificacao-validacao.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-1/integrantes/joao-vitor/index.md](../entrega-1/integrantes/joao-vitor/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/integrantes/joao-vitor/lista-decide.md](../entrega-1/integrantes/joao-vitor/lista-decide.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-1/integrantes/joao-vitor/lista-metodos-avaliacao.md](../entrega-1/integrantes/joao-vitor/lista-metodos-avaliacao.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-1/planejamento/cronograma-executado.md](../entrega-1/planejamento/cronograma-executado.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/planejamento/cronograma-planejado.md](../entrega-1/planejamento/cronograma-planejado.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/planejamento/ferramentas.md](../entrega-1/planejamento/ferramentas.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-1/planejamento/heatmap.md](../entrega-1/planejamento/heatmap.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/planejamento/processo-de-design.md](../entrega-1/planejamento/processo-de-design.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/planejamento/site-escolhido.md](../entrega-1/planejamento/site-escolhido.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/planejamento/sites-avaliados.md](../entrega-1/planejamento/sites-avaliados.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/relatorio.md](../entrega-1/relatorio.md) | C | NC | C | C | NC | C | C | 0 |
-| [entrega-1/verificacao/avaliacao-monitoria.md](../entrega-1/verificacao/avaliacao-monitoria.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/verificacao/inspecao-grupo-05.md](../entrega-1/verificacao/inspecao-grupo-05.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-1/verificacao/listas.md](../entrega-1/verificacao/listas.md) | C | NC | C | C | C | C | C | 0 |
+| [entrega-1/integrantes/alexandre-vilar/exercicio-swebok.md](../entrega-1/integrantes/alexandre-vilar/exercicio-swebok.md) | C | NC | C | NC | C | C | C | 4 |
+| [entrega-1/integrantes/alexandre-vilar/exercicio-verificacao-validacao.md](../entrega-1/integrantes/alexandre-vilar/exercicio-verificacao-validacao.md) | C | NC | C | NC | C | C | C | 4 |
+| [entrega-1/integrantes/alexandre-vilar/index.md](../entrega-1/integrantes/alexandre-vilar/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-1/integrantes/alexandre-vilar/lista-decide.md](../entrega-1/integrantes/alexandre-vilar/lista-decide.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-1/integrantes/gabriel-robson/index.md](../entrega-1/integrantes/gabriel-robson/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-1/integrantes/henrique-schneider/exercicio-planejamento-avaliacao.md](../entrega-1/integrantes/henrique-schneider/exercicio-planejamento-avaliacao.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-1/integrantes/henrique-schneider/index.md](../entrega-1/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-1/integrantes/joao-vitor/exercicio-verificacao-validacao.md](../entrega-1/integrantes/joao-vitor/exercicio-verificacao-validacao.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-1/integrantes/joao-vitor/index.md](../entrega-1/integrantes/joao-vitor/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-1/integrantes/joao-vitor/lista-decide.md](../entrega-1/integrantes/joao-vitor/lista-decide.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-1/integrantes/joao-vitor/lista-metodos-avaliacao.md](../entrega-1/integrantes/joao-vitor/lista-metodos-avaliacao.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-1/planejamento/cronograma-executado.md](../entrega-1/planejamento/cronograma-executado.md) | C | NC | C | C | C | C | C | 5 |
+| [entrega-1/planejamento/cronograma-planejado.md](../entrega-1/planejamento/cronograma-planejado.md) | C | NC | C | C | C | C | C | 8 |
+| [entrega-1/planejamento/ferramentas.md](../entrega-1/planejamento/ferramentas.md) | C | NC | C | NC | C | C | C | 7 |
+| [entrega-1/planejamento/heatmap.md](../entrega-1/planejamento/heatmap.md) | C | NC | C | C | C | C | C | 7 |
+| [entrega-1/planejamento/processo-de-design.md](../entrega-1/planejamento/processo-de-design.md) | C | NC | C | C | C | C | C | 7 |
+| [entrega-1/planejamento/site-escolhido.md](../entrega-1/planejamento/site-escolhido.md) | C | NC | C | C | C | C | C | 6 |
+| [entrega-1/planejamento/sites-avaliados.md](../entrega-1/planejamento/sites-avaliados.md) | C | NC | C | C | C | C | C | 7 |
+| [entrega-1/relatorio.md](../entrega-1/relatorio.md) | C | NC | C | C | NC | C | C | 6 |
+| [entrega-1/verificacao/avaliacao-monitoria.md](../entrega-1/verificacao/avaliacao-monitoria.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-1/verificacao/inspecao-grupo-05.md](../entrega-1/verificacao/inspecao-grupo-05.md) | C | NC | C | C | C | C | C | 6 |
+| [entrega-1/verificacao/listas.md](../entrega-1/verificacao/listas.md) | C | NC | C | C | C | C | C | 6 |
 
 Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.py.
 
@@ -119,33 +119,33 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 
 | Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA | [VERIFICAR] abertos |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-| [entrega-2/contribuicoes.md](../entrega-2/contribuicoes.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-2/integrantes/alexandre-vilar/index.md](../entrega-2/integrantes/alexandre-vilar/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-2/integrantes/alexandre-vilar/lista-ctt.md](../entrega-2/integrantes/alexandre-vilar/lista-ctt.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/alexandre-vilar/lista-elenco-personas.md](../entrega-2/integrantes/alexandre-vilar/lista-elenco-personas.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/alexandre-vilar/lista-hta.md](../entrega-2/integrantes/alexandre-vilar/lista-hta.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/alexandre-vilar/lista-perfil-usuario.md](../entrega-2/integrantes/alexandre-vilar/lista-perfil-usuario.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/alexandre-vilar/lista-personas.md](../entrega-2/integrantes/alexandre-vilar/lista-personas.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/gabriel-robson/index.md](../entrega-2/integrantes/gabriel-robson/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-2/integrantes/gabriel-robson/lista-elenco-personas.md](../entrega-2/integrantes/gabriel-robson/lista-elenco-personas.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/gabriel-robson/lista-hta.md](../entrega-2/integrantes/gabriel-robson/lista-hta.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/gabriel-robson/lista-personas.md](../entrega-2/integrantes/gabriel-robson/lista-personas.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/henrique-schneider/index.md](../entrega-2/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-2/integrantes/joao-vitor/index.md](../entrega-2/integrantes/joao-vitor/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-2/integrantes/joao-vitor/lista-ctt.md](../entrega-2/integrantes/joao-vitor/lista-ctt.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/joao-vitor/lista-elenco-personas.md](../entrega-2/integrantes/joao-vitor/lista-elenco-personas.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/joao-vitor/lista-hta.md](../entrega-2/integrantes/joao-vitor/lista-hta.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/joao-vitor/lista-perfil-usuario.md](../entrega-2/integrantes/joao-vitor/lista-perfil-usuario.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/integrantes/joao-vitor/lista-personas.md](../entrega-2/integrantes/joao-vitor/lista-personas.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/perfil-e-tarefas/analise-de-tarefas.md](../entrega-2/perfil-e-tarefas/analise-de-tarefas.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/perfil-e-tarefas/aspectos-eticos-tcle.md](../entrega-2/perfil-e-tarefas/aspectos-eticos-tcle.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/perfil-e-tarefas/cenarios.md](../entrega-2/perfil-e-tarefas/cenarios.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-2/perfil-e-tarefas/perfis-e-personas.md](../entrega-2/perfil-e-tarefas/perfis-e-personas.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-2/perfil-e-tarefas/questionarios.md](../entrega-2/perfil-e-tarefas/questionarios.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/relatorio.md](../entrega-2/relatorio.md) | C | NC | C | C | NC | C | C | 0 |
-| [entrega-2/verificacao/avaliacao-monitoria.md](../entrega-2/verificacao/avaliacao-monitoria.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-2/verificacao/inspecao-grupo-02.md](../entrega-2/verificacao/inspecao-grupo-02.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-2/verificacao/listas.md](../entrega-2/verificacao/listas.md) | C | NC | C | C | C | C | C | 0 |
+| [entrega-2/contribuicoes.md](../entrega-2/contribuicoes.md) | C | NC | C | C | C | C | C | 5 |
+| [entrega-2/integrantes/alexandre-vilar/index.md](../entrega-2/integrantes/alexandre-vilar/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-2/integrantes/alexandre-vilar/lista-ctt.md](../entrega-2/integrantes/alexandre-vilar/lista-ctt.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/alexandre-vilar/lista-elenco-personas.md](../entrega-2/integrantes/alexandre-vilar/lista-elenco-personas.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/alexandre-vilar/lista-hta.md](../entrega-2/integrantes/alexandre-vilar/lista-hta.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/alexandre-vilar/lista-perfil-usuario.md](../entrega-2/integrantes/alexandre-vilar/lista-perfil-usuario.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/alexandre-vilar/lista-personas.md](../entrega-2/integrantes/alexandre-vilar/lista-personas.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/gabriel-robson/index.md](../entrega-2/integrantes/gabriel-robson/index.md) | C | NC | C | C | C | C | C | 5 |
+| [entrega-2/integrantes/gabriel-robson/lista-elenco-personas.md](../entrega-2/integrantes/gabriel-robson/lista-elenco-personas.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/gabriel-robson/lista-hta.md](../entrega-2/integrantes/gabriel-robson/lista-hta.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/gabriel-robson/lista-personas.md](../entrega-2/integrantes/gabriel-robson/lista-personas.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/henrique-schneider/index.md](../entrega-2/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-2/integrantes/joao-vitor/index.md](../entrega-2/integrantes/joao-vitor/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-2/integrantes/joao-vitor/lista-ctt.md](../entrega-2/integrantes/joao-vitor/lista-ctt.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/joao-vitor/lista-elenco-personas.md](../entrega-2/integrantes/joao-vitor/lista-elenco-personas.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/joao-vitor/lista-hta.md](../entrega-2/integrantes/joao-vitor/lista-hta.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/joao-vitor/lista-perfil-usuario.md](../entrega-2/integrantes/joao-vitor/lista-perfil-usuario.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/integrantes/joao-vitor/lista-personas.md](../entrega-2/integrantes/joao-vitor/lista-personas.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/perfil-e-tarefas/analise-de-tarefas.md](../entrega-2/perfil-e-tarefas/analise-de-tarefas.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/perfil-e-tarefas/aspectos-eticos-tcle.md](../entrega-2/perfil-e-tarefas/aspectos-eticos-tcle.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/perfil-e-tarefas/cenarios.md](../entrega-2/perfil-e-tarefas/cenarios.md) | C | NC | C | C | C | C | C | 6 |
+| [entrega-2/perfil-e-tarefas/perfis-e-personas.md](../entrega-2/perfil-e-tarefas/perfis-e-personas.md) | C | NC | C | C | C | C | C | 6 |
+| [entrega-2/perfil-e-tarefas/questionarios.md](../entrega-2/perfil-e-tarefas/questionarios.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-2/relatorio.md](../entrega-2/relatorio.md) | C | NC | C | C | NC | C | C | 8 |
+| [entrega-2/verificacao/avaliacao-monitoria.md](../entrega-2/verificacao/avaliacao-monitoria.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-2/verificacao/inspecao-grupo-02.md](../entrega-2/verificacao/inspecao-grupo-02.md) | C | NC | C | NC | C | C | C | 6 |
+| [entrega-2/verificacao/listas.md](../entrega-2/verificacao/listas.md) | C | NC | C | C | C | C | C | 6 |
 
 Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.py.
 
@@ -155,18 +155,18 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 
 | Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA | [VERIFICAR] abertos |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-| [entrega-3/contribuicoes.md](../entrega-3/contribuicoes.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-3/integrantes/alexandre-vilar/index.md](../entrega-3/integrantes/alexandre-vilar/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-3/integrantes/gabriel-robson/index.md](../entrega-3/integrantes/gabriel-robson/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-3/integrantes/henrique-schneider/index.md](../entrega-3/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-3/integrantes/joao-vitor/index.md](../entrega-3/integrantes/joao-vitor/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-3/principios-metas-e-guia/guia-de-estilo.md](../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-3/principios-metas-e-guia/metas-de-usabilidade.md](../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | C | NC | C | NC | NC | C | C | 0 |
-| [entrega-3/principios-metas-e-guia/principios-gerais.md](../entrega-3/principios-metas-e-guia/principios-gerais.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-3/relatorio.md](../entrega-3/relatorio.md) | C | NC | C | C | NC | C | C | 0 |
-| [entrega-3/verificacao/avaliacao-monitoria.md](../entrega-3/verificacao/avaliacao-monitoria.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-3/verificacao/inspecao-grupo-07.md](../entrega-3/verificacao/inspecao-grupo-07.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-3/verificacao/listas.md](../entrega-3/verificacao/listas.md) | C | NC | C | C | C | C | C | 0 |
+| [entrega-3/contribuicoes.md](../entrega-3/contribuicoes.md) | C | NC | C | C | C | C | C | 6 |
+| [entrega-3/integrantes/alexandre-vilar/index.md](../entrega-3/integrantes/alexandre-vilar/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-3/integrantes/gabriel-robson/index.md](../entrega-3/integrantes/gabriel-robson/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-3/integrantes/henrique-schneider/index.md](../entrega-3/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-3/integrantes/joao-vitor/index.md](../entrega-3/integrantes/joao-vitor/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-3/principios-metas-e-guia/guia-de-estilo.md](../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | C | NC | C | NC | C | C | C | 7 |
+| [entrega-3/principios-metas-e-guia/metas-de-usabilidade.md](../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | C | NC | C | NC | NC | C | C | 5 |
+| [entrega-3/principios-metas-e-guia/principios-gerais.md](../entrega-3/principios-metas-e-guia/principios-gerais.md) | C | NC | C | C | C | C | C | 6 |
+| [entrega-3/relatorio.md](../entrega-3/relatorio.md) | C | NC | C | C | NC | C | C | 6 |
+| [entrega-3/verificacao/avaliacao-monitoria.md](../entrega-3/verificacao/avaliacao-monitoria.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-3/verificacao/inspecao-grupo-07.md](../entrega-3/verificacao/inspecao-grupo-07.md) | C | NC | C | NC | C | C | C | 6 |
+| [entrega-3/verificacao/listas.md](../entrega-3/verificacao/listas.md) | C | NC | C | C | C | C | C | 5 |
 
 Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.py.
 
@@ -176,21 +176,21 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 
 | Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA | [VERIFICAR] abertos |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-| [entrega-4/contribuicoes.md](../entrega-4/contribuicoes.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-4/integrantes/alexandre-vilar/index.md](../entrega-4/integrantes/alexandre-vilar/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-4/integrantes/alexandre-vilar/lista-storyboard.md](../entrega-4/integrantes/alexandre-vilar/lista-storyboard.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-4/integrantes/alexandre-vilar/planejamento-individual.md](../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-4/integrantes/gabriel-robson/index.md](../entrega-4/integrantes/gabriel-robson/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-4/integrantes/gabriel-robson/planejamento-individual.md](../entrega-4/integrantes/gabriel-robson/planejamento-individual.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-4/integrantes/henrique-schneider/index.md](../entrega-4/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-4/integrantes/henrique-schneider/planejamento-individual.md](../entrega-4/integrantes/henrique-schneider/planejamento-individual.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-4/integrantes/joao-vitor/index.md](../entrega-4/integrantes/joao-vitor/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-4/integrantes/joao-vitor/lista-storyboard.md](../entrega-4/integrantes/joao-vitor/lista-storyboard.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-4/integrantes/joao-vitor/planejamento-individual.md](../entrega-4/integrantes/joao-vitor/planejamento-individual.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-4/planejamento-da-avaliacao/decide.md](../entrega-4/planejamento-da-avaliacao/decide.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-4/relatorio.md](../entrega-4/relatorio.md) | C | NC | C | C | NC | C | C | 0 |
-| [entrega-4/verificacao/inspecao-grupo-01.md](../entrega-4/verificacao/inspecao-grupo-01.md) | C | NC | C | NC | C | C | C | 0 |
-| [entrega-4/verificacao/listas.md](../entrega-4/verificacao/listas.md) | C | NC | C | C | C | C | C | 0 |
+| [entrega-4/contribuicoes.md](../entrega-4/contribuicoes.md) | C | NC | C | C | C | C | C | 8 |
+| [entrega-4/integrantes/alexandre-vilar/index.md](../entrega-4/integrantes/alexandre-vilar/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-4/integrantes/alexandre-vilar/lista-storyboard.md](../entrega-4/integrantes/alexandre-vilar/lista-storyboard.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-4/integrantes/alexandre-vilar/planejamento-individual.md](../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md) | C | NC | C | NC | C | C | C | 7 |
+| [entrega-4/integrantes/gabriel-robson/index.md](../entrega-4/integrantes/gabriel-robson/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-4/integrantes/gabriel-robson/planejamento-individual.md](../entrega-4/integrantes/gabriel-robson/planejamento-individual.md) | C | NC | C | NC | C | C | C | 7 |
+| [entrega-4/integrantes/henrique-schneider/index.md](../entrega-4/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-4/integrantes/henrique-schneider/planejamento-individual.md](../entrega-4/integrantes/henrique-schneider/planejamento-individual.md) | C | NC | C | NC | C | C | C | 7 |
+| [entrega-4/integrantes/joao-vitor/index.md](../entrega-4/integrantes/joao-vitor/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-4/integrantes/joao-vitor/lista-storyboard.md](../entrega-4/integrantes/joao-vitor/lista-storyboard.md) | C | NC | C | NC | C | C | C | 5 |
+| [entrega-4/integrantes/joao-vitor/planejamento-individual.md](../entrega-4/integrantes/joao-vitor/planejamento-individual.md) | C | NC | C | NC | C | C | C | 7 |
+| [entrega-4/planejamento-da-avaliacao/decide.md](../entrega-4/planejamento-da-avaliacao/decide.md) | C | NC | C | NC | C | C | C | 6 |
+| [entrega-4/relatorio.md](../entrega-4/relatorio.md) | C | NC | C | C | NC | C | C | 6 |
+| [entrega-4/verificacao/inspecao-grupo-01.md](../entrega-4/verificacao/inspecao-grupo-01.md) | C | NC | C | NC | C | C | C | 8 |
+| [entrega-4/verificacao/listas.md](../entrega-4/verificacao/listas.md) | C | NC | C | C | C | C | C | 5 |
 
 Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.py.
 
@@ -200,16 +200,16 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 
 | Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA | [VERIFICAR] abertos |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-| [entrega-5/contribuicoes.md](../entrega-5/contribuicoes.md) | C | NC | NC | NC | C | C | C | 0 |
-| [entrega-5/integrantes/alexandre-vilar/avaliacao.md](../entrega-5/integrantes/alexandre-vilar/avaliacao.md) | C | NC | C | NC | NC | C | C | 0 |
-| [entrega-5/integrantes/alexandre-vilar/hta-atual.md](../entrega-5/integrantes/alexandre-vilar/hta-atual.md) | C | NC | C | C | NC | C | C | 0 |
-| [entrega-5/integrantes/alexandre-vilar/hta-redesign.md](../entrega-5/integrantes/alexandre-vilar/hta-redesign.md) | C | NC | C | C | NC | C | C | 0 |
-| [entrega-5/integrantes/alexandre-vilar/index.md](../entrega-5/integrantes/alexandre-vilar/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-5/integrantes/alexandre-vilar/prototipo-papel.md](../entrega-5/integrantes/alexandre-vilar/prototipo-papel.md) | C | NC | C | NC | NC | C | C | 0 |
-| [entrega-5/integrantes/alexandre-vilar/relatorio-pos-entrevista.md](../entrega-5/integrantes/alexandre-vilar/relatorio-pos-entrevista.md) | C | NC | C | NC | NC | C | C | 0 |
-| [entrega-5/integrantes/alexandre-vilar/roteiro-entrevista.md](../entrega-5/integrantes/alexandre-vilar/roteiro-entrevista.md) | C | NC | C | NC | NC | C | C | 0 |
-| [entrega-5/integrantes/alexandre-vilar/storyboard.md](../entrega-5/integrantes/alexandre-vilar/storyboard.md) | C | NC | C | C | NC | C | C | 0 |
-| [entrega-5/integrantes/alexandre-vilar/video-entrevista.md](../entrega-5/integrantes/alexandre-vilar/video-entrevista.md) | C | NC | NC | NC | NC | C | C | 0 |
+| [entrega-5/contribuicoes.md](../entrega-5/contribuicoes.md) | C | NC | NC | NC | C | C | C | 9 |
+| [entrega-5/integrantes/alexandre-vilar/avaliacao.md](../entrega-5/integrantes/alexandre-vilar/avaliacao.md) | C | NC | C | NC | NC | C | C | 7 |
+| [entrega-5/integrantes/alexandre-vilar/hta-atual.md](../entrega-5/integrantes/alexandre-vilar/hta-atual.md) | C | NC | C | C | NC | C | C | 6 |
+| [entrega-5/integrantes/alexandre-vilar/hta-redesign.md](../entrega-5/integrantes/alexandre-vilar/hta-redesign.md) | C | NC | C | C | NC | C | C | 5 |
+| [entrega-5/integrantes/alexandre-vilar/index.md](../entrega-5/integrantes/alexandre-vilar/index.md) | C | NC | C | C | C | C | C | 7 |
+| [entrega-5/integrantes/alexandre-vilar/prototipo-papel.md](../entrega-5/integrantes/alexandre-vilar/prototipo-papel.md) | C | NC | C | NC | NC | C | C | 4 |
+| [entrega-5/integrantes/alexandre-vilar/relatorio-pos-entrevista.md](../entrega-5/integrantes/alexandre-vilar/relatorio-pos-entrevista.md) | C | NC | C | NC | NC | C | C | 7 |
+| [entrega-5/integrantes/alexandre-vilar/roteiro-entrevista.md](../entrega-5/integrantes/alexandre-vilar/roteiro-entrevista.md) | C | NC | C | NC | NC | C | C | 5 |
+| [entrega-5/integrantes/alexandre-vilar/storyboard.md](../entrega-5/integrantes/alexandre-vilar/storyboard.md) | C | NC | C | C | NC | C | C | 5 |
+| [entrega-5/integrantes/alexandre-vilar/video-entrevista.md](../entrega-5/integrantes/alexandre-vilar/video-entrevista.md) | C | NC | NC | NC | NC | C | C | 6 |
 | [entrega-5/integrantes/gabriel-robson/avaliacao.md](../entrega-5/integrantes/gabriel-robson/avaliacao.md) | C | NC | C | NC | NC | C | C | 3 |
 | [entrega-5/integrantes/gabriel-robson/hta-atual.md](../entrega-5/integrantes/gabriel-robson/hta-atual.md) | C | NC | C | NC | NC | C | C | 3 |
 | [entrega-5/integrantes/gabriel-robson/hta-redesign.md](../entrega-5/integrantes/gabriel-robson/hta-redesign.md) | C | NC | C | NC | NC | C | C | 3 |
@@ -223,18 +223,18 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 | [entrega-5/integrantes/henrique-schneider/roteiro-entrevista.md](../entrega-5/integrantes/henrique-schneider/roteiro-entrevista.md) | C | C | C | C | C | C | NC | 0 |
 | [entrega-5/integrantes/henrique-schneider/storyboard.md](../entrega-5/integrantes/henrique-schneider/storyboard.md) | C | C | C | C | NC | C | C | 0 |
 | [entrega-5/integrantes/henrique-schneider/video-entrevista.md](../entrega-5/integrantes/henrique-schneider/video-entrevista.md) | C | C | C | C | NC | C | C | 0 |
-| [entrega-5/integrantes/joao-vitor/avaliacao.md](../entrega-5/integrantes/joao-vitor/avaliacao.md) | C | NC | C | NC | NC | C | NC | 0 |
-| [entrega-5/integrantes/joao-vitor/hta-atual.md](../entrega-5/integrantes/joao-vitor/hta-atual.md) | C | NC | C | C | NC | C | NC | 0 |
-| [entrega-5/integrantes/joao-vitor/hta-redesign.md](../entrega-5/integrantes/joao-vitor/hta-redesign.md) | C | NC | C | C | NC | C | NC | 0 |
-| [entrega-5/integrantes/joao-vitor/index.md](../entrega-5/integrantes/joao-vitor/index.md) | C | NC | C | C | C | C | C | 0 |
-| [entrega-5/integrantes/joao-vitor/relatorio-pos-entrevista.md](../entrega-5/integrantes/joao-vitor/relatorio-pos-entrevista.md) | C | NC | C | C | NC | C | C | 0 |
-| [entrega-5/integrantes/joao-vitor/roteiro-entrevista.md](../entrega-5/integrantes/joao-vitor/roteiro-entrevista.md) | C | NC | C | NC | NC | C | NC | 0 |
-| [entrega-5/integrantes/joao-vitor/storyboard.md](../entrega-5/integrantes/joao-vitor/storyboard.md) | C | NC | C | C | NC | C | NC | 0 |
-| [entrega-5/integrantes/joao-vitor/video-entrevista.md](../entrega-5/integrantes/joao-vitor/video-entrevista.md) | C | NC | NC | C | NC | C | NC | 0 |
-| [entrega-5/relatorio-do-grupo.md](../entrega-5/relatorio-do-grupo.md) | C | NC | NC | NC | C | C | NC | 0 |
-| [entrega-5/relatorio.md](../entrega-5/relatorio.md) | C | NC | C | C | NC | C | C | 0 |
+| [entrega-5/integrantes/joao-vitor/avaliacao.md](../entrega-5/integrantes/joao-vitor/avaliacao.md) | C | NC | C | NC | NC | C | C | 8 |
+| [entrega-5/integrantes/joao-vitor/hta-atual.md](../entrega-5/integrantes/joao-vitor/hta-atual.md) | C | NC | C | C | NC | C | C | 5 |
+| [entrega-5/integrantes/joao-vitor/hta-redesign.md](../entrega-5/integrantes/joao-vitor/hta-redesign.md) | C | NC | C | C | NC | C | C | 5 |
+| [entrega-5/integrantes/joao-vitor/index.md](../entrega-5/integrantes/joao-vitor/index.md) | C | NC | C | C | C | C | C | 5 |
+| [entrega-5/integrantes/joao-vitor/relatorio-pos-entrevista.md](../entrega-5/integrantes/joao-vitor/relatorio-pos-entrevista.md) | C | NC | C | C | NC | C | C | 7 |
+| [entrega-5/integrantes/joao-vitor/roteiro-entrevista.md](../entrega-5/integrantes/joao-vitor/roteiro-entrevista.md) | C | NC | C | NC | NC | C | C | 6 |
+| [entrega-5/integrantes/joao-vitor/storyboard.md](../entrega-5/integrantes/joao-vitor/storyboard.md) | C | NC | C | C | NC | C | C | 5 |
+| [entrega-5/integrantes/joao-vitor/video-entrevista.md](../entrega-5/integrantes/joao-vitor/video-entrevista.md) | C | NC | NC | C | NC | C | C | 6 |
+| [entrega-5/relatorio-do-grupo.md](../entrega-5/relatorio-do-grupo.md) | C | NC | NC | NC | C | C | C | 11 |
+| [entrega-5/relatorio.md](../entrega-5/relatorio.md) | C | NC | C | C | NC | C | C | 8 |
 | [entrega-5/verificacao/inspecao-grupo-08.md](../entrega-5/verificacao/inspecao-grupo-08.md) | C | C | C | NC | C | C | C | 4 |
-| [entrega-5/verificacao/lista-de-verificacao.md](../entrega-5/verificacao/lista-de-verificacao.md) | C | NC | C | C | C | C | C | 0 |
+| [entrega-5/verificacao/lista-de-verificacao.md](../entrega-5/verificacao/lista-de-verificacao.md) | C | NC | C | C | C | C | C | 4 |
 
 Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.py.
 
@@ -245,18 +245,18 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 | Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA | [VERIFICAR] abertos |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
 | [entrega-6/contribuicoes.md](../entrega-6/contribuicoes.md) | C | NC | C | C | C | C | C | 3 |
-| [entrega-6/integrantes/alexandre-vilar/index.md](../entrega-6/integrantes/alexandre-vilar/index.md) | C | NC | NC | NC | C | C | C | 0 |
-| [entrega-6/integrantes/alexandre-vilar/planejamento-alta-fidelidade.md](../entrega-6/integrantes/alexandre-vilar/planejamento-alta-fidelidade.md) | C | NC | NC | NC | NC | C | NC | 0 |
-| [entrega-6/integrantes/alexandre-vilar/prototipo-papel.md](../entrega-6/integrantes/alexandre-vilar/prototipo-papel.md) | C | NC | NC | NC | NC | C | NC | 0 |
-| [entrega-6/integrantes/alexandre-vilar/video-avaliacao.md](../entrega-6/integrantes/alexandre-vilar/video-avaliacao.md) | C | NC | NC | C | NC | C | NC | 0 |
+| [entrega-6/integrantes/alexandre-vilar/index.md](../entrega-6/integrantes/alexandre-vilar/index.md) | C | NC | NC | NC | C | C | C | 4 |
+| [entrega-6/integrantes/alexandre-vilar/planejamento-alta-fidelidade.md](../entrega-6/integrantes/alexandre-vilar/planejamento-alta-fidelidade.md) | C | NC | NC | NC | NC | C | C | 5 |
+| [entrega-6/integrantes/alexandre-vilar/prototipo-papel.md](../entrega-6/integrantes/alexandre-vilar/prototipo-papel.md) | C | NC | NC | NC | NC | C | C | 5 |
+| [entrega-6/integrantes/alexandre-vilar/video-avaliacao.md](../entrega-6/integrantes/alexandre-vilar/video-avaliacao.md) | C | NC | NC | C | NC | C | C | 5 |
 | [entrega-6/integrantes/henrique-schneider/especificacao-alta-fidelidade.md](../entrega-6/integrantes/henrique-schneider/especificacao-alta-fidelidade.md) | C | NC | C | C | C | C | C | 11 |
 | [entrega-6/integrantes/henrique-schneider/index.md](../entrega-6/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 2 |
 | [entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md](../entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md) | C | NC | C | NC | C | C | C | 6 |
 | [entrega-6/integrantes/henrique-schneider/prototipo-papel.md](../entrega-6/integrantes/henrique-schneider/prototipo-papel.md) | C | NC | C | NC | C | C | C | 2 |
-| [entrega-6/integrantes/joao-vitor/index.md](../entrega-6/integrantes/joao-vitor/index.md) | C | NC | NC | C | C | C | C | 0 |
-| [entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md](../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md) | C | NC | NC | C | NC | C | NC | 0 |
-| [entrega-6/integrantes/joao-vitor/prototipo-papel.md](../entrega-6/integrantes/joao-vitor/prototipo-papel.md) | C | NC | NC | C | NC | C | NC | 0 |
-| [entrega-6/integrantes/joao-vitor/video-avaliacao.md](../entrega-6/integrantes/joao-vitor/video-avaliacao.md) | C | NC | NC | C | NC | C | NC | 0 |
+| [entrega-6/integrantes/joao-vitor/index.md](../entrega-6/integrantes/joao-vitor/index.md) | C | NC | NC | C | C | C | C | 4 |
+| [entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md](../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md) | C | NC | NC | C | NC | C | C | 5 |
+| [entrega-6/integrantes/joao-vitor/prototipo-papel.md](../entrega-6/integrantes/joao-vitor/prototipo-papel.md) | C | NC | NC | C | NC | C | C | 5 |
+| [entrega-6/integrantes/joao-vitor/video-avaliacao.md](../entrega-6/integrantes/joao-vitor/video-avaliacao.md) | C | NC | NC | C | NC | C | C | 6 |
 | [entrega-6/relatorio.md](../entrega-6/relatorio.md) | C | NC | C | C | C | C | C | 7 |
 | [entrega-6/verificacao/lista-de-verificacao.md](../entrega-6/verificacao/lista-de-verificacao.md) | C | NC | C | C | C | C | C | 20 |
 
@@ -288,28 +288,28 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 
 | Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA | [VERIFICAR] abertos |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-| [apresentacoes.md](../apresentacoes.md) | C | NC | C | C | C | C | C | 0 |
-| [atas/ata-reuniao-20260927-01.md](../atas/ata-reuniao-20260927-01.md) | C | NC | C | C | C | C | C | 0 |
-| [atas/ata-reuniao-20261014-02.md](../atas/ata-reuniao-20261014-02.md) | C | NC | C | C | C | C | C | 0 |
-| [atas/index.md](../atas/index.md) | C | NC | C | C | C | C | C | 0 |
-| [atas/modelo.md](../atas/modelo.md) | NA | NA | NA | NA | NA | NA | NA | 0 |
-| [disciplina/plano-de-ensino.md](../disciplina/plano-de-ensino.md) | C | NC | C | C | C | C | C | 0 |
-| [index.md](../index.md) | NA | NA | NA | NA | NA | NA | NA | 0 |
-| [integrantes/alexandre-vilar.md](../integrantes/alexandre-vilar.md) | C | NC | C | C | C | C | C | 0 |
-| [integrantes/eduardo-ribeiro.md](../integrantes/eduardo-ribeiro.md) | C | NC | C | C | C | C | C | 0 |
-| [integrantes/gabriel-robson.md](../integrantes/gabriel-robson.md) | C | NC | C | C | C | C | C | 0 |
-| [integrantes/henrique-schneider.md](../integrantes/henrique-schneider.md) | C | NC | C | C | C | C | C | 0 |
-| [integrantes/index.md](../integrantes/index.md) | C | NC | C | C | C | C | C | 0 |
-| [integrantes/joao-vitor.md](../integrantes/joao-vitor.md) | C | NC | C | C | C | C | C | 0 |
-| [listas-verificacao/autoavaliacao.md](../listas-verificacao/autoavaliacao.md) | C | NC | C | C | C | C | C | 0 |
-| [listas-verificacao/index.md](../listas-verificacao/index.md) | C | NC | C | C | C | C | C | 0 |
-| [listas-verificacao/projeto-final.md](../listas-verificacao/projeto-final.md) | C | NC | C | C | C | C | C | 0 |
-| [relatorios/index.md](../relatorios/index.md) | C | NC | C | C | C | C | C | 0 |
-| [trabalhos-avaliativos/alexandre-vilar.md](../trabalhos-avaliativos/alexandre-vilar.md) | C | NC | C | C | C | C | C | 0 |
-| [trabalhos-avaliativos/gabriel-robson.md](../trabalhos-avaliativos/gabriel-robson.md) | C | NC | C | C | C | C | C | 0 |
-| [trabalhos-avaliativos/henrique-schneider.md](../trabalhos-avaliativos/henrique-schneider.md) | C | NC | C | C | C | C | C | 0 |
-| [trabalhos-avaliativos/index.md](../trabalhos-avaliativos/index.md) | C | NC | C | C | C | C | C | 0 |
-| [trabalhos-avaliativos/joao-vitor.md](../trabalhos-avaliativos/joao-vitor.md) | C | NC | C | C | C | C | C | 0 |
+| [apresentacoes.md](../apresentacoes.md) | C | NC | C | C | C | C | C | 8 |
+| [atas/ata-reuniao-20260927-01.md](../atas/ata-reuniao-20260927-01.md) | C | NC | C | C | C | C | C | 7 |
+| [atas/ata-reuniao-20261014-02.md](../atas/ata-reuniao-20261014-02.md) | C | NC | C | C | C | C | C | 7 |
+| [atas/index.md](../atas/index.md) | C | NC | C | C | C | C | C | 9 |
+| [atas/modelo.md](../atas/modelo.md) | NA | NA | NA | NA | NA | NA | NA | 5 |
+| [disciplina/plano-de-ensino.md](../disciplina/plano-de-ensino.md) | C | NC | C | C | C | C | C | 7 |
+| [index.md](../index.md) | NA | NA | NA | NA | NA | NA | NA | 12 |
+| [integrantes/alexandre-vilar.md](../integrantes/alexandre-vilar.md) | C | NC | C | C | C | C | C | 5 |
+| [integrantes/eduardo-ribeiro.md](../integrantes/eduardo-ribeiro.md) | C | NC | C | C | C | C | C | 5 |
+| [integrantes/gabriel-robson.md](../integrantes/gabriel-robson.md) | C | NC | C | C | C | C | C | 5 |
+| [integrantes/henrique-schneider.md](../integrantes/henrique-schneider.md) | C | NC | C | C | C | C | C | 5 |
+| [integrantes/index.md](../integrantes/index.md) | C | NC | C | C | C | C | C | 5 |
+| [integrantes/joao-vitor.md](../integrantes/joao-vitor.md) | C | NC | C | C | C | C | C | 5 |
+| [listas-verificacao/autoavaliacao.md](../listas-verificacao/autoavaliacao.md) | C | NC | C | C | C | C | C | 8 |
+| [listas-verificacao/index.md](../listas-verificacao/index.md) | C | NC | C | C | C | C | C | 6 |
+| [listas-verificacao/projeto-final.md](../listas-verificacao/projeto-final.md) | C | NC | C | C | C | C | C | 5 |
+| [relatorios/index.md](../relatorios/index.md) | C | NC | C | C | C | C | C | 6 |
+| [trabalhos-avaliativos/alexandre-vilar.md](../trabalhos-avaliativos/alexandre-vilar.md) | C | NC | C | C | C | C | C | 4 |
+| [trabalhos-avaliativos/gabriel-robson.md](../trabalhos-avaliativos/gabriel-robson.md) | C | NC | C | C | C | C | C | 5 |
+| [trabalhos-avaliativos/henrique-schneider.md](../trabalhos-avaliativos/henrique-schneider.md) | C | NC | C | C | C | C | C | 4 |
+| [trabalhos-avaliativos/index.md](../trabalhos-avaliativos/index.md) | C | NC | C | C | C | C | C | 5 |
+| [trabalhos-avaliativos/joao-vitor.md](../trabalhos-avaliativos/joao-vitor.md) | C | NC | C | C | C | C | C | 4 |
 
 Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.py.
 
