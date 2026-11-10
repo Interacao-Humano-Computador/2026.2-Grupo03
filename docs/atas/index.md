@@ -19,12 +19,13 @@ Fonte: elaborado pelos autores (2026). A versão 1.0 da página de atas foi cria
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Criação da página de atas (registro recuperado do commit f88c791) | Eduardo Ribeiro | — |
-| 27/09/2026 | 1.1 | Registro da Reunião 01 (registro recuperado do commit df6cdea) | Henrique Schneider | — |
-| 14/10/2026 | 1.2 | Registro da Reunião 02 (registro recuperado do commit 2a95590) | Henrique Schneider | — |
-| 15/10/2026 | 2.0 | Reestruturação das atas no modelo de ata do MCTIC e no item 7 do desenvolvimento do projeto (identificação, objetivo, pauta, pendências, assuntos tratados, compromissos e próxima reunião); inclusão da tabela de contribuição e da seção de uso de IA | Henrique Schneider | — |
-| 15/10/2026 | 3.0 | Criação da aba "Atas": cada ata passa a ter página própria, nomeada conforme o modelo do MCTIC; esta página vira o índice, com o quadro das reuniões, as recomendações do professor e da monitoria, a conformidade de cada ata, as sessões gravadas sem ata e o link para o modelo de ata | Henrique Schneider | — |
-| 17/10/2026 | 3.1 | Organização por entrega: índice reduzido às recomendações da disciplina, ao quadro das reuniões e ao roteiro de registro; atualização dos nomes e dos links | Henrique Schneider | — |
+| 10/09/2026 | 1.0 | Criação da página de atas (registro recuperado do commit f88c791) | Eduardo Ribeiro | **[VERIFICAR: revisor]** |
+| 27/09/2026 | 1.1 | Registro da Reunião 01 (registro recuperado do commit df6cdea) | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 14/10/2026 | 1.2 | Registro da Reunião 02 (registro recuperado do commit 2a95590) | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 2.0 | Reestruturação das atas no modelo de ata do MCTIC e no item 7 do desenvolvimento do projeto (identificação, objetivo, pauta, pendências, assuntos tratados, compromissos e próxima reunião); inclusão da tabela de contribuição e da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 3.0 | Criação da aba "Atas": cada ata passa a ter página própria, nomeada conforme o modelo do MCTIC; esta página vira o índice, com o quadro das reuniões, as recomendações do professor e da monitoria, a conformidade de cada ata, as sessões gravadas sem ata e o link para o modelo de ata | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 3.1 | Organização por entrega: índice reduzido às recomendações da disciplina, ao quadro das reuniões e ao roteiro de registro; atualização dos nomes e dos links | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 3.2 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -81,3 +82,5 @@ SILVA, Giovana Barbosa da. *Atividade avaliativa: IHC: Etapa 2: Grupo 3*. Brasí
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar as atas nos campos do modelo de ata do MCTIC e do item 7 do desenvolvimento do projeto, separar cada ata em página própria, montar os Quadros 1 e 2 a partir do Plano de Ensino, da avaliação da monitoria, do modelo do MCTIC e dos registros de gravação já publicados, e escrever o roteiro da seção 2. Nenhum horário, decisão ou participante foi acrescentado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

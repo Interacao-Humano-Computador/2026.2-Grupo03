@@ -23,8 +23,9 @@ Fonte: elaborado pelos autores (2026).
 | 17/09/2026 | 1.0 | Catalogação e mapeamento dos fluxos de trabalho do usuário no portal do Detran-DF para a Entrega 2. | Henrique Schneider | Gabriel Robson |
 | 27/09/2026 | 1.1 | Correção da sequência e da identificação da tarefa 2 no fluxo de consulta de débitos. | Gabriel Robson | Henrique Schneider |
 | 27/09/2026 | 1.2 | Inclusão da introdução fundamentando a relevância da Análise de Tarefas (HTA) e dos Golfos de Interação no contexto de IHC. | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, legendas e chamadas dos quadros), remoção de marcadores de citação residuais ("3") e do rótulo "(Exemplo)" no Fluxo 1, inclusão das seções 6 e 7 e da seção de uso de IA | Henrique Schneider | — |
-| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 191 e 193) como Figuras 1 e 2, correção da página citada na introdução e retirada das seções 6 e 7 | Henrique Schneider | — |
+| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, legendas e chamadas dos quadros), remoção de marcadores de citação residuais ("3") e do rótulo "(Exemplo)" no Fluxo 1, inclusão das seções 6 e 7 e da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 191 e 193) como Figuras 1 e 2, correção da página citada na introdução e retirada das seções 6 e 7 | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -149,3 +150,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para: reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, legendas e chamadas dos quadros); remover marcadores numéricos residuais ("3") deixados após frases da introdução, sem mudar o texto; e remover o rótulo "(Exemplo)" do Fluxo 1, ausente no relatório entregue. Em 17/10/2026, a ferramenta foi usada para conferir no PDF de Barbosa e Silva (2010) as páginas citadas e recortar as fotos dos trechos (Figuras 1 e 2). As tabelas HTA, os planos e a análise dos golfos não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

@@ -1,12 +1,28 @@
 # Entrega 5 – Gabriel Robson
 
-**Autor da proposta:** Gabriel Robson Nunes Neiva da Silva. **Revisão:** pendente.
+## Tabela de contribuição
 
-| Data | Versão | Alteração | Autor | Revisor |
+**Tabela 1 – Contribuição no artefato Entrega 5 – Gabriel Robson**
+
+| Integrante | Contribuição | Atividade (link) | Gravação (link) |
+| --- | --- | --- | --- |
+| Alexandre Vilar Valadares Fonsêca | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Elaboração da proposta “Renova CNH Fácil” (renovação guiada da CNH) e da visão geral da Entrega 5 | [Visão geral](index.md) | — |
+| Henrique Schneider Fernandes da Rosa | — | — | — |
+| João Vitor Tavares de Sá Lima | — | — | — |
+
+Fonte: elaborado pelo autor (2026).
+
+## Histórico de versões
+
+**Tabela 2 – Histórico de versões do artefato Entrega 5 – Gabriel Robson**
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Proposta inicial de renovação guiada da CNH e documentação da Entrega 5 | Gabriel Robson, com apoio do ChatGPT | Pendente |
+| 25/10/2026 | 1.0 | Proposta inicial de renovação guiada da CNH e documentação da Entrega 5 | Gabriel Robson, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.1 | Padronização da estrutura: tabela de contribuição e histórico de versões no formato do grupo, com legendas e fonte | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
-Fonte: proposta de redesign elaborada para o projeto de IHC (2026).
+Fonte: elaborado pelo autor (2026).
 
 ## 1. Funcionalidade proposta
 
@@ -38,3 +54,5 @@ O redesign é distinto das propostas de colegas: Alexandre aborda agendamento de
 ## Agradecimentos e uso de IA generativa
 
 O ChatGPT (OpenAI) auxiliou na redação da proposta, estruturação dos HTAs, roteiro exploratório e protótipo demonstrativo em 25/10/2026, a pedido de Gabriel Robson. O conteúdo necessita de revisão pelo responsável. Nenhum resultado de avaliação foi inventado.
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado apenas para padronizar a estrutura desta página (tabela de contribuição e histórico de versões), sem alterar o conteúdo escrito por Gabriel Robson. A declaração do uso do ChatGPT acima é do autor. **[VERIFICAR: Gabriel Robson confirmar a declaração de uso do ChatGPT e indicar um revisor]**

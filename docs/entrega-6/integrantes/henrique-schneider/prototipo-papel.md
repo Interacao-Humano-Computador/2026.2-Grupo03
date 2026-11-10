@@ -24,6 +24,7 @@ Fonte: elaborado pelo autor (2026).
 | 02/11/2026 | 1.1    | Atualização do cronograma (Tabela 3): a janela de 28/10 a 30/10/2026 passou sem as sessões, e as novas datas ficam a definir pelo autor                                                                                                                                                         | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.2 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.3 | Registro da execução: teste-piloto e Sessão 1 (P5) em 03/11/2026, com links das gravações; Tabela 3 com as datas realizadas; papéis, recrutamento e ética ajustados ao que ocorreu; limitações; Apêndices C e D preenchidos com os problemas PC01, PC02 e PN01 a PN04 | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 10/11/2026 | 1.4 | Inclusão do Apêndice E, que liga as telas e as peças do protótipo de papel aos quadros do protótipo de alta fidelidade no Figma (Tabelas 9 e 10), e do link do Figma na introdução | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -31,7 +32,7 @@ Fonte: elaborado pelo autor (2026).
 
 Este documento operacionaliza a avaliação do protótipo de papel do agendamento da prova teórica, planejada pelo autor na Entrega 5 (Grupo 03, Relatório da Entrega 5, seç. 3.8.1). As sessões previstas para 25/10/2026 não foram realizadas; este roteiro reorganiza a execução para a janela do cronograma geral do grupo, que previa o teste-piloto em 28/10 e as sessões de 28/10 a 30/10/2026 (Grupo 03, Relatório da Entrega 5, Tabela 14). Essa janela também passou sem as sessões. O teste-piloto e a Sessão 1 foram realizados em 03/11/2026 (Tabela 3), e não haverá outras sessões. Os problemas encontrados estão nos Apêndices C e D, e o relato está na seção 1.4.1 do relatório da Entrega 6.
 
-O protótipo avaliado é o redesenhado à mão pelo autor a partir do modelo das Telas 1 a 5 e das peças soltas A a G (Modelo do protótipo de papel, v1.0). O documento traz a fundamentação do método (Seção 2), as questões de avaliação (Seção 3), os participantes e a logística (Seção 4), os cuidados éticos (Seção 5), o teste-piloto (Seção 6), o roteiro passo a passo (Seção 7) e o que o observador anota (Seção 8). Os apêndices trazem os cartões de tarefa, a folha do observador e as tabelas para registrar os ciclos de reprojeto e consolidar os problemas.
+O protótipo avaliado é o redesenhado à mão pelo autor a partir do modelo das Telas 1 a 5 e das peças soltas A a G (Modelo do protótipo de papel, v1.0). O documento traz a fundamentação do método (Seção 2), as questões de avaliação (Seção 3), os participantes e a logística (Seção 4), os cuidados éticos (Seção 5), o teste-piloto (Seção 6), o roteiro passo a passo (Seção 7) e o que o observador anota (Seção 8). Os apêndices trazem os cartões de tarefa, a folha do observador e as tabelas para registrar os ciclos de reprojeto e consolidar os problemas. O Apêndice E liga cada tela e cada peça do papel ao quadro correspondente no [protótipo de alta fidelidade no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) e mostra onde cada problema da Sessão 1 foi tratado.
 
 ## 2. Fundamentação do método
 
@@ -346,6 +347,44 @@ Preenchido ao final da Sessão 1, a única realizada. A prioridade combina a sev
 
 Fonte: elaborado pelo autor (2026), com base em Barbosa e Silva (2010, cap. 10, seç. 10.2.3, pp. 361–362).
 
+## Apêndice E – Correspondência entre o protótipo de papel e o Figma
+
+O protótipo de alta fidelidade foi construído no arquivo do Figma [Detran-DF – Agendamento da Prova Teórica – Alta Fidelidade](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) a partir das Telas 1 a 5 e das peças soltas A a G do protótipo de papel (Especificação do protótipo de alta fidelidade, [Seção 10](especificacao-alta-fidelidade.md#10-prototipo-construido)). A Tabela 9 liga cada tela e cada peça do papel ao quadro correspondente no Figma, e a Tabela 10 mostra onde cada problema da Sessão 1 (Tabelas 7 e 8) foi tratado. Os códigos entre colchetes são os nomes dos quadros no Figma: os que começam com “M” são da versão para celular (360 × 800 px, com link direto) e os que começam com “D” são da versão para computador (1280 px), na página “Protótipo”.
+
+**Tabela 9 – Telas e peças do protótipo de papel e quadros do Figma**
+
+| Tela ou peça do papel | Quadros no Figma (celular) | Quadros no Figma (computador) | Observação |
+|---|---|---|---|
+| Tela 1 – entrada e serviço “Habilitação” (HTA 1.1 e 1.2) | [M0](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=5-21), [M0S](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=5-81), [M1](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=5-114) | D0, D0S, D1 | A Tela 0 (serviços do Detran-DF) é nova e foi incluída para testar o problema 04 do storyboard; a Tela 1 do papel corresponde a M1 e D1 |
+| Tela 2 – antes de agendar | [M2](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=5-217) | D2 | — |
+| Tela 2B – pendência de biometria | [M2B](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=5-271) | D2B | — |
+| Tela 3 – unidade, data e horário (inclui a Tela 3B, de horários) | [M3A](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-187), [M3B](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-511), [M3C](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-659), [M3D](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-1122), [M3E](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-1269) | D3A, D3B, D3C, D3D, D3E | Um quadro por estado: início, data escolhida, horário escolhido (16/11 e 18/11) |
+| Peça A – lista de unidades | [M3U](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-338) | D3U | — |
+| Peça B – tiras em branco escritas durante a sessão | — | — | **[VERIFICAR: conteúdo da peça B no Modelo do protótipo de papel (v1.0) e quadro correspondente]** |
+| Peça C – aviso de data sem vagas | [M3T2](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-809) (início da T2) e [M3S](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-959) (aviso) | D3T2, D3S | — |
+| Tela 4 – horário reservado e PIX | [M4A](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-655), [M4B](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-721), [M4C](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-785) | D4A, D4B, D4C | M4B mostra “Código copiado”; M4C é a reserva em 18/11, fim da T2 |
+| Peça D – aviso de 1 hora antes de expirar | [ND](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-931) | DND | No celular, tela de bloqueio; no computador, notificação do navegador |
+| Peça E – reserva expirada | [M4X](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-851) | D4X | Início da T4 |
+| Peça F – notificação “Prova confirmada” | [NF](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-942) | DNF | Início da T3 |
+| Tela 5 – prova confirmada | [M5A](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-953), [M5B](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-1018) | D5A, D5B | M5B mostra o lembrete ativado |
+| Peça G – lembrete da véspera (opcional) | — | — | Não construída como notificação; M5B e D5B mostram só a confirmação “Lembrete ativado” |
+| Botão “Consultar prova”, escrito no papel (PC02) | [M6](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-1090) | D6 | Tela “Meus agendamentos”, criada a partir do botão |
+
+Fonte: elaborado pelo autor (2026), com base no Modelo do protótipo de papel (v1.0) e na Especificação do protótipo de alta fidelidade (v1.3, Seção 10).
+
+**Tabela 10 – Problemas da Sessão 1 e onde foram tratados no Figma**
+
+| ID | O que mudou no Figma | Quadros | A verificar no teste de usabilidade |
+|---|---|---|---|
+| PC01 | Botão “Voltar para página inicial” na Tela 5 | [M5A](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-953), D5A | O participante encontra como sair da tela sem ajuda (T3) |
+| PC02 | Botão “Consultar prova” na Tela 5 e item “Prova teórica” com “Agendar prova” e “Consultar prova” na Tela 0 | [M0](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=5-21), [M5A](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-953), [M6](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=7-1090) | O participante encontra a prova agendada sem usar “Agendar prova” (T3) |
+| PN01 | Etapas como itens que abrem e fecham, com seta, no lugar de marcadores com cara de botão | [M1](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=5-114), D1 | O participante não tenta tocar nas etapas como se fossem botões (T1) |
+| PN02 | Botão grande “Escolher seg, 16/11” na data livre mais próxima | [M3A](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-187), D3A | O participante entende que o botão leva direto à próxima etapa (T1) |
+| PN03 | Aviso de data sem vagas ao tocar no dia riscado, com “Ver 18/11” e “Trocar unidade” | [M3S](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-959), D3S | O participante entende por que a data não pode ser escolhida (T2) |
+| PN04 | Horários como botões selecionáveis, com ✓ no escolhido, no lugar dos círculos de seleção | [M3B](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-511), [M3C](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-659) | O participante escolhe o horário sem confundir a lista com uma tabela (T1) |
+
+Fonte: elaborado pelo autor (2026), com base nas Tabelas 7 e 8 deste roteiro e na Tabela 12 da Especificação do protótipo de alta fidelidade.
+
 ## Referências
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
@@ -367,6 +406,8 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 ## Agradecimentos e uso de IA generativa
 
 Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado, em 27/10/2026, a pedido do autor, para redigir este roteiro, os cartões, a folha do observador e as tabelas dos apêndices a partir do planejamento da Entrega 5 e do modelo do protótipo de papel, e para localizar no livro de Barbosa e Silva (2010) e recortar os trechos das Figuras 1 a 9. As datas, o local, os participantes, a execução das sessões e a classificação de severidade são do autor. A ferramenta não é autora do documento, e seu uso não exime o autor da responsabilidade pelo conteúdo.
+
+Em 10/11/2026, também a pedido do autor, o Claude foi usado para redigir o Apêndice E (Tabelas 9 e 10), que liga o protótipo de papel aos quadros do Figma, a partir da especificação do protótipo de alta fidelidade e das Tabelas 7 e 8 deste roteiro. O conteúdo das tabelas anteriores não foi alterado.
 
 Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site.
 

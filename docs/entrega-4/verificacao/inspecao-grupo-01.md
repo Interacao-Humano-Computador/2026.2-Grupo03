@@ -29,11 +29,12 @@ Integrantes do grupo: Alexandre Vilar, Gabriel Robson, Henrique Schneider e Joã
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
-| 14/10/2026 | 1.0 | Criação da lista: itens do Plano de Ensino (Entrega 4) e 5 itens adicionais com fundamentação. | Henrique Schneider | Todos os integrantes do grupo |
-| 14/10/2026 | 1.1 | Figuras com legenda numerada logo abaixo de cada fonte; seção de Agradecimentos com registro de ferramentas e uso de IA generativa por etapa. | Henrique Schneider | Todos os integrantes do grupo |
-| 14/10/2026 | 1.2 | Inclusão dos itens adicionais N6 e N7 e dos autores dos itens adicionais; preenchimento das respostas, evidências (minutos da gravação da inspeção e links) e versão, data e hora da avaliação. | Gabriel Robson | Todos os integrantes do grupo |
-| 15/10/2026 | 1.3 | Correção do caminho das Figuras 1 a 7 (não apareciam no site publicado), legendas das figuras movidas para cima com a fonte abaixo, inclusão da tabela de contribuição e da seção de uso de IA da refatoração; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | — |
-| 17/10/2026 | 1.4 | Organização por entrega; fundamentação dos itens N6 e N7 a partir das fontes registradas e foto do trecho do item N6 (Figura 8); correção do caminho das Figuras 1 a 7; padronização das citações e das referências | Henrique Schneider | — |
+| 14/10/2026 | 1.0 | Criação da lista: itens do Plano de Ensino (Entrega 4) e 5 itens adicionais com fundamentação. | Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Todos os integrantes do grupo) |
+| 14/10/2026 | 1.1 | Figuras com legenda numerada logo abaixo de cada fonte; seção de Agradecimentos com registro de ferramentas e uso de IA generativa por etapa. | Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Todos os integrantes do grupo) |
+| 14/10/2026 | 1.2 | Inclusão dos itens adicionais N6 e N7 e dos autores dos itens adicionais; preenchimento das respostas, evidências (minutos da gravação da inspeção e links) e versão, data e hora da avaliação. | Gabriel Robson | **[VERIFICAR: revisor]** (anterior: Todos os integrantes do grupo) |
+| 15/10/2026 | 1.3 | Correção do caminho das Figuras 1 a 7 (não apareciam no site publicado), legendas das figuras movidas para cima com a fonte abaixo, inclusão da tabela de contribuição e da seção de uso de IA da refatoração; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.4 | Organização por entrega; fundamentação dos itens N6 e N7 a partir das fontes registradas e foto do trecho do item N6 (Figura 8); correção do caminho das Figuras 1 a 7; padronização das citações e das referências | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 <p align="center"><b>Fonte</b>: Elaborado pelos autores (2026).</p>
 
@@ -231,6 +232,8 @@ A IA generativa foi usada exclusivamente como auxílio, conforme o Código de Co
 Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para corrigir o caminho das Figuras 1 a 7, que não apareciam no site publicado, mover as legendas das figuras para cima (com a fonte abaixo, como pede a ABNT), incluir a tabela de contribuição, renumerar as tabelas, padronizar as citações e as referências, transcrever os trechos das fontes registradas para os itens N6 e N7 e recortar a foto da Figura 8. Itens, respostas, evidências e fundamentações dos itens N1 a N5 não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 ---
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
 
 ## Referências
 

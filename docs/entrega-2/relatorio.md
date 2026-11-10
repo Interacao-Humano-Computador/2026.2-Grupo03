@@ -20,11 +20,12 @@ Fonte: elaborado pelos autores (2026), com base nos históricos de versão, no r
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 17/09/2026 | 1.0 | Criação e definição da estrutura inicial do relatório final | Henrique Schneider | — |
-| 24/09/2026 | 1.1 | Redação dos Aspectos Éticos e elaboração do TCLE | João Vitor Tavares | — |
-| 27/09/2026 | 2.0 | Toques finais e Revisão | Henrique Schneider | — |
-| 15/10/2026 | 3.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, matriz de conformidade com a lista do Plano de Ensino, avaliação recebida e inspeção | Henrique Schneider | — |
-| 17/10/2026 | 3.1 | Retirada da matriz de conformidade e da seção de acompanhamento, vínculo com a página da avaliação da monitoria e revisão das referências | Henrique Schneider | — |
+| 17/09/2026 | 1.0 | Criação e definição da estrutura inicial do relatório final | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 24/09/2026 | 1.1 | Redação dos Aspectos Éticos e elaboração do TCLE | João Vitor Tavares | **[VERIFICAR: revisor]** |
+| 27/09/2026 | 2.0 | Toques finais e Revisão | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 3.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, matriz de conformidade com a lista do Plano de Ensino, avaliação recebida e inspeção | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 3.1 | Retirada da matriz de conformidade e da seção de acompanhamento, vínculo com a página da avaliação da monitoria e revisão das referências | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 3.2 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026). As versões 1.0 a 2.0 foram transcritas do relatório entregue (Grupo 03, 2026a, p. 17).
 
@@ -90,3 +91,5 @@ SILVA, Giovana Barbosa da. *Atividade avaliativa: IHC: Etapa 2: Grupo 3*. Brasí
 O relatório entregue tem a seção "Agradecimentos e Suportes Tecnológicos", que registra o uso de IA generativa (Grupo 03, 2026a, p. 17). As declarações por página estão na seção final de cada artefato.
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reescrever o relatório da Entrega 2 como página do site: extração do texto do PDF entregue (resumo e histórico de versões), montagem das Tabelas 1, 3 e 4 a partir dos históricos de versão, dos commits e do Plano de Ensino e resumo dos apontamentos da avaliação recebida. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

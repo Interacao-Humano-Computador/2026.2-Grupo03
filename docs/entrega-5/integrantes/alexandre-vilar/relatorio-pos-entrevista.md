@@ -16,10 +16,11 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Reserva do espaço para inclusão posterior do relatório | Alexandre Vilar, com apoio do ChatGPT | — |
-| 25/10/2026 | 1.1 | Publicação da análise das dez questões, evidências, limitações e encaminhamentos | Alexandre Vilar, com apoio do ChatGPT | — |
-| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
-| 25/10/2026 | 1.3 | Inclusão de local, modalidade, recrutamento, duração, limite do piloto e revisão prevista | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.0 | Reserva do espaço para inclusão posterior do relatório | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.1 | Publicação da análise das dez questões, evidências, limitações e encaminhamentos | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.3 | Inclusão de local, modalidade, recrutamento, duração, limite do piloto e revisão prevista | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 Fonte: registro desta versão (2026).
 
 ## 1. Identificação e objetivo
@@ -176,6 +177,8 @@ Fonte: decisões anteriores do autor e análise desta entrevista. Recomendaçõe
 ## Agradecimentos e uso de IA generativa
 
 O relato foi preparado com apoio do ChatGPT (OpenAI), a pedido de Alexandre Vilar, a partir da transcrição automática da gravação. As evidências estão indicadas por horários aproximados; os dados não foram fabricados. Os dados da sessão foram complementados pelo autor. João Vitor é o revisor previsto; a conferência dos trechos e da análise ainda não está registrada como concluída.
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
 
 ## Revisão prevista
 

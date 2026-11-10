@@ -19,8 +19,9 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação do modelo a partir do modelo de ata do MCTIC, dos itens 7 a 9 do desenvolvimento do projeto do Plano de Ensino e da lista aplicada pela monitoria na Entrega 2 | Henrique Schneider | — |
-| 17/10/2026 | 1.1 | Organização por entrega: equipe atual na tabela de contribuição do modelo e orientação para campos sem informação | Henrique Schneider | — |
+| 15/10/2026 | 1.0 | Criação do modelo a partir do modelo de ata do MCTIC, dos itens 7 a 9 do desenvolvimento do projeto do Plano de Ensino e da lista aplicada pela monitoria na Entrega 2 | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.1 | Organização por entrega: equipe atual na tabela de contribuição do modelo e orientação para campos sem informação | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -155,6 +156,8 @@ Fonte: elaborado pelos autores (AAAA).
 
 [Ferramentas de IA usadas na ata, ou "Não foi utilizada IA generativa nesta ata."]
 ```
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
 
 ## Referências
 

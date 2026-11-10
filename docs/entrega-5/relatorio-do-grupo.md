@@ -19,19 +19,20 @@ Fonte: elaborado pelos autores (2026), com base no histórico de versões do rel
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 22/10/2026 | 1.0 | Criação da estrutura de capítulos do relatório da Entrega 5 | Henrique Schneider | Grupo 03 |
-| 22/10/2026 | 1.1 | Formatação no padrão dos relatórios anteriores: fonte Arial, estilos dos títulos, quebra de página antes de cada capítulo e rodapé da disciplina | Claude (IA generativa), a pedido de Henrique Schneider | Grupo 03 |
-| 22/10/2026 | 1.2 | Redação das seções coletivas, tabelas-modelo, citações com capítulo, página e parágrafo, e referências; seções individuais marcadas para preenchimento | Claude (IA generativa), a pedido de Henrique Schneider | Grupo 03 |
-| 22/10/2026 | 1.3 | Inserção das imagens dos trechos citados (Figuras 1 a 15) no lugar dos marcadores, a partir de recortes das páginas das fontes | Claude (IA generativa), a pedido de Henrique Schneider | Grupo 03 |
-| 25/10/2026 | 1.4 | Inclusão dos resultados da avaliação do storyboard de biometria e atualização do Fluxo 4 da HTA, com sumário dos dados, análise, problemas encontrados e recomendações para o reprojeto. | João Vitor Tavares | Grupo 03 |
+| 22/10/2026 | 1.0 | Criação da estrutura de capítulos do relatório da Entrega 5 | Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Grupo 03) |
+| 22/10/2026 | 1.1 | Formatação no padrão dos relatórios anteriores: fonte Arial, estilos dos títulos, quebra de página antes de cada capítulo e rodapé da disciplina | Claude (IA generativa), a pedido de Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Grupo 03) |
+| 22/10/2026 | 1.2 | Redação das seções coletivas, tabelas-modelo, citações com capítulo, página e parágrafo, e referências; seções individuais marcadas para preenchimento | Claude (IA generativa), a pedido de Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Grupo 03) |
+| 22/10/2026 | 1.3 | Inserção das imagens dos trechos citados (Figuras 1 a 15) no lugar dos marcadores, a partir de recortes das páginas das fontes | Claude (IA generativa), a pedido de Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Grupo 03) |
+| 25/10/2026 | 1.4 | Inclusão dos resultados da avaliação do storyboard de biometria e atualização do Fluxo 4 da HTA, com sumário dos dados, análise, problemas encontrados e recomendações para o reprojeto. | João Vitor Tavares | **[VERIFICAR: revisor]** (anterior: Grupo 03) |
 | 25/10/2026 | 1.5 | Preenchimento da parte de Henrique Schneider no planejamento da avaliação do protótipo de papel: seção 3.8.1 (telas, partes móveis, tarefas, participantes, recrutamento, avaliadores, teste piloto e registro, com item de conteúdo e Figura 15), linhas das Tabelas 15 e 18 e texto da seção 4.4; inclusão da referência de Nielsen (2000); renumeração da antiga Figura 15 para Figura 16 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.6 | Inclusão dos resultados da avaliação do storyboard de Henrique Schneider com a participante P3 (25/10/2026): seção 1.4.1, linha P3 da Tabela 3, coluna P3 da Tabela 5, problemas PS02 a PS05 nas Tabelas 7 e 8, Fluxo 3 nas Tabelas 11 e 12 e limitação da sessão na seção 1.9 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.7 | Conclusão da parte de Henrique Schneider: interpretação de P3 (seção 1.6), verificação e análise do Fluxo 3 (Tabela 11, PH03 na Tabela 12, seções 2.5 e 2.7), atividades de Henrique no cronograma executado (Tabela 19), ferramentas e referências dos documentos individuais; revisor Gabriel Robson nas versões 1.5 e 1.6 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.8 | Inclusão da segunda sessão de Henrique Schneider (P4), link da gravação de P4, retirada dos textos de instrução e publicação do relatório no GitHub Pages | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 25/10/2026 | 1.9 | Consolidação de P2 e do Fluxo 5 de Alexandre, achados de vistoria e sincronização dos dados disponíveis | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 1.9 | Consolidação de P2 e do Fluxo 5 de Alexandre, achados de vistoria e sincronização dos dados disponíveis | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
 | 25/10/2026 | 1.10 | Conferência final: imagem da Figura 15; número de integrantes (quatro) nas seções 1.1, 1.3 e 3.4; retirada da linha e da seção de storyboard de ex-integrante (Tabela 4 e antiga seção 1.4.4); data do teste piloto na seção 3.7; minutagens de PS02 e PS03; parágrafo da citação de 20 minutos; versão da HTA na seção 3.8.1; ausência de relator nas sessões de Henrique (seção 1.9); título da capa | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.11 | Inclusão do vídeo de apresentação da parte de Henrique Schneider (https://youtu.be/m-QXJ-4WZkI) no cronograma executado (Tabela 19) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 25/10/2026 | 2.0 | Complementação dos dados das sessões de Alexandre, limitações do piloto e planejamento provisório até 28/10 | Alexandre Vilar, com apoio do ChatGPT | — |
+| 25/10/2026 | 2.0 | Complementação dos dados das sessões de Alexandre, limitações do piloto e planejamento provisório até 28/10 | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 2.1 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -764,3 +765,7 @@ SNYDER, Carolyn. **Paper prototyping**: the fast and easy way to design and refi
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para converter o relatório da Entrega 5 (Google Docs) em página do site, no formato das demais páginas: tabela de contribuição, histórico de versões, numeração das tabelas renumeradas a partir da Tabela 3 e fotos dos trechos citados, recortadas das páginas do livro. O texto do relatório não foi alterado; as linhas de tabelas sem dados de quem não faz mais parte da equipe ou de participantes não ouvidos foram omitidas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026a, p. 3).
 
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
+
+## Agradecimentos e uso de IA generativa
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página. O uso de IA generativa pelos autores no conteúdo desta página **[VERIFICAR: autor declarar o uso de IA, se houver]**.

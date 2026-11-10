@@ -19,10 +19,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/10/2026 | 1.0 | Criação do documento | Henrique Schneider | Integrantes do grupo |
-| 06/10/2026 | 1.1 | Elaboração do guia de reprojeto: estrutura teórica, padrões, rastreabilidade e critérios de validação | Gabriel Robson, com apoio do ChatGPT na elaboração e conferência documental | Revisão humana pendente |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição e histórico no início), inclusão de legendas, fontes e chamadas nas Tabelas 3 a 11, do autor do item, da referência ABNT padronizada e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | — |
-| 17/10/2026 | 1.3 | Inclusão das fotos das fontes (Figuras 1 e 2), ordenação alfabética das referências e organização da página | Henrique Schneider | — |
+| 06/10/2026 | 1.0 | Criação do documento | Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Integrantes do grupo) |
+| 06/10/2026 | 1.1 | Elaboração do guia de reprojeto: estrutura teórica, padrões, rastreabilidade e critérios de validação | Gabriel Robson, com apoio do ChatGPT na elaboração e conferência documental | **[VERIFICAR: revisor]** (anterior: Revisão humana pendente) |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição e histórico no início), inclusão de legendas, fontes e chamadas nas Tabelas 3 a 11, do autor do item, da referência ABNT padronizada e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 1.3 | Inclusão das fotos das fontes (Figuras 1 e 2), ordenação alfabética das referências e organização da página | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -352,3 +353,5 @@ ChatGPT auxiliou na organização, redação e verificação de coerência docum
 ### Uso de IA generativa na padronização da página (15 e 17/10/2026)
 
 O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar a página no modelo de artefato da disciplina (tabela de contribuição e histórico no início; legenda, fonte e chamada no texto das Tabelas 3 a 11; referências em ordem alfabética), registrar o autor do item e recortar as fotos dos trechos de Barbosa e Silva (2010) citados (Figuras 1 e 2). As decisões de design e os valores do guia não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

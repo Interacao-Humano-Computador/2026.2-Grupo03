@@ -20,10 +20,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Estruturação inicial dos critérios e do quadro comparativo. | Eduardo Ribeiro | — |
-| 10/09/2026 | 2.0 | Consolidação das avaliações individuais de SouGov.br, Meu SUS Digital, Época Cosméticos e Portal de Serviços do Detran-DF. | Eduardo Ribeiro | — |
-| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, numeração e legendas das tabelas, chamadas no texto), das referências (ABNT) e inclusão da seção de uso de IA | Henrique Schneider | — |
-| 17/10/2026 | 2.2 | Organização por entrega; revisão da tabela de contribuição e da nota sobre a lista de sites do relatório entregue | Henrique Schneider | — |
+| 10/09/2026 | 1.0 | Estruturação inicial dos critérios e do quadro comparativo. | Eduardo Ribeiro | **[VERIFICAR: revisor]** |
+| 10/09/2026 | 2.0 | Consolidação das avaliações individuais de SouGov.br, Meu SUS Digital, Época Cosméticos e Portal de Serviços do Detran-DF. | Eduardo Ribeiro | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, numeração e legendas das tabelas, chamadas no texto), das referências (ABNT) e inclusão da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 2.2 | Organização por entrega; revisão da tabela de contribuição e da nota sobre a lista de sites do relatório entregue | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -165,3 +166,5 @@ SILVA, Eduardo Ribeiro Gomes da. *Projeto de avaliação de IHC: Meu SUS Digital
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico em ordem cronológica, numeração das seções, legendas e chamadas das tabelas), ordenar e padronizar as referências conforme a ABNT e incluir a nota sobre a lista de sites do relatório da Entrega 1. As sínteses das avaliações individuais não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.

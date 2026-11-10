@@ -16,6 +16,8 @@ Fonte: material elaborado pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
+| 02/11/2026 | 1.0 | Registro do escopo e do cronograma previsto | Alexandre Vilar Valadares Fonsêca | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 02/11/2026 | 1.0 | Registro do escopo e do cronograma previsto | Alexandre Vilar Valadares Fonsêca | - |
 | 03/11/2026 | 1.1 | Atualização do cronograma e dos pontos a observar | Alexandre Vilar Valadares Fonsêca | - |
 
@@ -51,3 +53,7 @@ Antes da sessão de alta fidelidade, será conferido se todas as telas estão ac
 | Conferência das informações adicionadas | 13/11/2026 | 14/11/2026 |
 
 [Voltar à visão geral](index.md).
+
+## Agradecimentos e uso de IA generativa
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página. O uso de IA generativa pelos autores no conteúdo desta página **[VERIFICAR: autor declarar o uso de IA, se houver]**.

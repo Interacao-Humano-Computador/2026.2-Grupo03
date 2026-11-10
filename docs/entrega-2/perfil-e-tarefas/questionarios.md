@@ -22,8 +22,9 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 17/09/2026 | 1.0 | Elaboração da estrutura, definição do público-alvo e criação do bloco de perguntas do questionário. | Henrique Schneider | Alexandre Vilar |
 | 27/09/2026 | 2.0 | Revisão metodológica, adequação das instruções de preenchimento, inclusão da fundamentação teórica e consolidação dos dados. | Henrique Schneider | Eduardo Ribeiro |
-| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, legendas), das citações e referências (ABNT), retirada dos campos "[Inserir…]" e inclusão da seção de uso de IA | Henrique Schneider | — |
-| 17/10/2026 | 2.2 | Inclusão das fotos dos trechos de Barbosa e Silva (2010) citados como Figuras 1 a 4, correção das páginas citadas e retirada dos campos de link e de total de respostas sem conteúdo | Henrique Schneider | — |
+| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, legendas), das citações e referências (ABNT), retirada dos campos "[Inserir…]" e inclusão da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 17/10/2026 | 2.2 | Inclusão das fotos dos trechos de Barbosa e Silva (2010) citados como Figuras 1 a 4, correção das páginas citadas e retirada dos campos de link e de total de respostas sem conteúdo | Henrique Schneider | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -189,3 +190,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, legendas) e padronizar citações e referências conforme a ABNT. Em 17/10/2026, a ferramenta foi usada para conferir no PDF de Barbosa e Silva (2010) as páginas citadas e recortar as fotos dos trechos (Figuras 1 a 4). Perguntas, achados e conclusões não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
