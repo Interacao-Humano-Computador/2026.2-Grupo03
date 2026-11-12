@@ -7,11 +7,8 @@
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Adaptação e aplicação documental da lista de verificação | [Material individual](index.md) | — |
-| Gabriel Robson Nunes Neiva da Silva | Sem contribuição registrada nesta versão individual | — | — |
-| Henrique Schneider Fernandes da Rosa | Sem contribuição registrada nesta versão individual | — | — |
-| João Vitor Tavares de Sá Lima | Sem contribuição registrada nesta versão individual | — | — |
 
-Fonte: elaboração desta versão, a pedido de Alexandre (2026).
+Fonte: minha elaboração (2026).
 
 ## Histórico de versões
 
@@ -20,70 +17,68 @@ Fonte: elaboração desta versão, a pedido de Alexandre (2026).
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
 ## 1. Escopo e adaptação {#escopo}
 
-Esta lista adapta o instrumento da **Apresentação 4**, fornecido pelo estudante, para o planejamento e o relato da avaliação de **alta fidelidade**. Não é uma transcrição de uma lista oficial específica da Entrega 7. Substituições: storyboard por protótipo interativo; prototipação em papel por teste de usabilidade; correspondência dos desenhos com HTA por correspondência das telas/interações com a análise de tarefas.
+Adaptei a lista da **Apresentação 4** para conferir o planejamento e o relato da minha avaliação de **alta fidelidade**. Para isso, troquei os itens sobre storyboard pelo protótipo interativo, a prototipação em papel pelo teste de usabilidade e a relação dos desenhos com a HTA pela relação das telas e interações com a análise de tarefas.
 
-A marcação é uma **conferência documental desta versão**, não uma revisão humana independente nem comprovação de sessão realizada. “Sim” indica atendimento do critério documental; “Incompleto” indica informação parcial ou confirmação pendente; “Não” indica registro ausente. A tabela não avalia outro grupo.
+Nesta lista, avaliei somente os materiais da **minha entrega**. Marquei **Sim** quando encontrei a informação documentada, **Incompleto** quando faltava algum detalhe ou confirmação e **Não** quando não encontrei o registro. Conferi a documentação disponível; uma marcação positiva no planejamento não significa que eu já tenha realizado a sessão.
 
 ## 2. Item 1 - Dez itens de desenvolvimento {#desenvolvimento}
 
-A Tabela 3 detalha os dez itens referidos na primeira linha da lista enviada, conforme a transcrição do [plano de ensino](../../../entrega-1/verificacao/listas.md). A situação global do item 1 é **Incompleto**, por haver pendências de revisão, execução, atas e apresentação.
+A Tabela 3 detalha os dez itens referidos na primeira linha da lista enviada, conforme a transcrição do [plano de ensino](../../../entrega-1/verificacao/listas.md). Na minha parte, o item 1 está **Incompleto**, porque ainda preciso completar a revisão, os registros de organização e a apresentação, além de realizar a avaliação.
 
 **Tabela 3 - Itens de desenvolvimento do projeto**
 
-| Item | O GitHub Pages possui... | Resposta | Versão, data e hora | Evidência e observação |
+| Item | Na minha entrega... | Resposta | Versão, data e hora | Evidência e observação |
 | --- | --- | --- | --- | --- |
-| D1 | Histórico de versões padronizado? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](index.md#historico-de-versoes) - Históricos nas páginas individuais. |
-| D2 | Autor e revisor identificados em cada artefato? | **Incompleto** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](index.md#historico-de-versoes) - Autor indicado; revisão humana pendente. |
-| D3 | Referências bibliográficas em todos os artefatos? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](planejamento.md#referencias) - Cada página inclui referências. |
-| D4 | Tabelas e imagens com legenda, fonte e chamada no texto? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](planejamento.md#metodo) - Figuras e tabelas numeradas, citadas e com fonte. |
-| D5 | Introdução dos artefatos? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](index.md#introducao) - Introdução e escopo da área individual. |
-| D6 | Cronograma executado com responsáveis e datas de início/fim? | **Incompleto** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](index.md#gestao) - Execução documental registrada; sessões e revisão ainda sem execução. |
-| D7 | Atas com data, horários, participantes, objetivos e atividades? | **Não** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](index.md#reunioes) - Nenhuma ata específica foi fornecida. |
-| D8 | Gravação da reunião do grupo? | **Não** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](index.md#reunioes) - Nenhuma gravação específica foi fornecida. |
-| D9 | Apresentação não listada no YouTube? | **Não** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](relato.md#situacao) - Vídeo da Entrega 7 ainda não fornecido. |
-| D10 | Tabela de contribuição no início, com todos os integrantes e links de atividade/gravação, se houver? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](index.md#tabela-de-contribuicao) - Tabela inicial nas páginas; vídeos inexistentes não foram presumidos. |
+| D1 | Registrei o histórico de versões? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](index.md#historico-de-versoes) - Históricos nas páginas individuais. |
+| D2 | Identifiquei autor e revisor em cada artefato? | **Incompleto** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](index.md#historico-de-versoes) - Autor indicado; revisão humana pendente. |
+| D3 | Incluí referências bibliográficas em todos os artefatos? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](planejamento.md#referencias) - Cada página inclui referências. |
+| D4 | Identifiquei tabelas e imagens com legenda, fonte e chamada no texto? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](planejamento.md#metodo) - Figuras e tabelas numeradas, citadas e com fonte. |
+| D5 | Apresentei meus artefatos na introdução? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](index.md#introducao) - Introdução e escopo da área individual. |
+| D6 | Registrei a execução com responsáveis e datas de início e fim? | **Incompleto** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](index.md#gestao) - Execução documental registrada; sessões e revisão ainda sem execução. |
+| D7 | Registrei a organização da minha avaliação com data, horários, participantes, objetivos e atividades? | **Não** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](index.md#reunioes) - Ainda não vinculei uma ata específica da minha atividade. |
+| D8 | Vinculei gravação da organização da minha avaliação? | **Não** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](index.md#reunioes) - Ainda não vinculei uma gravação específica de organização. |
+| D9 | Vinculei minha apresentação como não listada no YouTube? | **Não** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](relato.md#situacao) - Ainda preciso gravar e vincular minha apresentação. |
+| D10 | Minha contribuição está identificada no início, com links para minha atividade e gravação, quando houver? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](index.md#tabela-de-contribuicao) - Tabela inicial nas páginas; vídeos inexistentes não foram presumidos. |
 
-Fonte: adaptação de Sales (2026, p. 8-9) e conferência desta versão (11/11/2026, 23:36 BRT).
+Fonte: adaptação de Sales (2026, p. 8-9) e minha conferência em 12/11/2026, 00:57 BRT.
 
 ## 3. Itens de conteúdo adaptados {#conteudo}
 
-A Tabela 4 preserva a numeração da lista fornecida e aponta para a informação dentro da área individual de Alexandre na Entrega 7.
+Na Tabela 4, mantive a numeração da lista que usei como base e vinculei cada critério aos meus materiais da Entrega 7.
 
 **Tabela 4 - Rastreabilidade dos itens de conteúdo**
 
 | Item | Questão adaptada | Resposta | Versão, data e hora | Evidência e observação |
 | --- | --- | --- | --- | --- |
-| 2 | O planejamento segue o Framework DECIDE? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](planejamento.md#decide) - As seis atividades estão desenvolvidas. |
-| 3 | Descreve os objetivos da avaliação da alta fidelidade? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](planejamento.md#objetivos) - Problemas de interação/interface, clareza da disponibilidade e conclusão. |
-| 4 | Define os métodos, com referência, foto do texto e autor do item? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](planejamento.md#metodo) - Teste de usabilidade, Figura 2 e autoria declarada. |
-| 5 | Detalha recrutamento, perfil, quantidade e justificativa, modalidade, equipamentos, prazos, orçamento e equipe? | **Incompleto** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](planejamento.md#questoes-praticas) - Todos os tópicos estão planejados; recrutamento, apoio e logística ainda precisam de confirmação. |
-| 6 | Define cuidados éticos antes, durante e depois da divulgação? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](planejamento.md#etica) - Consentimento, voluntariedade, conforto, confidencialidade e publicação. |
-| 7 | Planeja a estrutura do relatório dos resultados, adaptada ao teste de usabilidade? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](relato.md#estrutura) - Objetivos, método, pessoas, tarefas, dados, problemas e recomendações. |
-| 8 | Apresenta cronograma com data, horário e local? | **Incompleto** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](planejamento.md#cronograma) - Cronograma operacional completo como proposta; horários e local ainda não confirmados. |
-| 9 | Relaciona as telas/interações do protótipo à especificação da análise de tarefas? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](index.md#rastreabilidade) - Correspondência do fluxo com HTA e fotos do papel. |
-| 10 | A quantidade de propostas de alta fidelidade corresponde à quantidade de integrantes? | **Incompleto** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](verificacao.md#escopo-coletivo) - Requisito coletivo; a área individual documenta uma proposta e não comprova a de todos. |
-| 11 | Define e agenda o piloto antes da avaliação, com referência, foto e autor? | **Incompleto** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](planejamento.md#piloto) - Definição, Figura 4 e proposta de data/horário; execução e disponibilidade não confirmadas. |
-| 12 | Exclui os dados do piloto dos resultados definitivos? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](planejamento.md#dados-piloto) - Separação explícita entre PP01 e P01/P02. |
-| 13 | Lista o que o avaliador deve realizar/anotar e prevê priorização dos problemas não resolvidos? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](roteiro.md#observacao) - Folha de observação, intervenções e lista de problemas com prioridades. |
-| I | Há item de conteúdo com referência, foto e autor identificado? | **Sim** | v1.0; 11/11/2026, 23:36 BRT | [Local da informação](planejamento.md#metodo) - Método e piloto trazem fonte, imagem e autoria de Alexandre. |
+| 2 | Organizei meu planejamento com o Framework DECIDE? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](planejamento.md#decide) - As seis atividades estão desenvolvidas. |
+| 3 | Descrevi os objetivos da minha avaliação de alta fidelidade? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](planejamento.md#objetivos) - Problemas de interação/interface, clareza da disponibilidade e conclusão. |
+| 4 | Defini os métodos com referência, foto do texto e autoria do item? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](planejamento.md#metodo) - Teste de usabilidade, Figura 2 e autoria declarada. |
+| 5 | Detalhei recrutamento, perfil, quantidade e justificativa, modalidade, equipamentos, prazos, orçamento e equipe? | **Incompleto** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](planejamento.md#questoes-praticas) - Todos os tópicos estão planejados; recrutamento, apoio e logística ainda precisam de confirmação. |
+| 6 | Defini os cuidados éticos antes, durante e depois da divulgação? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](planejamento.md#etica) - Consentimento, voluntariedade, conforto, confidencialidade e publicação. |
+| 7 | Planejei a estrutura do relato dos resultados do teste de usabilidade? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](relato.md#estrutura) - Objetivos, método, pessoas, tarefas, dados, problemas e recomendações. |
+| 8 | Apresentei cronograma com data, horário e local? | **Incompleto** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](planejamento.md#cronograma) - Cronograma operacional completo como proposta; horários e local ainda não confirmados. |
+| 9 | Relacionei as telas e interações do protótipo com a análise de tarefas? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](index.md#rastreabilidade) - Correspondência do fluxo com HTA e fotos do papel. |
+| 10 | Disponibilizei o protótipo da funcionalidade sob minha responsabilidade? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](index.md#prototipo) - Vinculei meu protótipo de agendamento de vistoria no Figma. |
+| 11 | Defini e agendei o piloto antes da avaliação, com referência, foto e autoria? | **Incompleto** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](planejamento.md#piloto) - Definição, Figura 4 e proposta de data/horário; execução e disponibilidade não confirmadas. |
+| 12 | Separei os dados do piloto dos resultados definitivos? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](planejamento.md#dados-piloto) - Separação explícita entre PP01 e P01/P02. |
+| 13 | Listei o que vou observar e anotar e como vou priorizar os problemas não resolvidos? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](roteiro.md#observacao) - Folha de observação, intervenções e lista de problemas com prioridades. |
+| I | Elaborei item de conteúdo com referência, foto e autoria identificada? | **Sim** | v1.1; 12/11/2026, 00:57 BRT | [Local da informação](planejamento.md#metodo) - Indiquei fonte, imagem e minha autoria nos itens de método e piloto. |
 
-Fonte: adaptação da lista fornecida pelo estudante, fundamentada em Barbosa et al. (2021) e conferência desta versão (11/11/2026, 23:36 BRT).
+Fonte: minha adaptação da lista da Apresentação 4, fundamentada em Barbosa et al. (2021) e minha conferência em 12/11/2026, 00:57 BRT.
 
-## 4. Requisitos coletivos {#escopo-coletivo}
+## 4. Limites da minha verificação {#escopo-coletivo}
 
-O item 10 é coletivo. Esta área contém a proposta de Alexandre. O [relatório coletivo da Entrega 7](../../relatorio.md) também referencia a proposta de Henrique. A equivalência entre o número de propostas e o de integrantes deve ser conferida pelo grupo, incluindo links das demais propostas e a distribuição de responsabilidades, sem transformar um planejamento individual em comprovação de entrega coletiva completa.
+Conferi apenas minha proposta de agendamento de vistoria, meus documentos e meus registros de avaliação. Adaptei o item 10 para verificar a presença do meu protótipo. Não usei a quantidade de propostas dos outros integrantes para atribuir uma resposta à minha entrega.
 
-Atas, gravações de reunião e apresentação coletiva podem atender aos itens D7-D9 quando efetivamente realizados e vinculados. Até lá, ficam pendentes.
+## 5. Atualização da lista {#atualizacao}
 
-## 5. Regra para atualização {#atualizacao}
-
-Após confirmar logística, executar piloto/sessões ou receber revisão e vídeos, atualizar as evidências, a versão e o horário de inspeção. Uma célula não deve virar “Sim” apenas pela criação de um espaço reservado.
-
+Vou atualizar as respostas, as evidências e a data desta verificação conforme confirmar a logística, realizar o piloto e as sessões e receber a revisão dos materiais. Só vou marcar um item como **Sim** quando tiver a informação ou o registro necessário.
 
 ## Referências
 
@@ -93,4 +88,4 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 
 ## Uso de IA generativa
 
-O ChatGPT (OpenAI) apoiou a organização e a redação desta versão, a pedido de Alexandre, a partir do planejamento anterior, da entrevista do protótipo de papel, do protótipo interativo e dos livros fornecidos. Datas futuras, logística e metas propostas estão identificadas como planejamento. Não foram gerados resultados de participantes, autorizações assinadas, revisão humana ou gravações inexistentes.
+Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.

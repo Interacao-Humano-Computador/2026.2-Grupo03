@@ -7,11 +7,8 @@
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Estruturação do relato e do plano de consolidação | [Material individual](index.md) | — |
-| Gabriel Robson Nunes Neiva da Silva | Sem contribuição registrada nesta versão individual | — | — |
-| Henrique Schneider Fernandes da Rosa | Sem contribuição registrada nesta versão individual | — | — |
-| João Vitor Tavares de Sá Lima | Sem contribuição registrada nesta versão individual | — | — |
 
-Fonte: elaboração desta versão, a pedido de Alexandre (2026).
+Fonte: minha elaboração (2026).
 
 ## Histórico de versões
 
@@ -20,12 +17,13 @@ Fonte: elaboração desta versão, a pedido de Alexandre (2026).
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
 ## 1. Situação do relato {#situacao}
 
-**Relato em preparação, sem resultados definitivos.** Não há dados de participantes nem vídeos de alta fidelidade fornecidos nesta versão. Os campos abaixo são instrumentos para preenchimento após as sessões. Não devem ser confundidos com resultados nem com a entrevista do papel.
+Ainda estou preparando o relato da alta fidelidade. Vou preencher as tabelas com os dados das sessões, mantendo separados os resultados da entrevista do papel.
 
 - Gravação do piloto de alta fidelidade: pendente.
 - Gravações das sessões definitivas: pendentes; publicar apenas se autorizadas.
@@ -35,13 +33,13 @@ Fonte: registro desta versão (2026).
 
 ## 2. Estrutura do relatório dos resultados {#estrutura}
 
-O relato será organizado segundo Barbosa et al. (2021, seção 12.2.1, p. 289-290), adaptando a estrutura originalmente solicitada para o papel ao método de teste de usabilidade. A Figura 1 mostra a fonte.
+Vou organizar meu relato segundo Barbosa et al. (2021, seção 12.2.1, p. 289-290), adaptando a estrutura originalmente solicitada para o papel ao método de teste de usabilidade. Na Figura 1, apresento o trecho que usei como referência.
 
 **Figura 1 - Medições, interpretação e estrutura do relato de usabilidade**
 
 [![Medições, interpretação e estrutura do relato de usabilidade](imagens/relato-p289.jpg)](imagens/relato-p289.jpg)
 
-Fonte: Barbosa et al. (2021), p. 289. Página renderizada do livro fornecido; clique para ampliar.
+Fonte: Barbosa et al. (2021), p. 289. Trecho do livro que usei como referência; clique para ampliar.
 
 **Tabela 3 - Estrutura e conteúdo a apresentar**
 
@@ -62,7 +60,7 @@ Fonte: Barbosa et al. (2021, p. 289-290), com adaptações ao estudo (2026).
 
 ## 3. Consolidação dos dados {#consolidacao}
 
-A Tabela 4 ficará sem valores até que existam registros das sessões definitivas. Calcular o tempo pela diferença entre fim e início e registrar falhas ou interrupções. Apresentar n/N com descrição de cada caso; evitar generalizações percentuais sobre toda a população.
+Vou preencher a Tabela 4 após as sessões definitivas. Calcularei o tempo pela diferença entre o início e o fim e registrarei as falhas ou interrupções. Vou apresentar as contagens junto com a descrição dos casos.
 
 **Tabela 4 - Síntese das sessões definitivas**
 
@@ -74,7 +72,7 @@ Fonte: formulário desta avaliação; sem resultados nesta versão.
 
 ## 4. Problemas e prioridade de correção {#problemas}
 
-Agrupar ocorrências semelhantes e manter os registros originais vinculados. Para este projeto, a prioridade proposta é **alta** quando impede concluir ou produz confirmação incorreta; **média** quando exige ajuda, causa erro recuperável ou dificulta reconhecer a disponibilidade; **baixa** quando há incômodo sem impedimento da tarefa. Esses critérios são uma convenção operacional do projeto, não uma escala atribuída ao livro.
+Vou agrupar as ocorrências semelhantes e manter seus registros vinculados. Para minha análise, vou usar prioridade **alta** quando impede concluir ou produz confirmação incorreta; **média** quando exige ajuda, causa erro recuperável ou dificulta reconhecer a disponibilidade; **baixa** quando há incômodo sem impedimento da tarefa. Esses critérios são uma convenção operacional do projeto, não uma escala atribuída ao livro.
 
 **Tabela 5 - Registro de problemas e reprojeto**
 
@@ -84,13 +82,13 @@ Agrupar ocorrências semelhantes e manter os registros originais vinculados. Par
 
 Fonte: adaptação dos elementos do relato em Barbosa et al. (2021, p. 289-290).
 
-Para problemas não resolvidos, registrar responsável, justificativa, risco e próxima ação. Não classificar uma recomendação como corrigida apenas porque foi planejada; conferir o protótipo alterado e, quando necessário, reavaliar.
+Para cada problema que eu não resolver, vou registrar a justificativa, o risco e a próxima ação. Só vou marcar uma correção como concluída depois de conferir a alteração no protótipo e, quando necessário, reavaliá-la.
 
 ## 5. Planejamento do relato {#plano-relato}
 
-Após as sessões de 12/11 (propostas), Alexandre organizará os registros e redigirá o relato entre 12 e 13/11; a conferência das evidências e a revisão humana estão previstas de 13 a 14/11. O nome do revisor deve ser confirmado, sem indicação antecipada de revisão concluída.
+Depois das sessões propostas para 12/11, vou organizar os registros e redigir o relato entre 12 e 13/11. Planejei a conferência e a revisão entre 13 e 14/11; ainda preciso confirmar quem fará a revisão.
 
-Checar se cada conclusão tem evidência; excluir dados do piloto das medições finais; anonimizar as sínteses; conferir autorizações de divulgação; integrar ao [relatório coletivo](../../relatorio.md) e preparar a apresentação até o prazo da Entrega 7. Qualquer reagendamento deve ser refletido no cronograma.
+Vou conferir as evidências, separar os dados do piloto, anonimizar as sínteses e verificar as autorizações antes de integrar minha parte ao [relatório coletivo](../../relatorio.md) e preparar minha apresentação. Se eu precisar reagendar alguma atividade, vou atualizar o cronograma.
 
 
 ## Referências
@@ -101,4 +99,4 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 
 ## Uso de IA generativa
 
-O ChatGPT (OpenAI) apoiou a organização e a redação desta versão, a pedido de Alexandre, a partir do planejamento anterior, da entrevista do protótipo de papel, do protótipo interativo e dos livros fornecidos. Datas futuras, logística e metas propostas estão identificadas como planejamento. Não foram gerados resultados de participantes, autorizações assinadas, revisão humana ou gravações inexistentes.
+Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.
