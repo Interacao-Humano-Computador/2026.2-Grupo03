@@ -312,6 +312,12 @@ nav:
 
   - "Entrega 7":
     - Relatório da entrega: entrega-7/relatorio.md
+    - Alexandre Vilar:
+      - Visão geral e protótipo: entrega-7/integrantes/alexandre-vilar/index.md
+      - Planejamento DECIDE: entrega-7/integrantes/alexandre-vilar/planejamento.md
+      - Roteiro e instrumentos: entrega-7/integrantes/alexandre-vilar/roteiro.md
+      - Relato dos resultados: entrega-7/integrantes/alexandre-vilar/relato.md
+      - Lista de verificação: entrega-7/integrantes/alexandre-vilar/verificacao.md
 
   - "Entrega 8":
     - Verificação dos artefatos: entrega-8/verificacao-dos-artefatos.md
