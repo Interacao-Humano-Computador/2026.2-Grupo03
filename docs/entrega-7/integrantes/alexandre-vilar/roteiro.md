@@ -7,11 +7,8 @@
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Elaboração dos instrumentos de aplicação | [Material individual](index.md) | — |
-| Gabriel Robson Nunes Neiva da Silva | Sem contribuição registrada nesta versão individual | — | — |
-| Henrique Schneider Fernandes da Rosa | Sem contribuição registrada nesta versão individual | — | — |
-| João Vitor Tavares de Sá Lima | Sem contribuição registrada nesta versão individual | — | — |
 
-Fonte: elaboração desta versão, a pedido de Alexandre (2026).
+Fonte: minha elaboração (2026).
 
 ## Histórico de versões
 
@@ -20,16 +17,17 @@ Fonte: elaboração desta versão, a pedido de Alexandre (2026).
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução
 
-Este roteiro operacionaliza o [planejamento DECIDE](planejamento.md). Os formulários devem ser preparados antes da sessão, e não preenchidos retroativamente com informações presumidas.
+Organizei este roteiro a partir do meu [planejamento DECIDE](planejamento.md). Vou preparar os formulários antes da sessão e preenchê-los com os registros da avaliação.
 
 ## 2. Triagem e pré-teste {#pre-teste}
 
-No convite, informar duração prevista de 35 minutos, voluntariedade, local proposto e uso de dados simulados. Perguntar e registrar por código:
+No convite, vou explicar a duração prevista de 35 minutos, a participação voluntária, o local proposto e o uso de dados simulados. Vou usar estas perguntas na triagem:
 
 1. Tem 18 anos ou mais, habilitação e costuma dirigir?
 2. Costuma usar navegador em computador? Com que frequência?
@@ -37,7 +35,7 @@ No convite, informar duração prevista de 35 minutos, voluntariedade, local pro
 4. Já viu ou avaliou este protótipo ou participou da sua preparação?
 5. Precisa de alguma adaptação para usar o computador e participar com conforto?
 
-Não registrar informações de saúde desnecessárias; a pessoa pode preferir não responder. Confirmar separadamente a disponibilidade para data, horário e local.
+Vou registrar apenas as informações necessárias ao teste e respeitar a decisão de não responder. Também vou confirmar a data, o horário e o local com cada participante.
 
 ## 3. Consentimento {#consentimento}
 
@@ -72,7 +70,7 @@ Checar consentimento antes de gravar; fechar notificações e contas pessoais; a
 
 ## 5. Cenários de tarefa {#tarefas}
 
-Os cenários derivam da [decomposição da tarefa](index.md#rastreabilidade). Cada tarefa tem previsão de até cinco minutos, com interrupção ou pausa se ultrapassar o limite de condução de 20 minutos. Reabrir o protótipo na tela inicial entre tarefas.
+Elaborei os cenários a partir da [decomposição da tarefa](index.md#rastreabilidade). Cada tarefa tem previsão de até cinco minutos, com interrupção ou pausa se ultrapassar o limite de condução de 20 minutos. Reabrir o protótipo na tela inicial entre tarefas.
 
 **Tabela 3 - Cenários, critérios de conclusão e registro**
 
@@ -88,7 +86,7 @@ P01 realiza T1, T2 e T3; P02 realiza T2, T1 e T3. Essa alternância reduz parcia
 
 ## 6. Folha do observador {#observacao}
 
-A Tabela 4 é um formulário em branco. Criar uma linha por participante e tarefa; o piloto usa código PP01 em arquivo separado.
+Preparei a Tabela 4 para registrar cada participante e tarefa. Vou manter os registros de PP01 em um arquivo separado dos demais.
 
 **Tabela 4 - Registro por tarefa**
 
@@ -108,7 +106,7 @@ Fonte: adaptação dos dados de observação de Barbosa et al. (2021, p. 259 e 2
 6. Identificar o problema, a tela, a marca de tempo e o impacto; propor solução após a sessão.
 7. Revisar as evidências, consolidar os problemas e priorizar as correções não resolvidas.
 
-Hesitação e tentativa sem efeito não equivalem automaticamente a erro. Descrever primeiro o comportamento observado, depois sua interpretação. Se o protótipo falhar, não atribuir a falha ao participante.
+Vou descrever o comportamento observado antes de interpretá-lo. Uma hesitação ou tentativa sem efeito não será classificada automaticamente como erro. Também vou distinguir falhas do protótipo das dificuldades do participante.
 
 ## 7. Entrevista pós-teste {#pos-teste}
 
@@ -118,7 +116,7 @@ Hesitação e tentativa sem efeito não equivalem automaticamente a erro. Descre
 4. Que informações você esperava encontrar e não encontrou?
 5. O que você mudaria para tornar o agendamento mais fácil?
 
-Encerrar esclarecendo dúvidas e agradecendo. Registrar a opinião do participante separadamente da inferência do avaliador.
+Vou encerrar esclarecendo dúvidas e agradecendo. No registro, vou separar a opinião do participante da minha interpretação.
 
 ## 8. Registro do piloto {#registro-piloto}
 
@@ -144,4 +142,4 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 
 ## Uso de IA generativa
 
-O ChatGPT (OpenAI) apoiou a organização e a redação desta versão, a pedido de Alexandre, a partir do planejamento anterior, da entrevista do protótipo de papel, do protótipo interativo e dos livros fornecidos. Datas futuras, logística e metas propostas estão identificadas como planejamento. Não foram gerados resultados de participantes, autorizações assinadas, revisão humana ou gravações inexistentes.
+Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.
