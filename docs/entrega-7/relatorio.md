@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | **[VERIFICAR: contribuição]** | — | — |
+| Alexandre Vilar Valadares Fonsêca | Planejamento, roteiro, estrutura de relato e lista de verificação da avaliação de vistoria veicular, com apoio do ChatGPT | [Material individual](integrantes/alexandre-vilar/index.md) | Pendente |
 | Gabriel Robson Nunes Neiva da Silva | **[VERIFICAR: contribuição]** | — | — |
 | Henrique Schneider Fernandes da Rosa | Estrutura desta página e protótipo de alta fidelidade que será avaliado (Figma) | [Protótipo no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) | — |
 | João Vitor Tavares de Sá Lima | **[VERIFICAR: contribuição]** | — | — |
@@ -20,6 +20,7 @@ Fonte: elaborado pelos autores (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 10/11/2026 | 0.1 | Criação da estrutura do relato, com os prazos, o protótipo avaliado e as seções do relato dos resultados ainda sem dados, porque as sessões do teste de usabilidade não foram registradas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 11/11/2026 | 0.2 | Vinculação do planejamento e dos materiais individuais de Alexandre, sem resultados presumidos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -46,6 +47,8 @@ Fonte: elaborado pelos autores (2026), com base em Sales (2026, pp. 5–6) e nas
 ## 3. Protótipo avaliado e planejamento do teste
 
 O protótipo avaliado é o do agendamento da prova teórica com reserva de horário, de Henrique Schneider, construído no Figma nas versões para [celular e computador](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT). Sua especificação está na [Especificação do protótipo de alta fidelidade](../entrega-6/integrantes/henrique-schneider/especificacao-alta-fidelidade.md), e a correspondência com o protótipo de papel está no [Apêndice E do roteiro do papel](../entrega-6/integrantes/henrique-schneider/prototipo-papel.md#apendice-e-correspondencia-entre-o-prototipo-de-papel-e-o-figma). O [roteiro do teste de usabilidade](../entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md) define objetivos, questões, medidas, participantes, ética, teste-piloto e roteiro da sessão.
+
+A proposta de **Alexandre Vilar** para vistoria veicular foi integrada à [área individual da Entrega 7](integrantes/alexandre-vilar/index.md), com [Figma](integrantes/alexandre-vilar/index.md#prototipo), [planejamento](integrantes/alexandre-vilar/planejamento.md), [roteiro](integrantes/alexandre-vilar/roteiro.md), [estrutura de relato](integrantes/alexandre-vilar/relato.md) e [lista de verificação com evidências](integrantes/alexandre-vilar/verificacao.md). Os resultados das sessões de alta fidelidade continuam pendentes.
 
 Alexandre Vilar e João Vitor planejaram a avaliação das suas propostas ([Alexandre Vilar](../entrega-6/integrantes/alexandre-vilar/planejamento-alta-fidelidade.md); [João Vitor](../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md)). **[VERIFICAR: quais propostas entram no relato da Entrega 7]**
 
