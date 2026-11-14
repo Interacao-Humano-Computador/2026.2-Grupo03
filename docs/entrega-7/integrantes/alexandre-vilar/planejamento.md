@@ -18,6 +18,7 @@ Fonte: minha elaboração (2026).
 | --- | --- | --- | --- | --- |
 | 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 14/11/2026 | 1.2 | Defini o OBS Studio como meio de gravação e vinculei os instrumentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
@@ -86,11 +87,11 @@ Na Tabela 4, organizei os recursos e a logística que pretendo usar. Ainda preci
 | Quantidade | Dois participantes definitivos e uma pessoa distinta para o piloto |
 | Justificativa | Amostra pequena para encontrar indícios qualitativos e orientar o redesign no prazo acadêmico; não é representativa da população nem permite generalizar taxas |
 | Modalidade | Presencial em ambiente controlado; proposta de local: minha residência, a confirmar, sem publicação do endereço |
-| Equipamentos | Computador com navegador e acesso ao Figma, mouse, internet e celular ou ferramenta de gravação de tela/áudio; testar fontes, escala da tela, bateria, armazenamento e som |
-| Material de apoio | TCLE, triagem/pré-teste, cartões das tarefas, instruções padronizadas, folha de observação e entrevista pós-teste |
+| Equipamentos | Computador com navegador e acesso ao Figma, mouse, internet e OBS Studio para gravação de tela e áudio; testar fontes, escala da tela, bateria, armazenamento e som |
+| Material de apoio | [Instrumentos e gravação com OBS Studio](roteiro.md#instrumentos), TCLE, triagem/pré-teste, cartões das tarefas, instruções padronizadas, folha de observação e entrevista pós-teste |
 | Duração | Cerca de 30-35 minutos por pessoa; até cinco minutos previstos por tarefa e limite de condução de 20 minutos por tarefa, com pausa ou encerramento |
 | Equipe | Eu como moderador e responsável pela análise; apoio de observação a confirmar (João Vitor pode ser convidado) |
-| Plano se não houver apoio | Gravar tela/áudio com consentimento e completar as anotações depois; registrar essa condição como limitação |
+| Plano se não houver apoio | Gravar tela/áudio no OBS Studio com consentimento e completar as anotações depois; registrar essa condição como limitação |
 | Orçamento incremental previsto | R$ 0, utilizando recursos próprios e participação voluntária; eventual despesa exige revisão do plano antes da sessão |
 | Contingências | Participante reserva se houver desistência; se o Figma ou a internet falhar, suspender e reagendar, sem substituir silenciosamente pelo teste em papel |
 

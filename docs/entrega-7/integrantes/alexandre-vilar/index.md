@@ -18,6 +18,7 @@ Fonte: minha elaboração (2026).
 | --- | --- | --- | --- | --- |
 | 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 14/11/2026 | 1.2 | Organizei as seis divisões da entrega e separei o protótipo interativo | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
@@ -35,7 +36,7 @@ Na Tabela 3, reuni os materiais da minha entrega.
 
 | Artefato | Conteúdo | Acesso |
 | --- | --- | --- |
-| Protótipo | Figma, versão de referência e limitações | [Abrir](#prototipo) |
+| Protótipo | Figma interativo, versão de referência e limitações | [Abrir protótipo](prototipo.md#prototipo-interativo) |
 | Planejamento | Framework DECIDE, logística, ética e cronograma | [Abrir planejamento](planejamento.md) |
 | Roteiro e instrumentos | Recrutamento, TCLE, pré-teste, tarefas, observação e pós-teste | [Abrir roteiro](roteiro.md) |
 | Relato dos resultados | Estrutura, tabelas de registro e plano de consolidação | [Abrir relato](relato.md) |
@@ -45,16 +46,7 @@ Fonte: organização desta versão (2026).
 
 ## 3. Protótipo de alta fidelidade {#prototipo}
 
-- [Abrir arquivo editável no Figma](https://www.figma.com/design/7asegH7hGDA7QNoz0e0tto).
-- [Executar o protótipo a partir da tela inicial](https://www.figma.com/proto/7asegH7hGDA7QNoz0e0tto?node-id=5-2&starting-point-node-id=5%3A2).
-
-Organizei o fluxo da seguinte maneira: **Agendamento presencial → Atendimento presencial → Novo agendamento → Vistoria de Transferência Veicular → Lago Sul → data e horário → confirmação**.
-
-Na versão de referência de 09/11/2026, disponibilizei sete combinações conectadas até a confirmação: 14/11 (08h00 e 15h00), 18/11 (10h00 e 11h00) e 23/11 (08h00, 10h00 e 15h00). Usei vagas simuladas para o teste.
-
-Antes do piloto, vou conferir e registrar a versão do Figma que será usada. A atualização para mostrar todos os horários de 08h00 a 18h00 foi preparada em um plugin local, mas ainda preciso confirmar sua aplicação no arquivo. Também preciso conferir as cores e a tipografia com o portal oficial, que não abriu durante a construção.
-
-A principal melhoria que levei da entrevista do papel foi indicar melhor as **datas e os horários disponíveis**. Por isso, diferenciei as opções sem vaga e incluí o resumo do agendamento na confirmação.
+Separei meu protótipo em uma [página própria](prototipo.md#prototipo-interativo), onde é possível explorar o fluxo do Figma dentro do Pages. Nela também registrei a versão de referência, as combinações simuladas e os pontos que ainda preciso conferir.
 
 ## 4. Correspondência com a análise de tarefas {#rastreabilidade}
 

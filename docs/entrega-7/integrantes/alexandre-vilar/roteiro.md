@@ -18,12 +18,23 @@ Fonte: minha elaboração (2026).
 | --- | --- | --- | --- | --- |
 | 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 14/11/2026 | 1.2 | Incluí o OBS Studio entre os instrumentos e detalhei a preparação da gravação | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução
 
 Organizei este roteiro a partir do meu [planejamento DECIDE](planejamento.md). Vou preparar os formulários antes da sessão e preenchê-los com os registros da avaliação.
+
+### Instrumentos e gravação {#instrumentos}
+
+Vou utilizar os seguintes instrumentos na avaliação:
+
+- Computador com navegador e acesso ao protótipo no Pages/Figma, com mouse e conexão à internet.
+- **OBS Studio como meio de gravação da tela e do áudio da sessão**, mediante consentimento do participante.
+- Termo de consentimento, perguntas de triagem e pré-teste, cenários de tarefa, folha do observador e perguntas pós-teste apresentados neste roteiro.
+
+Antes do piloto, vou configurar no OBS a captura da janela do navegador e o microfone, fazer uma gravação curta e reproduzi-la para conferir imagem e áudio. Também vou verificar o espaço disponível, fechar notificações e evitar capturar outras janelas ou dados pessoais. Vou manter o arquivo do piloto separado das gravações das sessões definitivas e conferir se cada arquivo foi salvo ao encerrar.
 
 ## 2. Triagem e pré-teste {#pre-teste}
 
@@ -66,7 +77,7 @@ Assinatura do responsável: __________________
 
 > Obrigado por participar. Estamos avaliando o protótipo, não você. As vagas e os dados são simulados e nenhum agendamento real será feito. Tente realizar a tarefa como faria normalmente e diga o que procura, o que entende e quando tiver dúvida. Você pode parar ou pedir uma pausa. Vou observar sem indicar o caminho; se precisar intervir, registrarei a ajuda.
 
-Checar consentimento antes de gravar; fechar notificações e contas pessoais; abrir a tela inicial do protótipo e testar áudio, mouse e gravação. Não ensinar os nomes dos botões nem antecipar a solução. O avaliador acompanha pelo roteiro e registra intervenções.
+Vou conferir o consentimento antes de iniciar a gravação no **OBS Studio**, fechar notificações e contas pessoais, abrir a tela inicial do protótipo e testar áudio, mouse e captura. Vou acompanhar pelo roteiro e registrar minhas intervenções, sem ensinar os nomes dos botões ou antecipar a solução.
 
 ## 5. Cenários de tarefa {#tarefas}
 
