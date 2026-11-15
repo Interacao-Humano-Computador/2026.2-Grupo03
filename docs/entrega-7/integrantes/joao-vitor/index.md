@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
-| João Vitor | Organização dos materiais, protótipo de biometria e planejamento da avaliação | [Minha entrega](index.md) | Pendente nesta etapa |
+| João Vitor | Organização dos materiais, protótipo de biometria e planejamento da avaliação | [Minha entrega](index.md) | [Gravações da avaliação](relato.md#gravacoes) |
 
 Fonte: elaboração do autor (2026).
 
@@ -17,6 +17,7 @@ Fonte: elaboração do autor (2026).
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 14/11/2026 | 1.0 | Inclusão do protótipo navegável, materiais da avaliação e evidências de implementação | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 1.1 | Vinculação das gravações e atualização da situação da análise preliminar | João Vitor | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
@@ -26,7 +27,7 @@ Minha proposta é o **agendamento e gerenciamento da biometria no Portal Detran-
 
 Nesta área, organizei seis divisões no mesmo padrão da área individual de Alexandre: visão geral, planejamento DECIDE, roteiro e instrumentos, protótipo, relato dos resultados e lista de verificação.
 
-**Situação da avaliação:** as sessões com participantes ainda não aconteceram. Os resultados, o piloto e as gravações de alta fidelidade permanecem pendentes. As imagens desta entrega documentam o protótipo e a fundamentação bibliográfica, sem representar sessões realizadas.
+**Situação da avaliação:** foram recebidos os links do registro apresentado como piloto e de P01, P02 e P03. O [relato](relato.md#situacao) apresenta análise preliminar das legendas de P01 e P02; P03, as datas de aplicação e a conferência visual permanecem pendentes. As capturas desta área documentam a implementação, sem serem apresentadas como fotos dessas sessões.
 
 ## 2. Materiais individuais {#materiais}
 
@@ -39,7 +40,7 @@ Na Tabela 3, reuni os materiais da minha parte.
 | Planejamento DECIDE | Objetivos, perguntas, método, logística, ética, análise e cronograma | [Planejamento](planejamento.md) |
 | Roteiro e instrumentos | Triagem, consentimento, tarefas T1–T4, observação e pós-teste | [Roteiro](roteiro.md) |
 | Protótipo | Navegação dentro do Pages, download offline e capturas reais das telas | [Protótipo interativo](prototipo.md#prototipo-interativo) |
-| Relato dos resultados | Estrutura e tabelas para os dados futuros; resultados pendentes | [Relato](relato.md) |
+| Relato dos resultados | Gravações, análise textual preliminar de P01/P02 e limites de verificação | [Relato](relato.md) |
 | Lista de verificação | Perguntas adaptadas, respostas documentais e links das evidências | [Verificação](verificacao.md) |
 
 Fonte: organização do autor (2026).
@@ -74,23 +75,23 @@ A Tabela 5 separa a organização já documentada das atividades que dependem da
 | --- | --- | --- | --- | --- |
 | Integração do protótipo e organização da Entrega 7 | João Vitor | 14/11/2026 | 14/11/2026 | [Protótipo e capturas](prototipo.md#capturas) |
 | Adaptação do DECIDE e dos instrumentos | João Vitor | 14/11/2026 | 14/11/2026 | [Planejamento](planejamento.md) e [roteiro](roteiro.md) |
-| Teste-piloto de alta fidelidade | João Vitor; participante a confirmar | Não realizado nesta versão | Não realizado nesta versão | [Plano do piloto](planejamento.md#piloto) |
-| Sessões definitivas | João Vitor; participantes a confirmar | Não realizadas | Não realizadas | [Relato pendente](relato.md#situacao) |
+| Registro apresentado como piloto | João Vitor; participação externa a confirmar | Data não informada | Data não informada | [Demonstração narrada e limites](relato.md#piloto) |
+| Registros P01, P02 e P03 | João Vitor e pessoas identificadas pelos códigos | Datas não informadas | Datas não informadas | [Gravações e análise preliminar](relato.md#gravacoes); P03 ainda pendente |
 | Revisão por outro integrante | Revisor a confirmar | Pendente | Pendente | Histórico de versões |
 
 Fonte: situação informada pelo autor e artefatos desta versão (2026). As datas de avaliação da Entrega 6 continuam registradas como planejamento anterior, não como execução.
 
 ## 5. Organização, gravações e apresentação {#reunioes}
 
-Ainda preciso vincular uma ata específica da organização desta avaliação, as gravações autorizadas do piloto e das sessões e minha apresentação da Entrega 7. O [vídeo já vinculado à Entrega 6](../../../entrega-6/integrantes/joao-vitor/video-avaliacao.md) pertence à etapa anterior e não comprova a realização da alta fidelidade.
+Vinculei os [quatro registros fornecidos](relato.md#gravacoes). A ata de organização, as datas, as autorizações e a apresentação específica da Entrega 7 ainda precisam de confirmação documental. O [vídeo já vinculado à Entrega 6](../../../entrega-6/integrantes/joao-vitor/video-avaliacao.md) pertence à etapa anterior e não comprova a realização da alta fidelidade.
 
 ## 6. Próximas atividades {#pendencias}
 
-1. Confirmar recrutamento, local, equipamentos, apoio e novas datas.
-2. Congelar o ZIP e registrar as datas simuladas oferecidas no dia do piloto.
-3. Executar o piloto e ajustar o procedimento antes das sessões definitivas.
-4. Aplicar T1–T4, registrar as evidências e preencher o relato.
-5. Conferir autorizações, obter revisão humana e vincular a apresentação.
+1. Confirmar datas, logística e caracterização do vídeo apresentado como piloto.
+2. Obter transcrição confiável e concluir a análise de P03.
+3. Conferir os estados visuais e a aplicação efetiva de T3/T4.
+4. Complementar registros, autorizações, perfil agregado e pós-teste quando disponíveis.
+5. Receber revisão humana e vincular a apresentação específica da Entrega 7.
 
 ## Referências
 
@@ -103,3 +104,5 @@ JOÃO VITOR. **Planejamento da avaliação do protótipo de alta fidelidade – 
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio à implementação do protótipo em HTML, CSS e JavaScript, à organização das páginas, à adaptação dos instrumentos e à verificação técnica dos arquivos e links. A estrutura da área de Alexandre Vilar serviu como referência de organização. As capturas do meu protótipo foram produzidas em execução técnica; não são registros de avaliação com participantes. O apoio de IA não substitui a revisão humana nem a realização do piloto e das sessões. A responsabilidade pelo conteúdo publicado e por sua conferência acadêmica é minha.
+
+Em 15/11/2026, o apoio do ChatGPT incluiu a vinculação dos vídeos e a organização de uma análise preliminar a partir das legendas automáticas disponíveis, com as limitações declaradas no relato.

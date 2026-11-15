@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
-| João Vitor | Adaptação do DECIDE ao agendamento e gerenciamento de biometria | [Minha entrega](index.md) | Pendente nesta etapa |
+| João Vitor | Adaptação do DECIDE ao agendamento e gerenciamento de biometria | [Minha entrega](index.md) | [Gravações da avaliação](relato.md#gravacoes) |
 
 Fonte: elaboração do autor (2026).
 
@@ -17,8 +17,12 @@ Fonte: elaboração do autor (2026).
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 14/11/2026 | 1.0 | Planejamento, referências, logística e cronograma vinculados à Entrega 6 | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 1.1 | Vinculação das gravações e atualização da situação da análise preliminar | João Vitor | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
+
+!!! note "Planejamento e execução registrada"
+    Este documento preserva o planejamento original. Foram recebidos três registros identificados como participantes, em vez dos dois inicialmente propostos, e um vídeo apresentado como piloto. O [relato preliminar](relato.md#tarefas-reais) distingue os cenários efetivos, as orientações durante o uso e os limites das legendas. As datas reais de aplicação ainda não foram informadas.
 
 ## 1. Introdução {#introducao}
 
@@ -130,7 +134,7 @@ O piloto verificará o **procedimento da avaliação**, a clareza dos cenários,
 
 Fonte: Barbosa et al. (2021), p. 260. Trecho bibliográfico já disponibilizado na área de Alexandre Vilar, reutilizado como fundamentação teórica; não é evidência de execução da minha avaliação.
 
-**Autor do item de conteúdo:** João Vitor. O piloto de alta fidelidade está pendente; sua data precisa ser reconfirmada antes das sessões definitivas. O vídeo da Entrega 6 pertence ao papel e não será apresentado como piloto desta versão.
+**Autor do item de conteúdo:** João Vitor. O vídeo apresentado como piloto foi vinculado; sua data e a participação de pessoa externa à preparação ainda precisam de confirmação, conforme o [registro analisado](relato.md#piloto). O vídeo da Entrega 6 pertence ao papel e não será apresentado como piloto desta versão.
 
 ### Separação dos resultados {#dados-piloto}
 
@@ -138,16 +142,16 @@ Os registros de PP01 ficarão separados de P01/P02. Não vou somar tempos, erros
 
 ## 4. Cronograma de avaliação {#cronograma}
 
-A Tabela 5 transcreve o cronograma da minha Entrega 6. **As datas são previsões anteriores, não comprovação de execução.** Como a avaliação ainda não aconteceu, vou confirmar novas datas para piloto e sessões, respeitando sua ordem, e registrar o cronograma efetivamente realizado depois.
+A Tabela 5 transcreve o cronograma da minha Entrega 6. **As datas são previsões anteriores, não comprovação de execução.** Os links das gravações foram recebidos, mas suas datas de aplicação e a caracterização do piloto ainda não foram informadas. Vou completar o cronograma efetivo com esses registros, sem transformar a previsão anterior em execução.
 
 **Tabela 5 – Cronograma previsto na Entrega 6 e situação atual**
 
 | Atividade | Início previsto | Fim previsto | Local previsto | Situação desta versão |
 | --- | --- | --- | --- | --- |
 | Construção da alta fidelidade | 05/11/2026 | 10/11/2026 | Remoto | Protótipo agora disponível; o período original não é declarado como execução |
-| Teste-piloto | 12/11/2026 | 12/11/2026 | A definir | Não realizado; reagendar antes das sessões |
-| Sessões com participantes | 13/11/2026 | 14/11/2026 | A definir | Não realizadas; datas e horários a confirmar |
-| Interpretação e consolidação | 14/11/2026 | 15/11/2026 | Remoto | Depende das sessões; resultados pendentes |
+| Teste-piloto | 12/11/2026 | 12/11/2026 | A definir | Vídeo vinculado; caracterização, data e procedimento a confirmar |
+| Sessões com participantes | 13/11/2026 | 14/11/2026 | A definir | Três registros recebidos; datas e horários efetivos a confirmar |
+| Interpretação e consolidação | 14/11/2026 | 15/11/2026 | Remoto | Análise preliminar de P01/P02 disponível; P03 e consolidação pendentes |
 | Relato e publicação | 15/11/2026 | 15/11/2026 | Remoto | Estrutura preparada; resultados, revisão e apresentação pendentes |
 
 Fonte: [cronograma da Entrega 6](../../../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md#5-cronograma-previsto) e situação informada pelo autor nesta versão (2026).
@@ -175,3 +179,5 @@ JOÃO VITOR. **Planejamento da avaliação do protótipo de alta fidelidade – 
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio à implementação do protótipo em HTML, CSS e JavaScript, à organização das páginas, à adaptação dos instrumentos e à verificação técnica dos arquivos e links. A estrutura da área de Alexandre Vilar serviu como referência de organização. As capturas do meu protótipo foram produzidas em execução técnica; não são registros de avaliação com participantes. O apoio de IA não substitui a revisão humana nem a realização do piloto e das sessões. A responsabilidade pelo conteúdo publicado e por sua conferência acadêmica é minha.
+
+Em 15/11/2026, o apoio do ChatGPT incluiu a vinculação dos vídeos e a organização de uma análise preliminar a partir das legendas automáticas disponíveis, com as limitações declaradas no relato.

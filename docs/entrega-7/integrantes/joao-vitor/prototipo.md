@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
-| João Vitor | Disponibilização do protótipo interativo, ZIP e capturas da implementação | [Minha entrega](index.md) | Pendente nesta etapa |
+| João Vitor | Disponibilização do protótipo interativo, ZIP e capturas da implementação | [Minha entrega](index.md) | [Gravações da avaliação](relato.md#gravacoes) |
 
 Fonte: elaboração do autor (2026).
 
@@ -17,6 +17,7 @@ Fonte: elaboração do autor (2026).
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 14/11/2026 | 1.0 | Inclusão do fluxo completo de biometria com WhatsApp simulado no Pages | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 1.1 | Vinculação das gravações e atualização da situação da análise preliminar | João Vitor | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
@@ -164,7 +165,7 @@ Fonte: protótipo de João Vitor, captura técnica em 14/11/2026, sem participan
 
 A implementação simula a reserva, a liberação da vaga e o WhatsApp; não acessa o Detran, o Gov.br ou o WhatsApp real. As demais categorias e serviços não são cenários funcionais. A HTA prevê autenticação, busca e comprovante PDF, que não estão implementados nesta versão; o resumo e a exportação de calendário não equivalem ao PDF.
 
-O acabamento é uma interpretação dos meus desenhos, não uma cópia visual validada do portal oficial ou do Figma de Alexandre. O [DECIDE](planejamento.md) e o [roteiro](roteiro.md#tarefas) definem a avaliação. As verificações técnicas asseguram a disponibilidade do artefato, mas não substituem o piloto nem demonstram usabilidade para os participantes.
+O acabamento é uma interpretação dos meus desenhos, não uma cópia visual validada do portal oficial ou do Figma de Alexandre. O [DECIDE](planejamento.md) e o [roteiro](roteiro.md#tarefas) definem a avaliação. As verificações técnicas asseguram a disponibilidade do artefato, mas não substituem o piloto nem demonstram usabilidade para os participantes. As [gravações fornecidas e a análise preliminar](relato.md#gravacoes) estão separadas dessas capturas técnicas; a versão efetivamente usada nos vídeos ainda depende de conferência visual.
 
 ## Referências
 
@@ -177,3 +178,5 @@ JOÃO VITOR. **Planejamento da avaliação do protótipo de alta fidelidade – 
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio à implementação do protótipo em HTML, CSS e JavaScript, à organização das páginas, à adaptação dos instrumentos e à verificação técnica dos arquivos e links. A estrutura da área de Alexandre Vilar serviu como referência de organização. As capturas do meu protótipo foram produzidas em execução técnica; não são registros de avaliação com participantes. O apoio de IA não substitui a revisão humana nem a realização do piloto e das sessões. A responsabilidade pelo conteúdo publicado e por sua conferência acadêmica é minha.
+
+Em 15/11/2026, o apoio do ChatGPT incluiu a vinculação dos vídeos e a organização de uma análise preliminar a partir das legendas automáticas disponíveis, com as limitações declaradas no relato.
