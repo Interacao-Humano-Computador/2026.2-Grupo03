@@ -18,12 +18,13 @@ Fonte: elaboração do autor (2026).
 | --- | --- | --- | --- | --- |
 | 14/11/2026 | 1.0 | Inclusão de roteiro aplicável ao portal e ao WhatsApp simulado | João Vitor | Revisão humana pendente |
 | 15/11/2026 | 1.1 | Vinculação das gravações e atualização da situação da análise preliminar | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 1.2 | Atualização das datas de aplicação e da situação do relato com o complemento de P03 | João Vitor | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução e materiais {#instrumentos}
 
-Preparei este roteiro a partir do [DECIDE](planejamento.md#decide) e das tarefas da [Entrega 6](../../../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md#3-tarefas-da-avaliacao). Os instrumentos registram o procedimento planejado. O [relato preliminar](relato.md#tarefas-reais) identifica o que está efetivamente evidenciado nas legendas recebidas; não presumi que todos os instrumentos e T1–T4 tenham sido integralmente aplicados.
+Preparei este roteiro a partir do [DECIDE](planejamento.md#decide) e das tarefas da [Entrega 6](../../../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md#3-tarefas-da-avaliacao). Os instrumentos registram o procedimento planejado. O [relato](relato.md#tarefas-reais) registra a aplicação de think-aloud em 14/11/2026 e as tarefas descritas nos vídeos e no meu relato. Não presumi que toda a bateria T1–T4 tenha sido aplicada a cada participante.
 
 Vou utilizar computador com navegador, o [protótipo desta versão](prototipo.md#versao), mouse, teclado, cronômetro, cartões de tarefa, TCLE e folha de observação. A proposta é gravar tela e áudio com OBS Studio, somente com consentimento. Antes do piloto, vou testar a captura da janela do protótipo e do microfone, reproduzir uma gravação curta, conferir espaço/energia, fechar notificações e verificar o arquivo salvo. Se a gravação não for autorizada, vou registrar a condição e a alternativa acordada.
 
@@ -153,4 +154,4 @@ JOÃO VITOR. **Planejamento da avaliação do protótipo de alta fidelidade – 
 
 Utilizei o ChatGPT (OpenAI) como apoio à implementação do protótipo em HTML, CSS e JavaScript, à organização das páginas, à adaptação dos instrumentos e à verificação técnica dos arquivos e links. A estrutura da área de Alexandre Vilar serviu como referência de organização. As capturas do meu protótipo foram produzidas em execução técnica; não são registros de avaliação com participantes. O apoio de IA não substitui a revisão humana nem a realização do piloto e das sessões. A responsabilidade pelo conteúdo publicado e por sua conferência acadêmica é minha.
 
-Em 15/11/2026, o apoio do ChatGPT incluiu a vinculação dos vídeos e a organização de uma análise preliminar a partir das legendas automáticas disponíveis, com as limitações declaradas no relato.
+Em 15/11/2026, o ChatGPT apoiou a revisão da redação e das tabelas. Confirmei as aplicações em 14/11/2026 e complementei o relato de P03 com a mudança de data e o reagendamento. A responsabilidade pela conferência do material é minha.

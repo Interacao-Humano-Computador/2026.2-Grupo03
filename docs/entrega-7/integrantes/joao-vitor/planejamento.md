@@ -18,11 +18,12 @@ Fonte: elaboração do autor (2026).
 | --- | --- | --- | --- | --- |
 | 14/11/2026 | 1.0 | Planejamento, referências, logística e cronograma vinculados à Entrega 6 | João Vitor | Revisão humana pendente |
 | 15/11/2026 | 1.1 | Vinculação das gravações e atualização da situação da análise preliminar | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 1.2 | Atualização das datas de aplicação e da situação do relato com o complemento de P03 | João Vitor | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
 !!! note "Planejamento e execução registrada"
-    Este documento preserva o planejamento original. Foram recebidos três registros identificados como participantes, em vez dos dois inicialmente propostos, e um vídeo apresentado como piloto. O [relato preliminar](relato.md#tarefas-reais) distingue os cenários efetivos, as orientações durante o uso e os limites das legendas. As datas reais de aplicação ainda não foram informadas.
+    Este documento preserva o planejamento original. Realizei as aplicações em 14/11/2026, com três registros de participantes, em vez dos dois inicialmente propostos, e um registro de piloto. O [relato](relato.md#tarefas-reais) descreve as tarefas efetivas, as orientações durante o uso e o reagendamento de P03 informado pelo avaliador.
 
 ## 1. Introdução {#introducao}
 
@@ -134,7 +135,7 @@ O piloto verificará o **procedimento da avaliação**, a clareza dos cenários,
 
 Fonte: Barbosa et al. (2021), p. 260. Trecho bibliográfico já disponibilizado na área de Alexandre Vilar, reutilizado como fundamentação teórica; não é evidência de execução da minha avaliação.
 
-**Autor do item de conteúdo:** João Vitor. O vídeo apresentado como piloto foi vinculado; sua data e a participação de pessoa externa à preparação ainda precisam de confirmação, conforme o [registro analisado](relato.md#piloto). O vídeo da Entrega 6 pertence ao papel e não será apresentado como piloto desta versão.
+**Autor do item de conteúdo:** João Vitor. O vídeo apresentado como piloto foi vinculado; sua aplicação foi confirmada como 14/11/2026; a participação de pessoa externa à preparação ainda precisa de identificação, conforme o [registro analisado](relato.md#piloto). O vídeo da Entrega 6 pertence ao papel e não será apresentado como piloto desta versão.
 
 ### Separação dos resultados {#dados-piloto}
 
@@ -142,21 +143,21 @@ Os registros de PP01 ficarão separados de P01/P02. Não vou somar tempos, erros
 
 ## 4. Cronograma de avaliação {#cronograma}
 
-A Tabela 5 transcreve o cronograma da minha Entrega 6. **As datas são previsões anteriores, não comprovação de execução.** Os links das gravações foram recebidos, mas suas datas de aplicação e a caracterização do piloto ainda não foram informadas. Vou completar o cronograma efetivo com esses registros, sem transformar a previsão anterior em execução.
+A Tabela 5 transcreve o cronograma da minha Entrega 6. **As datas são previsões anteriores, não comprovação de execução.** As aplicações foram realizadas em 14/11/2026. Registrei essa data como execução; a caracterização do piloto e a logística detalhada ainda precisam de complemento. As datas abaixo continuam identificadas como previsões anteriores.
 
 **Tabela 5 – Cronograma previsto na Entrega 6 e situação atual**
 
 | Atividade | Início previsto | Fim previsto | Local previsto | Situação desta versão |
 | --- | --- | --- | --- | --- |
 | Construção da alta fidelidade | 05/11/2026 | 10/11/2026 | Remoto | Protótipo agora disponível; o período original não é declarado como execução |
-| Teste-piloto | 12/11/2026 | 12/11/2026 | A definir | Vídeo vinculado; caracterização, data e procedimento a confirmar |
-| Sessões com participantes | 13/11/2026 | 14/11/2026 | A definir | Três registros recebidos; datas e horários efetivos a confirmar |
-| Interpretação e consolidação | 14/11/2026 | 15/11/2026 | Remoto | Análise preliminar de P01/P02 disponível; P03 e consolidação pendentes |
+| Teste-piloto | 12/11/2026 | 12/11/2026 | A definir | Vídeo de aplicação em 14/11/2026; caracterização do procedimento a complementar |
+| Sessões com participantes | 13/11/2026 | 14/11/2026 | A definir | P01/P02/P03 aplicados em 14/11/2026; horários não registrados |
+| Interpretação e consolidação | 14/11/2026 | 15/11/2026 | Remoto | Relato de P01/P02/P03 disponível, incluindo o reagendamento informado para P03 |
 | Relato e publicação | 15/11/2026 | 15/11/2026 | Remoto | Estrutura preparada; resultados, revisão e apresentação pendentes |
 
 Fonte: [cronograma da Entrega 6](../../../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md#5-cronograma-previsto) e situação informada pelo autor nesta versão (2026).
 
-Horários de início/fim, local confirmado e participantes serão incluídos ao reagendar. O prazo coletivo de entrega é 15/11/2026, às 23h59, conforme o [relatório coletivo](../../relatorio.md#2-prazos); o prazo não substitui a necessidade de registrar o que foi realizado.
+A aplicação em 14/11/2026 foi confirmada; horários de início/fim, local e perfil agregado serão incluídos quando detalhados. O prazo coletivo de entrega é 15/11/2026, às 23h59, conforme o [relatório coletivo](../../relatorio.md#2-prazos); o prazo não substitui a necessidade de registrar o que foi realizado.
 
 ## 5. Materiais e tarefas {#materiais}
 
@@ -180,4 +181,4 @@ JOÃO VITOR. **Planejamento da avaliação do protótipo de alta fidelidade – 
 
 Utilizei o ChatGPT (OpenAI) como apoio à implementação do protótipo em HTML, CSS e JavaScript, à organização das páginas, à adaptação dos instrumentos e à verificação técnica dos arquivos e links. A estrutura da área de Alexandre Vilar serviu como referência de organização. As capturas do meu protótipo foram produzidas em execução técnica; não são registros de avaliação com participantes. O apoio de IA não substitui a revisão humana nem a realização do piloto e das sessões. A responsabilidade pelo conteúdo publicado e por sua conferência acadêmica é minha.
 
-Em 15/11/2026, o apoio do ChatGPT incluiu a vinculação dos vídeos e a organização de uma análise preliminar a partir das legendas automáticas disponíveis, com as limitações declaradas no relato.
+Em 15/11/2026, o ChatGPT apoiou a revisão da redação e das tabelas. Confirmei as aplicações em 14/11/2026 e complementei o relato de P03 com a mudança de data e o reagendamento. A responsabilidade pela conferência do material é minha.

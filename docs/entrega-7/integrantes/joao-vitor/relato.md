@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
-| João Vitor | Análise preliminar das gravações e organização das evidências temporais | [Minha entrega](index.md) | [Gravações da avaliação](relato.md#gravacoes) |
+| João Vitor | Organização do relato das sessões e das evidências da avaliação | [Minha entrega](index.md) | [Gravações da avaliação](relato.md#gravacoes) |
 
 Fonte: elaboração do autor (2026).
 
@@ -17,182 +17,184 @@ Fonte: elaboração do autor (2026).
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 14/11/2026 | 1.0 | Modelo de relato preparado com sessões, resultados e gravações pendentes | João Vitor | Revisão humana pendente |
-| 15/11/2026 | 1.1 | Vinculação de quatro gravações e análise preliminar das legendas, com limites de verificação explicitados | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 1.1 | Vinculação de quatro gravações e organização inicial do relato | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 1.2 | Revisão da redação, confirmação das datas, apresentação das fontes como vídeos e complemento do relato de P03 | João Vitor | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
-## 1. Situação e alcance da análise {#situacao}
+## 1. Apresentação do relato {#situacao}
 
-Recebi quatro links identificados como teste-piloto, P01, P02 e P03. Esta versão apresenta uma **análise preliminar das falas registradas nas legendas automáticas do YouTube**, consultadas em 15/11/2026. Não corresponde a uma inspeção visual integral das gravações.
+Realizei a avaliação do protótipo de agendamento e gerenciamento da biometria em **14/11/2026**, utilizando a técnica de **pensar em voz alta (*think-aloud*)** durante o uso. Organizei os registros com os códigos P01, P02 e P03 e mantive o piloto separado dos participantes.
 
-As legendas do registro apresentado como piloto, de P01 e de P02 estão em português e permitem localizar verbalizações sobre o uso do protótipo. Para **P03**, o YouTube disponibilizou à ferramenta somente cinco segmentos automáticos em inglês, sem conteúdo suficiente para analisar a sessão. Mantive esse registro como **análise pendente**, sem atribuir falha à pessoa participante.
+Neste relato, reuni as escolhas, as falas e as intervenções registradas nas sessões. P03 realizou o fluxo inicial e, ao final, quis mudar a data e conseguiu reagendar.
 
-Não foi possível reproduzir os vídeos no navegador deste ambiente para conferir quadros, cliques e estados finais da interface. Portanto, diferenciei **conclusão verbalizada**, **orientação do moderador** e **resultado visual não verificado**. Não calculei tempos de execução, taxa de sucesso ou contagem de erros a partir das legendas. A ausência de menção de um evento não comprova que ele não aconteceu.
+### Vídeos da avaliação {#gravacoes}
 
-### Gravações fornecidas {#gravacoes}
+A Tabela 3 apresenta os vídeos das aplicações realizadas em 14/11/2026 e a técnica utilizada.
 
-A Tabela 3 mantém os códigos fornecidos pelo responsável. A data da aplicação ainda não foi informada; não utilizei o dia de publicação ou de consulta como data de realização das sessões.
+**Tabela 3 – Registros da aplicação e método utilizado**
 
-**Tabela 3 – Fontes e disponibilidade para análise**
-
-| Registro | Gravação | Data da aplicação | Fonte efetivamente acessada | Uso nesta versão |
+| Registro | Gravação | Data da aplicação | Fonte | Uso nesta versão |
 | --- | --- | --- | --- | --- |
-| Vídeo apresentado como piloto | [TESTE PILOTO](https://www.youtube.com/watch?v=0q2Ko2J0udM) | Não informada | Legenda automática em português | Demonstração narrada; participação externa e procedimento de piloto não comprovados pela legenda; fora da consolidação dos participantes |
-| P01 | [ENTREVISTA PROTOTIPO ALTA FIDELIDADE P01](https://www.youtube.com/watch?v=uybHtUtdJoY) | Não informada | Legenda automática em português | Análise textual preliminar de agendamento e confirmação de presença |
-| P02 | [ENTREVISTA PROTOTIPO ALTA FIDELIDADE P02](https://www.youtube.com/watch?v=jFsENSShwhQ) | Não informada | Legenda automática em português | Análise textual preliminar de agendamento e confirmação de presença |
-| P03 | [ENTREVISTA PROTOTIPO ALTA FIDELIDADE P03](https://www.youtube.com/watch?v=rIH_GDsRM5s) | Não informada | Legenda automática em inglês, cinco segmentos sem sequência compreensível | Pendente de transcrição confiável ou conferência audiovisual |
+| Piloto | [TESTE PILOTO](https://www.youtube.com/watch?v=0q2Ko2J0udM) | 14/11/2026 | Vídeo | Think-aloud |
+| P01 | [ENTREVISTA PROTOTIPO ALTA FIDELIDADE P01](https://www.youtube.com/watch?v=uybHtUtdJoY) | 14/11/2026 | Vídeo | Think-aloud |
+| P02 | [ENTREVISTA PROTOTIPO ALTA FIDELIDADE P02](https://www.youtube.com/watch?v=jFsENSShwhQ) | 14/11/2026 | Vídeo | Think-aloud |
+| P03 | [ENTREVISTA PROTOTIPO ALTA FIDELIDADE P03](https://www.youtube.com/watch?v=rIH_GDsRM5s) | 14/11/2026 | Vídeo | Think-aloud |
 
-Fonte: links identificados pelo responsável e legendas automáticas recuperadas em 15/11/2026.
+Fonte: vídeos da avaliação e informações do autor sobre as aplicações em 14/11/2026.
 
-As marcas de tempo abaixo são **referências aproximadas do início de segmentos de legenda**, úteis para reencontrar a fala. Não delimitam necessariamente início e fim de tarefa. As legendas podem errar termos como IHC, *think-aloud* e Asa Norte e não fornecem identificação confiável de todos os falantes. Na dúvida de atribuição, descrevi a verbalização da gravação sem atribuí-la automaticamente ao participante.
+As marcas de tempo de P01/P02 servem para localizar os trechos citados, sem representar a duração das tarefas.
 
-## 2. Objetivos, método e execução documentada {#estrutura}
+## 2. Objetivos, método e contexto {#estrutura}
 
-O objetivo planejado foi avaliar o agendamento da biometria e seu gerenciamento pelo WhatsApp simulado, respondendo Q1–Q7. O método previsto é teste de usabilidade moderado por observação com pensar em voz alta, entrevistas de apoio e tarefas T1–T4, conforme o [DECIDE](planejamento.md#decide) e o [roteiro](roteiro.md#tarefas).
+Meu objetivo foi avaliar se as pessoas conseguiam localizar o serviço de biometria, escolher unidade/data/horário, informar contato, conferir o agendamento e gerenciar o atendimento pelo WhatsApp simulado. As questões Q1–Q7 e as tarefas T1–T4 estão no [DECIDE](planejamento.md#decide) e no [roteiro](roteiro.md#tarefas).
 
-Nas aberturas de P01 ([00:11](https://www.youtube.com/watch?v=uybHtUtdJoY&t=11s)–00:27) e P02 ([00:09](https://www.youtube.com/watch?v=jFsENSShwhQ&t=9s)–00:31), o moderador pede que a pessoa verbalize o que está pensando enquanto realiza o agendamento. Essa orientação é compatível com a técnica de pensar em voz alta. Em P02, também é informado que os dados podem ser fictícios ([00:20](https://www.youtube.com/watch?v=jFsENSShwhQ&t=20s)–00:31).
+Usei um teste de usabilidade moderado, com observação e think-aloud. Pedi que os participantes comentassem o que procuravam e entendiam enquanto utilizavam o protótipo. Essa orientação aparece nas aberturas de [P01, 00:11–00:27](https://www.youtube.com/watch?v=uybHtUtdJoY&t=11s) e [P02, 00:09–00:31](https://www.youtube.com/watch?v=jFsENSShwhQ&t=9s). Também orientei o uso de dados fictícios em [P02, 00:20–00:31](https://www.youtube.com/watch?v=jFsENSShwhQ&t=20s).
 
-A interpretação segue Barbosa et al. (2021, seções 11.7.5 e 12.2.1). A Figura 1 mantém a fundamentação bibliográfica do relato, sem funcionar como evidência de uma sessão.
+Organizei a análise conforme Barbosa et al. (2021, seções 11.7.5 e 12.2.1). A Figura 1 apresenta a fundamentação do relato.
 
 **Figura 1 – Medições, interpretação e apresentação do relato de usabilidade**
 
 [![Medições, interpretação e apresentação do relato](../alexandre-vilar/imagens/relato-p289.jpg)](../alexandre-vilar/imagens/relato-p289.jpg)
 
-Fonte: Barbosa et al. (2021), p. 289. Trecho disponibilizado na área de Alexandre, reutilizado como fundamentação teórica.
+Fonte: Barbosa et al. (2021), p. 289. Trecho disponibilizado na área de Alexandre e reutilizado como referência bibliográfica.
 
-### Participantes e contexto {#participantes}
+### Participantes e aplicação {#participantes}
 
-Foram fornecidos **três registros identificados como P01, P02 e P03**. Nesta versão, somente P01 e P02 têm conteúdo textual suficiente para uma análise preliminar. Não inferi idade, experiência com o portal, perfil de recrutamento, identidade ou características pessoais a partir da voz, do título ou dos códigos.
+Considerei os três registros identificados como P01, P02 e P03. O planejamento inicial previa dois participantes definitivos; a aplicação reuniu três registros. Não contei o piloto como uma quarta pessoa participante.
 
-O plano previa dois participantes definitivos e uma pessoa para o piloto. A entrega de três registros identificados como participantes amplia o conjunto em relação à previsão e deve ser registrada como diferença do plano. Não contei o vídeo apresentado como piloto como uma quarta pessoa participante.
+As aplicações foram realizadas em **14/11/2026**. A caracterização do recrutamento, a experiência prévia, o local, os horários exatos e as autorizações documentais ainda precisam ser complementados.
 
-As datas e horários efetivos, o local, o navegador, a resolução usada e as autorizações de participação/gravação/divulgação ainda precisam ser confirmados. A ausência dessas informações nas legendas não prova que os procedimentos não ocorreram fora do trecho gravado. Não publiquei termos assinados, contatos pessoais ou caracterizações não fornecidas.
+### Tarefas realizadas e orientações {#tarefas-reais}
 
-### Tarefas efetivamente evidenciadas e intervenções {#tarefas-reais}
+Nas sessões, apresentei um cenário aberto de agendamento da biometria. P01 escolheu Asa Norte, dia 18, às 15h00; P02 escolheu Asa Norte, 16 de novembro, às 09h00. Essas escolhas diferem do cenário fechado originalmente previsto para T1 e foram mantidas no relato como parte da aplicação efetiva.
 
-Em P01 e P02, a orientação inicial é aberta: agendar biometria e escolher dados durante o uso. Isso difere do cenário padronizado de T1, que previa a primeira data disponível às 09h00. P01 verbaliza o dia 18 e 15h00; P02 verbaliza 16 de novembro e 09h00. Não completei mês, ano ou outros campos não explicitados em cada fala por suposição.
+Em P01 e P02, o fluxo seguiu para a confirmação de presença no WhatsApp. Em P03, conforme meu registro da aplicação, o participante também realizou o fluxo inicial e, ao final, quis alterar a data. Ele conseguiu concluir o reagendamento. Não estendi esse resultado aos demais participantes.
 
-As duas legendas registram a passagem ao WhatsApp e falas sobre confirmar presença. Não apresentam evidência textual suficiente de execução de reagendamento e cancelamento pelos participantes. Isso deixa **T3 e T4 não verificadas nesta análise**, em vez de classificá-las como falha ou como sucesso.
+Durante as sessões, fiz orientações procedimentais:
 
-Há orientações procedimentais durante o uso, além da explicação inicial:
+- Em P01, orientei a conferência/confirmação dos dados em [01:05](https://www.youtube.com/watch?v=uybHtUtdJoY&t=65s) e expliquei as opções do WhatsApp em [01:18–01:27](https://www.youtube.com/watch?v=uybHtUtdJoY&t=78s).
+- Em P02, indiquei a continuidade para o WhatsApp em [01:14–01:21](https://www.youtube.com/watch?v=jFsENSShwhQ&t=74s) e a consulta no portal em [01:23–01:29](https://www.youtube.com/watch?v=jFsENSShwhQ&t=83s).
 
-- Em P01, há orientação para conferir/confirmar os dados em [01:05](https://www.youtube.com/watch?v=uybHtUtdJoY&t=65s) e explicação das opções do WhatsApp em [01:18](https://www.youtube.com/watch?v=uybHtUtdJoY&t=78s)–01:27.
-- Em P02, o moderador indica clicar em Continuar no WhatsApp em [01:14](https://www.youtube.com/watch?v=jFsENSShwhQ&t=74s)–01:21 e consultar no portal em [01:23](https://www.youtube.com/watch?v=jFsENSShwhQ&t=83s)–01:29.
+Considerei essas orientações na interpretação, sem apresentar os percursos como execução comprovadamente independente de ajuda.
 
-Por isso, não classifiquei os percursos como conclusão comprovadamente independente de ajuda. A intervenção foi registrada como condição da condução, sem convertê-la automaticamente em problema de interface.
-
-## 3. Evidências por gravação {#evidencias}
+## 3. Relato por participante {#evidencias}
 
 ### P01 {#p01}
 
-A Tabela 4 reúne os trechos úteis da legenda. O resultado permanece verbal, com tela não conferida.
+P01 iniciou o agendamento presencial, selecionou Biometria e escolheu Asa Norte, dia 18, às 15h00. Depois da conferência, verbalizou a confirmação e seguiu para a simulação do WhatsApp, onde indicou que confirmaria a presença e consultaria o portal.
 
-**Tabela 4 – Evidências textuais de P01**
+A Tabela 4 localiza os principais trechos da sessão.
 
-| Trecho aproximado | Registro na legenda | Interpretação possível / limite |
+**Tabela 4 – Registros da sessão P01**
+
+| Trecho | Registro | Análise |
 | --- | --- | --- |
-| [00:29](https://www.youtube.com/watch?v=uybHtUtdJoY&t=29s)–00:37 | Início do agendamento e menção ao atendimento presencial | Indício de reconhecimento do caminho; percurso de cliques não conferido |
-| [00:42](https://www.youtube.com/watch?v=uybHtUtdJoY&t=42s)–00:46 | Pedido “Dá o pause” após solicitação para parar a gravação | Preciso confirmar se houve pausa/corte; não medir tempo contínuo por esse vídeo |
-| [00:45](https://www.youtube.com/watch?v=uybHtUtdJoY&t=45s)–01:05 | Biometria, unidade verbalizada como Asa Norte, dia 18 e horário 15h00 | Escolhas verbalizadas; divergência em relação ao cenário fechado de T1 e valores finais não conferidos na tela |
-| [01:05](https://www.youtube.com/watch?v=uybHtUtdJoY&t=65s)–01:13 | Orientação sobre confirmação e fala “Beleza. Confirmei.” | Conclusão do agendamento verbalizada após orientação; sem comprovação visual independente |
-| [01:11](https://www.youtube.com/watch?v=uybHtUtdJoY&t=71s)–01:27 | Passagem ao WhatsApp, explicação da passagem de tempo e das opções | Continuidade acompanhada por explicação verbal |
-| [01:25](https://www.youtube.com/watch?v=uybHtUtdJoY&t=85s)–01:34 | “Certo. Vou confirmar” e menção à consulta no portal | Intenção/verbalização de confirmar presença; estado final visual não verificado |
+| [00:29–00:37](https://www.youtube.com/watch?v=uybHtUtdJoY&t=29s) | Início do agendamento e atendimento presencial | Reconhecimento do caminho inicial |
+| [00:42–00:46](https://www.youtube.com/watch?v=uybHtUtdJoY&t=42s) | Pedido de pausa na gravação | Não tratar o vídeo como uma medida contínua do tempo da tarefa |
+| [00:45–01:05](https://www.youtube.com/watch?v=uybHtUtdJoY&t=45s) | Seleção de Biometria, Asa Norte, dia 18 e 15h00 | Escolhas realizadas no cenário aberto |
+| [01:05–01:13](https://www.youtube.com/watch?v=uybHtUtdJoY&t=65s) | Orientação sobre confirmação e fala “Beleza. Confirmei.” | Conclusão verbalizada após orientação |
+| [01:11–01:27](https://www.youtube.com/watch?v=uybHtUtdJoY&t=71s) | Passagem ao WhatsApp e explicação do lembrete | Continuidade entre portal e conversa com apoio da condução |
+| [01:25–01:34](https://www.youtube.com/watch?v=uybHtUtdJoY&t=85s) | Indicação de confirmar presença e consultar o portal | Reconhecimento da opção de presença e da consulta |
 
-Fonte: legenda automática em português do vídeo P01, consultada em 15/11/2026.
+Fonte: [vídeo de P01](https://www.youtube.com/watch?v=uybHtUtdJoY), aplicação em 14/11/2026.
 
 ### P02 {#p02}
 
-A Tabela 5 reúne os trechos úteis de P02, com os mesmos limites de interpretação.
+P02 percorreu o atendimento presencial, selecionou Biometria e escolheu Asa Norte, 16 de novembro, às 09h00. O fluxo seguiu para a confirmação e o WhatsApp. Na parte final, houve indicação de confirmar presença e conferir local, data e horário no portal.
 
-**Tabela 5 – Evidências textuais de P02**
+A Tabela 5 reúne os trechos da sessão.
 
-| Trecho aproximado | Registro na legenda | Interpretação possível / limite |
+**Tabela 5 – Registros da sessão P02**
+
+| Trecho | Registro | Análise |
 | --- | --- | --- |
-| [00:20](https://www.youtube.com/watch?v=jFsENSShwhQ&t=20s)–00:34 | Orientação de usar dados fictícios e agendar biometria | Instrução de cenário aberto, sem fixar a combinação original da tarefa |
-| [00:34](https://www.youtube.com/watch?v=jFsENSShwhQ&t=34s)–00:49 | Atendimento presencial, Biometria, Asa Norte, 16 de novembro e 09h00 | Sequência e escolhas verbalizadas; valores exibidos não conferidos |
-| [01:04](https://www.youtube.com/watch?v=jFsENSShwhQ&t=64s)–01:14 | Menção a confirmar o agendamento e passagem anunciada à etapa seguinte | Indício verbal de avanço, sem delimitação validada de conclusão da tarefa |
-| [01:14](https://www.youtube.com/watch?v=jFsENSShwhQ&t=74s)–01:21 | Orientação para clicar em Continuar no WhatsApp e explicação do lembrete | Apoio procedimental explícito; não considerar navegação independente |
-| [01:21](https://www.youtube.com/watch?v=jFsENSShwhQ&t=81s)–01:33 | Menção à confirmação de presença, consulta e conferência de “local, data, horário, certinho” | Verbalização compatível com conferência dos dados; não equivale a verificação visual do registro |
+| [00:20–00:34](https://www.youtube.com/watch?v=jFsENSShwhQ&t=20s) | Orientação de usar dados fictícios e agendar biometria | Instrução de cenário aberto |
+| [00:34–00:49](https://www.youtube.com/watch?v=jFsENSShwhQ&t=34s) | Biometria, Asa Norte, 16 de novembro e 09h00 | Escolhas verbalizadas durante o preenchimento |
+| [01:04–01:14](https://www.youtube.com/watch?v=jFsENSShwhQ&t=64s) | Confirmação do agendamento e passagem à etapa seguinte | Avanço para o gerenciamento do atendimento |
+| [01:14–01:21](https://www.youtube.com/watch?v=jFsENSShwhQ&t=74s) | Orientação para continuar no WhatsApp | Apoio procedimental explícito |
+| [01:21–01:33](https://www.youtube.com/watch?v=jFsENSShwhQ&t=81s) | Confirmação de presença e conferência de local/data/horário | Indício de compreensão da consulta e do resultado, com orientação |
 
-Fonte: legenda automática em português do vídeo P02, consultada em 15/11/2026.
+Fonte: [vídeo de P02](https://www.youtube.com/watch?v=jFsENSShwhQ), aplicação em 14/11/2026.
 
 ### P03 {#p03}
 
-A gravação está vinculada, mas a legenda automática disponível à ferramenta está em inglês e contém somente cinco segmentos isolados. Não extraí dela tarefas, opiniões, erros, conclusão, ajuda ou tempos. Essa insuficiência é **da fonte de análise**, não um resultado negativo do participante. Para completar a sessão, preciso de transcrição confiável, anotações confirmadas ou acesso audiovisual utilizável.
+P03 realizou o fluxo inicial de agendamento e confirmação de presença. Ao final, quis mudar a data do atendimento e conseguiu fazer o reagendamento.
+
+O caso acrescenta uma situação de **gerenciamento posterior ao agendamento**: a necessidade mudou e o participante conseguiu alterar a marcação. Registrei esse desfecho a partir do meu relato da aplicação.
+
+Fonte: [vídeo de P03](https://www.youtube.com/watch?v=rIH_GDsRM5s) e informações do avaliador sobre a aplicação em 14/11/2026.
 
 ## 4. Consolidação das tarefas {#consolidacao}
 
-A Tabela 6 distingue presença de evidência de sucesso observado. Não calculei taxas agregadas, médias de tempo ou quantidade de erros.
+A Tabela 6 reúne as tarefas e os resultados registrados por participante.
 
-**Tabela 6 – Estado da evidência por participante e tarefa**
+**Tabela 6 – Síntese por participante e tarefa**
 
-| Registro | Tarefa | Evidência disponível | Classificação nesta análise | Tempo / contagem de erros |
-| --- | --- | --- | --- | --- |
-| P01 | T1 – Agendar | Escolhas e “Confirmei”, com orientação ([00:45](https://www.youtube.com/watch?v=uybHtUtdJoY&t=45s)–01:13) | Conclusão verbalizada; valores/tela e independência não verificados | Não mensurados |
-| P01 | T2 – Presença | Verbalização de confirmar e consultar ([01:18](https://www.youtube.com/watch?v=uybHtUtdJoY&t=78s)–01:34) | Há evidência textual de uso da etapa; estado final não conferido | Não mensurados |
-| P01 | T3 / T4 | Sem evidência textual suficiente no registro acessado | Não verificadas; não classificar como falha | Não mensurados |
-| P02 | T1 – Agendar | Seleções e passagem verbal ao WhatsApp ([00:34](https://www.youtube.com/watch?v=jFsENSShwhQ&t=34s)–01:21) | Avanço verbalizado; resultado visual e independência não verificados | Não mensurados |
-| P02 | T2 – Presença | Confirmação/conferência verbalizadas, com condução ([01:21](https://www.youtube.com/watch?v=jFsENSShwhQ&t=81s)–01:33) | Evidência textual parcial; estado final não conferido | Não mensurados |
-| P02 | T3 / T4 | Sem evidência textual suficiente no registro acessado | Não verificadas; não classificar como falha | Não mensurados |
-| P03 | T1–T4 | Legenda insuficiente para reconstruir o uso | Análise pendente por limitação da fonte | Não mensurados |
-
-Fonte: consolidação das legendas de P01 e P02; P03 mantido como pendente. O registro apresentado como piloto não foi incluído como participante.
-
-### Respostas provisórias ao DECIDE {#respostas-decide}
-
-Na Tabela 7, relacionei as evidências a Q1–Q7 sem extrapolar o alcance da fonte.
-
-**Tabela 7 – Questões de avaliação e situação da resposta**
-
-| Questão | Resposta preliminar |
-| --- | --- |
-| Q1 – Encontrar o serviço | P01 e P02 verbalizam atendimento presencial e Biometria; o percurso visual não foi auditado |
-| Q2 – Selecionar e informar contato | Há escolhas verbalizadas; não confirmei os campos efetivos nem sua correção frente ao resumo |
-| Q3 – Revisar e confirmar | Há falas de confirmação e avanço; não houve uma pergunta pós-teste registrada que estabeleça toda a compreensão |
-| Q4 – Confirmar presença pelo lembrete | Há verbalização dessa etapa em P01 e P02, com explicação do moderador; não comprova autonomia |
-| Q5 – Reagendar e compreender a vaga anterior | Sem evidência suficiente dos participantes nos registros textuais acessados |
-| Q6 – Cancelar e voltar sem cancelar | Sem evidência suficiente dos participantes nos registros textuais acessados |
-| Q7 – Obstáculos e sugestões | Não há entrevista pós-teste estruturada nem sugestões claramente registradas nas legendas; não inferi satisfação ou ausência de problemas |
-
-Fonte: análise preliminar relacionada ao [planejamento](planejamento.md#perguntas).
-
-## 5. Problemas, limitações e encaminhamentos {#problemas}
-
-Não atribuí bugs ou problemas de interface aos participantes sem evidência suficiente. A Tabela 8 apresenta **limitações do registro e do procedimento** e ações propostas; não é uma lista de defeitos comprovados da aplicação.
-
-**Tabela 8 – Limitações metodológicas e ações de complementação**
-
-| ID | Evidência / situação | Efeito sobre a análise | Encaminhamento proposto |
+| Participante | Tarefa | Registro / evidência | Resultado registrado |
 | --- | --- | --- | --- |
-| M01 | Cenário aberto e escolhas diferentes do T1 padronizado | Impede tratar os casos como execução idêntica do cenário planejado | Registrar a tarefa efetiva e padronizar os próximos enunciados |
-| M02 | Orientações de confirmação/WhatsApp durante o uso | Não comprova navegação independente | Separar instrução inicial de ajuda durante a tarefa e anotar cada intervenção |
-| M03 | Pedido de pausa em P01 ([00:42](https://www.youtube.com/watch?v=uybHtUtdJoY&t=42s)) | Tempo contínuo e possíveis cortes não estabelecidos | Confirmar a pausa/edição e usar registros brutos/cronômetro para mensuração, se disponíveis |
-| M04 | Somente legendas acessíveis; P03 sem transcrição útil | Não permite auditoria visual nem análise completa de P03 | Conferir gravações e obter fonte textual confiável antes da versão consolidada |
-| M05 | T3/T4 sem evidência textual suficiente dos participantes | Cobertura da bateria não demonstrada | Verificar se houve outros trechos/sessões e complementar a coleta quando necessário |
-| M06 | Datas, perfil, consentimento e logística sem confirmação completa | Contexto e aderência ao planejamento incompletos | Completar com registros reais; não inferir da publicação dos vídeos |
+| P01 | T1 – Agendar | Escolhas e confirmação em [00:45–01:13](https://www.youtube.com/watch?v=uybHtUtdJoY&t=45s) | Conclusão verbalizada, com orientação durante o fluxo |
+| P01 | T2 – Confirmar presença | Confirmação e consulta em [01:18–01:34](https://www.youtube.com/watch?v=uybHtUtdJoY&t=78s) | Confirmação de presença indicada na sessão |
+| P01 | T3 / T4 | Não descritas nos trechos analisados | Sem resultado atribuído para reagendamento ou cancelamento |
+| P02 | T1 – Agendar | Preenchimento e passagem ao WhatsApp em [00:34–01:21](https://www.youtube.com/watch?v=jFsENSShwhQ&t=34s) | Avanço para a etapa de gerenciamento, com orientação |
+| P02 | T2 – Confirmar presença | Confirmação e conferência em [01:21–01:33](https://www.youtube.com/watch?v=jFsENSShwhQ&t=81s) | Confirmação/conferência verbalizadas |
+| P02 | T3 / T4 | Não descritas nos trechos analisados | Sem resultado atribuído para reagendamento ou cancelamento |
+| P03 | T1 / T2 – Agendar e confirmar presença | Fluxo inicial informado pelo avaliador, vinculado ao [vídeo](https://www.youtube.com/watch?v=rIH_GDsRM5s) | Realizados, conforme relato da aplicação |
+| P03 | T3 – Reagendar | Ao final, quis mudar a data e conseguiu alterar o agendamento | Reagendamento concluído, conforme relato da aplicação |
+| P03 | T4 – Cancelar | Sem resultado informado para essa tarefa | Sem conclusão atribuída para cancelamento |
 
-Fonte: condições encontradas nesta análise preliminar; prioridades e correções de interface dependerão da complementação das evidências.
+Fonte: vídeos das sessões e registro do avaliador. O piloto permanece separado da consolidação dos participantes.
 
-## 6. Registro apresentado como piloto {#piloto}
+### Respostas ao DECIDE {#respostas-decide}
 
-No início do vídeo, João se apresenta e anuncia um teste-piloto/demonstração ([00:00](https://www.youtube.com/watch?v=0q2Ko2J0udM&t=0s)–00:15). A legenda acompanha a apresentação do agendamento, a confirmação e a passagem ao WhatsApp. Há demonstração narrada de presença ([01:05](https://www.youtube.com/watch?v=0q2Ko2J0udM&t=65s)), reagendamento ([01:11](https://www.youtube.com/watch?v=0q2Ko2J0udM&t=71s)–01:29) e cancelamento ([01:26](https://www.youtube.com/watch?v=0q2Ko2J0udM&t=86s)–01:36).
+Na Tabela 7, relacionei os registros às questões de avaliação.
 
-Esse conteúdo ajuda a documentar o fluxo demonstrado pelo autor. A legenda, porém, não estabelece a participação de uma pessoa distinta da preparação nem a aplicação integral do roteiro do piloto. **Não o tratei como comprovação de um piloto metodológico completo ou como quarta pessoa participante.** A caracterização será ajustada quando o responsável confirmar quem participou e em que data.
+**Tabela 7 – Questões de avaliação e síntese do relato**
 
-Mantive o registro separado da consolidação. Não transferi as ações de reagendar/cancelar dessa demonstração para os resultados de P01, P02 ou P03 e não presumi ajustes entre piloto e sessões.
+| Questão | Síntese |
+| --- | --- |
+| Q1 – Encontrar o serviço | P01 e P02 verbalizam atendimento presencial e Biometria; o fluxo inicial de P03 foi informado pelo avaliador |
+| Q2 – Selecionar e informar contato | As sessões registram o preenchimento do agendamento; não foram acrescentados valores que não constam dos registros |
+| Q3 – Revisar e confirmar | Há confirmação e avanço para o gerenciamento; as orientações do moderador fazem parte do contexto |
+| Q4 – Confirmar presença pelo lembrete | A etapa aparece em P01/P02 e foi informada para o fluxo inicial de P03 |
+| Q5 – Reagendar e compreender a vaga anterior | P03 conseguiu mudar a data, conforme relato da aplicação; não há fala registrada suficiente para concluir sua compreensão sobre a vaga anterior |
+| Q6 – Cancelar e voltar sem cancelar | Não atribuí resultado aos participantes sem registro dessa tarefa |
+| Q7 – Obstáculos e sugestões | As orientações e a pausa foram registradas; não acrescentei satisfação, sugestões ou ausência de problemas sem informação correspondente |
 
-## 7. Complementos necessários {#plano-relato}
+Fonte: consolidação relacionada ao [planejamento DECIDE](planejamento.md#perguntas).
 
-Para consolidar o relatório, ainda preciso:
+## 5. Interpretação e encaminhamentos {#problemas}
 
-1. Confirmar a data de cada aplicação e a caracterização do vídeo apresentado como piloto.
-2. Conferir visualmente os estados finais e a versão efetivamente usada.
-3. Obter fonte confiável para P03.
-4. Verificar se T3/T4 foram aplicadas em outros trechos e registrar a bateria efetiva, sem presumir sua realização.
-5. Completar perfil agregado, logística, consentimento e eventuais pausas/cortes.
-6. Incluir pós-teste e sugestões, se tiverem sido coletados, e receber revisão humana.
+Os registros indicam a continuidade entre o agendamento no portal e a confirmação pelo WhatsApp. O caso relatado de P03 acrescenta o reagendamento após uma mudança de necessidade. As orientações durante o uso precisam ser consideradas: os resultados não demonstram, sozinhos, que todas as tarefas seriam executadas sem ajuda.
 
-O [cronograma da Entrega 6](planejamento.md#cronograma) permanece como previsão histórica. Os links recebidos não preenchem automaticamente suas datas de execução. A apresentação específica da Entrega 7 também continua sem identificação confirmada entre estes quatro registros.
+A Tabela 8 apresenta os pontos de atenção e as ações propostas a partir das sessões.
+
+**Tabela 8 – Pontos de atenção e ações de melhoria**
+
+| Ponto | Registro | Encaminhamento |
+| --- | --- | --- |
+| Cenário de aplicação | As escolhas foram mais abertas que o T1 inicialmente planejado | Manter o cenário efetivo descrito e padronizar novas aplicações |
+| Apoio durante as tarefas | Houve orientações sobre confirmação, WhatsApp e consulta | Diferenciar instrução inicial de ajuda durante o uso |
+| Pausa em P01 | Há pedido de pausa em [00:42](https://www.youtube.com/watch?v=uybHtUtdJoY&t=42s) | Registrar eventuais cortes e não extrair tempo contínuo do vídeo |
+| Complemento de P03 | O avaliador informou a mudança de data e o reagendamento bem-sucedido | Acrescentar o trecho e os valores específicos se forem detalhados posteriormente |
+| Cobertura de tarefas | Cancelamento não recebeu resultado de participante nesta versão | Complementar o registro caso essa tarefa tenha sido aplicada |
+| Documentação | Datas confirmadas; perfil, logística detalhada, autorizações e revisão ainda precisam de complemento | Atualizar somente com os registros efetivos |
+
+Fonte: interpretação do autor, vinculada aos registros apresentados.
+
+## 6. Piloto {#piloto}
+
+O registro apresentado como piloto foi aplicado em **14/11/2026** e demonstra o fluxo de agendamento e gerenciamento. Na abertura, apresento a proposta ([00:00–00:15](https://www.youtube.com/watch?v=0q2Ko2J0udM&t=0s)); depois, percorro presença ([01:05](https://www.youtube.com/watch?v=0q2Ko2J0udM&t=65s)), reagendamento ([01:11–01:29](https://www.youtube.com/watch?v=0q2Ko2J0udM&t=71s)) e cancelamento ([01:26–01:36](https://www.youtube.com/watch?v=0q2Ko2J0udM&t=86s)).
+
+Mantive esse registro separado de P01/P02/P03 e não transferi os resultados da demonstração aos participantes. A participação de uma pessoa externa à preparação e os ajustes decorrentes do piloto ainda precisam de identificação documental para comprovar integralmente o procedimento previsto no [planejamento](planejamento.md#piloto).
+
+## 7. Fechamento e revisão {#plano-relato}
+
+As aplicações ocorreram em 14/11/2026. O [cronograma da Entrega 6](planejamento.md#cronograma) continua como previsão histórica, separado da execução aqui registrada. O relato reúne a aplicação de think-aloud e o complemento de P03 fornecido pelo avaliador.
+
+A redação desta versão foi consolidada com os registros textuais de apoio e as informações fornecidas pelo responsável pela avaliação; esta revisão não incluiu uma auditoria audiovisual independente integral. Os trechos e o complemento de P03 permanecem identificados para permitir conferência, sem criar falas, valores ou métricas ausentes.
+
+Ainda preciso completar o perfil agregado, a logística detalhada, as autorizações, eventuais respostas pós-teste e a revisão humana. A apresentação específica da Entrega 7 continua sem identificação confirmada entre os vídeos vinculados.
 
 ## Referências
 
@@ -203,6 +205,7 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 JOÃO VITOR. **Planejamento da avaliação do protótipo de alta fidelidade – Entrega 6.** 2026. [Planejamento anterior](../../../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md).
 
 
+
 ## Agradecimentos e uso de IA generativa
 
-Utilizei o ChatGPT (OpenAI) como apoio para organizar o relato e relacionar os trechos temporizados das legendas às tarefas e questões do DECIDE. O texto das legendas automáticas foi recuperado do YouTube por meio do Firecrawl. Essa análise não incluiu inspeção visual integral ou audição independente dos vídeos; P03 ficou pendente por insuficiência da legenda. Mantive a autoria das tabelas como João Vitor e explicitei as limitações para que a síntese seja conferida antes de sua consolidação acadêmica.
+Utilizei o ChatGPT (OpenAI) como apoio à organização e à revisão do texto, das tabelas e dos links de evidência. A data de aplicação de todos os registros e o complemento sobre o reagendamento de P03 foram informados por mim. Mantive a autoria como João Vitor e não acrescentei falas, marcações de tempo ou valores não fornecidos. A responsabilidade pela conferência e pelo conteúdo publicado é minha.

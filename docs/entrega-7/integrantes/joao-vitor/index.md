@@ -18,6 +18,7 @@ Fonte: elaboração do autor (2026).
 | --- | --- | --- | --- | --- |
 | 14/11/2026 | 1.0 | Inclusão do protótipo navegável, materiais da avaliação e evidências de implementação | João Vitor | Revisão humana pendente |
 | 15/11/2026 | 1.1 | Vinculação das gravações e atualização da situação da análise preliminar | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 1.2 | Atualização das datas de aplicação e da situação do relato com o complemento de P03 | João Vitor | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
@@ -27,7 +28,7 @@ Minha proposta é o **agendamento e gerenciamento da biometria no Portal Detran-
 
 Nesta área, organizei seis divisões no mesmo padrão da área individual de Alexandre: visão geral, planejamento DECIDE, roteiro e instrumentos, protótipo, relato dos resultados e lista de verificação.
 
-**Situação da avaliação:** foram recebidos os links do registro apresentado como piloto e de P01, P02 e P03. O [relato](relato.md#situacao) apresenta análise preliminar das legendas de P01 e P02; P03, as datas de aplicação e a conferência visual permanecem pendentes. As capturas desta área documentam a implementação, sem serem apresentadas como fotos dessas sessões.
+**Situação da avaliação:** realizei as aplicações em 14/11/2026, com registros do piloto e de P01, P02 e P03. O [relato](relato.md#situacao) reúne o uso de think-aloud e inclui o complemento de P03: ao final, quis mudar a data e conseguiu reagendar. As capturas desta área documentam a implementação e ficam separadas dos vídeos das sessões.
 
 ## 2. Materiais individuais {#materiais}
 
@@ -40,7 +41,7 @@ Na Tabela 3, reuni os materiais da minha parte.
 | Planejamento DECIDE | Objetivos, perguntas, método, logística, ética, análise e cronograma | [Planejamento](planejamento.md) |
 | Roteiro e instrumentos | Triagem, consentimento, tarefas T1–T4, observação e pós-teste | [Roteiro](roteiro.md) |
 | Protótipo | Navegação dentro do Pages, download offline e capturas reais das telas | [Protótipo interativo](prototipo.md#prototipo-interativo) |
-| Relato dos resultados | Gravações, análise textual preliminar de P01/P02 e limites de verificação | [Relato](relato.md) |
+| Relato dos resultados | Vídeos, relato de think-aloud e consolidação de P01/P02/P03 | [Relato](relato.md) |
 | Lista de verificação | Perguntas adaptadas, respostas documentais e links das evidências | [Verificação](verificacao.md) |
 
 Fonte: organização do autor (2026).
@@ -75,20 +76,20 @@ A Tabela 5 separa a organização já documentada das atividades que dependem da
 | --- | --- | --- | --- | --- |
 | Integração do protótipo e organização da Entrega 7 | João Vitor | 14/11/2026 | 14/11/2026 | [Protótipo e capturas](prototipo.md#capturas) |
 | Adaptação do DECIDE e dos instrumentos | João Vitor | 14/11/2026 | 14/11/2026 | [Planejamento](planejamento.md) e [roteiro](roteiro.md) |
-| Registro apresentado como piloto | João Vitor; participação externa a confirmar | Data não informada | Data não informada | [Demonstração narrada e limites](relato.md#piloto) |
-| Registros P01, P02 e P03 | João Vitor e pessoas identificadas pelos códigos | Datas não informadas | Datas não informadas | [Gravações e análise preliminar](relato.md#gravacoes); P03 ainda pendente |
+| Registro apresentado como piloto | João Vitor; participação externa a confirmar | 14/11/2026 | 14/11/2026 | [Demonstração narrada e limites](relato.md#piloto) |
+| Registros P01, P02 e P03 | João Vitor e pessoas identificadas pelos códigos | 14/11/2026 | 14/11/2026 | [Vídeos e relato das aplicações](relato.md#gravacoes); inclui complemento de P03 |
 | Revisão por outro integrante | Revisor a confirmar | Pendente | Pendente | Histórico de versões |
 
 Fonte: situação informada pelo autor e artefatos desta versão (2026). As datas de avaliação da Entrega 6 continuam registradas como planejamento anterior, não como execução.
 
 ## 5. Organização, gravações e apresentação {#reunioes}
 
-Vinculei os [quatro registros fornecidos](relato.md#gravacoes). A ata de organização, as datas, as autorizações e a apresentação específica da Entrega 7 ainda precisam de confirmação documental. O [vídeo já vinculado à Entrega 6](../../../entrega-6/integrantes/joao-vitor/video-avaliacao.md) pertence à etapa anterior e não comprova a realização da alta fidelidade.
+Vinculei os [quatro registros fornecidos](relato.md#gravacoes). As datas de aplicação estão confirmadas como 14/11/2026. A ata de organização, as autorizações e a apresentação específica da Entrega 7 ainda precisam de confirmação documental. O [vídeo já vinculado à Entrega 6](../../../entrega-6/integrantes/joao-vitor/video-avaliacao.md) pertence à etapa anterior e não comprova a realização da alta fidelidade.
 
 ## 6. Próximas atividades {#pendencias}
 
-1. Confirmar datas, logística e caracterização do vídeo apresentado como piloto.
-2. Obter transcrição confiável e concluir a análise de P03.
+1. Completar a logística e a caracterização do vídeo apresentado como piloto.
+2. Complementar o registro de P03 com o trecho e a nova data, caso sejam detalhados posteriormente.
 3. Conferir os estados visuais e a aplicação efetiva de T3/T4.
 4. Complementar registros, autorizações, perfil agregado e pós-teste quando disponíveis.
 5. Receber revisão humana e vincular a apresentação específica da Entrega 7.
@@ -105,4 +106,4 @@ JOÃO VITOR. **Planejamento da avaliação do protótipo de alta fidelidade – 
 
 Utilizei o ChatGPT (OpenAI) como apoio à implementação do protótipo em HTML, CSS e JavaScript, à organização das páginas, à adaptação dos instrumentos e à verificação técnica dos arquivos e links. A estrutura da área de Alexandre Vilar serviu como referência de organização. As capturas do meu protótipo foram produzidas em execução técnica; não são registros de avaliação com participantes. O apoio de IA não substitui a revisão humana nem a realização do piloto e das sessões. A responsabilidade pelo conteúdo publicado e por sua conferência acadêmica é minha.
 
-Em 15/11/2026, o apoio do ChatGPT incluiu a vinculação dos vídeos e a organização de uma análise preliminar a partir das legendas automáticas disponíveis, com as limitações declaradas no relato.
+Em 15/11/2026, o ChatGPT apoiou a revisão da redação e das tabelas. Confirmei as aplicações em 14/11/2026 e complementei o relato de P03 com a mudança de data e o reagendamento. A responsabilidade pela conferência do material é minha.
