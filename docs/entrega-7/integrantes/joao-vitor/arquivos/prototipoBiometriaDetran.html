@@ -1,0 +1,371 @@
+<!doctype html>
+<html lang="pt-BR">
+<head><meta name="description" content="Protótipo acadêmico de agendamento de biometria do Detran-DF com gerenciamento em uma simulação do WhatsApp."><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Agendamento de biometria · Detran-DF</title><style>
+:root{--blue:#003e70;--navy:#062e50;--green:#16764a;--yellow:#f3c841;--ink:#19354a;--muted:#617383;--line:#dce4e9;--surface:#f5f7fa;--radius:12px}*{box-sizing:border-box}body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--ink);background:var(--surface);font-size:15px;line-height:1.5}button,input,select{font:inherit}button,a,select{touch-action:manipulation}button,a{ -webkit-tap-highlight-color:transparent}button{cursor:pointer}button:disabled,select:disabled{cursor:not-allowed}a{color:inherit;text-decoration:none}[hidden]{display:none!important}:focus-visible{outline:3px solid #c18d00;outline-offset:4px}.study-bar{background:var(--navy);color:#fff;padding:7px max(28px,calc((100vw - 1184px)/2));display:flex;justify-content:space-between;font-size:11px;letter-spacing:.25px}.header{background:#fff;border-bottom:1px solid var(--line)}.header-inner{max-width:1184px;margin:auto;display:flex;justify-content:space-between;align-items:center;height:108px}.brand{display:flex;gap:14px;align-items:center}.brand-mark{font-size:44px;font-weight:900;font-style:italic;color:var(--blue);line-height:1;letter-spacing:-11px;padding-right:12px;border-bottom:5px solid var(--yellow)}.brand-mark span{color:var(--green)}.brand strong{font-size:28px;letter-spacing:-1px}.brand-df{font-weight:400}.brand small{display:block;font-size:10px;letter-spacing:.2px;color:var(--muted)}.header-right{display:flex;align-items:center;gap:12px;font-size:13px}.government{font-size:10px;line-height:1.5;margin-right:27px;padding-right:28px;border-right:1px solid var(--line);color:var(--blue)}.profile-icon{border:1px solid var(--line);border-radius:50%;padding:5px 10px;font-size:18px}.nav{display:flex;justify-content:space-between;padding:13px max(28px,calc((100vw - 1184px)/2));border-top:1px solid #edf1f4;font-size:13px}.nav span:not(.secure){margin:0 18px;color:#a3afb8}.secure{color:var(--green);font-size:12px}main{max-width:1184px;margin:0 auto;padding-bottom:40px}.breadcrumbs{display:flex;gap:12px;align-items:center;font-size:12px;color:var(--muted);padding:26px 0}.breadcrumbs [aria-current]{color:var(--blue)}.page-heading{display:flex;justify-content:space-between;align-items:center;margin:7px 0 32px}.eyebrow{font-size:11px;color:var(--green);letter-spacing:1.8px;font-weight:700}h1{font-size:32px;line-height:1.2;letter-spacing:-.7px;margin:9px 0 12px}p{margin:0;color:var(--muted)}.heading-icon{width:62px;height:62px;background:#e6edf3;color:var(--blue);border-radius:16px;padding:16px}.heading-icon svg{width:100%}.stepper{display:flex;list-style:none;padding:22px 28px;margin:0 0 28px;background:white;border:1px solid var(--line);border-radius:var(--radius)}.stepper li{display:flex;align-items:center;gap:12px;flex:1;position:relative;color:#87939e}.stepper li:not(:last-child):after{content:'';height:1px;background:var(--line);flex:1;margin:0 24px}.stepper li>span{display:grid;place-items:center;width:34px;height:34px;border:1px solid var(--line);border-radius:50%;font-weight:700;flex-shrink:0}.stepper li div{font-size:13px;font-weight:700;white-space:nowrap}.stepper small{display:block;font-size:11px;font-weight:400;margin-top:2px}.stepper li.active{color:var(--blue)}.stepper li.active>span{background:var(--blue);color:white;border-color:var(--blue)}.stepper li.complete{color:var(--green)}.stepper li.complete>span{background:#e9f4ee;border-color:#e9f4ee}.content-grid{display:grid;grid-template-columns:minmax(0,1fr) 306px;gap:26px;align-items:start}.card{background:white;border:1px solid var(--line);border-radius:var(--radius);padding:30px 32px;box-shadow:0 4px 14px #0e355003}.card-title{display:flex;gap:14px;align-items:flex-start;margin-bottom:28px}.section-number{font-size:12px;color:var(--blue);background:#eaf0f6;border-radius:8px;min-width:34px;height:34px;display:grid;place-items:center;font-weight:bold}h2{font-size:20px;line-height:1.3;margin:1px 0 7px;letter-spacing:-.25px}.card-title p{font-size:12px}.required{color:#a93231}.field{margin-bottom:23px}.field label{display:block;font-weight:700;font-size:13px;margin-bottom:8px}.field small{display:block;color:var(--muted);font-size:11px;line-height:1.5;margin-top:7px}select,input,.date-trigger{background-color:#fff;border:1px solid #bccbd6;border-radius:7px;min-height:48px;width:100%;color:var(--ink);padding:11px 13px}select{appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'%3E%3Cpath d='m6 8 4 4 4-4' fill='none' stroke='%23566c7b' stroke-width='1.5'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 12px center;padding-right:40px}select:has(option:checked[value=""]){color:#788794}select:disabled,.date-trigger:disabled{background-color:#f4f6f8;border-color:#e0e6eb;color:#94a1ad}input::placeholder{color:#8997a3}.two-fields{display:grid;grid-template-columns:1fr 1fr;gap:20px}.date-trigger{display:flex;align-items:center;justify-content:space-between;text-align:left;font-size:14px}.date-trigger svg{width:19px;height:19px;stroke:currentColor;fill:none}.date-control{position:relative}#calendar{position:absolute;top:56px;left:0;z-index:10;width:300px;background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px;box-shadow:0 12px 34px #16384f2b}.calendar-heading{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;text-transform:capitalize;font-size:14px}.calendar-heading button{width:32px;height:32px;border:0;background:#f1f5f8;border-radius:5px;font-size:23px;color:var(--blue)}.weekdays,#calendar-days{display:grid;grid-template-columns:repeat(7,1fr);text-align:center;gap:3px}.weekdays{font-size:11px;color:var(--muted);margin-bottom:7px}#calendar-days button{height:33px;border:0;border-radius:5px;color:var(--ink);background:white;font-size:12px}#calendar-days button:hover:not(:disabled){background:#e8f1f8}#calendar-days button:disabled{color:#c3cbd1}#calendar-days button.selected{background:var(--blue);color:white}.section-divider{height:1px;background:var(--line);margin:2px 0 26px}.small-title{margin-bottom:20px}.small-title h2{font-size:17px}.phone-input{display:flex;align-items:center;border:1px solid #bccbd6;border-radius:7px}.phone-input>span{font-size:13px;padding:0 14px;white-space:nowrap;border-right:1px solid var(--line)}.phone-input input{border:0;min-width:0}.phone-input:has([aria-invalid="true"]){border-color:#b42318}.error,.field small.error{color:#b42318;font-size:12px}.notice{display:flex;gap:11px;padding:14px 16px;background:#f0f5fa;border:1px solid #dce8f1;border-radius:7px;font-size:12px;align-items:flex-start}.notice>span{color:var(--blue);font-size:17px;line-height:1.2}.notice p{color:#456278}.card-actions{border-top:1px solid var(--line);padding-top:23px;margin-top:28px;display:flex;align-items:center;justify-content:space-between;gap:16px}.autosave{font-size:11px;color:var(--muted)}.button{display:inline-flex;justify-content:center;align-items:center;gap:20px;min-height:47px;border-radius:7px;padding:12px 20px;font-weight:700;font-size:13px;border:1px solid transparent;line-height:1.4}.primary{background:var(--blue);color:white}.primary:hover{background:#002b50}.secondary{background:white;border-color:#bccbd6;color:var(--blue)}.secondary:hover{background:#f0f5fa}.aside-card{background:#eaf0f4;border:1px solid #dce5eb;border-radius:var(--radius);padding:26px}.aside-icon{width:46px;height:46px;border-radius:12px;background:white;padding:9px;margin-bottom:19px}.aside-icon svg{width:28px;height:28px;stroke:var(--blue);stroke-width:1.4;stroke-linecap:round;fill:none}.aside-card h2{font-size:21px;line-height:1.4;margin-bottom:13px;max-width:215px}.aside-card p{font-size:13px;line-height:1.75}.aside-divider{height:1px;background:#cedce5;margin:23px 0}.aside-card h3{font-size:13px;margin:0 0 14px}.aside-card ul{padding-left:18px;font-size:12px;color:#536c7e;line-height:1.7;margin:0}.aside-card li{padding-left:3px;margin-bottom:12px}.aside-card li::marker{color:var(--green)}.aside-note{font-size:10px;color:#6a7e8e;border-top:1px solid #cedce5;padding-top:17px;margin-top:18px}.help-card{display:flex;gap:12px;padding:22px 6px}.help-card>span{color:var(--blue);font-size:20px}.help-card strong{font-size:12px}.help-card p{font-size:11px;line-height:1.7;margin-top:5px}.privacy-note{text-align:center;font-size:11px;margin-top:30px;color:#788794}footer{border-top:1px solid var(--line);background:#fff;padding:25px max(28px,calc((100vw - 1184px)/2));display:flex;align-items:center;justify-content:space-between;color:var(--muted);font-size:10px}footer strong{color:var(--blue);font-size:15px;margin-right:18px}.review-intro{background:#f6f8fa;padding:16px;border-radius:7px;font-size:13px;margin-bottom:12px}.summary-data{margin:0 0 24px}.summary-data>div{display:flex;justify-content:space-between;gap:24px;padding:18px 0;border-bottom:1px solid #e7edf1;font-size:14px}.summary-data dt{color:var(--muted);font-size:12px}.summary-data dd{margin:0;font-weight:700;text-align:right}.summary-data dd small{display:block;font-weight:400;color:var(--muted);font-size:11px;margin-top:3px}.success-card{text-align:center}.success-icon{margin:0 auto 22px;border-radius:50%;background:#e9f5ee;border:7px solid #f5faf7;color:var(--green);font-size:37px;width:85px;height:85px;display:grid;place-items:center}.success-card h2{font-size:25px;margin:12px 0}.success-card>p{font-size:13px}.protocol{display:flex;justify-content:space-between;background:#f4f7f9;border:1px dashed #c4d3df;border-radius:7px;padding:13px;font-size:11px;color:var(--muted);margin:25px 0 7px}.protocol strong{color:var(--blue);letter-spacing:1px}.success-notice{text-align:left;background:#f0f7f3;border-color:#daebdf;margin:20px 0}.success-notice p,.success-notice>span{color:#276c47}.full{width:100%}.success-links{display:flex;justify-content:center;gap:26px;margin-top:18px}.text-button{border:0;background:transparent;color:var(--blue);text-decoration:underline;font-size:12px;padding:8px}.success-card .summary-data{text-align:left}dialog{max-width:480px;width:calc(100% - 32px);border:1px solid var(--line);border-radius:14px;padding:34px;box-shadow:0 24px 80px #001b3833;color:var(--ink)}dialog::backdrop{background:#062e5070}dialog h2{margin-top:15px}dialog p{font-size:14px;margin:14px 0 20px}.dialog-close{position:absolute;right:14px;top:10px;background:transparent;border:0;font-size:25px;color:var(--muted)}@media(min-width:1600px){main{padding-top:8px}}@media(max-width:1250px){main,.header-inner{margin-left:28px;margin-right:28px}}@media(max-width:900px){.content-grid{grid-template-columns:1fr 255px;gap:18px}.card{padding:24px}.aside-card{padding:22px}.stepper li:not(:last-child):after{margin:0 14px}.stepper small{display:none}.government{display:none}.autosave{display:none}.card-actions{justify-content:flex-end}}@media(max-width:700px){.study-bar{padding:7px 18px}.study-bar span:last-child{display:none}.header-inner{height:86px;margin:0 18px}.brand strong{font-size:23px}.brand small{font-size:8px}.brand-mark{font-size:36px}.header-right{display:none}.nav{padding:11px 18px}.secure{display:none}main{margin:0 16px}.breadcrumbs{font-size:10px;gap:7px;padding:21px 0}h1{font-size:27px}.page-heading{margin-bottom:24px}.page-heading p{font-size:13px;max-width:290px}.heading-icon{display:none}.stepper{padding:17px 14px;margin-bottom:18px}.stepper li{gap:7px}.stepper li div{font-size:11px}.stepper li>span{width:27px;height:27px;font-size:11px}.stepper li:not(:last-child):after{margin:0 7px;min-width:4px}.content-grid{grid-template-columns:1fr}.card{padding:23px 20px}.card-title{gap:11px}h2{font-size:18px}.two-fields{gap:13px}.field label{font-size:12px}.date-trigger,select{font-size:13px}.date-trigger{padding:10px;gap:4px}.date-trigger svg{width:17px;flex-shrink:0}.button{padding:12px 14px;font-size:12px;gap:12px}.card-actions{gap:10px}.aside-card{display:none}.help-card{padding:10px}.privacy-note{font-size:10px;margin-top:20px}footer{padding:22px 18px}footer div span{display:block;margin-top:5px;font-size:9px}footer>span{display:none}#calendar{max-width:calc(100vw - 76px)}.success-card h2{font-size:22px}.success-links{gap:12px}.protocol{flex-direction:column;gap:6px}.summary-data>div{gap:15px;font-size:13px}}
+/* Portal navigation and the low-fidelity flow. */
+.portal-nav{gap:20px;align-items:center}.portal-nav>div{display:flex;align-items:center;gap:29px;white-space:nowrap}.nav .nav-label{margin:0!important;color:#617383!important}.portal-nav a:hover{color:var(--green)}.my-bookings-link{font-size:12px;font-weight:700;color:var(--blue);white-space:nowrap}.portal-view{min-height:65vh}.back-link{display:inline-block;color:var(--blue);font-weight:700;font-size:12px}.back-link:hover{text-decoration:underline}.home-hero{display:grid;grid-template-columns:1.1fr 1fr;align-items:center;gap:55px;padding:55px 0 40px}.home-hero h1{font-size:43px;line-height:1.22;margin:15px 0 19px;letter-spacing:-1px}.home-hero h1 span{color:var(--blue)}.home-hero .button{margin-top:26px}.home-hero p{font-size:14px}.hero-art{position:relative;min-height:280px;display:grid;place-items:center;background:#e5eeea;border-radius:95px 24px 24px 24px;overflow:hidden}.hero-art svg{width:90%;z-index:1}.hero-sticker{position:absolute;right:28px;top:25px;background:white;color:var(--green);padding:9px 15px;font-size:12px;font-weight:bold;border-radius:20px;transform:rotate(3deg)}.hero-road{position:absolute;left:-20%;width:150%;height:80px;border:1px dashed #c3d8ce;bottom:38px;transform:rotate(-15deg)}.services-heading{display:flex;justify-content:space-between;align-items:center;gap:16px;margin:20px 0 23px}.services-heading h2{font-size:22px}.services-heading>span{font-size:12px;color:var(--muted)}.service-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:16px;padding-bottom:50px}.service-card{position:relative;background:#fff;border:1px solid var(--line);border-radius:12px;padding:24px 20px;min-height:240px;display:flex;align-items:flex-start;flex-direction:column}.service-card h3{font-size:15px;line-height:1.5;margin:20px 0 9px}.service-card p{font-size:12px}.service-symbol{display:grid;place-items:center;color:var(--blue);background:#edf3f7;width:48px;height:48px;font-size:29px;border-radius:10px;line-height:1}.service-card small{font-size:9px;color:#83919a;margin-top:auto;padding-top:20px}.service-card.featured{border-color:#095b87;background:var(--blue);color:white;transition:transform .15s,box-shadow .15s}.featured .service-symbol{color:white;background:#ffffff20}.featured p{color:#d3e0eb}.featured:hover{transform:translateY(-4px);box-shadow:0 8px 20px #003e7020}.service-arrow{margin-top:auto;padding-top:18px;align-self:flex-end}.entry-view{padding-bottom:60px}.entry-card{position:relative;border:1px solid var(--line);background:white;border-radius:14px;max-width:730px;padding:45px;margin-top:40px;box-shadow:0 8px 30px #003e7005}.entry-icon{display:grid;place-items:center;font-size:34px;background:#e7eff5;color:var(--blue);width:67px;height:67px;border:7px solid #f5f7fa;border-radius:15px;margin-top:-80px;margin-bottom:22px}.entry-card h1{font-size:29px}.entry-card>p{font-size:14px}.entry-option{display:flex;gap:17px;align-items:center;border:1px solid #d4e0e8;border-radius:9px;padding:22px;margin:30px 0 25px;background:#fbfcfd}.entry-option:hover{border-color:var(--blue);background:#f2f6fa}.entry-option>span:last-child{margin-left:auto;color:var(--blue);font-size:20px}.entry-option-icon{color:var(--blue);font-size:30px;line-height:1}.entry-option strong{font-size:16px}.entry-option small{display:block;color:var(--muted);font-size:12px;margin-top:6px}.consult-card{max-width:840px}.consult-card .button{margin-top:22px}.consult-card h2{font-size:21px}.consult-card+.back-link{margin-top:26px}.consult-header{display:flex;justify-content:space-between;align-items:center;gap:20px}.status-badge{background:#e8f4ec;color:#166344;border-radius:20px;padding:6px 12px;font-size:11px;font-weight:bold}.status-badge.cancelled{background:#fcecea;color:#a3342c}#consult-protocol{font-size:11px}.consult-success{margin-top:12px}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+/* WhatsApp Web simulation: independent shell, shared appointment data. */
+body.in-whatsapp{background:#dce2df;overflow:hidden}.in-whatsapp .study-bar{background:#073f37}.whatsapp-app{display:flex;max-width:1530px;height:calc(100dvh - 56px);min-height:400px;margin:13px auto;background:#f0f2f5;box-shadow:0 3px 18px #132c2b22;border:1px solid #ced8d3;color:#233138}.wa-rail{width:65px;flex-shrink:0;background:#f0f2f5;border-right:1px solid #d8dfe3;display:flex;flex-direction:column;align-items:center;gap:29px;padding:22px 0;color:#62716c;font-size:23px}.wa-rail .wa-logo{color:#0b806b}.wa-rail a{margin-top:5px}.wa-rail-bottom{margin-top:auto;background:#d3e8dc;color:#16634d;border-radius:50%;font-size:12px;padding:9px;font-weight:700}.wa-sidebar{display:flex;flex-direction:column;width:340px;flex-shrink:0;background:white;border-right:1px solid #d8dfe3}.wa-sidebar-heading{display:flex;align-items:center;justify-content:space-between;padding:27px 24px 20px}.wa-sidebar-heading h1{font-size:23px;letter-spacing:-.4px;margin:0}.wa-sidebar-heading>span{font-size:25px;color:#667780}.wa-search{display:flex;align-items:center;gap:20px;margin:0 16px;background:#f0f2f5;border-radius:8px;padding:10px 14px;color:#718086;font-size:20px}.wa-search span{font-size:11px}.wa-filters{display:flex;gap:8px;padding:18px 16px}.wa-filters>span{font-size:12px;padding:5px 10px;border-radius:20px;background:#f0f2f5;color:#657179}.wa-filters .selected{background:#d9fdd3;color:#247554}.wa-conversation{display:flex;align-items:center;gap:12px;position:relative;background:#f0f2f5;border:0;text-align:left;padding:19px 16px;min-width:0;color:#233138}.wa-avatar{width:43px;height:43px;background:#e1ede6;color:#256346;border:1px solid #c7d9cd;border-radius:50%;font-size:17px;display:grid;place-items:center;font-weight:700;flex-shrink:0}.wa-conversation strong{font-size:14px;font-weight:500}.wa-conversation small{display:block;max-width:186px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-size:11px;margin-top:7px;color:#738087}.wa-conversation-time{position:absolute;right:17px;top:20px;font-size:10px;color:#647b70}.wa-sidebar-note{text-align:center;font-size:11px;line-height:1.8;color:#8a959b;margin:35px 20px}.wa-return{margin-top:auto;padding:20px;color:#167b65;font-size:12px;border-top:1px solid #eff2f3}.wa-chat{flex:1;min-width:0;display:flex;flex-direction:column}.wa-chat-header{display:flex;align-items:center;gap:13px;background:#f0f2f5;padding:13px 23px;border-bottom:1px solid #d8dfe3;min-height:72px}.wa-chat-header h2{font-size:15px;letter-spacing:0;font-weight:500;margin:0 0 3px}.wa-chat-header p{font-size:11px;color:#66787e}.wa-verified{display:inline-grid;place-items:center;background:#1a9e75;color:white;border-radius:50%;font-size:9px;width:13px;height:13px;margin-left:3px}.wa-chat-header>button{margin-left:auto;background:transparent;border:0;color:#65757c;font-size:24px;padding:3px 8px}.wa-mobile-back{display:none}.wa-messages{flex:1;min-height:0;overflow:auto;overscroll-behavior:contain;padding:24px 7% 28px;background-color:#efeae2;background-image:url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox='0 0 80 80' xmlns='http://www.w3.org/2000/svg'%3E%3Cg opacity='.11' fill='none' stroke='%239caa9c' stroke-width='1'%3E%3Cpath d='M13 13h14v12H13zM46 49l6-9 6 9-6 9zM57 15a4 4 0 1 0 8 0 4 4 0 0 0-8 0M14 57l8 8m-8 0 8-8'/%3E%3C/g%3E%3C/svg%3E");display:flex;flex-direction:column;gap:13px;scrollbar-width:thin}.wa-day{align-self:center;background:#fffdfa;color:#69777d;box-shadow:0 1px 2px #0001;border-radius:6px;padding:6px 12px;font-size:10px;margin-bottom:4px}.wa-disclaimer{align-self:center;max-width:420px;background:#ffefc3;color:#786c45;padding:8px 12px;border-radius:7px;font-size:10px;text-align:center;margin-bottom:15px}.wa-bubble{position:relative;align-self:flex-start;max-width:min(460px,87%);background:#fff;border-radius:0 8px 8px 8px;padding:13px 14px 8px;box-shadow:0 1px 1px #152e2425;min-width:130px;overflow-wrap:anywhere;flex-shrink:0}.wa-bubble:before{content:'';position:absolute;left:-7px;top:0;border-style:solid;border-width:0 8px 8px 0;border-color:transparent #fff transparent transparent}.wa-bubble p{white-space:pre-line;color:#27373e;font-size:13px;line-height:1.65;margin:0 0 8px}.wa-bubble.user{align-self:flex-end;background:#d9fdd3;border-radius:8px 0 8px 8px;min-width:150px}.wa-bubble.user:before{left:auto;right:-7px;transform:scaleX(-1);border-right-color:#d9fdd3}.wa-time{display:block;text-align:right;color:#84918c;font-size:9px;line-height:1.2;margin:0 0 2px}.wa-bubble.user .wa-time{color:#588c75}.wa-options{display:flex;flex-direction:column;gap:0;border-top:1px solid #edf1ef;margin:11px -14px -8px}.wa-options button{border:0;border-top:1px solid #edf1ef;background:none;color:#087e6d;padding:12px 18px;font-size:13px;font-weight:600;min-height:43px}.wa-options button:first-child{border-top:0}.wa-options button:hover:not(:disabled){background:#edf8f3}.wa-options button:disabled{color:#9cafaa;background:#f8faf9;cursor:default}.wa-options button:focus-visible{outline-offset:-4px}.wa-composer{display:flex;gap:17px;align-items:center;padding:13px 21px;background:#f0f2f5;border-top:1px solid #dce2e0}.wa-composer>span{font-size:27px;color:#60727b}.wa-composer input{flex:1;min-width:0;background:white;border:0;border-radius:8px;padding:12px 17px;font-size:13px;min-height:44px}.wa-composer button{background:#00856a;color:white;border:0;border-radius:50%;font-size:19px;line-height:1;width:39px;height:39px;flex-shrink:0}.wa-reschedule-form{display:flex;flex-direction:column;gap:9px;padding:8px 0}.wa-reschedule-form label{font-weight:600;font-size:12px;margin-top:5px}.wa-reschedule-form input,.wa-reschedule-form select{width:100%;min-height:43px;font-size:13px;border-color:#c9d8d0}.wa-reschedule-form input:disabled{background:#f1f5f3;color:#7b8a83}.wa-reschedule-form .wa-confirm-reschedule{border:0;background:#087e6d;color:white;border-radius:6px;padding:12px 13px;font-size:12px;font-weight:700;margin-top:4px}.wa-reschedule-form .wa-confirm-reschedule:disabled{background:#d9e7df;color:#6c8777}.wa-reschedule-form .wa-form-error{font-size:11px;color:#ad3535;margin:0}.wa-reschedule-form[data-closed]{opacity:.8}
+@media(min-width:1600px){.whatsapp-app{margin:18px auto;height:calc(100dvh - 66px)}}
+@media(max-width:1250px){.portal-nav>div{gap:20px}.whatsapp-app{margin:0;height:calc(100dvh - 30px);border:0}.wa-sidebar{width:300px}.wa-rail{width:55px}.wa-conversation small{max-width:165px}.home-hero{gap:30px}.service-card{padding:21px 16px}.home-hero h1{font-size:39px}}
+@media(max-width:950px){.portal-nav>div{gap:18px}.nav-label{display:none}.hero-art{min-height:240px}.home-hero h1{font-size:34px}.service-grid{grid-template-columns:repeat(3,1fr)}.wa-sidebar{width:275px}.wa-rail{display:none}.wa-messages{padding-left:5%;padding-right:5%}.wa-conversation small{max-width:155px}.wa-sidebar-heading{padding-top:20px}.services-heading>span{display:none}}
+@media(max-width:700px){.portal-nav{gap:15px;font-size:12px;flex-wrap:wrap}.portal-nav>div{gap:24px}.my-bookings-link{font-size:11px}.home-hero{grid-template-columns:1fr;padding-top:35px;gap:25px}.home-hero h1{font-size:34px}.hero-art{min-height:180px;max-height:210px}.hero-art svg{max-height:200px}.hero-sticker{top:16px;right:17px;font-size:10px}.home-hero .button{margin-top:21px}.services-heading{margin-top:5px}.services-heading h2{font-size:20px;line-height:1.5;max-width:260px}.service-grid{grid-template-columns:1fr 1fr;gap:12px;padding-bottom:20px}.service-card{min-height:205px;padding:20px 16px}.service-card h3{font-size:13px;margin-top:15px}.service-card p{font-size:11px}.service-card.featured{grid-column:1/-1;min-height:160px;display:grid;grid-template-columns:48px 1fr 20px;gap:6px 18px;align-items:center}.featured .service-symbol{grid-row:1/3}.featured h3{margin:0;grid-column:2;align-self:end}.featured p{grid-column:2;align-self:start}.featured .service-arrow{grid-column:3;grid-row:1/3;align-self:center;padding:0;margin:0}.entry-card{padding:30px 23px;margin-top:40px}.entry-icon{margin-top:-63px}.entry-card h1{font-size:25px}.entry-option{padding:19px 15px;gap:12px}.entry-option strong{font-size:14px}.entry-option small{font-size:11px}.consult-header{align-items:flex-start;flex-direction:column;gap:9px}.consult-header h2{font-size:19px}.consult-card .summary-data{margin-top:12px}.whatsapp-app{height:calc(100dvh - 30px);min-height:320px;margin:0}.wa-sidebar{display:none}.wa-mobile-back{display:block;color:#58716b;font-size:22px}.wa-chat-header{padding:12px 15px;gap:11px;min-height:71px}.wa-chat-header h2{font-size:15px}.wa-chat-header p{font-size:10px}.wa-chat-header .wa-avatar{width:38px;height:38px;font-size:15px}.wa-messages{padding:19px 22px 24px;gap:15px}.wa-bubble{max-width:93%;min-width:125px}.wa-bubble p{font-size:13px}.wa-composer{padding:10px 12px;gap:11px}.wa-composer input{font-size:13px;min-height:42px;padding:11px 12px}.wa-composer button{width:34px;height:34px;font-size:16px}.wa-composer>span{font-size:23px}.wa-disclaimer{font-size:9px;padding:8px 10px}.wa-day{font-size:9px}.wa-options button{min-height:45px}.entry-view{padding-bottom:35px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+/* Keep the paper prototype's Continuar action reachable after entering contact. */
+#booking .booking-actions{position:sticky;bottom:12px;z-index:5;display:flex;flex-direction:column;align-items:stretch;gap:9px;margin-top:24px;padding:14px 0;background:#fff;box-shadow:0 -10px 14px 2px #ffffffed}
+.booking-actions .action-buttons{display:flex;justify-content:space-between;align-items:center;gap:20px;width:100%}
+#booking input,#booking select{scroll-margin-top:25px;scroll-margin-bottom:120px}
+#contact-section{scroll-margin-bottom:120px}
+#phone-error{font-size:12px}
+@media(max-width:700px){#booking .booking-actions{bottom:0;padding:12px 0}.booking-actions .button{min-width:155px;min-height:48px}.booking-actions .action-buttons{gap:14px}}
+.wa-chat-header>button svg{display:block;width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.wa-date-summary{color:#63776d;font-size:11px;line-height:1.5}
+
+</style></head>
+<body>
+<div class="study-bar"><span>Protótipo acadêmico • IHC</span><span>Ambiente de teste · sem agendamento real</span></div>
+<header class="header"><div class="header-inner"><a class="brand" href="#" aria-label="Detran DF, início do fluxo de agendamento"><span class="brand-mark" aria-hidden="true">D<span>F</span></span><span><strong>DETRAN<span class="brand-df">–DF</span></strong><small>Departamento de Trânsito do Distrito Federal</small></span></a><div class="header-right"><span class="government">GOVERNO DO<br><b>DISTRITO FEDERAL</b></span><span class="profile-icon" aria-hidden="true">◯</span><span>Área do cidadão</span></div></div><nav class="nav portal-nav" aria-label="Navegação principal"><div><a href="#inicio">Início</a><span class="nav-label">Veículos</span><span class="nav-label">CNH</span><a href="#agendamentos">Atendimentos</a><span class="nav-label">Infrações</span><span class="nav-label">Credenciais</span><span class="nav-label">Protocolos</span></div><a href="#consulta" class="my-bookings-link">Meus agendamentos →</a></nav></header>
+<main id="main">
+<section id="home-view" class="portal-view" aria-labelledby="home-title" hidden>
+<div class="home-hero"><div><span class="eyebrow">PORTAL DE SERVIÇOS</span><h1 id="home-title" tabindex="-1">Olá, tudo bem?<br>Seja bem-vindo ao<br><span>Detran Digital.</span></h1><p>Mais facilidade para cuidar do que move você.</p><a class="button primary" href="#agendamentos">Agendar atendimento <span aria-hidden="true">→</span></a></div><div class="hero-art" aria-hidden="true"><div class="hero-road"></div><svg viewBox="0 0 400 230" fill="none"><path d="M40 190h320" stroke="#a8c7bc" stroke-width="2"/><path d="m82 143 31-53c5-8 14-13 23-13h104c10 0 19 5 24 13l31 53" fill="#e1eee7" stroke="#13744c" stroke-width="3"/><path d="m128 96-23 44h166l-24-44H128Z" fill="#a7d0c2"/><rect x="66" y="138" width="250" height="48" rx="17" fill="#075082"/><path d="M164 95v45" stroke="#fff" stroke-width="4"/><rect x="80" y="149" width="35" height="10" rx="5" fill="#f3cf53"/><rect x="268" y="149" width="35" height="10" rx="5" fill="#f3cf53"/><circle cx="121" cy="183" r="22" fill="#16394a"/><circle cx="121" cy="183" r="10" fill="#dce9e5"/><circle cx="263" cy="183" r="22" fill="#16394a"/><circle cx="263" cy="183" r="10" fill="#dce9e5"/><path d="M340 150V75m-24 15c-10-22 5-41 25-54 25 17 35 35 23 54-7 11-17 12-24 8-10 5-20 2-24-8Z" fill="#61a98a" stroke="#38876c" stroke-width="2"/></svg><span class="hero-sticker">Seu tempo importa.</span></div></div>
+<div class="services-heading"><h2>Nossos serviços mais acessados</h2><span>Escolha como podemos ajudar</span></div>
+<div class="service-grid"><div class="service-card outside-scope"><span class="service-symbol" aria-hidden="true">▣</span><h3>Balcão virtual</h3><p>Atendimento a distância</p><small>Fora deste cenário de teste</small></div><div class="service-card outside-scope"><span class="service-symbol" aria-hidden="true">▤</span><h3>Consulta CNH</h3><p>Informações da habilitação</p><small>Fora deste cenário de teste</small></div><div class="service-card outside-scope"><span class="service-symbol" aria-hidden="true">♿</span><h3>Autorização para estacionamento de idoso</h3><small>Fora deste cenário de teste</small></div><div class="service-card outside-scope"><span class="service-symbol" aria-hidden="true">♙</span><h3>Identificação de condutor infrator</h3><small>Fora deste cenário de teste</small></div><a href="#agendamentos" class="service-card featured" id="home-schedule"><span class="service-symbol" aria-hidden="true">▦</span><h3>Agendamento presencial</h3><p>Escolha sua unidade, data e horário</p><span class="service-arrow" aria-hidden="true">→</span></a></div>
+</section>
+<section id="services-view" class="portal-view entry-view" hidden aria-labelledby="services-title"><div class="breadcrumbs"><a href="#inicio">Início</a> › Agendamento</div><div class="entry-card"><span class="entry-icon" aria-hidden="true">▦</span><span class="eyebrow">ATENDIMENTO AO CIDADÃO</span><h1 id="services-title" tabindex="-1">Agendamento</h1><p>Agende aqui seu atendimento presencial.</p><a class="entry-option" href="#presencial" id="new-booking"><span class="entry-option-icon" aria-hidden="true">▦</span><span><strong>Novo agendamento</strong><small>Encontre o melhor dia para você</small></span><span aria-hidden="true">→</span></a><a class="back-link" href="#inicio">← Voltar</a></div></section>
+<section id="attendance-view" class="portal-view entry-view" hidden aria-labelledby="attendance-title"><div class="breadcrumbs"><a href="#inicio">Início</a> › <a href="#agendamentos">Agendamento</a> › Tipo de atendimento</div><div class="entry-card"><span class="entry-icon" aria-hidden="true">▦</span><span class="eyebrow">NOVO AGENDAMENTO</span><h1 id="attendance-title" tabindex="-1">Como deseja ser atendido?</h1><p>Escolha o tipo de atendimento para continuar.</p><a class="entry-option" href="#agendar" id="attendance-booking"><span class="entry-option-icon" aria-hidden="true">♙</span><span><strong>Atendimento presencial</strong><small>Serviços de veículos, CNH e biometria</small></span><span aria-hidden="true">→</span></a><a class="back-link" href="#agendamentos">← Voltar</a></div></section>
+<section id="consult-view" class="portal-view" hidden aria-labelledby="consult-title"><div class="breadcrumbs"><a href="#inicio">Início</a> › Meus agendamentos</div><div class="page-heading"><div><span class="eyebrow">SEUS ATENDIMENTOS</span><h1 id="consult-title" tabindex="-1">Meus agendamentos</h1><p>Acompanhe seu atendimento e gerencie suas escolhas.</p></div></div><div class="card consult-card"><div id="empty-bookings"><h2>Você ainda não tem agendamentos</h2><p>Escolha uma unidade, data e horário para começar.</p><a href="#agendamentos" class="button primary">Agendar atendimento →</a></div><div id="current-booking" hidden><div class="consult-header"><h2>Coleta de biometria</h2><span id="appointment-status" class="status-badge"></span></div><dl id="consult-data" class="summary-data"></dl><p id="consult-protocol"></p><button id="consult-whatsapp" class="button primary">Gerenciar pelo WhatsApp →</button><a class="text-button consult-new" href="#agendamentos">Fazer novo agendamento</a></div></div><a class="back-link" href="#inicio">← Voltar ao início</a></section>
+<section id="booking-view" class="portal-view" hidden>
+<nav class="breadcrumbs" aria-label="Localização">Portal de serviços <span aria-hidden="true">›</span> Agendamentos <span aria-hidden="true">›</span> <span aria-current="page">Novo agendamento</span></nav>
+<div class="page-heading"><div><span class="eyebrow">ATENDIMENTO PRESENCIAL</span><h1 tabindex="-1">Agendar atendimento</h1><p>Escolha onde e quando deseja realizar sua coleta biométrica.</p></div><div class="heading-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M7 3v5m10-5v5M3 11h18m-13 5 3 3 5-5"/></svg></div></div>
+<ol class="stepper" aria-label="Etapas do agendamento"><li class="active" aria-current="step"><span>1</span><div>Agendamento<small>Serviço, local e contato</small></div></li><li><span>2</span><div>Revisão<small>Confira suas escolhas</small></div></li><li><span>3</span><div>Confirmação<small>Tudo pronto</small></div></li></ol>
+<div class="content-grid"><div>
+<section class="card" id="booking-panel" aria-labelledby="booking-title"><div class="card-title"><span class="section-number">01</span><div><h2 id="booking-title" tabindex="-1">Detalhes do atendimento</h2><p>Os campos com <span class="required">*</span> são obrigatórios.</p></div></div>
+<form id="booking" novalidate>
+<div class="field"><label for="category">Categoria do serviço <span class="required">*</span></label><select id="category" required aria-describedby="category-help"><option value="">Selecione uma categoria</option><option value="Biometria">Biometria</option><option disabled>Habilitação — fora deste cenário</option><option disabled>Leilão — fora deste cenário</option><option disabled>NUPEN (Suspensão / Cassação) — fora deste cenário</option><option disabled>Programa Habilitação Social — fora deste cenário</option></select><small id="category-help">Coleta de foto, assinatura e impressões digitais.</small></div>
+<div class="field"><label for="unit">Unidade de atendimento <span class="required">*</span></label><select id="unit" required disabled aria-describedby="unit-help"><option value="">Selecione uma unidade</option></select><small id="unit-help">Selecione primeiro a categoria do serviço.</small></div>
+<div class="two-fields"><div class="field"><label for="date-trigger">Data <span class="required">*</span></label><div class="date-control"><button type="button" class="date-trigger" id="date-trigger" disabled aria-haspopup="dialog" aria-expanded="false" aria-controls="calendar"><span id="date-label">Selecione uma data</span><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v5m10-5v5M3 11h18"/></svg></button><div id="calendar" role="dialog" aria-modal="false" aria-label="Escolher data de atendimento" hidden><div class="calendar-heading"><button type="button" id="previous-month" aria-label="Mês anterior">‹</button><strong id="calendar-month" aria-live="polite"></strong><button type="button" id="next-month" aria-label="Próximo mês">›</button></div><div class="weekdays" aria-hidden="true"><span>D</span><span>S</span><span>T</span><span>Q</span><span>Q</span><span>S</span><span>S</span></div><div id="calendar-days"></div><small>Disponibilidade simulada · dias úteis</small></div></div><small id="date-help">Escolha uma unidade para consultar as datas.</small></div><div class="field"><label for="time">Horário <span class="required">*</span></label><select id="time" required disabled><option value="">Selecione um horário</option></select><small id="time-help">Escolha uma data para ver os horários.</small></div></div>
+<div id="contact-section" hidden><div class="section-divider"></div><div class="card-title small-title"><span class="section-number">02</span><div><h2>Contato para acompanhamento</h2><p>Receba o lembrete e gerencie seu atendimento pelo WhatsApp.</p></div></div><div class="field"><label for="phone">Número de WhatsApp <span class="required">*</span></label><div class="phone-input"><span>🇧🇷 +55</span><input id="phone" type="tel" inputmode="tel" autocomplete="tel-national" maxlength="25" enterkeyhint="go" placeholder="(61) 99999-9999" aria-describedby="phone-help phone-error" required></div><small id="phone-help">Informe DDD e celular. Você pode colar com +55. Exemplo fictício: (61) 99999-1234.</small><small id="phone-error" class="error" aria-live="polite" hidden></small></div></div>
+<div class="card-actions booking-actions"><p id="form-error" class="error" role="alert" hidden></p><div class="action-buttons"><a href="#presencial" class="back-link">← Voltar</a><button type="submit" class="button primary" id="review-button">Continuar <span aria-hidden="true">→</span></button></div></div></form></section>
+<section class="card" id="review-panel" hidden aria-labelledby="review-title"><div class="card-title"><span class="section-number">✓</span><div><h2 id="review-title" tabindex="-1">Confira seu agendamento</h2><p>Revise os dados antes de confirmar.</p></div></div><div class="review-intro">Seu atendimento será realizado presencialmente na unidade escolhida.</div><dl id="review-data" class="summary-data"></dl><div class="notice"><span aria-hidden="true">ⓘ</span><p>Precisa corrigir alguma informação? Volte para editar sem perder suas escolhas.</p></div><div class="card-actions"><button class="button secondary" id="edit-button">← Editar dados</button><button class="button primary" id="confirm-button">Confirmar agendamento <span aria-hidden="true">→</span></button></div></section>
+<section class="card success-card" id="success-panel" hidden aria-labelledby="success-title"><div class="success-icon" aria-hidden="true">✓</div><span class="eyebrow">AGENDAMENTO CONCLUÍDO</span><h2 id="success-title" tabindex="-1">Tudo certo com seu agendamento!</h2><p>Seu agendamento simulado foi concluído. Continue no WhatsApp para confirmar presença, reagendar ou cancelar.</p><div class="protocol">Protocolo de demonstração <strong id="protocol"></strong></div><dl id="success-data" class="summary-data"></dl><div class="notice success-notice"><span aria-hidden="true">✓</span><p>Compareça com 15 minutos de antecedência e apresente seu documento de identificação.</p></div><button class="button primary full" id="whatsapp-button">Continuar no WhatsApp <span aria-hidden="true">→</span></button><a href="#consulta" class="button secondary full consult-success">Consultar agendamentos</a><div class="success-links"><button id="calendar-download" class="text-button">Adicionar ao calendário</button><button id="restart-button" class="text-button">Novo teste</button></div></section>
+</div>
+<aside><div class="aside-card"><div class="aside-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 12a8 8 0 0 1 16 0m-13 1a5 5 0 0 1 10 0c0 4-1 7-3 9m-4-9a2 2 0 0 1 4 0c0 4-.8 6-2 8M4 16v-1m3 1c0 2-.2 3-1 5m4-5c0 3-.5 5-1 6m11-7c0 2-.4 4-1 5"/></svg></div><h2>Biometria, de um jeito simples.</h2><p>Reserve um horário para realizar a coleta da sua foto, assinatura e impressões digitais.</p><div class="aside-divider"></div><h3>Antes de ir à unidade</h3><ul><li>Leve um documento de identificação original com foto.</li><li>Chegue com 15 minutos de antecedência.</li><li>Confira a unidade e o horário escolhidos.</li></ul><div class="aside-note">Vagas, unidades e orientações ilustrativas para avaliação de usabilidade.</div></div><div class="help-card"><span aria-hidden="true">ⓘ</span><div><strong>Sobre esta avaliação</strong><p>Explore o fluxo livremente. Seus dados ficam apenas na memória desta página.</p></div></div></aside>
+</div><p class="privacy-note">◈ Protótipo acadêmico independente. Sem integração com o Detran-DF ou com o WhatsApp.</p></section></main>
+<footer><div><strong>DETRAN–DF</strong><span>Protótipo para a disciplina de Interação Humano-Computador</span></div><span>Agendamento de biometria</span></footer>
+<section id="whatsapp-view" class="whatsapp-app" hidden aria-label="Protótipo do WhatsApp Web">
+<nav class="wa-rail" aria-label="Navegação do WhatsApp"><span class="wa-logo" aria-hidden="true">◉</span><span aria-hidden="true">◌</span><span aria-hidden="true">▤</span><a href="#consulta" aria-label="Voltar ao portal Detran" title="Voltar ao portal">←</a><span class="wa-rail-bottom" aria-hidden="true">DF</span></nav>
+<aside class="wa-sidebar"><div class="wa-sidebar-heading"><h1>Conversas</h1><span aria-hidden="true">⋮</span></div><div class="wa-search" aria-hidden="true">⌕ <span>Pesquisar ou começar uma conversa</span></div><div class="wa-filters"><span class="selected">Todas</span><span>Não lidas</span><span>Favoritas</span></div><button class="wa-conversation" id="wa-selected-chat" aria-label="Conversa com Detran DF"><span class="wa-avatar">DF</span><span><strong>Detran-DF</strong><small id="wa-chat-preview">Lembrete de atendimento</small></span><span class="wa-conversation-time">agora</span></button><div class="wa-sidebar-note">Protótipo de avaliação<br>Conversa e atendimento simulados</div><a class="wa-return" href="#consulta">← Consultar no portal</a></aside>
+<div class="wa-chat"><header class="wa-chat-header"><a class="wa-mobile-back" href="#consulta" aria-label="Voltar ao portal">←</a><span class="wa-avatar">DF</span><div><h2>Detran-DF <span class="wa-verified" aria-label="Conta simulada">✓</span></h2><p>Atendimento de biometria · simulação</p></div><button id="wa-return-portal" aria-label="Voltar ao portal" title="Voltar ao portal"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5H5v14h14v-3M13 5h6v6M11 13l8-8"/></svg></button></header><div id="wa-messages" class="wa-messages" role="log" aria-label="Histórico da conversa" aria-live="polite" aria-relevant="additions"></div><form id="wa-composer" class="wa-composer"><span aria-hidden="true">＋</span><label class="sr-only" for="wa-input">Mensagem para Detran DF</label><input id="wa-input" autocomplete="off" maxlength="300" placeholder="Digite uma mensagem"><button type="submit" aria-label="Enviar mensagem">➤</button></form></div>
+</section>
+<script>
+// Opções simuladas para a avaliação acadêmica.
+window.PROTOTYPE_CONFIG = {
+  availableBusinessDays: 3,
+  units: [
+    { id: 'asa-norte', name: 'Unidade Asa Norte', detail: 'Asa Norte • Brasília, DF', times: ['08:00', '09:00', '15:00'] },
+    { id: 'taguatinga', name: 'Unidade Taguatinga', detail: 'Taguatinga • Distrito Federal', times: ['09:30', '14:30', '15:30'] },
+    { id: 'gama', name: 'Unidade Gama', detail: 'Gama • Distrito Federal', times: ['08:00', '11:00', '13:00'] }
+  ]
+};
+
+</script><script>
+'use strict';
+(() => {
+  const config = window.PROTOTYPE_CONFIG;
+  const $ = id => document.getElementById(id);
+  const state = { category: '', unit: '', date: '', time: '', phone: '', protocol: '', step: 0 };
+  let appointment = null, waStarted = false, waMode = 'menu', messageCounter = 0;
+  const today = new Date(new Date().toLocaleDateString('sv-SE',{timeZone:'America/Sao_Paulo'})+'T00:00:00');
+  let month = new Date(today.getFullYear(), today.getMonth(), 1);
+  const lastDate = new Date(today);
+  const dateKey = d => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+  const availableDates = [];
+  while(availableDates.length < config.availableBusinessDays){
+    lastDate.setDate(lastDate.getDate()+1);
+    if(![0,6].includes(lastDate.getDay()))availableDates.push(dateKey(lastDate));
+  }
+  const isAvailableDate = value => availableDates.includes(value);
+  const parseDate = value => new Date(`${value}T12:00:00`);
+  const friendlyDate = value => parseDate(value).toLocaleDateString('pt-BR', { day:'2-digit', month:'long', year:'numeric' });
+  const unit = () => config.units.find(u => u.id === state.unit);
+  function options(select, values, placeholder) {
+    select.replaceChildren(new Option(placeholder, ''));
+    values.forEach(v => select.add(new Option(v.name || v, v.id || v)));
+  }
+  options($('unit'), config.units, 'Selecione uma unidade');
+  function clearError() {
+    $('form-error').hidden = true; $('phone-error').hidden = true;
+    $('phone').removeAttribute('aria-invalid');
+  }
+  function closeCalendar(returnFocus = false) {
+    $('calendar').hidden = true; $('date-trigger').setAttribute('aria-expanded','false');
+    if (returnFocus) $('date-trigger').focus();
+  }
+  function refresh() {
+    $('unit').disabled = !state.category;
+    $('unit').value = state.unit;
+    $('unit-help').textContent = state.unit ? unit().detail : state.category ? 'Escolha a unidade em que deseja ser atendido.' : 'Selecione primeiro a categoria do serviço.';
+    $('date-trigger').disabled = !state.unit;
+    $('date-label').textContent = state.date ? parseDate(state.date).toLocaleDateString('pt-BR') : 'Selecione uma data';
+    $('date-help').textContent = state.unit ? 'Três datas de demonstração disponíveis no calendário.' : 'Escolha uma unidade para consultar as datas.';
+    $('time').disabled = !state.date;
+    options($('time'), state.date ? unit().times : [], 'Selecione um horário');
+    $('time').value = state.time;
+    $('time-help').textContent = state.date ? 'Horários simulados para a data escolhida.' : 'Escolha uma data para ver os horários.';
+    $('contact-section').hidden = !state.time;
+    clearError();
+  }
+  $('category').addEventListener('change', e => {
+    state.category = e.target.value; state.unit = state.date = state.time = ''; closeCalendar(); refresh();
+  });
+  $('unit').addEventListener('change', e => {
+    state.unit = e.target.value; state.date = state.time = ''; closeCalendar(); refresh();
+  });
+  $('time').addEventListener('change', e => {state.time = e.target.value; refresh();});
+  // Do not truncate international paste or move the caret on every keystroke.
+  function contactDigits(value) {
+    let digits=value.replace(/\D/g,'');
+    if(digits.length===15&&digits.startsWith('0055'))digits=digits.slice(4);
+    else if(digits.length===13&&digits.startsWith('55'))digits=digits.slice(2);
+    return digits;
+  }
+  function syncContact() {
+    const digits=contactDigits($('phone').value);
+    state.phone=digits.length===11?`(${digits.slice(0,2)}) ${digits.slice(2,7)}-${digits.slice(7)}`:$('phone').value.trim();
+    $('phone').value=state.phone;
+    return digits;
+  }
+  $('phone').addEventListener('input', e => {state.phone=e.target.value;clearError();});
+  $('phone').addEventListener('blur',syncContact);
+  function renderCalendar() {
+    $('calendar-month').textContent = month.toLocaleDateString('pt-BR',{month:'long',year:'numeric'});
+    $('previous-month').disabled = month <= new Date(today.getFullYear(),today.getMonth(),1);
+    $('next-month').disabled = month >= new Date(lastDate.getFullYear(),lastDate.getMonth(),1);
+    const grid = $('calendar-days'); grid.replaceChildren();
+    for (let i=0; i<month.getDay(); i++) {const span=document.createElement('span'); grid.append(span);}
+    const count = new Date(month.getFullYear(), month.getMonth()+1, 0).getDate();
+    for (let day=1;day<=count;day++) {
+      const date = new Date(month.getFullYear(),month.getMonth(),day);
+      const key=dateKey(date), button=document.createElement('button');
+      button.type='button'; button.textContent=day; button.dataset.date=key;
+      button.setAttribute('aria-label',friendlyDate(key));
+      button.disabled = !isAvailableDate(key);
+      button.classList.toggle('selected',state.date===key); button.setAttribute('aria-pressed',String(state.date===key));
+      button.addEventListener('click',()=>{state.date=key;state.time='';closeCalendar(true);refresh();});
+      grid.append(button);
+    }
+  }
+  $('date-trigger').addEventListener('click',()=>{
+    if (!$('calendar').hidden) return closeCalendar();
+    if (state.date) {const d=parseDate(state.date);month=new Date(d.getFullYear(),d.getMonth(),1);}
+    renderCalendar(); $('calendar').hidden=false; $('date-trigger').setAttribute('aria-expanded','true');
+    ($('calendar-days').querySelector('.selected') || $('calendar-days').querySelector('button:not(:disabled)') || $('next-month')).focus();
+  });
+  $('previous-month').addEventListener('click',()=>{month.setMonth(month.getMonth()-1);renderCalendar();});
+  $('next-month').addEventListener('click',()=>{month.setMonth(month.getMonth()+1);renderCalendar();});
+  $('calendar').addEventListener('keydown',e=>{
+    if(e.key==='Escape'){e.preventDefault();closeCalendar(true);}
+    const offsets={ArrowLeft:-1,ArrowRight:1,ArrowUp:-7,ArrowDown:7};
+    if(e.target.dataset.date && e.key in offsets){
+      e.preventDefault(); const d=parseDate(e.target.dataset.date);d.setDate(d.getDate()+offsets[e.key]);
+      const next=$('calendar-days').querySelector(`[data-date="${dateKey(d)}"]`);
+      if(next && !next.disabled) next.focus();
+    }
+  });
+  document.addEventListener('click',e=>{if(!e.target.closest('.date-control'))closeCalendar();});
+  document.addEventListener('focusin',e=>{if(!e.target.closest('.date-control'))closeCalendar();});
+  function valid() {
+    const problems = [[!state.category,'Selecione a categoria do serviço.','category'],[!unit(),'Selecione uma unidade de atendimento.','unit'],[!state.date,'Selecione uma data disponível.','date-trigger'],[!state.time || !unit()?.times.includes(state.time),'Selecione um horário disponível.','time']];
+    for(const [invalid,message,field] of problems) if(invalid){$('form-error').textContent=message;$('form-error').hidden=false;$(field).focus();return false;}
+    const digits=syncContact();
+    if(!/^[1-9][0-9]9[0-9]{8}$/.test(digits)){
+      $('phone-error').textContent='Informe um celular com DDD e 11 dígitos. Ex.: (61) 99999-9999.';
+      $('phone-error').hidden=false;$('phone').setAttribute('aria-invalid','true');
+      $('form-error').textContent='Confira o número de contato para continuar.';$('form-error').hidden=false;
+      $('phone').focus();return false;
+    }
+    return true;
+  }
+  function summary(target, data = state) {
+    const selectedUnit = config.units.find(u=>u.id===data.unit);
+    target.replaceChildren();
+    [['Categoria',data.category],['Unidade',selectedUnit.name,selectedUnit.detail],['Data',friendlyDate(data.date)],['Horário',`${data.time} (horário de Brasília)`],['WhatsApp',`+55 ${data.phone}`]].forEach(([label,value,detail])=>{
+      const row=document.createElement('div'),dt=document.createElement('dt'),dd=document.createElement('dd');
+      dt.textContent=label;dd.textContent=value;
+      if(detail){const small=document.createElement('small');small.textContent=detail;dd.append(small);}
+      row.append(dt,dd);target.append(row);
+    });
+  }
+  function showStep(step) {
+    state.step=step;
+    ['booking-panel','review-panel','success-panel'].forEach((id,i)=>$(id).hidden=i!==step);
+    document.querySelectorAll('.stepper li').forEach((li,i)=>{
+      li.classList.toggle('active',i===step);li.classList.toggle('complete',i<step);
+      if(i===step)li.setAttribute('aria-current','step');else li.removeAttribute('aria-current');
+      li.querySelector('span').textContent=i<step?'✓':i+1;
+    });
+    const titles=['booking-title','review-title','success-title'];
+    $(titles[step]).focus({preventScroll:true});
+    const panel=$(['booking-panel','review-panel','success-panel'][step]);
+    if(!panel.closest('[hidden]'))panel.scrollIntoView({behavior:'auto',block:'start'});
+  }
+  $('booking').addEventListener('submit',e=>{e.preventDefault();if(valid()){closeCalendar();summary($('review-data'));showStep(1);}});
+  $('edit-button').addEventListener('click',()=>showStep(0));
+  $('confirm-button').addEventListener('click',()=>{
+    if(state.step!==1 || !valid())return;
+    state.protocol=`DEMO-${String(Date.now()).slice(-6)}`;
+    appointment={...state,status:'agendado'}; waStarted=false; $('wa-messages').replaceChildren();
+    $('protocol').textContent=state.protocol;summary($('success-data'));showStep(2);
+  });
+  function resetDraft() {
+    Object.assign(state,{category:'',unit:'',date:'',time:'',phone:'',protocol:'',step:0});
+    $('booking').reset();refresh();closeCalendar();month=new Date(today.getFullYear(),today.getMonth(),1);showStep(0);
+  }
+  $('restart-button').addEventListener('click',()=>{
+    appointment=null;waStarted=false;$('wa-messages').replaceChildren();resetDraft();navigate('inicio');
+  });
+  $('new-booking').addEventListener('click',()=>resetDraft());
+  $('calendar-download').addEventListener('click',()=>{
+    const start=new Date(`${state.date}T${state.time}:00-03:00`),end=new Date(start.getTime()+30*60000);
+    const stamp=d=>d.toISOString().replace(/[-:]/g,'').replace(/\.\d{3}/,'');
+    const text=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//IHC//Biometria DEMO//PT-BR','BEGIN:VEVENT',`UID:${state.protocol}@prototipo.invalid`,`DTSTAMP:${stamp(new Date())}`,`DTSTART:${stamp(start)}`,`DTEND:${stamp(end)}`,'SUMMARY:[SIMULADO] Coleta de biometria',`LOCATION:${unit().name}`,'DESCRIPTION:Protótipo acadêmico. Nenhum atendimento real foi reservado.','END:VEVENT','END:VCALENDAR',''].join('\r\n');
+    const url=URL.createObjectURL(new Blob([text],{type:'text/calendar;charset=utf-8'})),a=document.createElement('a');a.href=url;a.download='agendamento-simulado.ics';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
+  });
+  // One appointment record is shared between the portal and the simulated chat.
+  function renderConsult() {
+    $('empty-bookings').hidden=!!appointment;$('current-booking').hidden=!appointment;
+    if(!appointment)return;
+    summary($('consult-data'),appointment);
+    const labels={agendado:'Agendado',confirmado:'Presença confirmada',reagendado:'Reagendado',cancelado:'Cancelado'};
+    $('appointment-status').textContent=labels[appointment.status];
+    $('appointment-status').classList.toggle('cancelled',appointment.status==='cancelado');
+    $('consult-protocol').textContent=`Protocolo de demonstração: ${appointment.protocol}`;
+    $('consult-whatsapp').textContent=appointment.status==='cancelado'?'Ver conversa no WhatsApp →':'Gerenciar pelo WhatsApp →';
+  }
+  const views={inicio:'home-view',agendamentos:'services-view',presencial:'attendance-view',agendar:'booking-view',consulta:'consult-view',whatsapp:'whatsapp-view'};
+  function navigate(route) { if(location.hash!==`#${route}`)location.hash=route;else renderRoute(); }
+  function renderRoute() {
+    let route=decodeURIComponent(location.hash.slice(1))||'inicio';
+    if(!(route in views))route='inicio';
+    if(route==='whatsapp'&&!appointment){location.replace('#consulta');return;}
+    document.querySelectorAll('.portal-view').forEach(v=>v.hidden=v.id!==views[route]);
+    const isChat=route==='whatsapp';
+    $('whatsapp-view').hidden=!isChat;
+    document.querySelector('.header').hidden=isChat;
+    $('main').hidden=isChat;document.querySelector('body > footer').hidden=isChat;
+    document.body.classList.toggle('in-whatsapp',isChat);
+    if(route==='consulta')renderConsult();
+    if(isChat){initWhatsApp();$('wa-input').focus({preventScroll:true});scrollChat();}
+    else { const title=$(views[route]).querySelector('h1,h2'); if(title)title.focus({preventScroll:true});window.scrollTo(0,0); }
+    document.title=isChat?'Detran-DF · WhatsApp simulado':'Agendamento de biometria · Detran-DF';
+  }
+  function scrollChat(){ $('wa-messages').scrollTop=$('wa-messages').scrollHeight; }
+  function bubble(text, sender='bot') {
+    const article=document.createElement('article');article.className=`wa-bubble ${sender}`;
+    const content=document.createElement('p');content.textContent=text;article.append(content);
+    const time=document.createElement('small');time.className='wa-time';time.textContent=new Date().toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit',timeZone:'America/Sao_Paulo'})+(sender==='user'?'  ✓✓':'');article.append(time);
+    $('wa-messages').append(article);$('wa-chat-preview').textContent=text.split('\n')[0];scrollChat();return article;
+  }
+  function disablePreviousControls(){
+    $('wa-messages').querySelectorAll('button,input,select').forEach(el=>{
+      if(el.tagName==='INPUT'&&el.type==='date'&&el.value){const value=parseDate(el.value).toLocaleDateString('pt-BR');el.type='text';el.value=value;}
+      el.disabled=true;
+    });
+    $('wa-messages').querySelectorAll('.wa-reschedule-form').forEach(el=>el.dataset.closed='true');
+  }
+  function buttons(message, options) {
+    const group=document.createElement('div');group.className='wa-options';
+    for(const [label,action] of options){const b=document.createElement('button');b.type='button';b.textContent=label;b.dataset.action=action;b.addEventListener('click',()=>chooseAction(action));group.append(b);}
+    message.append(group);scrollChat();
+  }
+  function appointmentText() {return `${friendlyDate(appointment.date)}, às ${appointment.time}\n${config.units.find(u=>u.id===appointment.unit).name}`;}
+  function showMenu(text) {
+    disablePreviousControls();waMode=appointment.status==='cancelado'?'cancelled':'menu';
+    const msg=bubble(text||'Como deseja gerenciar seu atendimento?');
+    if(appointment.status!=='cancelado')buttons(msg,[['Confirmar presença','confirm'],['Reagendar','reschedule'],['Cancelar','cancel']]);
+    else buttons(msg,[['Voltar ao portal','portal']]);
+  }
+  function initWhatsApp() {
+    if(waStarted)return;waStarted=true;waMode='menu';
+    $('wa-messages').replaceChildren();
+    const badge=document.createElement('div');badge.className='wa-day';badge.textContent='HOJE · SIMULAÇÃO DE LEMBRETE';$('wa-messages').append(badge);
+    const info=document.createElement('div');info.className='wa-disclaimer';info.textContent='Protótipo acadêmico. Nenhuma mensagem é enviada ao WhatsApp real.';$('wa-messages').append(info);
+    showMenu(`Olá! Você tem um atendimento de biometria agendado.\n\n${appointmentText()}\n\nEscolha uma das opções abaixo:`);
+  }
+  function chooseAction(action, fromTyped=false) {
+    if(action==='portal'){navigate('consulta');return;}
+    if(!appointment||appointment.status==='cancelado')return;
+    if(waMode==='reschedule'&&!['back'].includes(action))return;
+    if(waMode==='cancel'&&!['cancel-confirm','back'].includes(action))return;
+    if(['confirm','reschedule','cancel'].includes(action)&&waMode!=='menu')return;
+    if(action==='cancel-confirm'&&waMode!=='cancel')return;
+    const names={confirm:'Confirmar presença',reschedule:'Reagendar',cancel:'Cancelar','cancel-confirm':'Sim, cancelar',back:'Voltar'};
+    disablePreviousControls();if(!fromTyped)bubble(names[action]||action,'user');
+    if(action==='confirm'){
+      appointment.status='confirmado';waMode='menu';
+      const msg=bubble(`Presença confirmada! ✓\n\nTe esperamos em ${appointmentText()}.\n\nLeve seu documento de identificação e chegue com 15 minutos de antecedência.`);
+      buttons(msg,[['Gerenciar atendimento','menu'],['Consultar no portal','portal']]);
+    } else if(action==='reschedule') {waMode='reschedule';renderReschedule();}
+    else if(action==='cancel') {
+      waMode='cancel';const msg=bubble(`Deseja cancelar seu atendimento?\n\n${appointmentText()}\n\nSua vaga será liberada somente após a confirmação.`);
+      buttons(msg,[['Sim, cancelar','cancel-confirm'],['Voltar','back']]);
+    } else if(action==='cancel-confirm') {
+      appointment.status='cancelado';waMode='cancelled';
+      const msg=bubble('Agendamento cancelado com sucesso.\nA vaga foi liberada.');buttons(msg,[['Consultar no portal','portal']]);
+    } else if(action==='back')showMenu('Seu agendamento foi mantido. Como deseja continuar?');
+    else if(action==='menu')showMenu();
+    scrollChat();
+  }
+  function renderReschedule() {
+    const msg=bubble('Reagendar biometria\nEscolha uma nova data e um novo horário. O atendimento atual será mantido até você confirmar a alteração.');
+    const form=document.createElement('form');form.className='wa-reschedule-form';
+    const n=++messageCounter;
+    const dateLabel=document.createElement('label');dateLabel.htmlFor=`wa-date-${n}`;dateLabel.textContent='Nova data';
+    const date=document.createElement('input');date.type='date';date.id=dateLabel.htmlFor;date.name='new-date';date.lang='pt-BR';date.required=true;date.min=dateKey(new Date(today.getFullYear(),today.getMonth(),today.getDate()+1));date.max=dateKey(lastDate);
+    const dateHint=document.createElement('small');dateHint.className='wa-date-summary';dateHint.id=`wa-date-help-${n}`;dateHint.textContent='Selecione um dia no calendário.';date.setAttribute('aria-describedby',dateHint.id);
+    const timeLabel=document.createElement('label');timeLabel.htmlFor=`wa-time-${n}`;timeLabel.textContent='Novo horário';
+    const time=document.createElement('select');time.id=timeLabel.htmlFor;time.name='new-time';time.required=true;time.disabled=true;options(time,[],'Selecione um horário');
+    const error=document.createElement('p');error.className='wa-form-error';error.setAttribute('role','alert');
+    const submit=document.createElement('button');submit.type='submit';submit.className='wa-confirm-reschedule';submit.textContent='Confirmar reagendamento';
+    date.addEventListener('change',()=>{
+      const d=parseDate(date.value),ok=isAvailableDate(date.value);
+      options(time,ok?config.units.find(u=>u.id===appointment.unit).times.filter(t=>date.value!==appointment.date||t!==appointment.time):[],'Selecione um horário');time.disabled=!ok;
+      dateHint.textContent=ok?`Data escolhida: ${friendlyDate(date.value)}`:'Selecione um dia útil disponível.';
+      error.textContent=ok?'':'Escolha uma das três datas disponíveis no calendário.';date.setCustomValidity(ok?'':'Selecione uma data disponível.');
+    });
+    form.addEventListener('submit',e=>{
+      e.preventDefault();if(waMode!=='reschedule'||form.dataset.closed)return;
+      const d=parseDate(date.value),validDate=isAvailableDate(date.value);
+      const validTime=config.units.find(u=>u.id===appointment.unit).times.includes(time.value);
+      if(!validDate||!validTime){error.textContent='Escolha uma data e um horário disponíveis.';return;}
+      if(date.value===appointment.date&&time.value===appointment.time){error.textContent='Escolha uma data ou horário diferente do agendamento atual.';return;}
+      const newDate=date.value,newTime=time.value;
+      disablePreviousControls();bubble(`Nova data: ${friendlyDate(newDate)}, às ${newTime}`,'user');
+      appointment.date=newDate;appointment.time=newTime;appointment.status='reagendado';
+      // Synchronize the completed portal record as well as consultation and chat.
+      state.date=newDate;state.time=newTime;refresh();summary($('success-data'),appointment);
+      waMode='menu';const reply=bubble(`Reagendamento concluído! ✓\n\n${appointmentText()}\n\nA vaga anterior foi liberada.`);buttons(reply,[['Gerenciar atendimento','menu'],['Consultar no portal','portal']]);scrollChat();
+    });
+    form.append(dateLabel,date,dateHint,timeLabel,time,error,submit);msg.append(form);buttons(msg,[['Voltar sem alterar','back']]);scrollChat();date.focus({preventScroll:true});
+  }
+  $('wa-composer').addEventListener('submit',e=>{
+    e.preventDefault();const text=$('wa-input').value.trim();if(!text)return;$('wa-input').value='';bubble(text,'user');
+    const normalized=text.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[.!?]/g,'').trim();
+    if(waMode==='cancelled'){bubble('Este agendamento foi cancelado. Volte ao portal para iniciar um novo atendimento.');return;}
+    const mapping={'confirmar presenca':'confirm','confirmar':'confirm','reagendar':'reschedule','cancelar':'cancel','sim cancelar':'cancel-confirm','sim, cancelar':'cancel-confirm','voltar':'back','menu':'menu'};
+    const action=mapping[normalized];
+    if(waMode==='reschedule'&&action!=='back'){bubble('Use o formulário acima para escolher uma nova data e horário, ou selecione Voltar sem alterar.');return;}
+    if(waMode==='cancel'&&!['cancel-confirm','back'].includes(action)){bubble('Escolha Sim, cancelar para confirmar, ou Voltar para manter seu agendamento.');return;}
+    if(action){chooseAction(action,true);return;}
+    bubble('Neste protótipo, você pode confirmar presença, reagendar ou cancelar. Use os botões da conversa ou digite uma dessas opções.');
+  });
+  $('whatsapp-button').addEventListener('click',()=>navigate('whatsapp'));
+  $('consult-whatsapp').addEventListener('click',()=>navigate('whatsapp'));
+  $('wa-return-portal').addEventListener('click',()=>navigate('consulta'));
+  $('wa-selected-chat').addEventListener('click',()=>{$('wa-input').focus();scrollChat();});
+  document.querySelector('.brand').addEventListener('click',e=>{e.preventDefault();navigate('inicio');});
+  window.addEventListener('hashchange',renderRoute);
+  refresh();renderRoute();
+})();
+
+</script></body></html>
