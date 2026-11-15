@@ -19,12 +19,13 @@ Fonte: minha elaboração (2026).
 | 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 | 14/11/2026 | 1.2 | Incluí o OBS Studio entre os instrumentos e detalhei a preparação da gravação | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 15/11/2026 | 1.3 | Vinculei as entrevistas e completei a conferência do registro técnico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução
 
-Organizei este roteiro a partir do meu [planejamento DECIDE](planejamento.md). Vou preparar os formulários antes da sessão e preenchê-los com os registros da avaliação.
+Organizei este roteiro a partir do meu [planejamento DECIDE](planejamento.md). Mantive aqui os instrumentos que planejei usar. Os [registros efetivamente recebidos](relato.md#videos), as [diferenças das tarefas](relato.md#tarefas-reais) e as limitações estão no relato dos resultados.
 
 ### Instrumentos e gravação {#instrumentos}
 
@@ -35,6 +36,8 @@ Vou utilizar os seguintes instrumentos na avaliação:
 - Termo de consentimento, perguntas de triagem e pré-teste, cenários de tarefa, folha do observador e perguntas pós-teste apresentados neste roteiro.
 
 Antes do piloto, vou configurar no OBS a captura da janela do navegador e o microfone, fazer uma gravação curta e reproduzi-la para conferir imagem e áudio. Também vou verificar o espaço disponível, fechar notificações e evitar capturar outras janelas ou dados pessoais. Vou manter o arquivo do piloto separado das gravações das sessões definitivas e conferir se cada arquivo foi salvo ao encerrar.
+
+**Conferência após as entrevistas:** o OBS permanece como ferramenta prevista no planejamento. Os vídeos recebidos são filmagens externas do uso; não atribuí a eles comprovação de captura direta no OBS. O registro técnico evidencia verificação de áudio e imagem, mas não demonstra a execução de todos os instrumentos planejados.
 
 ## 2. Triagem e pré-teste {#pre-teste}
 
@@ -135,14 +138,14 @@ Vou encerrar esclarecendo dúvidas e agradecendo. No registro, vou separar a opi
 
 | Verificação | Registro após o piloto |
 | --- | --- |
-| Clareza das instruções e tarefas | A preencher |
-| Funcionamento do protótipo e combinações | A preencher |
-| Tempo e conforto | A preencher |
-| Áudio, tela e integridade da gravação | A preencher |
-| Dados suficientes para Q1-Q5 | A preencher |
-| Ajustes e necessidade de repetir piloto | A preencher |
+| Clareza das instruções e tarefas | O registro curto não demonstra aplicação completa dos cenários; [limitação registrada](relato.md#piloto-realizado). |
+| Funcionamento do protótipo e combinações | Solicitei interação livre; não documentei no vídeo o teste de todas as combinações. |
+| Tempo e conforto | Vídeo de 31s; não equivale à duração de um piloto completo. |
+| Áudio, tela e integridade da gravação | Pedi teste de imagem e áudio; o [vídeo](https://www.youtube.com/watch?v=3RgfdKVybGU) contém o ensaio técnico. |
+| Dados suficientes para Q1-Q5 | O ensaio sozinho não permite responder todas as perguntas da avaliação. |
+| Ajustes e necessidade de repetir piloto | Não há correções documentadas no vídeo. Recomendei piloto completo antes de uma nova rodada. |
 
-Fonte: procedimento de piloto em Barbosa et al. (2021, p. 260). Os dados de desempenho do piloto não serão incorporados à avaliação definitiva.
+Fonte: procedimento de piloto em Barbosa et al. (2021, p. 260). Mantive o ensaio fora dos resultados definitivos; a participante do ensaio é também P02, condição descrita como limitação no [relato](relato.md#piloto-realizado).
 
 
 ## Referências

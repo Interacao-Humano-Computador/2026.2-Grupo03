@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | Organização da área individual e vinculação do protótipo | [Material individual](index.md) | — |
+| Alexandre Vilar Valadares Fonsêca | Organização da área individual e vinculação do protótipo | [Material individual](index.md) | [Entrevistas e ensaio](relato.md#videos) |
 
 Fonte: minha elaboração (2026).
 
@@ -19,6 +19,7 @@ Fonte: minha elaboração (2026).
 | 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 | 14/11/2026 | 1.2 | Organizei as seis divisões da entrega e separei o protótipo interativo | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 15/11/2026 | 1.3 | Vinculei os resultados das entrevistas e atualizei a situação da minha entrega | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
@@ -26,7 +27,7 @@ Fonte: registro desta versão (2026).
 
 Nesta etapa, organizei a avaliação do meu protótipo de alta fidelidade para o **agendamento de Vistoria de Transferência Veicular**. Reuni o planejamento, o roteiro e a estrutura que vou usar para apresentar os resultados.
 
-Ainda não registrei aqui os resultados das sessões de alta fidelidade. A entrevista e o piloto da Entrega 6 são do protótipo de papel e servem como base para as melhorias desta versão.
+Publiquei o [relato das duas entrevistas de alta fidelidade](relato.md), com [links das gravações](relato.md#videos), respostas ao DECIDE e limitações do procedimento. Separei o ensaio técnico dos resultados. Os registros da Entrega 6 continuam identificados como avaliação do papel.
 
 ## 2. Materiais individuais {#materiais}
 
@@ -39,7 +40,7 @@ Na Tabela 3, reuni os materiais da minha entrega.
 | Protótipo | Figma interativo, versão de referência e limitações | [Abrir protótipo](prototipo.md#prototipo-interativo) |
 | Planejamento | Framework DECIDE, logística, ética e cronograma | [Abrir planejamento](planejamento.md) |
 | Roteiro e instrumentos | Recrutamento, TCLE, pré-teste, tarefas, observação e pós-teste | [Abrir roteiro](roteiro.md) |
-| Relato dos resultados | Estrutura, tabelas de registro e plano de consolidação | [Abrir relato](relato.md) |
+| Relato dos resultados | Análise das entrevistas, evidências, limitações e encaminhamentos | [Abrir relato](relato.md) |
 | Lista de verificação | Itens da lista fornecida, respostas e links para as evidências | [Abrir tabela de verificação](verificacao.md) |
 
 Fonte: organização desta versão (2026).
@@ -74,26 +75,26 @@ Na Tabela 5, registrei o andamento da minha parte e as atividades que ainda prec
 | Atividade | Responsável | Início | Fim | Evidência |
 | --- | --- | --- | --- | --- |
 | Organização das páginas, vínculo do Figma e adaptação do planejamento | Eu, com apoio do ChatGPT | 11/11/2026 | 11/11/2026 | [Materiais individuais](#materiais) |
-| Teste-piloto da alta fidelidade | Eu; participante a confirmar | Não registrado | Não registrado | [Plano do piloto](planejamento.md#piloto) |
-| Sessões definitivas da alta fidelidade | Eu; participantes a confirmar | Não registrado | Não registrado | [Relato](relato.md#situacao) |
+| Ensaio técnico apresentado como piloto | Eu e P02 | Data a confirmar | Data a confirmar | [Registro e limitações](relato.md#piloto-realizado) |
+| Entrevistas de alta fidelidade com P01 e P02 | Eu e duas participantes | P01: 13/11/2026; P02: data a confirmar | Horários exatos a confirmar | [Análise das entrevistas](relato.md#consolidacao) |
+| Consolidação dos resultados e publicação das evidências | Eu, com apoio do ChatGPT | 15/11/2026 | 15/11/2026 | [Relato](relato.md) |
 | Revisão por outro integrante | Revisor a confirmar | Pendente | Pendente | Histórico de versões |
 
 Fonte: materiais e informações disponíveis nesta versão (2026).
 
 ## 6. Reuniões e apresentação {#reunioes}
 
-Ainda preciso vincular os meus registros de organização da avaliação e o vídeo de apresentação desta etapa.
+Vinculei as [duas entrevistas e o ensaio técnico](relato.md#videos). Ainda preciso completar os registros de organização da avaliação e o vídeo de apresentação desta etapa.
 
 **Minha apresentação da Entrega 7:** pendente. Depois de gravar, vou conferir o vídeo e publicá-lo como não listado.
 
 ## 7. Pendências para concluir a entrega {#pendencias}
 
-1. Vou confirmar a logística proposta no planejamento: participantes, local, horários e apoio.
-2. Vou conferir a versão do Figma e decidir se a ampliação dos horários foi aplicada antes do piloto.
-3. Vou executar o piloto, registrar ajustes e somente então realizar as sessões definitivas.
-4. Vou preencher o relato com evidências reais e vincular vídeos autorizados.
-5. Vou solicitar a revisão humana, integrar minha participação ao relato coletivo e publicar a apresentação.
-
+1. Vou completar as datas faltantes, o local e o recrutamento das sessões realizadas.
+2. Vou conferir os registros originais, os dados do resumo final e as autorizações de divulgação.
+3. Vou conferir a versão do Figma e a ampliação dos horários, ainda não comprovada nos registros analisados.
+4. Vou considerar uma nova rodada com piloto completo, cenários padronizados e controle das dicas do Figma, conforme as [limitações identificadas](relato.md#problemas).
+5. Vou solicitar a revisão humana e vincular minha apresentação específica da Entrega 7.
 
 ## Referências
 
