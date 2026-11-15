@@ -19,12 +19,15 @@ Fonte: minha elaboração (2026).
 | 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 | 14/11/2026 | 1.2 | Defini o OBS Studio como meio de gravação e vinculei os instrumentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 15/11/2026 | 1.3 | Vinculei a execução e diferenciei as datas propostas dos registros das entrevistas | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução e adaptação {#introducao}
 
 Adaptei o planejamento que usei como base para o storyboard à avaliação do meu **protótipo de alta fidelidade**. Nesta etapa, quero observar o participante usando o Figma para fazer o agendamento e entender onde ele encontra dificuldades. Vou usar os resultados da avaliação do papel para verificar se as melhorias ajudaram.
+
+O planejamento abaixo registra o procedimento que propus. Depois das entrevistas, documentei as [diferenças entre o plano e a execução](relato.md#tarefas-reais), a [caracterização das participantes](relato.md#participantes) e o [ensaio técnico](relato.md#piloto-realizado). Não considerei as datas inicialmente propostas como datas realizadas.
 
 ## 2. Framework DECIDE {#decide}
 
@@ -137,13 +140,15 @@ Fonte: Barbosa et al. (2021), p. 260. Trecho do livro que usei como referência;
 
 Minha proposta é realizar o piloto em **12/11/2026, das 14h00 às 14h35**, antes das sessões definitivas. Vou conferir as sete combinações funcionais e a lista de horários e revisar o material entre 14h35 e 15h00. Se eu fizer uma mudança relevante, vou repetir o piloto e reagendar as sessões afetadas.
 
+**Registro após a execução:** vinculei o [ensaio técnico de 31 segundos](relato.md#piloto-realizado), realizado com a mesma pessoa de P02. Ele não comprova um piloto completo com participante distinto. Mantive os dados do ensaio fora da consolidação principal e registrei a exposição prévia como limitação.
+
 ### Separação dos resultados {#dados-piloto}
 
-Os dados de desempenho do piloto **não entram** nas contagens, tempos ou problemas atribuídos aos participantes definitivos. Vou usar o registro do piloto para documentar os ajustes no procedimento. O piloto desta etapa será realizado com a alta fidelidade.
+Os dados de desempenho do piloto **não entram** nas contagens, tempos ou problemas atribuídos aos participantes definitivos. Vou usar o registro do piloto para documentar os ajustes no procedimento. O ensaio recebido utiliza a alta fidelidade; sua cobertura e a relação com P02 estão descritas no relato.
 
 ## 4. Cronograma de avaliação {#cronograma}
 
-Na Tabela 5, detalhei os horários que propus para a avaliação. Ainda preciso confirmá-los com os participantes. Se não conseguir realizar o piloto antes das sessões, vou revisar o cronograma.
+Na Tabela 5, preservei os horários originalmente propostos. O registro posterior confirma a data de P01 em 13/11/2026 e mantém a data de P02 e do ensaio técnico a confirmar; consultei as falas, sem usar a data de publicação dos vídeos como data de sessão. A consolidação foi realizada em 15/11/2026, conforme o [relato](relato.md#participantes). Os estados da tabela são os do plano original.
 
 **Tabela 5 - Cronograma operacional proposto**
 
