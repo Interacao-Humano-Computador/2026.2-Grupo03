@@ -20,6 +20,7 @@ Fonte: minha elaboração (2026).
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 14/11/2026 | 1.2 | Defini o OBS Studio como meio de gravação e vinculei os instrumentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 15/11/2026 | 1.3 | Vinculei a execução e diferenciei as datas propostas dos registros das entrevistas | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 15/11/2026 | 1.4 | Registrei a ampliação para três participantes e mantive a distinção entre plano e execução | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 
@@ -28,6 +29,8 @@ Fonte: registro desta versão (2026).
 Adaptei o planejamento que usei como base para o storyboard à avaliação do meu **protótipo de alta fidelidade**. Nesta etapa, quero observar o participante usando o Figma para fazer o agendamento e entender onde ele encontra dificuldades. Vou usar os resultados da avaliação do papel para verificar se as melhorias ajudaram.
 
 O planejamento abaixo registra o procedimento que propus. Depois das entrevistas, documentei as [diferenças entre o plano e a execução](relato.md#tarefas-reais), a [caracterização das participantes](relato.md#participantes) e o [ensaio técnico](relato.md#piloto-realizado). Não considerei as datas inicialmente propostas como datas realizadas.
+
+**Atualização da execução:** o plano original previa duas pessoas. Com a entrevista adicional, o relato passou a consolidar **três participantes distintas**, mantendo dois vídeos de P03 como registros da mesma aplicação. A participante sugeriu um [histórico de agendamentos](relato.md#entrevista-p03).
 
 ## 2. Framework DECIDE {#decide}
 
@@ -148,7 +151,7 @@ Os dados de desempenho do piloto **não entram** nas contagens, tempos ou proble
 
 ## 4. Cronograma de avaliação {#cronograma}
 
-Na Tabela 5, preservei os horários originalmente propostos. O registro posterior confirma a data de P01 em 13/11/2026 e mantém a data de P02 e do ensaio técnico a confirmar; consultei as falas, sem usar a data de publicação dos vídeos como data de sessão. A consolidação foi realizada em 15/11/2026, conforme o [relato](relato.md#participantes). Os estados da tabela são os do plano original.
+Na Tabela 5, preservei os horários originalmente propostos. O registro posterior confirma a data de P01 em 13/11/2026 e mantém as datas de P02, P03 e do ensaio técnico a confirmar; consultei as falas, sem usar a data de publicação dos vídeos como data de sessão. A consolidação foi realizada em 15/11/2026, conforme o [relato](relato.md#participantes). Os estados da tabela são os do plano original.
 
 **Tabela 5 - Cronograma operacional proposto**
 

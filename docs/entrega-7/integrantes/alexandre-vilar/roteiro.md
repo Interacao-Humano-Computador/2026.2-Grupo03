@@ -20,6 +20,7 @@ Fonte: minha elaboração (2026).
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 14/11/2026 | 1.2 | Incluí o OBS Studio entre os instrumentos e detalhei a preparação da gravação | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 15/11/2026 | 1.3 | Vinculei as entrevistas e completei a conferência do registro técnico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 15/11/2026 | 1.4 | Vinculei a captura direta de P03 e distingui instrumento previsto de gravação recebida | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 
@@ -37,7 +38,7 @@ Vou utilizar os seguintes instrumentos na avaliação:
 
 Antes do piloto, vou configurar no OBS a captura da janela do navegador e o microfone, fazer uma gravação curta e reproduzi-la para conferir imagem e áudio. Também vou verificar o espaço disponível, fechar notificações e evitar capturar outras janelas ou dados pessoais. Vou manter o arquivo do piloto separado das gravações das sessões definitivas e conferir se cada arquivo foi salvo ao encerrar.
 
-**Conferência após as entrevistas:** o OBS permanece como ferramenta prevista no planejamento. Os vídeos recebidos são filmagens externas do uso; não atribuí a eles comprovação de captura direta no OBS. O registro técnico evidencia verificação de áudio e imagem, mas não demonstra a execução de todos os instrumentos planejados.
+**Conferência após as entrevistas:** o OBS permanece como ferramenta prevista no planejamento. P01 e P02 têm filmagens externas do uso. Para P03, recebi também [captura direta da tela](https://www.youtube.com/watch?v=LPN_UsezSBU), complementar à entrevista. A existência dessa captura não comprova, por si só, qual software foi utilizado; mantive o OBS como instrumento previsto. O registro técnico evidencia verificação de áudio e imagem, mas não demonstra a execução de todos os instrumentos planejados.
 
 ## 2. Triagem e pré-teste {#pre-teste}
 
