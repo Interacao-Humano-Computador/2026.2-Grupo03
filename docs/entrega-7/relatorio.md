@@ -20,6 +20,7 @@ Fonte: elaborado pelos autores (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 10/11/2026 | 0.1 | Criação da estrutura do relato, com os prazos, o protótipo avaliado e as seções do relato dos resultados ainda sem dados, porque as sessões do teste de usabilidade não foram registradas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 0.2 | Preenchimento do que já está definido no planejamento (objetivos, método, tarefas, valores-alvo e participante P8), inclusão das tabelas de sumário e de problemas e do link para a página da sessão; resultados ainda sem dados | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -57,27 +58,45 @@ Cada subseção abaixo deve ser preenchida com os dados reais da avaliação, na
 
 ### 4.1 Objetivos e escopo da avaliação
 
-Os objetivos e as questões de avaliação estão no [roteiro do teste de usabilidade](../entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md) (Seções 2 e 3). **[VERIFICAR: confirmar se mudaram depois do piloto]**
+Os objetivos são os do [roteiro do teste de usabilidade](../entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md) (Seção 2): (a) verificar em que grau o protótipo atinge as metas de usabilidade da Entrega 3; (b) identificar os problemas que ainda ocorrem quando a interação é conduzida pelo próprio usuário; (c) verificar se as correções feitas a partir do protótipo de papel resolveram os problemas encontrados (PC01, PC02 e PN01 a PN04). O escopo é o agendamento da prova teórica com reserva de horário (HTA v1.2, objetivos 1 a 5), em um protótipo vertical. **[VERIFICAR: confirmar se os objetivos mudaram depois do piloto]**
 
 ### 4.2 Método de avaliação empregado
 
-O método e as questões práticas estão no mesmo roteiro (Seções 4 e 5). **[VERIFICAR: confirmar o método efetivamente usado]**
+O método é o teste de usabilidade, com questionário pré-teste, sessão de observação com quatro tarefas (T1 a T4), nota de facilidade por tarefa e entrevista pós-teste (roteiro, Seções 4 e 9). Duas decisões do planejamento: sem exploração livre antes das tarefas e sem pedir “pensar em voz alta”, para não alterar o tempo e os erros medidos. O participante abre o protótipo do Figma no navegador, no modo de apresentação, e a sessão é remota pelo Microsoft Teams. **[VERIFICAR: confirmar o método efetivamente usado, o dispositivo e se houve observador]**
 
 ### 4.3 Número e perfil de usuários e avaliadores
 
-**[VERIFICAR: participantes codificados (P1, P2…), sem dados pessoais, e avaliadores do grupo]**
+O planejamento previa três participantes (P8 a P10), candidatos à primeira habilitação que não participaram do storyboard nem do papel (roteiro, Seção 5). O primeiro registro é o do participante P8, na [página da sessão](integrantes/henrique-schneider/sessao-p8.md). O avaliador é Henrique Schneider. **[VERIFICAR: número real de participantes, perfil pelo questionário pré-teste, observador e se P8 foi sessão ou piloto]**
 
 ### 4.4 Sumário dos dados coletados
 
-**[VERIFICAR: tabelas e gráficos com os dados das sessões]**
+**Tabela 4 – Sumário das medições por tarefa**
+
+| Tarefa | Valor-alvo proposto (roteiro, Tabela 3) | Concluíram sem ajuda (n/N) | Tempo médio (desvio) | Erros (total) | Ajuda (total) | Nota média | Valor-alvo atingido? |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| T1 | Todos sem ajuda; até 3 min; no máximo 1 desvio por participante | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** |
+| T2 | Todos sem ajuda; até 1 min 30 s | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** |
+| T3 | Todos sem ajuda; até 1 min | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** |
+| T4 | Todos recuperam sem ajuda; nenhum erro sem recuperação | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** |
+| Todas | Nota média de 4 ou mais | — | — | — | — | **[VERIFICAR]** | **[VERIFICAR]** |
+
+Fonte: elaborado pelos autores (2026), com os valores-alvo propostos no roteiro do teste, que o autor deve confirmar depois do piloto.
+
+Com um único participante, o desvio padrão não se aplica, e os resultados são indícios, e não resultados estatisticamente significativos (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 305). Os dados de cada participante estão na página da sessão correspondente.
 
 ### 4.5 Interpretação dos dados
 
-**[VERIFICAR]**
+**[VERIFICAR: interpretar cada tarefa a partir das medidas, da gravação e das respostas da entrevista, e dizer se as correções do papel (PC01, PC02, PN01 a PN04) funcionaram. Não interpretar além do que os dados mostram]**
 
 ### 4.6 Lista dos problemas encontrados
 
-**[VERIFICAR: problema, local, gravidade e evidência]**
+**Tabela 5 – Lista de problemas do teste de usabilidade**
+
+| ID | Local (tela · elemento) | Descrição e justificativa | Fatores de usabilidade prejudicados | Severidade (1 a 4) | Frequência | Sugestão de solução |
+| --- | --- | --- | --- | --- | --- | --- |
+| PA01 | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** |
+
+Fonte: elaborado pelos autores (2026), com os campos de Barbosa e Silva (2010, cap. 10, seç. 10.2.1, p. 343) e a escala de severidade de Nielsen (1994 apud Barbosa; Silva, 2010, p. 320).
 
 ### 4.7 Planejamento do reprojeto
 
@@ -89,7 +108,7 @@ Os resultados do teste-piloto não entram nos resultados da avaliação (Barbosa
 
 ## 5. Vídeos e gravações
 
-**[VERIFICAR: links dos vídeos do teste-piloto, das sessões e da apresentação da Entrega 7, em “não listado” no YouTube]**
+**[VERIFICAR: links dos vídeos do teste-piloto, das sessões e da apresentação da Entrega 7, em “não listado” no YouTube]** A página da [sessão do participante P8](integrantes/henrique-schneider/sessao-p8.md) tem o campo do link.
 
 ## Referências
 
