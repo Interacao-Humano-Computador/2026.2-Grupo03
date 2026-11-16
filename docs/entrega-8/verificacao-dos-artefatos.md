@@ -67,13 +67,13 @@ Os itens D6 a D9 (cronograma executado, atas, gravação da reunião e vídeos �
 
 | Item | Conforme | Total avaliado |
 | --- | ---: | ---: |
-| D1 Histórico de versão | 152 | 156 |
-| D2 Autor e revisor nominal | 7 | 156 |
-| D3 Referências | 143 | 156 |
-| D4 Legenda e fonte das tabelas e imagens | 96 | 156 |
-| D5 Introdução | 116 | 156 |
-| D10 Tabela de contribuição | 152 | 156 |
-| D11 Uso de IA generativa | 149 | 156 |
+| D1 Histórico de versão | 154 | 158 |
+| D2 Autor e revisor nominal | 7 | 158 |
+| D3 Referências | 145 | 158 |
+| D4 Legenda e fonte das tabelas e imagens | 98 | 158 |
+| D5 Introdução | 118 | 158 |
+| D10 Tabela de contribuição | 154 | 158 |
+| D11 Uso de IA generativa | 151 | 158 |
 
 Fonte: elaborado pelos autores (2026), com `ferramentas/auditoria-site/auditoria.py`.
 
@@ -262,7 +262,7 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 | [entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md](../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md) | C | NC | NC | C | NC | C | C | 5 |
 | [entrega-6/integrantes/joao-vitor/prototipo-papel.md](../entrega-6/integrantes/joao-vitor/prototipo-papel.md) | C | NC | NC | C | NC | C | C | 5 |
 | [entrega-6/integrantes/joao-vitor/video-avaliacao.md](../entrega-6/integrantes/joao-vitor/video-avaliacao.md) | C | NC | NC | C | NC | C | C | 6 |
-| [entrega-6/relatorio.md](../entrega-6/relatorio.md) | C | NC | C | C | C | C | C | 7 |
+| [entrega-6/relatorio.md](../entrega-6/relatorio.md) | C | NC | C | C | C | C | C | 8 |
 | [entrega-6/verificacao/lista-de-verificacao.md](../entrega-6/verificacao/lista-de-verificacao.md) | C | NC | C | C | C | C | C | 20 |
 
 Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.py.
@@ -273,10 +273,12 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 
 | Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA | [VERIFICAR] abertos |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-| [entrega-7/integrantes/henrique-schneider/index.md](../entrega-7/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-7/integrantes/henrique-schneider/index.md](../entrega-7/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 5 |
+| [entrega-7/integrantes/henrique-schneider/roteiro-apresentacao.md](../entrega-7/integrantes/henrique-schneider/roteiro-apresentacao.md) | C | NC | C | C | C | C | C | 13 |
 | [entrega-7/integrantes/henrique-schneider/sessao-p8.md](../entrega-7/integrantes/henrique-schneider/sessao-p8.md) | C | NC | C | C | C | C | C | 22 |
 | [entrega-7/integrantes/henrique-schneider/transcricao-p8.md](../entrega-7/integrantes/henrique-schneider/transcricao-p8.md) | C | NC | C | C | C | C | C | 3 |
-| [entrega-7/relatorio.md](../entrega-7/relatorio.md) | C | NC | C | C | C | C | C | 30 |
+| [entrega-7/relatorio.md](../entrega-7/relatorio.md) | C | NC | C | C | C | C | C | 31 |
+| [entrega-7/verificacao/lista-de-verificacao.md](../entrega-7/verificacao/lista-de-verificacao.md) | C | NC | C | C | C | C | C | 22 |
 
 Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.py.
 
