@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Ensaio técnico do teste de usabilidade, feito sozinho antes da sessão com o participante P8 | [Visão geral](index.md) | Gravação do Teams de 2 min 37 s, ainda não publicada no YouTube |
+| Henrique Schneider Fernandes da Rosa | Ensaio técnico do teste de usabilidade, feito sozinho antes da sessão com o participante P8 | [Visão geral](index.md) | [Gravação de 2 min 37 s no YouTube](https://youtu.be/iY2V5_fCw3U) |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -17,6 +17,7 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 15/11/2026 | 1.0 | Registro do ensaio técnico gravado antes da sessão com o participante P8, a partir da transcrição automática do Teams | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.1 | Inclusão do link da gravação no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -39,7 +40,7 @@ A Tabela 3 resume o ensaio.
 | Modalidade | Remota, pelo Microsoft Teams, com o avaliador sozinho na reunião |
 | Participante | Nenhum |
 | Avaliador | Henrique Schneider |
-| Gravação | Arquivo do Teams; o vídeo ainda não foi publicado no YouTube |
+| Gravação | [Vídeo no YouTube](https://youtu.be/iY2V5_fCw3U) |
 | Transcrição | [Transcrição do ensaio](transcricao-piloto.md) |
 
 Fonte: elaborado pelo autor (2026), com base na gravação e na transcrição automática do Teams.
@@ -68,4 +69,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para registrar o ensaio a partir da transcrição automática do Teams. O vídeo não foi assistido pela ferramenta. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para registrar o ensaio a partir da transcrição automática do Teams. O vídeo não foi assistido pela ferramenta. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para incluir o link da gravação do teste-piloto.

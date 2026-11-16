@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Gravação do ensaio e transcrição automática pelo Microsoft Teams | [Teste-piloto](piloto.md) | Gravação do Teams, ainda não publicada no YouTube |
+| Henrique Schneider Fernandes da Rosa | Gravação do ensaio e transcrição automática pelo Microsoft Teams | [Teste-piloto](piloto.md) | [Gravação no YouTube](https://youtu.be/iY2V5_fCw3U) |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -17,6 +17,7 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 15/11/2026 | 1.0 | Publicação da transcrição automática do Microsoft Teams do ensaio técnico, sem alterações no texto | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.1 | Inclusão do link da gravação no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -44,4 +45,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para converter a transcrição do Teams em tabela, sem corrigir nem resumir o texto. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para converter a transcrição do Teams em tabela, sem corrigir nem resumir o texto. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para incluir o link da gravação do teste-piloto.

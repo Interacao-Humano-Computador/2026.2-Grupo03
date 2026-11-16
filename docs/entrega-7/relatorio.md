@@ -33,6 +33,7 @@ Fonte: elaborado pelos autores (2026).
 | 15/11/2026 | 1.2 | Acrescentei minha entrevista P03 e sua captura de tela, com a sugestão de histórico de agendamentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 15/11/2026 | 1.3 | Inclusão do link da gravação da sessão com o participante P8 no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.4 | Inclusão do teste-piloto (ensaio técnico) na Seção 4.8 e nas limitações, e definição da sessão com P8 como a sessão válida da avaliação | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.5 | Inclusão do link da gravação do teste-piloto no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -166,7 +167,7 @@ Os resultados do teste-piloto não entram nos resultados da avaliação (Barbosa
 
 ## 5. Vídeos e gravações
 
-A gravação da sessão com P8 tem 17 min 14 s; a [página da sessão](integrantes/henrique-schneider/sessao-p8.md) tem o [vídeo no YouTube](https://youtu.be/OI7Bcn_aIPI), e a [transcrição anonimizada](integrantes/henrique-schneider/transcricao-p8.md) já está publicada. A gravação do ensaio técnico (2 min 37 s) ainda não foi publicada no YouTube; o registro está na [página do piloto](integrantes/henrique-schneider/piloto.md).
+A gravação da sessão com P8 tem 17 min 14 s; a [página da sessão](integrantes/henrique-schneider/sessao-p8.md) tem o [vídeo no YouTube](https://youtu.be/OI7Bcn_aIPI), e a [transcrição anonimizada](integrantes/henrique-schneider/transcricao-p8.md) já está publicada. A gravação do ensaio técnico (2 min 37 s) está no [YouTube](https://youtu.be/iY2V5_fCw3U); o registro está na [página do piloto](integrantes/henrique-schneider/piloto.md).
 
 ## Documento em PDF
 
@@ -185,4 +186,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 Em 14/11/2026, o ChatGPT (OpenAI) apoiou João Vitor na integração de seus materiais individuais, na implementação e documentação do protótipo de biometria e na verificação técnica. O apoio de IA está declarado nos agradecimentos; não foram criados resultados de sessões, falas ou gravações de participantes.
 
-Em 15/11/2026, o ChatGPT apoiou João Vitor na revisão editorial do relato. A data de aplicação de 14/11/2026 e o reagendamento de P03 foram informados pelo responsável. Não foram criadas falas, métricas ou valores ausentes dos registros. Em 15/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8. Em 15/11/2026, também foi usado para incluir o registro do teste-piloto a partir da transcrição automática do Teams.
+Em 15/11/2026, o ChatGPT apoiou João Vitor na revisão editorial do relato. A data de aplicação de 14/11/2026 e o reagendamento de P03 foram informados pelo responsável. Não foram criadas falas, métricas ou valores ausentes dos registros. Em 15/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8. Em 15/11/2026, também foi usado para incluir o registro do teste-piloto a partir da transcrição automática do Teams. Em 15/11/2026, também foi usado para incluir o link da gravação do teste-piloto.
