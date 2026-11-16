@@ -6,10 +6,10 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | **[VERIFICAR: contribuição]** | — | — |
+| Alexandre Vilar Valadares Fonsêca | Planejamento, análise das duas entrevistas e registro do ensaio técnico da vistoria veicular, com apoio do ChatGPT | [Relato individual](integrantes/alexandre-vilar/relato.md) | [Entrevistas e ensaio](integrantes/alexandre-vilar/relato.md#videos) |
 | Gabriel Robson Nunes Neiva da Silva | **[VERIFICAR: contribuição]** | — | — |
 | Henrique Schneider Fernandes da Rosa | Estrutura desta página e protótipo de alta fidelidade que será avaliado (Figma) | [Protótipo no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) | — |
-| João Vitor Tavares de Sá Lima | **[VERIFICAR: contribuição]** | — | — |
+| João Vitor | Protótipo de biometria, planejamento, vídeos e relato de think-aloud de P01/P02/P03 | [Relato individual](integrantes/joao-vitor/relato.md) | [Gravações fornecidas](integrantes/joao-vitor/relato.md#gravacoes) |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -24,6 +24,11 @@ Fonte: elaborado pelos autores (2026).
 | 15/11/2026 | 0.3 | Ajuste do método à mudança da modalidade das sessões (controle remoto do Microsoft Teams) | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 15/11/2026 | 0.4 | Inclusão dos dados da sessão com o participante P8 (transcrição automática do Teams): participante, sumário, interpretação cautelosa, problemas, limitações e diferenças em relação ao planejamento; o vídeo ainda não foi conferido | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 15/11/2026 | 0.5 | Inclusão do link para a versão em PDF da página | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 11/11/2026 | 0.2 | Vinculação do planejamento e dos materiais individuais de Alexandre, sem resultados presumidos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 14/11/2026 | 0.3 | Inclusão dos materiais individuais e do protótipo navegável de biometria de João Vitor; avaliação ainda pendente | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 0.4 | Integrei minha análise de duas entrevistas e o registro do ensaio técnico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 15/11/2026 | 0.5 | Vinculação dos registros de biometria e análise textual preliminar, mantendo limites e P03 pendente | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 0.6 | Atualização da data das aplicações, apresentação dos vídeos e inclusão do reagendamento de P03 informado pelo avaliador | João Vitor | Revisão humana pendente |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -31,7 +36,7 @@ Fonte: elaborado pelos autores (2026).
 
 A Entrega 7 pede o “Relato dos resultados do Protótipo de alta fidelidade” (Sales, 2026, Cronograma das Aulas, p. 5). Esta página reúne a estrutura do relato, no formato que Barbosa e Silva (2010, cap. 9, seç. 9.7.5, pp. 311–312) indicam para os resultados consolidados de uma avaliação, e liga cada parte ao planejamento já publicado.
 
-**Esta versão não traz resultados.** O teste de usabilidade do protótipo de alta fidelidade ainda não tem sessão registrada no site, e nenhum dado de participante, tempo, erro ou problema foi inventado. As seções de resultados trazem **[VERIFICAR]** e só podem ser preenchidas com os dados reais das sessões.
+**Esta versão inclui o [relato individual de Alexandre](integrantes/alexandre-vilar/relato.md), com duas entrevistas e um ensaio técnico.** As seções coletivas ainda marcadas com **[VERIFICAR]** precisam ser completadas com os registros correspondentes. A síntese de Alexandre está identificada separadamente, sem atribuir seus resultados às propostas dos demais integrantes.
 
 ## 2. Prazos
 
@@ -51,9 +56,29 @@ Fonte: elaborado pelos autores (2026), com base em Sales (2026, pp. 5–6) e nas
 
 O protótipo avaliado é o do agendamento da prova teórica com reserva de horário, de Henrique Schneider, construído no Figma nas versões para [celular e computador](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT). Sua especificação está na [Especificação do protótipo de alta fidelidade](../entrega-6/integrantes/henrique-schneider/especificacao-alta-fidelidade.md), e a correspondência com o protótipo de papel está no [Apêndice E do roteiro do papel](../entrega-6/integrantes/henrique-schneider/prototipo-papel.md#apendice-e-correspondencia-entre-o-prototipo-de-papel-e-o-figma). O [roteiro do teste de usabilidade](../entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md) define objetivos, questões, medidas, participantes, ética, teste-piloto e roteiro da sessão.
 
+Na minha parte, **Alexandre Vilar**, integrei a proposta de vistoria veicular à [área individual da Entrega 7](integrantes/alexandre-vilar/index.md), com [Figma](integrantes/alexandre-vilar/prototipo.md), [planejamento](integrantes/alexandre-vilar/planejamento.md), [roteiro](integrantes/alexandre-vilar/roteiro.md), [relato das entrevistas](integrantes/alexandre-vilar/relato.md) e [lista de verificação com evidências](integrantes/alexandre-vilar/verificacao.md). Registrei os resultados e suas limitações na síntese abaixo.
+
+A proposta de **João Vitor** para agendamento e gerenciamento de biometria foi integrada à [área individual da Entrega 7](integrantes/joao-vitor/index.md), com [planejamento DECIDE](integrantes/joao-vitor/planejamento.md), [roteiro e instrumentos](integrantes/joao-vitor/roteiro.md), [protótipo interativo e download](integrantes/joao-vitor/prototipo.md#prototipo-interativo), [estrutura do relato](integrantes/joao-vitor/relato.md) e [lista de verificação](integrantes/joao-vitor/verificacao.md). As capturas comprovam a implementação. Foram vinculados os quatro vídeos de aplicação em 14/11/2026 e o [relato das sessões](integrantes/joao-vitor/relato.md#consolidacao), incluindo a mudança de data e o reagendamento de P03 informados pelo avaliador.
+
 Alexandre Vilar e João Vitor planejaram a avaliação das suas propostas ([Alexandre Vilar](../entrega-6/integrantes/alexandre-vilar/planejamento-alta-fidelidade.md); [João Vitor](../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md)). **[VERIFICAR: quais propostas entram no relato da Entrega 7]**
 
 O planejamento previa o teste-piloto em 08/11/2026 e as sessões de 09/11 a 11/11/2026. **[VERIFICAR: datas realizadas ou novas datas do piloto e das sessões]**
+
+### 3.1 Minha síntese de resultados — Alexandre Vilar {#resultados-alexandre}
+
+Analisei duas entrevistas de uso do agendamento de vistoria e um ensaio técnico de 31 segundos. Nas duas entrevistas, as participantes verbalizam a conclusão e avaliam positivamente a navegação. Uma participante associa datas e horários disponíveis às opções apresentadas; a outra reconhece uma data sem vaga e escolhe uma alternativa. Esses resultados são indícios limitados aos casos observados, considerando as dicas do Figma, as tarefas abertas e a exposição de P02 ao ensaio técnico.
+
+Registrei os [percursos e desfechos](integrantes/alexandre-vilar/relato.md#consolidacao), as [respostas ao DECIDE](integrantes/alexandre-vilar/relato.md#respostas-decide) e os [encaminhamentos](integrantes/alexandre-vilar/relato.md#problemas). Mantive o ensaio fora da consolidação e não o contei como terceira participante. A data de P01 é declarada como 13/11/2026; as demais datas e a logística ainda precisam de complemento.
+
+- [Entrevista P01 — Protótipo Figma 1](https://www.youtube.com/watch?v=wnJlDlcPovM).
+- [Entrevista P02 — Protótipo Figma 2](https://www.youtube.com/watch?v=ep_X7X6ZNqU).
+- [Ensaio técnico apresentado como piloto](https://www.youtube.com/watch?v=3RgfdKVybGU).
+
+### 3.2 Síntese de biometria — João Vitor {#resultados-joao}
+
+Realizei as aplicações de biometria em 14/11/2026, com registros do piloto e de P01, P02 e P03, utilizando think-aloud. Os registros de P01/P02 descrevem o agendamento e a confirmação de presença, com orientações durante o uso. Em P03, conforme meu relato da aplicação, houve também uma solicitação de mudança de data ao final, e o participante conseguiu reagendar.
+
+O [relato individual](integrantes/joao-vitor/relato.md) apresenta os vídeos, os trechos das sessões e a síntese por tarefa. O desfecho de P03 foi complementado com meu relato da aplicação. Mantive o piloto separado dos participantes.
 
 ## 4. Estrutura do relato dos resultados
 
@@ -143,6 +168,7 @@ Os resultados do teste-piloto não entram nos resultados da avaliação (Barbosa
 ## Documento em PDF
 
 A versão em PDF desta página, no formato pedido no Moodle (`RelatoProtAltaFideNomedoSite.pdf`), está disponível para download: [Relatório da Entrega 7 (PDF)](../assets/pdfs/entregas/relatorio-entrega-7-grupo-03.pdf).
+Os [vídeos de Alexandre](integrantes/alexandre-vilar/relato.md#videos) estão vinculados na síntese acima e identificados como não listados. A apresentação específica da etapa e os registros dos demais integrantes ainda precisam ser vinculados.
 
 ## Referências
 
@@ -153,3 +179,9 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar a estrutura desta página a partir do Plano de Ensino, do planejamento do teste de usabilidade e do esqueleto que o grupo já tinha preparado. Em 15/11/2026, também foi usado para incluir os dados da sessão com P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta e os tempos e as classificações dependem da conferência do autor. Nenhum link de vídeo foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para gerar a versão em PDF desta página.
+**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar a estrutura desta página a partir do Plano de Ensino, do planejamento do teste de usabilidade e do esqueleto que o grupo já tinha preparado. Não foram criados dados de participantes, resultados, datas de sessões nem links de vídeo. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+
+Em 14/11/2026, o ChatGPT (OpenAI) apoiou João Vitor na integração de seus materiais individuais, na implementação e documentação do protótipo de biometria e na verificação técnica. O apoio de IA está declarado nos agradecimentos; não foram criados resultados de sessões, falas ou gravações de participantes.
+
+Em 15/11/2026, o ChatGPT apoiou João Vitor na revisão editorial do relato. A data de aplicação de 14/11/2026 e o reagendamento de P03 foram informados pelo responsável. Não foram criadas falas, métricas ou valores ausentes dos registros.
