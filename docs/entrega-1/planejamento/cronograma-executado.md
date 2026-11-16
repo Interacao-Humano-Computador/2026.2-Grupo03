@@ -24,6 +24,7 @@ Fonte: elaborado pelos autores (2026).
 | 17/10/2026 | 1.1 | Organização por entrega; inclusão das contribuições de Camile Barbosa Gonzaga de Oliveira registradas nos relatórios da Entrega 1 e das revisões de Eduardo Ribeiro na Entrega 2 | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.3 | Inclusão das Entregas 5, 6 e 7 (Tabelas 7 a 9), a partir dos históricos de versão das páginas e das gravações; a escrita do relatório da Entrega 7 começou em 10/11/2026 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.4 | Inclusão do teste-piloto da Entrega 7 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -147,6 +148,7 @@ Fonte: elaborado pelos autores (2026), com base nos históricos de versão das p
 | Duas entrevistas de alta fidelidade e ensaio técnico (vistoria veicular); a data de P01, 13/11/2026, é declarada no vídeo | Alexandre Vilar | 11/11/2026 | 15/11/2026 | [Relato de Alexandre Vilar](../../entrega-7/integrantes/alexandre-vilar/relato.md) |
 | Protótipo navegável de biometria, aplicação com think-aloud (P01 a P03, em 14/11/2026) e relato | João Vitor | 14/11/2026 | 15/11/2026 | [Relato de João Vitor](../../entrega-7/integrantes/joao-vitor/relato.md) |
 | Mudança da modalidade das sessões de Henrique Schneider (controle remoto do Teams) | Henrique Schneider | 15/11/2026 | 15/11/2026 | [Planejamento](../../entrega-7/integrantes/henrique-schneider/planejamento.md) |
+| Teste-piloto (ensaio técnico, sem participante), gravado pelo Teams (2 min 37 s) | Henrique Schneider | 15/11/2026 | 15/11/2026 | [Teste-piloto](../../entrega-7/integrantes/henrique-schneider/piloto.md) |
 | Sessão do teste de usabilidade com o participante P8, gravada pelo Teams (17 min 14 s) | Henrique Schneider | 15/11/2026 | 15/11/2026 | [Sessão do participante P8](../../entrega-7/integrantes/henrique-schneider/sessao-p8.md); [gravação](https://youtu.be/OI7Bcn_aIPI) |
 | Transcrição anonimizada da sessão com P8 | Henrique Schneider | 15/11/2026 | 15/11/2026 | [Transcrição](../../entrega-7/integrantes/henrique-schneider/transcricao-p8.md) |
 | Lista de verificação da Entrega 7 e inspeção do próprio grupo | Henrique Schneider | 15/11/2026 | 15/11/2026 | [Lista de verificação](../../entrega-7/verificacao/lista-de-verificacao.md) |
