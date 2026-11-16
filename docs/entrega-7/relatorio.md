@@ -30,7 +30,7 @@ Fonte: elaborado pelos autores (2026).
 | 15/11/2026 | 0.9 | Vinculação dos registros de biometria e análise textual preliminar, mantendo limites e P03 pendente | João Vitor | Gabriel Robson |
 | 15/11/2026 | 1.0 | Atualização da data das aplicações, apresentação dos vídeos e inclusão do reagendamento de P03 informado pelo avaliador | João Vitor | Gabriel Robson |
 | 15/11/2026 | 1.1 | Correção da introdução, que ainda dizia que não havia sessão registrada, e inclusão das chamadas das Tabelas 1, 2, 4 e 6 no texto, a partir da inspeção do próprio grupo; renumeração das versões do histórico, que estavam repetidas depois da fusão das edições dos integrantes | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 16/11/2026 | 1.2 | Inclusão do link da gravação da sessão com o participante P8 no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.2 | Inclusão do link da gravação da sessão com o participante P8 no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -48,7 +48,7 @@ A Entrega 7 pede o “Relato dos resultados do Protótipo de alta fidelidade” 
 | --- | --- | --- |
 | Lista de verificação individual – Cenários | 10/11/2026, 23:30 | Transcrição das atividades do Moodle |
 | Entrega no Moodle | 15/11/2026, 23:59 | Sales (2026, p. 5) |
-| Inspeção do Grupo +1 | 16/11/2026 | Transcrição das atividades do Moodle |
+| Inspeção do Grupo +1 | 15/11/2026 | Transcrição das atividades do Moodle |
 | Apresentação em aula | 17/11/2026 | Sales (2026, p. 5) |
 | Nome do arquivo no Moodle | `RelatoProtAltaFideNomedoSite.pdf` | Transcrição das atividades do Moodle |
 
@@ -180,4 +180,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 Em 14/11/2026, o ChatGPT (OpenAI) apoiou João Vitor na integração de seus materiais individuais, na implementação e documentação do protótipo de biometria e na verificação técnica. O apoio de IA está declarado nos agradecimentos; não foram criados resultados de sessões, falas ou gravações de participantes.
 
-Em 15/11/2026, o ChatGPT apoiou João Vitor na revisão editorial do relato. A data de aplicação de 14/11/2026 e o reagendamento de P03 foram informados pelo responsável. Não foram criadas falas, métricas ou valores ausentes dos registros. Em 16/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8.
+Em 15/11/2026, o ChatGPT apoiou João Vitor na revisão editorial do relato. A data de aplicação de 14/11/2026 e o reagendamento de P03 foram informados pelo responsável. Não foram criadas falas, métricas ou valores ausentes dos registros. Em 15/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8.

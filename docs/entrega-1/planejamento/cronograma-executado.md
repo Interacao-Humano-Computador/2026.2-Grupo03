@@ -9,7 +9,7 @@
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
 | Eduardo Ribeiro Gomes da Silva | — | — | — |
 | Gabriel Robson Nunes Neiva da Silva | — | — | — |
-| Henrique Schneider Fernandes da Rosa | Solicitação da criação da página (refatoração de 15/10/2026) | — | — |
+| Henrique Schneider Fernandes da Rosa | Solicitação da criação da página (refatoração de 15/10/2026) e atualização com as Entregas 5 a 7 | — | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
 Fonte: elaborado pelos autores (2026).
@@ -23,6 +23,7 @@ Fonte: elaborado pelos autores (2026).
 | 15/10/2026 | 1.0 | Criação da página com as atividades realizadas nas Entregas 1 a 4, a partir dos históricos de versão, dos commits e dos relatórios entregues; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | Gabriel Robson |
 | 17/10/2026 | 1.1 | Organização por entrega; inclusão das contribuições de Camile Barbosa Gonzaga de Oliveira registradas nos relatórios da Entrega 1 e das revisões de Eduardo Ribeiro na Entrega 2 | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.3 | Inclusão das Entregas 5, 6 e 7 (Tabelas 7 a 9), a partir dos históricos de versão das páginas e das gravações; a escrita do relatório da Entrega 7 começou em 10/11/2026 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -32,7 +33,7 @@ O cronograma executado registra quem realizou cada artefato ou atividade e as da
 
 ## 2. Como ler as tabelas
 
-As Tabelas 3 a 6 foram montadas apenas com evidências registradas: históricos de versão das páginas, commits do repositório, relatórios entregues no Moodle e gravações. Por isso:
+As Tabelas 3 a 9 foram montadas apenas com evidências registradas: históricos de versão das páginas, commits do repositório, relatórios entregues no Moodle e gravações. Por isso:
 
 - **Primeiro registro** e **último registro** são as datas mais antiga e mais recente encontradas nas evidências. Elas não são, necessariamente, as datas reais de início e fim do trabalho.
 - Onde não há evidência, a célula traz "—".
@@ -105,6 +106,55 @@ Fonte: elaborado pelos autores (2026), com base nos históricos de versão, nos 
 
 Fonte: elaborado pelos autores (2026), com base nos históricos de versão, nos commits e no relatório da Entrega 4 (Grupo 03, 2026d).
 
+## 7. Entrega 5 – Relato do Storyboard e da Análise de Tarefas e Planejamento do Protótipo de Papel
+
+**Tabela 7 – Atividades executadas na Entrega 5**
+
+| Artefato ou atividade | Realizado por | Primeiro registro | Último registro | Evidência |
+| --- | --- | :---: | :---: | --- |
+| Storyboard, HTA, roteiro, entrevistas com P1 e P2, relato dos resultados e planejamento do protótipo de papel | Henrique Schneider | 25/10/2026 | 25/10/2026 | [Material de Henrique Schneider](../../entrega-5/integrantes/henrique-schneider/index.md) |
+| HTAs, storyboard, roteiro, entrevista e relato da proposta de vistoria veicular | Alexandre Vilar | 25/10/2026 | 25/10/2026 | [Material de Alexandre Vilar](../../entrega-5/integrantes/alexandre-vilar/index.md) |
+| HTAs de biometria, storyboard, roteiro, avaliação e relato | João Vitor | 25/10/2026 | 25/10/2026 | [Material de João Vitor](../../entrega-5/integrantes/joao-vitor/index.md) |
+| Proposta Renova CNH Fácil: HTAs, storyboard, roteiro e protótipo demonstrativo; avaliação não realizada | Gabriel Robson | 25/10/2026 | 25/10/2026 | [Material de Gabriel Robson](../../entrega-5/integrantes/gabriel-robson/index.md) |
+| Inspeção do Grupo +1 (Grupo 08) | Grupo 03 | 26/10/2026 | 26/10/2026 | [Inspeção do Grupo 08](../../entrega-5/verificacao/inspecao-grupo-08.md) |
+
+Fonte: elaborado pelos autores (2026), com base nos históricos de versão das páginas da Entrega 5.
+
+## 8. Entrega 6 – Relato do Protótipo de Papel e Planejamento do Protótipo de Alta Fidelidade
+
+**Tabela 8 – Atividades executadas na Entrega 6**
+
+| Artefato ou atividade | Realizado por | Primeiro registro | Último registro | Evidência |
+| --- | --- | :---: | :---: | --- |
+| Roteiro da sessão do protótipo de papel, especificação do protótipo de alta fidelidade e planejamento do teste de usabilidade | Henrique Schneider | 27/10/2026 | 03/11/2026 | [Material de Henrique Schneider](../../entrega-6/integrantes/henrique-schneider/index.md) |
+| Teste-piloto e Sessão 1 do protótipo de papel | Henrique Schneider | 03/11/2026 | 03/11/2026 | [Sessão 1](https://youtu.be/S7j1gd70_Is); [teste-piloto](https://youtu.be/pOa8ROlt2jw) |
+| Protótipo de papel e planejamento da alta fidelidade (vistoria veicular) | Alexandre Vilar | 02/11/2026 | 12/11/2026 | [Material de Alexandre Vilar](../../entrega-6/integrantes/alexandre-vilar/index.md) |
+| Protótipo de papel e planejamento da alta fidelidade (biometria) | João Vitor | 02/11/2026 | 03/11/2026 | [Material de João Vitor](../../entrega-6/integrantes/joao-vitor/index.md) |
+| Protótipo de papel e planejamento da alta fidelidade (renovação da CNH) | Gabriel Robson | 03/11/2026 | 04/11/2026 | [Material de Gabriel Robson](../../entrega-6/integrantes/gabriel-robson/index.md) |
+| Relatório da Entrega 6, contribuições e lista de verificação | Henrique Schneider | 10/11/2026 | 10/11/2026 | [Relatório da Entrega 6](../../entrega-6/relatorio.md) |
+| Apresentação em vídeo de Henrique Schneider | Henrique Schneider | — | — | [Vídeo](https://youtu.be/sI_3rqIQbCU) |
+
+Fonte: elaborado pelos autores (2026), com base nos históricos de versão das páginas da Entrega 6. A inspeção do Grupo +1, prevista para 04/11/2026, não tem registro publicado.
+
+## 9. Entrega 7 – Relato dos Resultados do Protótipo de Alta Fidelidade
+
+**Tabela 9 – Atividades executadas na Entrega 7**
+
+| Artefato ou atividade | Realizado por | Primeiro registro | Último registro | Evidência |
+| --- | --- | :---: | :---: | --- |
+| Protótipo de alta fidelidade no Figma (celular e computador) | Henrique Schneider | 10/11/2026 | 10/11/2026 | [Protótipo](../../entrega-7/integrantes/henrique-schneider/prototipo.md) |
+| Relatório da Entrega 7 (início da escrita e consolidação dos materiais dos integrantes) | Henrique Schneider (estrutura e sessão com P8); Alexandre Vilar e João Vitor (vinculação dos materiais) | 10/11/2026 | 15/11/2026 | [Relatório da Entrega 7](../../entrega-7/relatorio.md), Tabela 2 |
+| Duas entrevistas de alta fidelidade e ensaio técnico (vistoria veicular); a data de P01, 13/11/2026, é declarada no vídeo | Alexandre Vilar | 11/11/2026 | 15/11/2026 | [Relato de Alexandre Vilar](../../entrega-7/integrantes/alexandre-vilar/relato.md) |
+| Protótipo navegável de biometria, aplicação com think-aloud (P01 a P03, em 14/11/2026) e relato | João Vitor | 14/11/2026 | 15/11/2026 | [Relato de João Vitor](../../entrega-7/integrantes/joao-vitor/relato.md) |
+| Mudança da modalidade das sessões de Henrique Schneider (controle remoto do Teams) | Henrique Schneider | 15/11/2026 | 15/11/2026 | [Planejamento](../../entrega-7/integrantes/henrique-schneider/planejamento.md) |
+| Sessão do teste de usabilidade com o participante P8, gravada pelo Teams (17 min 14 s) | Henrique Schneider | 15/11/2026 | 15/11/2026 | [Sessão do participante P8](../../entrega-7/integrantes/henrique-schneider/sessao-p8.md); [gravação](https://youtu.be/OI7Bcn_aIPI) |
+| Transcrição anonimizada da sessão com P8 | Henrique Schneider | 15/11/2026 | 15/11/2026 | [Transcrição](../../entrega-7/integrantes/henrique-schneider/transcricao-p8.md) |
+| Lista de verificação da Entrega 7 e inspeção do próprio grupo | Henrique Schneider | 15/11/2026 | 15/11/2026 | [Lista de verificação](../../entrega-7/verificacao/lista-de-verificacao.md) |
+| Roteiro da apresentação em vídeo | Henrique Schneider | 15/11/2026 | 15/11/2026 | [Roteiro](../../entrega-7/integrantes/henrique-schneider/roteiro-apresentacao.md) |
+| Material de Gabriel Robson na Entrega 7 | Gabriel Robson | — | — | Sem registro nas páginas |
+
+Fonte: elaborado pelos autores (2026), com base nos históricos de versão das páginas da Entrega 7 e nas gravações. A inspeção do Grupo +1, prevista para 16/11/2026, ainda não aconteceu.
+
 ## Referências
 
 GRUPO 03. *Relatório da Etapa 1: Planejamento do Projeto – Portal do Detran-DF*. Brasília: Universidade de Brasília, 2026a. Disponível em: [PDF](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf).
@@ -122,3 +172,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar nas Tabelas 3 a 6 as evidências já registradas: históricos de versão das páginas, commits do repositório e seções de contribuição dos relatórios entregues. Nenhuma data, autoria ou atividade foi deduzida sem evidência. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 15/11/2026, também a pedido do autor, o Claude foi usado para incluir as Tabelas 7 a 9, com as atividades das Entregas 5, 6 e 7, a partir dos históricos de versão das páginas, dos links das gravações e das datas declaradas nos relatos de cada integrante.

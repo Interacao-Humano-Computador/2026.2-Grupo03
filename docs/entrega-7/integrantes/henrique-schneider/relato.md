@@ -17,7 +17,7 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 15/11/2026 | 1.0 | Criação do resumo dos resultados da sessão na estrutura das páginas da Entrega 7, a partir da página da sessão e do relatório | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 16/11/2026 | 1.1 | Inclusão do link da gravação da sessão no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.1 | Inclusão do link da gravação da sessão no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -67,4 +67,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para resumir os resultados da sessão a partir da transcrição automática do Teams e da página da sessão. O vídeo não foi assistido pela ferramenta, e os tempos e as classificações dependem da conferência do autor. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 16/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8.
+**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para resumir os resultados da sessão a partir da transcrição automática do Teams e da página da sessão. O vídeo não foi assistido pela ferramenta, e os tempos e as classificações dependem da conferência do autor. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8.
