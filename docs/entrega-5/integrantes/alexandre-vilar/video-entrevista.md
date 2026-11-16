@@ -17,10 +17,10 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Reserva do espaço para inclusão posterior do vídeo | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-
 | 25/10/2026 | 1.1 | Registro da gravação publicada, organização dos trechos e acesso ao relatório | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
 | 25/10/2026 | 1.2 | Inclusão da data, local, modalidade e duração aproximada informados pelo autor | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+
 Fonte: registro desta versão (2026).
 
 ## 1. Gravação da entrevista

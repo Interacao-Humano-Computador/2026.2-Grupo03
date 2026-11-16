@@ -34,7 +34,7 @@ O teste-piloto e a Sessão 1 da avaliação do protótipo de papel foram realiza
 
 | Material | Conteúdo | Página ou arquivo |
 | --- | --- | --- |
-| Roteiro da sessão do protótipo de papel (v1.4) | Método, questões, participantes, ética, teste-piloto, roteiro em 10 etapas, cartões de tarefa, folha do observador, tabelas de problemas corrigidos (PC01, PC02) e não corrigidos (PN01 a PN04) da Sessão 1 e correspondência entre as telas do papel e os quadros do Figma (Apêndice E) | [Abrir roteiro](prototipo-papel.md) |
+| Roteiro da sessão do protótipo de papel (v1.5) | Método, questões, participantes, ética, teste-piloto, roteiro em 10 etapas, cartões de tarefa, folha do observador, tabelas de problemas corrigidos (PC01, PC02) e não corrigidos (PN01 a PN04) da Sessão 1 e correspondência entre as telas do papel e os quadros do Figma (Apêndice E) | [Abrir roteiro](prototipo-papel.md) |
 | Material do participante – protótipo de papel (v1.1) | Apresentação do estudo, TCLE em duas vias e autorização de gravação de áudio, rosto e vídeo | [PDF](arquivos/tcle-prototipo-papel.pdf) |
 | Especificação do protótipo de alta fidelidade (v1.3) | Protótipo vertical: escopo, requisitos do guia de estilo, fluxo, Telas 0 a 5, estados e atalhos do avaliador por tarefa, checklist de construção e registro do protótipo construído (Seção 10) | [Abrir especificação](especificacao-alta-fidelidade.md) |
 | Protótipo de alta fidelidade (Figma) | Versões para celular (360 × 800 px) e computador (1280 px), navegáveis, com página do avaliador e fluxos de início das tarefas T1 a T4 | [Abrir no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) |
