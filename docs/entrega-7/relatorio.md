@@ -21,6 +21,7 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 10/11/2026 | 0.1 | Criação da estrutura do relato, com os prazos, o protótipo avaliado e as seções do relato dos resultados ainda sem dados, porque as sessões do teste de usabilidade não foram registradas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 15/11/2026 | 0.2 | Preenchimento do que já está definido no planejamento (objetivos, método, tarefas, valores-alvo e participante P8), inclusão das tabelas de sumário e de problemas e do link para a página da sessão; resultados ainda sem dados | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 0.3 | Ajuste do método à mudança da modalidade das sessões (controle remoto do Microsoft Teams) | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -62,7 +63,7 @@ Os objetivos são os do [roteiro do teste de usabilidade](../entrega-6/integrant
 
 ### 4.2 Método de avaliação empregado
 
-O método é o teste de usabilidade, com questionário pré-teste, sessão de observação com quatro tarefas (T1 a T4), nota de facilidade por tarefa e entrevista pós-teste (roteiro, Seções 4 e 9). Duas decisões do planejamento: sem exploração livre antes das tarefas e sem pedir “pensar em voz alta”, para não alterar o tempo e os erros medidos. O participante abre o protótipo do Figma no navegador, no modo de apresentação, e a sessão é remota pelo Microsoft Teams. **[VERIFICAR: confirmar o método efetivamente usado, o dispositivo e se houve observador]**
+O método é o teste de usabilidade, com questionário pré-teste, sessão de observação com quatro tarefas (T1 a T4), nota de facilidade por tarefa e entrevista pós-teste (roteiro, Seções 4 e 9). Duas decisões do planejamento: sem exploração livre antes das tarefas e sem pedir “pensar em voz alta”, para não alterar o tempo e os erros medidos. A sessão é remota pelo Microsoft Teams: o protótipo do Figma roda no navegador do computador do avaliador, no modo de apresentação, e o participante o usa pelo controle remoto do Teams, enquanto o avaliador acompanha em tempo real (roteiro, Seção 5, v1.4). Como o atraso do compartilhamento pode aumentar os tempos, isso entra como limitação do teste. **[VERIFICAR: confirmar o método efetivamente usado, a versão do protótipo (celular ou computador) e se houve observador]**
 
 ### 4.3 Número e perfil de usuários e avaliadores
 

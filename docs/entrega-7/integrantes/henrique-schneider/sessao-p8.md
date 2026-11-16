@@ -17,6 +17,7 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 15/11/2026 | 0.1 | Criação do modelo da página, com os campos de registro da Sessão do participante P8 ainda sem dados, porque a sessão não tinha sido registrada | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 0.2 | Ajuste do modelo à mudança da modalidade: protótipo usado pelo controle remoto do Microsoft Teams, e seção de diferenças em relação ao planejamento | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -36,8 +37,8 @@ O código **P8** é o primeiro da série prevista no planejamento (P8 a P10). **
 | --- | --- | --- |
 | Participante | P8 (um dos candidatos à primeira habilitação, sem participação no storyboard nem no papel) | **[VERIFICAR: perfil conforme o questionário pré-teste]** |
 | Data e horário | A combinar com o participante | **[VERIFICAR: data, início e término]** |
-| Modalidade | Remota, pelo Microsoft Teams | **[VERIFICAR: confirmar]** |
-| Dispositivo e navegador | Participante abre o protótipo do Figma no navegador, no modo de apresentação | **[VERIFICAR: celular ou computador, navegador e fluxo usado (“Celular · T1” ou “Computador · T1”)]** |
+| Modalidade | Remota, pelo Microsoft Teams, só avaliador e participante | **[VERIFICAR: confirmar]** |
+| Dispositivo e forma de uso | O protótipo do Figma roda no navegador do computador do avaliador, no modo de apresentação, e o participante o usa pelo controle remoto do Teams (“Dar controle”) | **[VERIFICAR: confirmar; navegador, versão do protótipo e fluxo usado (“Computador · T1” a “T4” ou “Celular”)]** |
 | Avaliador | Henrique Schneider | Henrique Schneider |
 | Observador | Outro integrante, se houver | **[VERIFICAR: sem observador? Se sim, registrar como limitação]** |
 | TCLE e autorizações | TCLE em duas vias; gravação de tela e áudio só se autorizada | **[VERIFICAR: TCLE assinado, autorização de áudio e de tela]** |
@@ -122,7 +123,7 @@ Fonte: elaborado pelo autor (2026), a partir da gravação; os horários são ap
 
 ## 7. Diferenças em relação ao planejamento
 
-**[VERIFICAR: registrar, depois da sessão, o que ficou diferente do roteiro. Exemplos a conferir: sessão remota em vez de presencial; participante no navegador do computador em vez do celular; ausência de observador; tarefa não executada; ajuda dada; falha técnica do protótipo ou do Teams.]**
+O planejamento original previa sessão presencial, com o protótipo num celular. A modalidade mudou em 15/11/2026 para sessão remota com controle remoto do Teams (planejamento, Seção 5, v1.4). Isso pode afetar os dados: o atraso do compartilhamento pode aumentar os tempos, e o uso do mouse num computador não é o uso do toque num celular. **[VERIFICAR: registrar, depois da sessão, o que mais ficou diferente do roteiro: atraso ou travamento percebido (tarefa e minuto da gravação), momentos em que o avaliador retomou o controle, ausência de observador, tarefa não executada, ajuda dada e falha técnica do protótipo ou do Teams.]**
 
 ## 8. Transcrição anonimizada
 
@@ -134,4 +135,4 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Co
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar o modelo desta página a partir do planejamento do teste de usabilidade (identificação, questionário, medidas e entrevista). Nenhum dado de participante, tempo, resposta ou resultado foi criado: os campos de registro estão vazios até que o autor os preencha a partir da gravação. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar o modelo desta página a partir do planejamento do teste de usabilidade (identificação, questionário, medidas e entrevista). Nenhum dado de participante, tempo, resposta ou resultado foi criado: os campos de registro estão vazios até que o autor os preencha a partir da gravação. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também a pedido do autor, o Claude foi usado para ajustar o modelo à mudança da modalidade (controle remoto do Teams), sem acrescentar dados.
