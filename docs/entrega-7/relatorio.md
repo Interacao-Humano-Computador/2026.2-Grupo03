@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | Planejamento, análise das duas entrevistas e registro do ensaio técnico da vistoria veicular, com apoio do ChatGPT | [Relato individual](integrantes/alexandre-vilar/relato.md) | [Entrevistas e ensaio](integrantes/alexandre-vilar/relato.md#videos) |
+| Alexandre Vilar Valadares Fonsêca | Planejamento, análise das três entrevistas e registro do ensaio técnico da vistoria veicular, com apoio do ChatGPT | [Relato individual](integrantes/alexandre-vilar/relato.md) | [Entrevistas e ensaio](integrantes/alexandre-vilar/relato.md#videos) |
 | Gabriel Robson Nunes Neiva da Silva | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Estrutura desta página, protótipo de alta fidelidade (Figma) e registro da sessão com o participante P8 | [Protótipo no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) | — |
 | João Vitor Tavares de Sá Lima | Protótipo de biometria, planejamento, vídeos e relato de think-aloud de P01/P02/P03 | [Relato individual](integrantes/joao-vitor/relato.md) | [Gravações fornecidas](integrantes/joao-vitor/relato.md#gravacoes) |
@@ -30,6 +30,7 @@ Fonte: elaborado pelos autores (2026).
 | 15/11/2026 | 0.9 | Vinculação dos registros de biometria e análise textual preliminar, mantendo limites e P03 pendente | João Vitor | Gabriel Robson |
 | 15/11/2026 | 1.0 | Atualização da data das aplicações, apresentação dos vídeos e inclusão do reagendamento de P03 informado pelo avaliador | João Vitor | Gabriel Robson |
 | 15/11/2026 | 1.1 | Correção da introdução, que ainda dizia que não havia sessão registrada, e inclusão das chamadas das Tabelas 1, 2, 4 e 6 no texto, a partir da inspeção do próprio grupo; renumeração das versões do histórico, que estavam repetidas depois da fusão das edições dos integrantes | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.2 | Acrescentei minha entrevista P03 e sua captura de tela, com a sugestão de histórico de agendamentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão desta atualização pendente |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -37,7 +38,7 @@ Fonte: elaborado pelos autores (2026).
 
 A Entrega 7 pede o “Relato dos resultados do Protótipo de alta fidelidade” (Sales, 2026, Cronograma das Aulas, p. 5). Esta página reúne a estrutura do relato, no formato que Barbosa e Silva (2010, cap. 9, seç. 9.7.5, pp. 311–312) indicam para os resultados consolidados de uma avaliação, e liga cada parte ao planejamento já publicado. A Tabela 1 traz a contribuição de cada integrante e a Tabela 2, o histórico de versões.
 
-**Esta versão reúne os registros de três integrantes.** O [relato individual de Alexandre](integrantes/alexandre-vilar/relato.md) traz duas entrevistas e um ensaio técnico; o [relato individual de João Vitor](integrantes/joao-vitor/relato.md) traz o protótipo de biometria e o relato de think-aloud de P01, P02 e P03; e a [sessão do participante P8](integrantes/henrique-schneider/sessao-p8.md) traz os dados de uma única sessão do protótipo do agendamento da prova teórica, que são só indícios. As Seções 4.1 a 4.9 tratam da sessão de Henrique Schneider; a síntese de cada integrante está identificada separadamente, sem atribuir seus resultados às propostas dos demais. A sessão com P8 foi registrada a partir da transcrição automática do Teams; o vídeo ainda não foi conferido, e o que depende de ver a tela aparece como. Nenhum dado de participante, tempo, erro ou problema foi inventado.
+**Esta versão reúne os registros de três integrantes.** O [relato individual de Alexandre](integrantes/alexandre-vilar/relato.md) traz três entrevistas e um ensaio técnico; o [relato individual de João Vitor](integrantes/joao-vitor/relato.md) traz o protótipo de biometria e o relato de think-aloud de P01, P02 e P03; e a [sessão do participante P8](integrantes/henrique-schneider/sessao-p8.md) traz os dados de uma única sessão do protótipo do agendamento da prova teórica, que são só indícios. As Seções 4.1 a 4.9 tratam da sessão de Henrique Schneider; a síntese de cada integrante está identificada separadamente, sem atribuir seus resultados às propostas dos demais. A sessão com P8 foi registrada a partir da transcrição automática do Teams; o vídeo ainda não foi conferido, e o que depende de ver a tela aparece como. Nenhum dado de participante, tempo, erro ou problema foi inventado.
 
 ## 2. Prazos
 
@@ -67,12 +68,14 @@ O planejamento previa o teste-piloto em 08/11/2026 e as sessões de 09/11 a 11/1
 
 ### 3.1 Minha síntese de resultados — Alexandre Vilar {#resultados-alexandre}
 
-Analisei duas entrevistas de uso do agendamento de vistoria e um ensaio técnico de 31 segundos. Nas duas entrevistas, as participantes verbalizam a conclusão e avaliam positivamente a navegação. Uma participante associa datas e horários disponíveis às opções apresentadas; a outra reconhece uma data sem vaga e escolhe uma alternativa. Esses resultados são indícios limitados aos casos observados, considerando as dicas do Figma, as tarefas abertas e a exposição de P02 ao ensaio técnico.
+Analisei três entrevistas de uso do agendamento de vistoria e um ensaio técnico de 31 segundos. As três participantes avaliam positivamente a navegação e verbalizam a ação de concluir ou seu resultado; o reconhecimento explícito da confirmação foi mais bem documentado em P01 e P02. P03 possui dois registros complementares e foi contada uma única vez. A nova participante escolhe 23/11 às 10h00 e sugere consultar agendamentos anteriores por um histórico, incluído nos encaminhamentos do próximo redesign. Uma participante associa datas e horários disponíveis às opções apresentadas; a outra reconhece uma data sem vaga e escolhe uma alternativa. Esses resultados são indícios limitados aos casos observados, considerando as dicas do Figma, as tarefas abertas e a exposição de P02 ao ensaio técnico.
 
-Registrei os [percursos e desfechos](integrantes/alexandre-vilar/relato.md#consolidacao), as [respostas ao DECIDE](integrantes/alexandre-vilar/relato.md#respostas-decide) e os [encaminhamentos](integrantes/alexandre-vilar/relato.md#problemas). Mantive o ensaio fora da consolidação e não o contei como terceira participante. A data de P01 é declarada como 13/11/2026; as demais datas e a logística ainda precisam de complemento.
+Registrei os [percursos e desfechos](integrantes/alexandre-vilar/relato.md#consolidacao), as [respostas ao DECIDE](integrantes/alexandre-vilar/relato.md#respostas-decide) e os [encaminhamentos](integrantes/alexandre-vilar/relato.md#problemas). Mantive o ensaio fora da consolidação e não o contei como terceira participante. A data de P01 é declarada como 13/11/2026; as demais datas e a logística ainda precisam de complemento. A análise adicional de P03 está no [relato específico](integrantes/alexandre-vilar/relato.md#entrevista-p03).
 
 - [Entrevista P01 — Protótipo Figma 1](https://www.youtube.com/watch?v=wnJlDlcPovM).
 - [Entrevista P02 — Protótipo Figma 2](https://www.youtube.com/watch?v=ep_X7X6ZNqU).
+- [Entrevista P03 — Protótipo Figma 3](https://www.youtube.com/watch?v=trLhldjqTZ0).
+- [P03 — Gravação de tela](https://www.youtube.com/watch?v=LPN_UsezSBU).
 - [Ensaio técnico apresentado como piloto](https://www.youtube.com/watch?v=3RgfdKVybGU).
 
 ### 3.2 Síntese de biometria — João Vitor {#resultados-joao}
