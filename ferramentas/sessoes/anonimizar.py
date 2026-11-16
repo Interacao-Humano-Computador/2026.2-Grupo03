@@ -2,7 +2,7 @@
 """Anonimiza a transcrição de uma sessão (Teams .vtt, .txt ou .docx) e gera uma tabela em Markdown.
 
 Uso:
-    python ferramentas/sessoes/anonimizar.py transcricao.vtt --codigo P8 --nome "Ruan" --nome "Ruan Silva" > saida.md
+    python ferramentas/sessoes/anonimizar.py transcricao.vtt --codigo P8 --nome "Nome" --nome "Nome Sobrenome" > saida.md
 
 - Cada --nome é trocado pelo código do participante (ex.: P8), sem diferenciar maiúsculas e minúsculas.
 - E-mails e telefones são trocados por [e-mail] e [telefone].
@@ -46,7 +46,12 @@ def blocos(linhas):
             v = re.match(r'^<v ([^>]+)>(.*?)(</v>)?$', junto)
             saida.append((tempo, v.group(1) if v else '', (v.group(2) if v else junto)))
         elif l and l != 'WEBVTT' and not re.match(r'^[0-9a-f-]{8,}(/\d+-\d+)?$', l) and '-->' not in l:
-            saida.append((tempo or '', '', l))
+            # Transcrição em .docx do Teams: "Nome Sobrenome   0:05Texto da fala"
+            d = re.match(r'^(.+?)\s{2,}(\d+:\d{2}(?::\d{2})?)\s*(.*)$', l)
+            if d:
+                saida.append((d.group(2), d.group(1), d.group(3)))
+            elif saida and saida[-1][0] and not re.search(r'(começou|parou) a transcrição', l):
+                saida[-1] = (saida[-1][0], saida[-1][1], saida[-1][2] + ' ' + l)
         i += 1
     return saida
 

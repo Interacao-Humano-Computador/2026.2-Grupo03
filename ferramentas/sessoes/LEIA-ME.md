@@ -5,7 +5,7 @@ Passo a passo para levar a gravação e a transcrição de cada sessão para as 
 ## O que você precisa ter
 
 - Link da gravação no YouTube como **não listado** (D9 do Plano de Ensino).
-- Transcrição do Teams (`.vtt` ou `.docx`).
+- Transcrição do Teams (`.vtt` ou `.docx`; o script entende os dois formatos).
 - A folha de medição preenchida (Apêndice C do [roteiro do teste](../../docs/entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md)) ou o cronômetro anotado a partir da gravação.
 - O TCLE assinado e a autorização de gravação.
 

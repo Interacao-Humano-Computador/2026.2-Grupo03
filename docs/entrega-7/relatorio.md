@@ -22,6 +22,7 @@ Fonte: elaborado pelos autores (2026).
 | 10/11/2026 | 0.1 | Criação da estrutura do relato, com os prazos, o protótipo avaliado e as seções do relato dos resultados ainda sem dados, porque as sessões do teste de usabilidade não foram registradas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 15/11/2026 | 0.2 | Preenchimento do que já está definido no planejamento (objetivos, método, tarefas, valores-alvo e participante P8), inclusão das tabelas de sumário e de problemas e do link para a página da sessão; resultados ainda sem dados | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 15/11/2026 | 0.3 | Ajuste do método à mudança da modalidade das sessões (controle remoto do Microsoft Teams) | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 0.4 | Inclusão dos dados da sessão com o participante P8 (transcrição automática do Teams): participante, sumário, interpretação cautelosa, problemas, limitações e diferenças em relação ao planejamento; o vídeo ainda não foi conferido | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -67,49 +68,76 @@ O método é o teste de usabilidade, com questionário pré-teste, sessão de ob
 
 ### 4.3 Número e perfil de usuários e avaliadores
 
-O planejamento previa três participantes (P8 a P10), candidatos à primeira habilitação que não participaram do storyboard nem do papel (roteiro, Seção 5). O primeiro registro é o do participante P8, na [página da sessão](integrantes/henrique-schneider/sessao-p8.md). O avaliador é Henrique Schneider. **[VERIFICAR: número real de participantes, perfil pelo questionário pré-teste, observador e se P8 foi sessão ou piloto]**
+O planejamento previa três participantes (P8 a P10), candidatos à primeira habilitação que não participaram do storyboard nem do papel (roteiro, Seção 5). Até esta versão há **uma sessão registrada, com o participante P8**, em 15/11/2026, na [página da sessão](integrantes/henrique-schneider/sessao-p8.md). O avaliador é Henrique Schneider, e não houve observador.
+
+**Tabela 4 – Participantes do teste de usabilidade**
+
+| Código | Faixa de idade | Situação na primeira habilitação | Experiência com serviços digitais | Observação |
+| --- | --- | --- | --- | --- |
+| P8 | 21 a 30 anos | Já concluiu há cerca de 4 anos; agendou a prova presencialmente no Detran | Usa serviços do governo todo mês, tem conta gov.br, já pagou taxa por PIX e nunca usou o portal do Detran-DF | Fora do perfil previsto (quem ainda vai agendar a prova ou agendou recentemente) |
+
+Fonte: elaborado pelos autores (2026), a partir da transcrição da sessão.
+
+**[VERIFICAR: se P8 vale como sessão ou como teste-piloto; se participou do storyboard ou do papel; e se haverá outros participantes (P9 e P10)]**
 
 ### 4.4 Sumário dos dados coletados
 
-**Tabela 4 – Sumário das medições por tarefa**
+**Tabela 5 – Sumário das medições por tarefa (participante P8, valores aproximados)**
 
-| Tarefa | Valor-alvo proposto (roteiro, Tabela 3) | Concluíram sem ajuda (n/N) | Tempo médio (desvio) | Erros (total) | Ajuda (total) | Nota média | Valor-alvo atingido? |
+| Tarefa | Valor-alvo proposto (roteiro, Tabela 3) | Concluíram sem ajuda (n/N) | Tempo (N = 1) | Erros | Pedidos de ajuda | Nota | Valor-alvo atingido? |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| T1 | Todos sem ajuda; até 3 min; no máximo 1 desvio por participante | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** |
-| T2 | Todos sem ajuda; até 1 min 30 s | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** |
-| T3 | Todos sem ajuda; até 1 min | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** |
-| T4 | Todos recuperam sem ajuda; nenhum erro sem recuperação | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** |
-| Todas | Nota média de 4 ou mais | — | — | — | — | **[VERIFICAR]** | **[VERIFICAR]** |
+| T1 | Todos sem ajuda; até 3 min; no máximo 1 desvio | 0/1: chegou à reserva de 18/11, e não de 16/11 | 1 min 40 s | 1 | 0 | Não coletada | Não avaliável (ver 4.5) |
+| T2 | Todos sem ajuda; até 1 min 30 s | Sem execução registrada | 30 s, só a descrição | **[VERIFICAR]** | 0 | Não coletada | Não avaliável (ver 4.5) |
+| T3 | Todos sem ajuda; até 1 min | 1/1, segundo a transcrição | 50 s | 0 | 0 | Não coletada | Não avaliável (ver 4.5) |
+| T4 | Todos recuperam sem ajuda; nenhum erro sem recuperação | **[VERIFICAR no vídeo]** | 20 s | **[VERIFICAR]** | 0 | Não coletada | Não avaliável (ver 4.5) |
+| Todas | Nota média de 4 ou mais | — | — | — | — | Não coletada | Não avaliável |
 
-Fonte: elaborado pelos autores (2026), com os valores-alvo propostos no roteiro do teste, que o autor deve confirmar depois do piloto.
+Fonte: elaborado pelos autores (2026), com os valores-alvo propostos no roteiro do teste, que o autor deve confirmar depois do piloto, e os tempos estimados na transcrição automática da sessão, que o autor deve conferir na gravação.
 
 Com um único participante, o desvio padrão não se aplica, e os resultados são indícios, e não resultados estatisticamente significativos (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 305). Os dados de cada participante estão na página da sessão correspondente.
 
 ### 4.5 Interpretação dos dados
 
-**[VERIFICAR: interpretar cada tarefa a partir das medidas, da gravação e das respostas da entrevista, e dizer se as correções do papel (PC01, PC02, PN01 a PN04) funcionaram. Não interpretar além do que os dados mostram]**
+**Os dados de P8 não permitem dizer se as metas de usabilidade foram atingidas.** Há um único participante, que não tem o perfil previsto (já habilitado há cerca de 4 anos, com experiência prévia em serviços digitais), e a sessão teve diferenças importantes em relação ao roteiro: o protótipo foi apresentado e explicado antes das tarefas, o participante foi convidado a falar em voz alta, o avaliador apontou o erro da T1, a T2 foi respondida só verbalmente e a nota de facilidade não foi pedida (página da sessão, Seção 7). Os tempos foram estimados na transcrição e incluem a leitura em voz alta. Por isso, os valores-alvo da Tabela 5 ficam como “não avaliáveis”, e o que segue são **indícios**, e não resultados.
+
+- **T1.** O participante chegou à tela de reserva, mas escolheu 18/11 (quarta-feira) em vez da data mais próxima, 16/11. A transcrição não mostra por que (4:50 a 7:45), e isso precisa ser conferido no vídeo: se ele não viu o atalho da data mais próxima ou se interpretou a tarefa de outra forma.
+- **T2.** O participante descreveu corretamente o que faria (voltar ao calendário e ir ao próximo dia livre, 18/11, porque 17/11 também está riscado), mas não há registro de que tenha feito isso no protótipo.
+- **T3.** O participante encontrou a confirmação e o que levar, e mencionou o comprovante e o lembrete, sem pedir ajuda.
+- **T4.** A transcrição tem só falas curtas, e não mostra se ele chegou à nova reserva.
+- **Entrevista pós-teste.** O participante disse que as telas são claras e intuitivas, que o prazo de 24 horas e a regra do PIX ficaram claros, que se sentiria seguro com a confirmação e que não mudaria nada (página da sessão, Seção 5). Como foi a única voz do teste e o avaliador conduziu a sessão, essas respostas podem estar influenciadas por cortesia e pela explicação prévia.
+- **Correções do papel.** Nenhuma das correções do papel (PC01, PC02 e PN01 a PN04) pode ser avaliada com esta sessão: o participante não precisou do botão “Consultar prova” nem encontrou os casos de data sem vagas, de etapas expansíveis ou de horários na tela, segundo a transcrição. **[VERIFICAR no vídeo]**
+
+**[VERIFICAR: confirmar cada ponto acima na gravação e, se houver mais sessões, refazer a interpretação com o conjunto]**
 
 ### 4.6 Lista dos problemas encontrados
 
-**Tabela 5 – Lista de problemas do teste de usabilidade**
+**Tabela 6 – Lista de problemas do teste de usabilidade**
 
 | ID | Local (tela · elemento) | Descrição e justificativa | Fatores de usabilidade prejudicados | Severidade (1 a 4) | Frequência | Sugestão de solução |
 | --- | --- | --- | --- | --- | --- | --- |
-| PA01 | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** | **[VERIFICAR]** |
+| PA01 | Tela 3 · escolha da data mais próxima (T1) | O participante reservou 18/11, e não a data mais próxima, 16/11, apesar de a tela ter o atalho “Escolher seg, 16/11” (6:25 a 7:45). **[VERIFICAR no vídeo: o que o participante viu e por que escolheu 18/11]** | Eficácia; facilidade de aprendizado **[VERIFICAR]** | **[VERIFICAR]** | 1 de 1 (P8) | **[VERIFICAR depois de conferir a causa]** |
+| PA02 | Versão para computador · tamanho da tela compartilhada | O participante achou a tela “um pouquinho pequena” na tela compartilhada, e o avaliador aumentou a ampliação (5:31 a 5:49). **[VERIFICAR: se é do protótipo ou do compartilhamento do Teams]** | Satisfação do usuário **[VERIFICAR]** | **[VERIFICAR]** | 1 de 1 (P8) | **[VERIFICAR]** |
 
-Fonte: elaborado pelos autores (2026), com os campos de Barbosa e Silva (2010, cap. 10, seç. 10.2.1, p. 343) e a escala de severidade de Nielsen (1994 apud Barbosa; Silva, 2010, p. 320).
+Fonte: elaborado pelos autores (2026), com os campos de Barbosa e Silva (2010, cap. 10, seç. 10.2.1, p. 343) e a escala de severidade de Nielsen (1994 apud Barbosa; Silva, 2010, p. 320). A severidade e a sugestão de solução ficam com o autor, depois da conferência no vídeo.
 
 ### 4.7 Planejamento do reprojeto
 
-**[VERIFICAR]**
+**[VERIFICAR: decidir o reprojeto depois de conferir a causa do PA01 no vídeo e de ter mais sessões. Com uma sessão fora do perfil, o grupo só deve registrar o que quer verificar nas próximas: se o atalho da data mais próxima é percebido e se a T2 e a T4 são executadas no protótipo]**
 
 ### 4.8 Teste-piloto
 
-Os resultados do teste-piloto não entram nos resultados da avaliação (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 307). **[VERIFICAR: data do piloto e o que foi ajustado depois dele]**
+Os resultados do teste-piloto não entram nos resultados da avaliação (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 307). **[VERIFICAR: se a sessão com P8 é o piloto ou uma sessão; data do piloto e o que foi ajustado depois dele]** Se P8 for o piloto, os dados dele saem dos resultados e as diferenças de procedimento registradas na página da sessão viram os ajustes para as próximas sessões.
+
+### 4.9 Limitações do teste
+
+- Uma única sessão, com um participante fora do perfil previsto e sem observador.
+- Sessão remota pelo Teams, com a versão para computador, e não presencial com o protótipo num celular; o atraso do compartilhamento pode ter alterado os tempos. **[VERIFICAR no vídeo]**
+- Diferenças de procedimento em relação ao roteiro (apresentação prévia do protótipo, pedido para falar em voz alta, apontamento do erro da T1, T2 só verbal e ausência da nota de facilidade).
+- Tempos estimados na transcrição automática do Teams, que tem erros, e não cronometrados.
 
 ## 5. Vídeos e gravações
 
-**[VERIFICAR: links dos vídeos do teste-piloto, das sessões e da apresentação da Entrega 7, em “não listado” no YouTube]** A página da [sessão do participante P8](integrantes/henrique-schneider/sessao-p8.md) tem o campo do link.
+**[VERIFICAR: links dos vídeos do teste-piloto, das sessões e da apresentação da Entrega 7, em “não listado” no YouTube]** A gravação da sessão com P8 tem 17 min 14 s; a [página da sessão](integrantes/henrique-schneider/sessao-p8.md) tem o campo do link, e a [transcrição anonimizada](integrantes/henrique-schneider/transcricao-p8.md) já está publicada.
 
 ## Referências
 
@@ -119,4 +147,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar a estrutura desta página a partir do Plano de Ensino, do planejamento do teste de usabilidade e do esqueleto que o grupo já tinha preparado. Não foram criados dados de participantes, resultados, datas de sessões nem links de vídeo. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar a estrutura desta página a partir do Plano de Ensino, do planejamento do teste de usabilidade e do esqueleto que o grupo já tinha preparado. Em 15/11/2026, também foi usado para incluir os dados da sessão com P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta e os tempos e as classificações dependem da conferência do autor. Nenhum link de vídeo foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
