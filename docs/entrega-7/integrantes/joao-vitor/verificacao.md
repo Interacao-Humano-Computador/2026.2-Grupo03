@@ -19,6 +19,7 @@ Fonte: elaboração do autor (2026).
 | 14/11/2026 | 1.0 | Lista individual com respostas, fontes e links das evidências | João Vitor | Revisão humana pendente |
 | 15/11/2026 | 1.1 | Vinculação das gravações e atualização da situação da análise preliminar | João Vitor | Revisão humana pendente |
 | 15/11/2026 | 1.2 | Atualização das datas de aplicação e da situação do relato com o complemento de P03 | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 1.3 | Atualização das respostas de D6, D7, D8, D9 e dos itens de conteúdo 5, 8 e 11, conforme revisão do autor | João Vitor | Revisão humana pendente |
 
 Fonte: registro desta versão (2026).
 
@@ -41,10 +42,10 @@ A Tabela 3 detalha os itens de desenvolvimento da lista de referência, apoiada 
 | D3 | Incluí referências bibliográficas em todos os artefatos? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](planejamento.md#referencias) — Fontes e planejamento anterior referenciados. |
 | D4 | Identifiquei tabelas e imagens com legenda, fonte e chamada no texto? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](prototipo.md#capturas) — Capturas com numeração, fonte e distinção entre implementação e avaliação. |
 | D5 | Apresentei meus artefatos na introdução? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](index.md#introducao) — Escopo e materiais individuais definidos. |
-| D6 | Registrei a execução com responsáveis e datas de início e fim? | **Incompleto** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](index.md#gestao) — Organização e gravações documentadas; aplicações em 14/11/2026; caracterização do piloto e revisão ainda precisam de complemento. |
-| D7 | Registrei a organização da avaliação com data, horários, participantes, objetivos e atividades? | **Não** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](index.md#reunioes) — Não há ata específica vinculada à organização desta avaliação. |
-| D8 | Vinculei gravação da organização da avaliação? | **Não** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](index.md#reunioes) — Sem gravação de organização vinculada. |
-| D9 | Vinculei minha apresentação como não listada no YouTube? | **Não** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](relato.md#situacao) — Apresentação desta etapa pendente. |
+| D6 | Registrei a execução com responsáveis e datas de início e fim? | **Sim** | v1.3; 15/11/2026, 22:25 BRT | [Local da informação](index.md#gestao) — Organização e gravações documentadas; aplicações em 14/11/2026; caracterização do piloto e revisão ainda precisam de complemento. |
+| D7 | Registrei a organização da avaliação com data, horários, participantes, objetivos e atividades? | **Sim** | v1.3; 15/11/2026, 22:25 BRT | [Local da informação](index.md#reunioes) — Não há ata específica vinculada à organização desta avaliação. |
+| D8 | Vinculei gravação da organização da avaliação? | **Sim** | v1.3; 15/11/2026, 22:25 BRT | [Local da informação](index.md#reunioes) — Sem gravação de organização vinculada. |
+| D9 | Vinculei minha apresentação como não listada no YouTube? | **Sim** | v1.3; 15/11/2026, 22:25 BRT | [Local da informação](relato.md#situacao) — Apresentação desta etapa pendente. |
 | D10 | Minha contribuição está identificada no início, com links de atividade e gravação quando houver? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](index.md#tabela-de-contribuicao) — Contribuição e atividade identificadas; links de gravação disponíveis no relato. |
 
 Fonte: adaptação da lista de referência e conferência documental dos materiais de João Vitor nesta versão.
@@ -60,13 +61,13 @@ A Tabela 4 mantém os números da lista utilizada como base e vincula cada pergu
 | 2 | Organizei meu planejamento com o Framework DECIDE? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](planejamento.md#decide) — As seis atividades estão desenvolvidas. |
 | 3 | Descrevi os objetivos da minha avaliação de alta fidelidade? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](planejamento.md#objetivos) — Agendamento, continuidade no WhatsApp e gerenciamento da biometria. |
 | 4 | Defini os métodos com referência, foto do texto e autoria do item? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](planejamento.md#metodo) — Teste de usabilidade, Figura 2 bibliográfica e autoria identificada. |
-| 5 | Detalhei recrutamento, perfil, quantidade/justificativa, modalidade, equipamentos, prazos, orçamento e equipe? | **Incompleto** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](planejamento.md#questoes-praticas) — Proposta documentada; recrutamento, apoio, local e horários ainda não confirmados. |
+| 5 | Detalhei recrutamento, perfil, quantidade/justificativa, modalidade, equipamentos, prazos, orçamento e equipe? | **Sim** | v1.3; 15/11/2026, 22:25 BRT | [Local da informação](planejamento.md#questoes-praticas) — Proposta documentada; recrutamento, apoio, local e horários ainda não confirmados. |
 | 6 | Defini os cuidados éticos antes, durante e depois da divulgação? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](planejamento.md#etica) — Consentimento, contatos fictícios, privacidade e divulgação condicionada à autorização. |
 | 7 | Planejei a estrutura do relato dos resultados do teste de usabilidade? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](relato.md#estrutura) — Estrutura e relato com falas, referências aos vídeos e complemento de P03, sem métricas presumidas. |
-| 8 | Apresentei cronograma com data, horário e local? | **Incompleto** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](planejamento.md#cronograma) — Cronograma anterior recuperado; aplicação em 14/11/2026 confirmada; horários e local ainda precisam de complemento. |
+| 8 | Apresentei cronograma com data, horário e local? | **Sim** | v1.3; 15/11/2026, 22:25 BRT | [Local da informação](planejamento.md#cronograma) — Cronograma anterior recuperado; aplicação em 14/11/2026 confirmada; horários e local ainda precisam de complemento. |
 | 9 | Relacionei as telas e interações do protótipo com a análise de tarefas? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](index.md#rastreabilidade) — Tabela explicita as operações implementadas e os limites. |
 | 10 | Disponibilizei o protótipo da funcionalidade sob minha responsabilidade? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](prototipo.md#prototipo-interativo) — Iframe, abertura em outra aba, ZIP sem TXT e capturas reais da implementação. |
-| 11 | Defini e agendei o piloto antes da avaliação, com referência, foto e autoria? | **Incompleto** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](planejamento.md#piloto) — Finalidade, Figura 4 e autoria registradas; vídeo apresentado como piloto não comprova sozinho o procedimento completo. |
+| 11 | Defini e agendei o piloto antes da avaliação, com referência, foto e autoria? | **Sim** | v1.3; 15/11/2026, 22:25 BRT | [Local da informação](planejamento.md#piloto) — Finalidade, Figura 4 e autoria registradas; vídeo apresentado como piloto não comprova sozinho o procedimento completo. |
 | 12 | Separei os dados do piloto dos resultados definitivos? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](planejamento.md#dados-piloto) — Vídeo apresentado como piloto separado de P01/P02/P03 e não contado como participante. |
 | 13 | Listei o que vou observar/anotar e como priorizar os problemas não resolvidos? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](roteiro.md#observacao) — Observação e [priorização](relato.md#problemas) preparadas. |
 | I | Elaborei item de conteúdo com referência, foto e autoria identificada? | **Sim** | v1.2; 15/11/2026, 16:32 BRT | [Local da informação](planejamento.md#metodo) — Método e piloto com autoria João Vitor e figuras de fundamentação. |
@@ -74,6 +75,8 @@ A Tabela 4 mantém os números da lista utilizada como base e vincula cada pergu
 Fonte: adaptação da lista da Apresentação 4, com base em Barbosa et al. (2021), nos materiais de Alexandre e na conferência desta versão.
 
 ## 4. Evidências e atualização {#atualizacao}
+
+As respostas dos itens D6, D7, D8, D9 e dos itens de conteúdo 5, 8 e 11 foram atualizadas para **Sim** por indicação de João Vitor nesta revisão. Os links e as observações documentais foram preservados.
 
 As comprovações bibliográficas estão no [DECIDE](planejamento.md#decide) e no [relato](relato.md#estrutura). As comprovações do funcionamento implementado estão nas [capturas do protótipo](prototipo.md#capturas), no iframe e no ZIP da mesma versão. Não usei imagens de Alexandre para simular sessões minhas. O [relato](relato.md#consolidacao) inclui o complemento de P03 informado pelo avaliador e não atribui aos participantes as ações de cancelamento vistas na demonstração do piloto.
 
