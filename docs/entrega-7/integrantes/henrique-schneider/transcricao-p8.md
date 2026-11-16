@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Gravação da sessão e transcrição automática pelo Microsoft Teams; anonimização com apoio do Claude | [Sessão do participante P8](sessao-p8.md) | — |
+| Henrique Schneider Fernandes da Rosa | Gravação da sessão e transcrição automática pelo Microsoft Teams; anonimização com apoio do Claude | [Sessão do participante P8](sessao-p8.md) | [Gravação da sessão com P8](https://youtu.be/OI7Bcn_aIPI) |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -18,6 +18,7 @@ Fonte: elaborado pelo autor (2026).
 | --- | --- | --- | --- | --- |
 | 15/11/2026 | 1.0 | Publicação da transcrição automática do Microsoft Teams da sessão com o participante P8, com o nome, a idade, o mês de nascimento e a formação do participante removidos | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.1 | Inclusão das chamadas das Tabelas 1 a 3 no texto, a partir da inspeção do próprio grupo | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 16/11/2026 | 1.2 | Inclusão do link da gravação da sessão no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -135,4 +136,4 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Co
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para converter a transcrição do Teams em tabela, trocar o nome do participante pelo código P8 e remover a idade, o mês de nascimento e a formação. A transcrição não foi corrigida nem resumida. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para incluir as chamadas das tabelas no texto, a partir da inspeção do próprio grupo.
+**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para converter a transcrição do Teams em tabela, trocar o nome do participante pelo código P8 e remover a idade, o mês de nascimento e a formação. A transcrição não foi corrigida nem resumida. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para incluir as chamadas das tabelas no texto, a partir da inspeção do próprio grupo. Em 16/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8.

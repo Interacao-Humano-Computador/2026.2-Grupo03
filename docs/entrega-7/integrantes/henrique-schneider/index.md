@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Condução do teste de usabilidade do protótipo de alta fidelidade e registro da sessão com o participante P8 | [Visão geral](index.md) | — |
+| Henrique Schneider Fernandes da Rosa | Condução do teste de usabilidade do protótipo de alta fidelidade e registro da sessão com o participante P8 | [Visão geral](index.md) | [Gravação da sessão com P8](https://youtu.be/OI7Bcn_aIPI) |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -21,6 +21,7 @@ Fonte: elaborado pelo autor (2026).
 | 15/11/2026 | 0.3 | Inclusão do roteiro da apresentação e dos links para a lista de verificação da Entrega 7 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 0.4 | Inclusão das chamadas das Tabelas 1 a 3 no texto, a partir da inspeção do próprio grupo | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 0.5 | Inclusão das páginas de planejamento, roteiro, protótipo, relato e verificação, na estrutura usada pelos demais integrantes na Entrega 7 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 16/11/2026 | 0.6 | Inclusão do link da gravação da sessão no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -59,4 +60,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar esta visão geral e o modelo da página da sessão a partir do planejamento do teste de usabilidade, sem acrescentar dados. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para registrar a sessão com o participante P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta. Em 15/11/2026, também foi usado para incluir o roteiro da apresentação e os links da lista de verificação. Em 15/11/2026, também foi usado para incluir as chamadas das tabelas no texto, a partir da inspeção do próprio grupo. Em 15/11/2026, também foi usado para criar as páginas de planejamento, roteiro, protótipo, relato e verificação, a partir do material já publicado, na estrutura usada pelos demais integrantes.
+**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar esta visão geral e o modelo da página da sessão a partir do planejamento do teste de usabilidade, sem acrescentar dados. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para registrar a sessão com o participante P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta. Em 15/11/2026, também foi usado para incluir o roteiro da apresentação e os links da lista de verificação. Em 15/11/2026, também foi usado para incluir as chamadas das tabelas no texto, a partir da inspeção do próprio grupo. Em 15/11/2026, também foi usado para criar as páginas de planejamento, roteiro, protótipo, relato e verificação, a partir do material já publicado, na estrutura usada pelos demais integrantes. Em 16/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8.
