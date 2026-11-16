@@ -16,7 +16,7 @@ Fonte: minha elaboração (2026).
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 14/11/2026 | 1.0 | Separei o protótipo em uma página própria e incorporei a navegação interativa do Figma | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 14/11/2026 | 1.0 | Separei o protótipo em uma página própria e incorporei a navegação interativa do Figma | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: meus registros (2026).
 
@@ -64,6 +64,6 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 
 FIGMA. **Embed a Figma prototype.** Documentação oficial. [Incorporação de protótipos](https://developers.figma.com/docs/embeds/embed-figma-prototype/). Acesso em: 14 nov. 2026.
 
-## Uso de IA generativa
+## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.

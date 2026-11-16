@@ -10,6 +10,7 @@ Esta pasta reúne **tudo o que ainda falta** no site do projeto de IHC. Nada do 
 | [`entrega-2.md`](entrega-2.md) | Entrega 2 – Perfil do Usuário, Aspectos Éticos e Análise de Tarefas (artefatos, contribuições, listas, monitoria e inspeção do Grupo 02) |
 | [`entrega-3.md`](entrega-3.md) | Entrega 3 – Princípios, Metas e Guia de Estilo (artefatos, contribuições, listas, monitoria e inspeção do Grupo 07) |
 | [`entrega-4.md`](entrega-4.md) | Entrega 4 – Planejamento da Avaliação (DECIDE, planejamentos individuais, listas e inspeção do Grupo 01) |
+| [`marcadores-verificar-removidos.md`](marcadores-verificar-removidos.md) | Texto, página e linha de cada marcador `[VERIFICAR]` retirado do site em 15/11/2026 |
 | [`geral.md`](geral.md) | Páginas gerais: Início, Apresentações, Atas, Listas de Verificação, Plano de Ensino |
 | [`integrantes-e-trabalhos-individuais.md`](integrantes-e-trabalhos-individuais.md) | Equipe, tarefas por integrante, trabalhos individuais que faltam e conferências nos trabalhos publicados |
 | [`paginas-fora-do-site/`](paginas-fora-do-site/README.md) | Rascunhos e modelos não preenchidos que saíram do site (Entregas 5 a 8, projeto final, entrevistas etc.) |

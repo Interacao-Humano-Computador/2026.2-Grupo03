@@ -19,10 +19,10 @@ Fonte: elaborado pelos autores (2026), com base no relatório entregue (Grupo 03
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 13/10/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Planejamento Entrega 4") | Grupo 03 (relatório assinado pelo grupo) | **[VERIFICAR: revisor]** |
-| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento DECIDE publicado em página própria, artefatos, matriz de conformidade com a lista do Plano de Ensino e inspeção; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 2.1 | Organização por entrega; atualização da equipe, dos artefatos e das listas individuais; reorganização das seções | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 13/10/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Planejamento Entrega 4") | Grupo 03 (relatório assinado pelo grupo) | Gabriel Robson |
+| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento DECIDE publicado em página própria, artefatos, matriz de conformidade com a lista do Plano de Ensino e inspeção; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 2.1 | Organização por entrega; atualização da equipe, dos artefatos e das listas individuais; reorganização das seções | Henrique Schneider | Gabriel Robson |
+| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -96,4 +96,4 @@ O relatório entregue registra o uso do Claude (Anthropic) e do Gemini (Google) 
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever o relatório da Entrega 4 como página do site, a partir do texto do PDF entregue, e para organizar as Tabelas 1 e 3 a 5. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

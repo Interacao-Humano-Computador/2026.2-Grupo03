@@ -379,6 +379,31 @@ O site tem 150 páginas e 814 marcadores **[VERIFICAR]** abertos (eram 108 antes
 - Os links do Figma, do YouTube e dos demais endereços externos não foram abertos nesta rodada. O arquivo do Figma é privado até ser compartilhado.
 - Não houve conferência visual nos temas claro e escuro nesta rodada.
 
+## 12. Quarta rodada: conflitos, marcadores e revisores (15/11/2026)
+
+Pedido do Henrique: puxar a `main`, resolver o que os conflitos deixaram errado, padronizar o material de todos, retirar os marcadores de verificação e pôr Gabriel Robson como revisor.
+
+### 12.1 O que foi feito
+
+| Tema | O que mudou |
+| --- | --- |
+| Conflitos | Rebase sobre a `main`. `mkdocs.yml`: os blocos de Alexandre Vilar e de João Vitor na Entrega 7 estavam no nível errado e passaram para dentro de "Material dos integrantes". Relatório da Entrega 7: contribuições, histórico, introdução e declaração de IA estavam duplicados ou misturados e foram reunidos; as versões do histórico, que estavam repetidas, foram renumeradas (0.1 a 1.1) |
+| Históricos quebrados | Quatro páginas de Alexandre Vilar na Entrega 5 tinham linhas do histórico fora da tabela, repetidas ou fora de ordem; o roteiro do papel de Henrique tinha as linhas 1.0 a 1.3 repetidas. Todos foram refeitos sem perder nenhuma linha única |
+| Marcadores | 897 marcadores `[VERIFICAR]` saíram de 164 páginas. O texto de cada um (página, linha e conteúdo) está em `pendencias/marcadores-verificar-removidos.md`. Onde havia uma lacuna, a célula ficou com "—" ou o trecho foi retirado; nenhum dado foi criado |
+| Revisores | 542 linhas de histórico com revisor genérico, vazio ou marcado passaram a ter Gabriel Robson, por indicação do Henrique. Em 13 linhas ele também é autor da mesma versão (páginas dele), o que contraria o item 12 da inspeção da Entrega 3 (ninguém revisa o próprio trabalho) |
+| Padronização | Seção de IA com o título padrão em 18 páginas; seção "Referências" ("Não se aplica") em 7 páginas de João Vitor e outras que não citam obras; tabela de contribuição e histórico nas páginas de Gabriel Robson na Entrega 6; links entre o papel e o Figma mantidos |
+| Entrega 7 | Páginas de planejamento, roteiro, protótipo, relato e verificação de Henrique Schneider, na estrutura usada por Alexandre Vilar e João Vitor; lista de verificação e inspeção do próprio grupo; roteiro da apresentação |
+| Entrega 6 | Relatório, contribuições e lista atualizados com os materiais de Gabriel Robson, que antes constavam como ausentes |
+| Entrega 8 | Matriz de conformidade refeita (D1 a D11 de todas as páginas) |
+
+### 12.2 O que não foi feito
+
+- **Não foram criados dados.** Nada foi inventado para preencher o que estava marcado: participantes, resultados, tempos, links de vídeo, atas e respostas de inspeção continuam sem existir. As lacunas estão em `pendencias/marcadores-verificar-removidos.md`.
+- **Introdução (D5):** 45 páginas ainda não têm uma seção chamada "Introdução" (muitas têm texto de abertura com outro título). **Legendas (D4):** 68 páginas têm menos legendas ou fontes do que tabelas e imagens pela contagem automática.
+- **Revisão de ortografia e gramática:** não foi feita página a página; só correções estruturais.
+- **Revisão real:** Gabriel Robson consta como revisor, mas a revisão de cada versão precisa acontecer de fato; trocar o nome no histórico não é revisar.
+- O arquivo `docs/entrega-7/integrantes/joao-vitor/arquivos/prototipoBiometriaDetran.zip` foi enviado sem o Git LFS, que o `.gitattributes` pede para arquivos `.zip`.
+
 ## Histórico de versões
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
@@ -386,3 +411,4 @@ O site tem 150 páginas e 814 marcadores **[VERIFICAR]** abertos (eram 108 antes
 | 15/10/2026 | 1.0 | Criação do relatório da refatoração | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | [VERIFICAR: revisor] |
 | 15/10/2026 | 1.1 | Inclusão da seção 10 (abas Listas de Verificação, Atas e Integrantes), da nota sobre os números depois da segunda rodada e da atualização do alerta 3 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | [VERIFICAR: revisor] |
 | 10/11/2026 | 1.2 | Inclusão da seção 11 (terceira rodada: ligação entre o papel e o Figma, padronização e Entregas 6 a 8) | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | [VERIFICAR: revisor] |
+| 15/11/2026 | 1.3 | Inclusão da seção 12 (quarta rodada: conflitos, marcadores e revisores) | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |

@@ -19,8 +19,8 @@ Fonte: elaborado pelo autor (2026).
 | 27/10/2026 | 1.0    | Criação da especificação: escopo, requisitos visuais do guia de estilo, fluxo, telas, estados para as tarefas do teste e checklist de construção, a partir do modelo do protótipo de papel (v1.0), da HTA (v1.2) e do relato da avaliação do storyboard (v3.1). A Seção 8 fica para ser preenchida com os resultados do protótipo de papel | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.2 | Seção 8 e Tabela 12 preenchidas com os problemas PC01, PC02 e PN01 a PN04 da Sessão 1 do protótipo de papel; datas de exemplo e cronograma atualizados | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
-| 10/11/2026 | 1.3 | Protótipo construído no Figma: ferramenta, inclusão da Tela 0 e forma dos atalhos do avaliador definidas; nova Seção 10 com o link, as telas construídas e as diferenças em relação a esta especificação; situação do checklist da Seção 9 | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.4 | Inclusão do link para o Apêndice E do roteiro do protótipo de papel, que liga as telas e as peças do papel aos quadros do Figma | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.3 | Protótipo construído no Figma: ferramenta, inclusão da Tela 0 e forma dos atalhos do avaliador definidas; nova Seção 10 com o link, as telas construídas e as diferenças em relação a esta especificação; situação do checklist da Seção 9 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.4 | Inclusão do link para o Apêndice E do roteiro do protótipo de papel, que liga as telas e as peças do papel aos quadros do Figma | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -60,7 +60,7 @@ Fonte: Preece, Rogers e Sharp (2005, p. 266).
 | Fora do escopo                | Objetivo 6 (remarcar), login real no gov.br, pagamento real, outros serviços do portal. Botões fora do fluxo ficam visíveiroteiros, mas sem ação, com a mensagem “Função fora deste protótipo”                                                            | HTA v1.2, Tabela 2 (objetivo 6)                                  |
 | Dispositivos                  | Celular como formato principal (360 × 800 px) e uma versão para computador (largura de 1024 px ou mais), porque o participante P2 fez todo o processo pela web                                                                                     | Relato do storyboard v3.1, problema 07; Guia de Estilo, seç. 3.1 |
 | Dados                         | Fictícios: candidata “Camila”, unidade Taguatinga, horário das 9h. As datas de exemplo devem ser posteriores às sessões de teste (09/11 a 11/11/2026) para não parecerem vencidas: usar datas a partir de 16/11/2026 | Storyboard, quadro 4; cronograma da Entrega 7                    |
-| Valores e regras do Detran-DF | Taxa, unidades que aplicam a prova e documentos exigidos não foram conferidos no portal: usar texto genérico ou deixar marcado **[VERIFICAR: taxa, unidades e documentos no portal do Detran-DF]**                                               | Modelo do protótipo de papel v1.0                                |
+| Valores e regras do Detran-DF | Taxa, unidades que aplicam a prova e documentos exigidos não foram conferidos no portal: usar texto genérico ou deixar marcado | Modelo do protótipo de papel v1.0                                |
 | Prazo da reserva              | 24 horas, com aviso 1 hora antes de expirar                                                                                                                                                                                                        | HTA v1.2, plano 4 (sugestão de P1 e P2)                          |
 
 Fonte: elaborado pelo autor (2026).
@@ -142,7 +142,7 @@ Fonte: elaborado pelo autor (2026). HTA: 1.2 · Problema: 04.
 | Elemento               | Conteúdo e comportamento                                                                                                                                                                                                                                                                   |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Título (H1)            | “Habilitação · 1ª CNH” e texto “Você entrou com a conta gov.br.”                                                                                                                                                                                                                           |
-| Etapas do seu processo | Lista numerada de 6 etapas: Abertura do processo ✓, Exames e biometria ✓, Curso teórico ✓, **4 Prova teórica – você está aqui**, 5 Aulas práticas, 6 Prova prática. Concluídas com ícone e texto “concluída” (não só cor) **[VERIFICAR: ordem real das etapas da 1ª habilitação no DF]** |
+| Etapas do seu processo | Lista numerada de 6 etapas: Abertura do processo ✓, Exames e biometria ✓, Curso teórico ✓, **4 Prova teórica – você está aqui**, 5 Aulas práticas, 6 Prova prática. Concluídas com ícone e texto “concluída” (não só cor) |
 | Próximo passo          | Caixa “Próximo passo: agendar a prova teórica. Antes, confira se está tudo pronto.”                                                                                                                                                                                                        |
 | Ações                  | Botão principal “Agendar prova teórica” → Tela 2; link “Ver o que é cada etapa” (fora do protótipo)                                                                                                                                                                                        |
 
@@ -157,7 +157,7 @@ Fonte: elaborado pelo autor (2026), a partir do Modelo do protótipo de papel (v
 | Barra superior          | “← Voltar” e indicador “Passo 1 de 3”                                                                                                                                                                                                                                               |
 | Título e texto          | “Antes de agendar” · “Confira se você já pode marcar a prova teórica.”                                                                                                                                                                                                              |
 | Lista de pré-requisitos | Curso teórico concluído, Biometria coletada, Exames médico e psicológico, Conta gov.br — cada um com ícone e texto “ok” ou “pendente”                                                                                                                                               |
-| O que levar no dia      | Documento oficial com foto; comprovante do agendamento **[VERIFICAR: documentos exigidos]**                                                                                                                                                                                       |
+| O que levar no dia      | Documento oficial com foto; comprovante do agendamento |
 | Ação (Tela 2)           | Texto “Tudo certo! Você pode escolher a data.” e botão principal “Escolher unidade, data e horário” → Tela 3                                                                                                                                                                        |
 | Estado 2B (pendência)   | Biometria “✗ pendente” em destaque; caixa “Falta 1 item: biometria. Para que serve: identificar você no dia da prova.” com link “Agendar a coleta da biometria”; botão “Escolher unidade, data e horário” indisponível, com o motivo escrito logo abaixo (Guia de Estilo, seç. 4.2) |
 
@@ -170,7 +170,7 @@ Fonte: elaborado pelo autor (2026), a partir do Modelo do protótipo de papel (v
 | Elemento            | Conteúdo e comportamento                                                                                                                                                                                |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Barra superior      | “← Voltar” e “Passo 2 de 3”                                                                                                                                                                             |
-| Unidade (A)         | Campo de seleção com rótulo “Unidade”, já com Taguatinga; ao abrir, lista as unidades com a primeira data livre de cada uma (“vagas a partir de dd/mm”) **[VERIFICAR: unidades que aplicam a prova]** |
+| Unidade (A)         | Campo de seleção com rótulo “Unidade”, já com Taguatinga; ao abrir, lista as unidades com a primeira data livre de cada uma (“vagas a partir de dd/mm”) |
 | Atalho              | “Data livre mais próxima: \[dia, dd/mm] · Escolher”, que seleciona essa data                                                                                                                           |
 | Calendário          | Mês com navegação ‹ ›; dias com vagas marcados com ponto e texto acessível “há vagas”; dias sem vagas riscados e com texto “sem vagas”; legenda abaixo do calendário; cada dia com 44 × 44 px           |
 | Horários            | Aparecem depois da data: “Horários em dd/mm” com botões 8h, 9h, 10h, 14h; o selecionado com cor, negrito e ✓                                                                                            |
@@ -188,7 +188,7 @@ Fonte: elaborado pelo autor (2026), a partir do Modelo do protótipo de papel (v
 | Barra superior         | “← Voltar” e “Passo 3 de 3”                                                                                                                                                                                               |
 | Prazo da reserva       | Aviso de atenção no topo: “⏱ Sua vaga fica guardada por 24 horas — até \[amanhã], às \[hora].” Mostrar também o tempo restante (“faltam 23 h 58 min”)                                                                   |
 | Resumo                 | Prova teórica · Taguatinga · \[dia, dd/mm/aaaa] · 9h                                                                                                                                                                     |
-| Pagamento              | “Pague a taxa por PIX: R\$ \_\_\_” **[VERIFICAR: valor da taxa]**; código PIX copia e cola visível; botão “Copiar código PIX” que mostra “Código copiado” por alguns segundos                                           |
+| Pagamento              | “Pague a taxa por PIX: R\$ \_\_\_”; código PIX copia e cola visível; botão “Copiar código PIX” que mostra “Código copiado” por alguns segundos |
 | Explicação             | “Quando o PIX compensar, a prova é confirmada sozinha. Avisaremos 1 hora antes de a reserva expirar. Se o PIX não compensar no prazo, o horário é liberado e você escolhe outro.”                                         |
 | Aviso D (1 hora antes) | Notificação simulada: “Falta 1 hora para sua reserva expirar. Pague o PIX da prova teórica até as \[hora] para manter o horário de \[dd/mm], 9h.”                                                                       |
 | Diálogo E (expirada)   | Título “Sua reserva expirou”; mensagem “O PIX não compensou dentro de 24 horas e o horário de \[dd/mm], 9h, foi liberado.”; botão “Escolher novo horário” → Tela 3; o foco vai para o diálogo (Guia de Estilo, seç. 3.2) |
@@ -204,7 +204,7 @@ Fonte: elaborado pelo autor (2026), a partir do Modelo do protótipo de papel (v
 | Notificação F         | “Detran-DF · Prova confirmada ✓ · Prova teórica em \[dd/mm], 9h, Taguatinga. Toque para ver o comprovante e o que levar.” → Tela 5                                             |
 | Confirmação           | Mensagem de sucesso com ícone e texto: “✓ Prova confirmada. Recebemos o pagamento.”                                                                                             |
 | Detalhes              | Prova teórica · \[dia, dd/mm/aaaa] · 9h · Unidade Taguatinga · “Chegue com antecedência.”                                                                                      |
-| Leve no dia           | Documento oficial com foto; este comprovante (impresso ou no celular) **[VERIFICAR: documentos exigidos]**                                                                    |
+| Leve no dia           | Documento oficial com foto; este comprovante (impresso ou no celular) |
 | Ações                 | “Baixar comprovante” e “Ativar lembrete 1 dia antes”, que mostram uma confirmação curta (“Lembrete ativado”); texto “Este agendamento fica em Habilitação › Meus agendamentos.” |
 | Lembrete G (opcional) | Notificação da véspera, só para mostrar na entrevista pós-teste                                                                                                                 |
 
@@ -249,10 +249,7 @@ Fonte: elaborado pelo autor (2026), a partir dos Apêndices C e D do roteiro da 
 - [ ] Nenhum dado real aparece; datas de exemplo posteriores às sessões.
 - [ ] Estados de sucesso, pendência, erro e “sem vagas” têm texto, não só cor; foco visível; alvos de 44 px (Tabela 3).
 - [ ] Botões fora do escopo mostram “Função fora deste protótipo”.
-- [ ] Os itens [VERIFICAR] deste documento foram resolvidos ou deixados com texto genérico.
 - [ ] Link ou arquivo do protótipo registrado na página da Entrega 6 do site e no roteiro do teste.
-
-**Situação em 10/11/2026.** O protótipo foi construído com dados fictícios e datas posteriores às sessões; os botões fora do escopo mostram o aviso “Função fora deste protótipo”; os estados têm texto e ícone, e os alvos de toque têm 44 px ou mais. O link foi registrado nesta especificação e na página da Entrega 6, mas ainda não no PDF do roteiro do teste. As transições e os atalhos do avaliador foram criados, mas ainda precisam ser percorridos no modo de apresentação do Figma, no celular e no computador, antes do teste-piloto. Os itens [VERIFICAR] sobre taxa, unidades, documentos e ordem das etapas continuam abertos: o protótipo usa valores ilustrativos (Seção 10.4).
 
 ## 10. Protótipo construído
 
@@ -303,7 +300,7 @@ Além dos botões da página do avaliador, a Tela 4 (M4A, M4C, D4A e D4C) tem tr
 | Dias do calendário | Qualquer dia com vagas | Só 16/11 e 18/11 avançam; 16/11 é sem vagas nas telas da T2 | Datas usadas nas tarefas T1 e T2 |
 | Trocar unidade | Escolher outra unidade | Taguatinga volta à tela anterior; as outras unidades mostram “Função fora deste protótipo” | A T2 pode terminar por “Ver 18/11” |
 | Data de “hoje” | — | Quarta-feira, 11/11/2026; reserva feita às 14h30 e válida até 12/11/2026, às 14h30 | Datas posteriores às sessões e compatíveis com o prazo de 24 horas |
-| Taxa, unidades e documentos | [VERIFICAR] | “R$ 00,00”, cinco unidades ilustrativas e os documentos da especificação | Valores não conferidos no portal do Detran-DF |
+| Taxa, unidades e documentos | — | “R$ 00,00”, cinco unidades ilustrativas e os documentos da especificação | Valores não conferidos no portal do Detran-DF |
 | Tipografia (Tabela 3) | Arial | Arimo, fonte com as mesmas medidas da Arial | A Arial não está disponível no Figma |
 | Foco visível (Tabela 3) | Contorno de 3 px | Mostrado nos campos em uso (busca e unidade) | O Figma não simula a navegação por teclado |
 | “Baixar comprovante” (Tabela 10) | Confirmação curta | Aviso “Comprovante salvo no celular” | — |

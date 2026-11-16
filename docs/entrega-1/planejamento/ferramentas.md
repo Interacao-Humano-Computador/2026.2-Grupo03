@@ -21,11 +21,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/09/2026 | 1.0 | Documentação das ferramentas usadas no projeto e de suas finalidades. | Eduardo Ribeiro | **[VERIFICAR: revisor]** |
-| 10/09/2026 | 1.1 | Atualização das ferramentas utilizadas e inclusão dos respectivos logos. | Eduardo Ribeiro | **[VERIFICAR: revisor]** |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções, legenda da tabela), das referências (ABNT) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 1.3 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 06/09/2026 | 1.0 | Documentação das ferramentas usadas no projeto e de suas finalidades. | Eduardo Ribeiro | Gabriel Robson |
+| 10/09/2026 | 1.1 | Atualização das ferramentas utilizadas e inclusão dos respectivos logos. | Eduardo Ribeiro | Gabriel Robson |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções, legenda da tabela), das referências (ABNT) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 1.3 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | Gabriel Robson |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -100,4 +100,4 @@ Todo conteúdo sugerido pela inteligência artificial foi analisado, conferido e
 
 Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico em ordem cronológica, numeração das seções e legenda da tabela), padronizar as referências conforme a ABNT e reunir as declarações de uso de IA nesta seção. A tabela de ferramentas e o texto da página não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

@@ -144,7 +144,7 @@ ROSA, Henrique Schneider Fernandes da. *Relato dos resultados da avaliação do 
 
 SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
 
-## Uso de IA generativa
+## Agradecimentos e uso de IA generativa
 
 Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado como apoio na decomposição da tarefa, no desenho do diagrama, na diagramação deste PDF e na localização dos trechos citados de Barbosa e Silva (2010) e, nas versões 1.1 e 1.2, no registro dos resultados das entrevistas a partir das transcrições automáticas e das gravações e na especificação das operações. A validação da análise e a revisão do conteúdo são de responsabilidade do autor.
 

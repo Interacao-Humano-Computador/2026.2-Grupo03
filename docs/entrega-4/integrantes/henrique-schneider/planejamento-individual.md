@@ -25,11 +25,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
-| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Integrantes do grupo) |
-| 13/10/2026 | 2.0 | Atualização do Documento | Henrique Schneider | **[VERIFICAR: revisor]** (anterior: Integrantes do grupo) |
-| 15/10/2026 | 2.1 | Padronização da estrutura no modelo da disciplina (tabela de contribuição, legenda do histórico corrigida, introdução, seções numeradas, legendas dos cronogramas, seções do storyboard e da relação com a análise de tarefas) e inclusão da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 2.2 | Organização por entrega; fotos das fontes; revisão das citações e das referências; reorganização das seções | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Gabriel Robson |
+| 13/10/2026 | 2.0 | Atualização do Documento | Henrique Schneider | Gabriel Robson |
+| 15/10/2026 | 2.1 | Padronização da estrutura no modelo da disciplina (tabela de contribuição, legenda do histórico corrigida, introdução, seções numeradas, legendas dos cronogramas, seções do storyboard e da relação com a análise de tarefas) e inclusão da seção de uso de IA | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 2.2 | Organização por entrega; fotos das fontes; revisão das citações e das referências; reorganização das seções | Henrique Schneider | Gabriel Robson |
+| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -143,4 +143,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 *Interação Humano Computador — André Barros de Sales — 2026.2 — Grupo 03*
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

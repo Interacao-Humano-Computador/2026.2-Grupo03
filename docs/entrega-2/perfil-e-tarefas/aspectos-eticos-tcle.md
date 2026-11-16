@@ -23,9 +23,9 @@ Fonte: elaborado pelos autores (2026).
 | 17/09/2026 | 1.0 | Elaboração inicial das diretrizes éticas e estruturação do TCLE para pesquisas no Portal Detran-DF. | João Vitor | Henrique Schneider |
 | 27/09/2026 | 1.1 | Ajustes nas cláusulas de salvaguarda de anonimato e direito de desistência do participante. | Henrique Schneider | João Vitor |
 | 27/09/2026 | 1.2 | Inclusão de texto introdutório fundamentando a importância teórica dos 4 princípios éticos e do TCLE em IHC. | Henrique Schneider | João Vitor |
-| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, numeração das seções), das citações e referências (ABNT), inclusão da seção de itens de conteúdo e da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 138, 139, 141 e 142) como Figuras 1 a 4, da fonte do termo de consentimento e retirada da seção de itens de conteúdo | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, numeração das seções), das citações e referências (ABNT), inclusão da seção de itens de conteúdo e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 138, 139, 141 e 142) como Figuras 1 a 4, da fonte do termo de consentimento e retirada da seção de itens de conteúdo | Henrique Schneider | Gabriel Robson |
+| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -55,7 +55,6 @@ O trecho do livro com a responsabilidade da equipe de design sobre o bem-estar d
     Fonte: Barbosa e Silva (2010, cap. 5, seç. 5.4, p. 139).
 
 No âmbito do projeto do Portal Detran-DF, o **Termo de Consentimento Livre e Esclarecido (TCLE)** materializa essas garantias éticas. Ele atua como um contrato transparente em que o participante é plenamente informado sobre os objetivos da investigação, a natureza voluntária da sua colaboração, o anonimato das suas informações e imagens, a autorização para gravações de mídia e a garantia irrestrita de retirar seu consentimento a qualquer momento, sem qualquer tipo de penalidade ou constrangimento.
-
 
 ## 2. Termo de Consentimento
 
@@ -111,4 +110,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 **Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções) e padronizar as citações após conferir as páginas no PDF de Barbosa e Silva (2010). Em 17/10/2026, a ferramenta foi usada para recortar do PDF do livro as fotos dos trechos citados (Figuras 1 a 4) e para identificar no livro o exemplo de termo de consentimento em que o termo da seção 2 se baseia. O texto da introdução e do termo não foi alterado; o campo do e-mail de contato aparece em branco, como os demais campos do formulário. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

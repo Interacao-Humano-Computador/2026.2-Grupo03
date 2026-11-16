@@ -19,7 +19,7 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/11/2026 | 1.0 | Criação da lista: itens do desenvolvimento do projeto com autoavaliação preliminar, 11 itens de conteúdo propostos com fonte e quadros de registro para a inspeção do próprio grupo e do Grupo +1 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.0 | Criação da lista: itens do desenvolvimento do projeto com autoavaliação preliminar, 11 itens de conteúdo propostos com fonte e quadros de registro para a inspeção do próprio grupo e do Grupo +1 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -27,7 +27,7 @@ Fonte: elaborado pelo autor (2026).
 
 Esta lista guia as inspeções da Entrega 6 (Relato dos resultados do protótipo de papel, Planejamento da avaliação do protótipo de alta fidelidade e Planejamento do relato dos resultados dessa avaliação): a do próprio Grupo 03 e a do Grupo +1, prevista para 04/11/2026 (Sales, 2026, p. 5). Ela segue o formato da [lista da Entrega 5](../../entrega-5/verificacao/lista-de-verificacao.md).
 
-O Plano de Ensino traz a lista de referência só até a Entrega 4 (Sales, 2026, pp. 8–13). Por isso, os itens do desenvolvimento do projeto (Seção 2) são os mesmos da Entrega 1, e os itens de conteúdo (Seção 3) são **propostos pelo grupo**, a partir das fontes que as páginas da entrega já citam. Eles devem ser confirmados quando o professor publicar uma lista própria para a Entrega 6 no Moodle. **[VERIFICAR: se o Moodle traz lista de verificação para a Entrega 6]**
+O Plano de Ensino traz a lista de referência só até a Entrega 4 (Sales, 2026, pp. 8–13). Por isso, os itens do desenvolvimento do projeto (Seção 2) são os mesmos da Entrega 1, e os itens de conteúdo (Seção 3) são **propostos pelo grupo**, a partir das fontes que as páginas da entrega já citam. Eles devem ser confirmados quando o professor publicar uma lista própria para a Entrega 6 no Moodle.
 
 **Como usar.** Para cada item, responda **Sim**, **Não** ou **Incompleto** no quadro de registro do grupo inspecionado (Seção 4), anote a evidência (link da página ou minuto do vídeo) e registre a versão, a data e a hora da avaliação.
 
@@ -37,17 +37,17 @@ O Plano de Ensino traz a lista de referência só até a Entrega 4 (Sales, 2026,
 
 | Código | Questão – o GitHub Pages possui: | Autoavaliação preliminar | Situação nas páginas da Entrega 6 |
 | :---: | --- | :---: | --- |
-| D1 | O histórico de versão padronizado? | Sim | As 12 páginas individuais e as 3 páginas da entrega têm histórico no formato do grupo (Data, Versão, Descrição, Autor(es), Revisor(es)) |
-| D2 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | Incompleto | Os autores estão indicados. Em 10/11/2026, os revisores genéricos ou vazios (“-”, “—”, “A definir”) das páginas da entrega foram trocados por **[VERIFICAR: revisor]**, porque ainda não há revisor nominal registrado |
-| D3 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | Incompleto | 8 das 12 páginas individuais não têm seção de referências (4 de Alexandre Vilar e 4 de João Vitor) |
-| D4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto? | Incompleto | Verificação por contagem: 5 páginas têm menos legendas ou fontes do que tabelas e imagens (3 de Alexandre Vilar e 2 de Henrique Schneider). A chamada no texto precisa de conferência humana |
-| D5 | Um texto fazendo uma introdução dos artefatos? | Incompleto | 6 páginas individuais não têm introdução (3 de Alexandre Vilar e 3 de João Vitor) |
+| D1 | O histórico de versão padronizado? | Sim | Todas as 18 páginas individuais e as 3 páginas da entrega têm histórico no formato do grupo (Data, Versão, Descrição, Autor(es), Revisor(es)) |
+| D2 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | Incompleto | Os autores estão indicados. Gabriel Robson consta como revisor nas linhas de histórico que não tinham um revisor nominal, por indicação de Henrique Schneider; nas páginas dele, autor e revisor coincidem, e a revisão de cada versão ainda não está registrada |
+| D3 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | Todas as 18 páginas individuais e as 3 páginas da entrega têm seção de referências |
+| D4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto? | Incompleto | Verificação por contagem: 9 páginas têm menos legendas ou fontes do que tabelas e imagens (5 de Alexandre Vilar; 2 de Gabriel Robson; 2 de Henrique Schneider). A chamada no texto precisa de conferência humana |
+| D5 | Um texto fazendo uma introdução dos artefatos? | Incompleto | 9 das 18 páginas individuais não têm introdução (4 de Alexandre Vilar; 2 de Gabriel Robson; 3 de João Vitor); as 3 páginas da entrega têm |
 | D6 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | Incompleto | O [Cronograma executado](../../entrega-1/planejamento/cronograma-executado.md) registra as atividades das Entregas 1 a 4 e ainda não traz as da Entrega 6 |
 | D7 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc.)? | Incompleto | As [atas publicadas](../../atas/index.md) são de 27/09/2026 e 14/10/2026; não há ata da semana da Entrega 6 |
-| D8 | A gravação da reunião do grupo? | Incompleto | **[VERIFICAR: link da gravação da reunião do grupo na Entrega 6]** |
-| D9 | Vídeo de apresentação na categoria “não listado” no YouTube? | Incompleto | A apresentação de Henrique Schneider está publicada como não listada, segundo a página dele. Os vídeos de Alexandre Vilar e de João Vitor não têm link nas páginas **[VERIFICAR]** |
-| D10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação da atividade e da gravação, se houver? | Incompleto | As 15 páginas têm tabela de contribuição. As páginas individuais de Alexandre Vilar, de Henrique Schneider e de João Vitor listam só o próprio autor; o nome de todos os integrantes está nas 3 páginas da entrega |
-| D11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | Incompleto | 6 páginas individuais não têm a seção (3 de Alexandre Vilar e 3 de João Vitor) |
+| D8 | A gravação da reunião do grupo? | Incompleto | Nenhum link de gravação de reunião do grupo na Entrega 6 |
+| D9 | Vídeo de apresentação na categoria “não listado” no YouTube? | Incompleto | A apresentação de Henrique Schneider está publicada como não listada, segundo a página dele. Os vídeos de Alexandre Vilar, de Gabriel Robson e de João Vitor não têm link nas páginas |
+| D10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação da atividade e da gravação, se houver? | Incompleto | Todas as páginas têm tabela de contribuição. As páginas individuais listam só o próprio autor; o nome de todos os integrantes está nas 3 páginas da entrega |
+| D11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | Sim | Todas as 18 páginas individuais e as 3 páginas da entrega têm a seção de uso de IA |
 
 Fonte: Sales (2026, pp. 8–9), com correções de digitação; a autoavaliação é do autor desta lista (2026), com apoio de verificação automática da presença de seções, legendas e marcadores (`ferramentas/auditoria-site/auditoria.py`).
 
@@ -61,17 +61,17 @@ Cada item é uma pergunta completa, com a fonte que a justifica. As fontes são 
 
 | Código | Questão | Fonte | Autor do item |
 | :---: | --- | --- | --- |
-| C1 | O relato do protótipo de papel registra, para cada problema encontrado, o local (tela ou peça), o fator de usabilidade afetado, a descrição, a severidade e a frequência? | Barbosa e Silva (2010, cap. 10, seç. 10.2.3, pp. 361–362); escala de severidade em cap. 10, seç. 10.1.1, p. 320 | **[VERIFICAR: autor do item]** |
-| C2 | Os problemas corrigidos durante as sessões estão separados dos não corrigidos, com a correção feita no papel e a sessão em que cada um apareceu? | Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 361) | **[VERIFICAR: autor do item]** |
-| C3 | A prioridade de correção dos problemas combina a severidade e o número de participantes em que cada um ocorreu? | Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 361, 4º parágrafo) | **[VERIFICAR: autor do item]** |
-| C4 | O relato informa o número e o perfil dos participantes e dos avaliadores e declara as limitações (por exemplo, uma única sessão)? | Barbosa e Silva (2010, cap. 9, seç. 9.7.5, pp. 311–312) | **[VERIFICAR: autor do item]** |
-| C5 | Os dados do teste-piloto ficam fora dos resultados da avaliação? | Barbosa e Silva (2010, cap. 9, seç. 9.7.2, p. 307) | **[VERIFICAR: autor do item]** |
-| C6 | O planejamento do protótipo de alta fidelidade explica o que ele cobre e o que não cobre (prototipação vertical ou horizontal)? | Preece, Rogers e Sharp (2005, cap. 8, seç. 8.2.5, p. 266) | **[VERIFICAR: autor do item]** |
-| C7 | O planejamento do teste de usabilidade segue as seis atividades do framework DECIDE? | Barbosa e Silva (2010, cap. 9, seç. 9.8, pp. 312–313) | **[VERIFICAR: autor do item]** |
-| C8 | O planejamento traz as tarefas, as medidas, os valores-alvo e o cronograma com data, horário e local das sessões? | Barbosa e Silva (2010, cap. 9, seç. 9.7.2, pp. 306–308); item 8 da Entrega 4 (Sales, 2026, pp. 12–13) | **[VERIFICAR: autor do item]** |
-| C9 | O protótipo de alta fidelidade permite executar todas as tarefas do teste, inclusive os estados que dependem do avaliador (data sem vagas, PIX compensado e reserva expirada)? | Especificação do protótipo de alta fidelidade (Tabela 11) | **[VERIFICAR: autor do item]** |
-| C10 | Cada problema do protótipo de papel está ligado à tela do protótipo de alta fidelidade que o trata? | [Apêndice E do roteiro do protótipo de papel](../integrantes/henrique-schneider/prototipo-papel.md#apendice-e-correspondencia-entre-o-prototipo-de-papel-e-o-figma) | **[VERIFICAR: autor do item]** |
-| C11 | O planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade tem a estrutura indicada por Barbosa e Silva (objetivos e escopo, método, participantes, sumário dos dados, interpretação, problemas e reprojeto)? | Barbosa e Silva (2010, cap. 9, seç. 9.7.5, pp. 311–312) | **[VERIFICAR: autor do item]** |
+| C1 | O relato do protótipo de papel registra, para cada problema encontrado, o local (tela ou peça), o fator de usabilidade afetado, a descrição, a severidade e a frequência? | Barbosa e Silva (2010, cap. 10, seç. 10.2.3, pp. 361–362); escala de severidade em cap. 10, seç. 10.1.1, p. 320 | — |
+| C2 | Os problemas corrigidos durante as sessões estão separados dos não corrigidos, com a correção feita no papel e a sessão em que cada um apareceu? | Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 361) | — |
+| C3 | A prioridade de correção dos problemas combina a severidade e o número de participantes em que cada um ocorreu? | Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 361, 4º parágrafo) | — |
+| C4 | O relato informa o número e o perfil dos participantes e dos avaliadores e declara as limitações (por exemplo, uma única sessão)? | Barbosa e Silva (2010, cap. 9, seç. 9.7.5, pp. 311–312) | — |
+| C5 | Os dados do teste-piloto ficam fora dos resultados da avaliação? | Barbosa e Silva (2010, cap. 9, seç. 9.7.2, p. 307) | — |
+| C6 | O planejamento do protótipo de alta fidelidade explica o que ele cobre e o que não cobre (prototipação vertical ou horizontal)? | Preece, Rogers e Sharp (2005, cap. 8, seç. 8.2.5, p. 266) | — |
+| C7 | O planejamento do teste de usabilidade segue as seis atividades do framework DECIDE? | Barbosa e Silva (2010, cap. 9, seç. 9.8, pp. 312–313) | — |
+| C8 | O planejamento traz as tarefas, as medidas, os valores-alvo e o cronograma com data, horário e local das sessões? | Barbosa e Silva (2010, cap. 9, seç. 9.7.2, pp. 306–308); item 8 da Entrega 4 (Sales, 2026, pp. 12–13) | — |
+| C9 | O protótipo de alta fidelidade permite executar todas as tarefas do teste, inclusive os estados que dependem do avaliador (data sem vagas, PIX compensado e reserva expirada)? | Especificação do protótipo de alta fidelidade (Tabela 11) | — |
+| C10 | Cada problema do protótipo de papel está ligado à tela do protótipo de alta fidelidade que o trata? | [Apêndice E do roteiro do protótipo de papel](../integrantes/henrique-schneider/prototipo-papel.md#apendice-e-correspondencia-entre-o-prototipo-de-papel-e-o-figma) | — |
+| C11 | O planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade tem a estrutura indicada por Barbosa e Silva (objetivos e escopo, método, participantes, sumário dos dados, interpretação, problemas e reprojeto)? | Barbosa e Silva (2010, cap. 9, seç. 9.7.5, pp. 311–312) | — |
 
 Fonte: elaborado pelo autor (2026), a partir das fontes citadas nas páginas da Entrega 6.
 
@@ -84,13 +84,13 @@ Fonte: elaborado pelo autor (2026), a partir das fontes citadas nas páginas da 
 | Item | Resposta (Sim, Não ou Incompleto) | Evidência (link ou minuto do vídeo) | Versão, data e hora da avaliação |
 | :---: | :---: | --- | --- |
 | D1 a D11 | Ver a autoavaliação preliminar do Quadro 1 | — | 10/11/2026, versão 1.0 desta lista |
-| C1 a C11 | **[VERIFICAR: responder na inspeção]** | **[VERIFICAR]** | **[VERIFICAR]** |
+| C1 a C11 | — | — | — |
 
 Fonte: elaborado pelo autor (2026).
 
 ### 4.2 Inspeção do Grupo +1
 
-A inspeção do Grupo +1 estava prevista para 04/11/2026 (Sales, 2026, p. 5). Nenhum registro dela foi publicado neste site até esta versão. **[VERIFICAR: grupo inspecionado, data, hora, link da gravação e respostas aos itens D1 a D11 e C1 a C11]**
+A inspeção do Grupo +1 estava prevista para 04/11/2026 (Sales, 2026, p. 5). Nenhum registro dela foi publicado neste site até esta versão.
 
 ## Referências
 

@@ -7,7 +7,7 @@
 | Integrante | Material | Evidência | Gravação |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Protótipo de papel do agendamento de vistoria (12 fotos do passo a passo) e planejamento da avaliação do protótipo de alta fidelidade | [Visão geral](integrantes/alexandre-vilar/index.md) | [Vídeo da avaliação](integrantes/alexandre-vilar/video-avaliacao.md) |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Prototipação em papel da funcionalidade de renovação da CNH, especificação do protótipo de alta fidelidade e planejamento do teste de usabilidade (planejamento inicial) | [Visão geral](integrantes/gabriel-robson/index.md) | [Registro da avaliação](integrantes/gabriel-robson/video-avaliacao.md) |
 | Henrique Schneider Fernandes da Rosa | Roteiro e relato da avaliação do protótipo de papel (teste-piloto e Sessão 1), especificação e construção do protótipo de alta fidelidade no Figma, planejamento do teste de usabilidade, materiais do participante e roteiro da apresentação | [Visão geral](integrantes/henrique-schneider/index.md) | [Apresentação](https://youtu.be/sI_3rqIQbCU) |
 | João Vitor Tavares de Sá Lima | Protótipo de papel do fluxo de biometria e planejamento da avaliação do protótipo de alta fidelidade | [Visão geral](integrantes/joao-vitor/index.md) | [Vídeo da avaliação](integrantes/joao-vitor/video-avaliacao.md) |
 
@@ -19,7 +19,7 @@ Fonte: elaborado pelos autores (2026), a partir da tabela de contribuição de c
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/11/2026 | 1.0 | Criação da matriz de contribuições da Entrega 6, com os materiais e as evidências de cada integrante | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.0 | Criação da matriz de contribuições da Entrega 6, com os materiais e as evidências de cada integrante | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -49,16 +49,24 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- |
 | Alexandre Vilar | Protótipo de papel | [Protótipo de papel](integrantes/alexandre-vilar/prototipo-papel.md) | Concluído, com fotos |
 | Alexandre Vilar | Planejamento da alta fidelidade | [Planejamento](integrantes/alexandre-vilar/planejamento-alta-fidelidade.md) | Publicado |
-| Alexandre Vilar | Vídeos da avaliação | [Vídeos](integrantes/alexandre-vilar/video-avaliacao.md) | **[VERIFICAR: links e situação]** |
+| Alexandre Vilar | Vídeos da avaliação | [Vídeos](integrantes/alexandre-vilar/video-avaliacao.md) | — |
 | João Vitor | Protótipo de papel | [Protótipo de papel](integrantes/joao-vitor/prototipo-papel.md) | Documentado, com tarefas T1 a T4 |
 | João Vitor | Planejamento da alta fidelidade | [Planejamento](integrantes/joao-vitor/planejamento-alta-fidelidade.md) | Publicado |
 | João Vitor | Vídeos da avaliação | [Vídeos](integrantes/joao-vitor/video-avaliacao.md) | Links ainda por definir, segundo a página |
 
 Fonte: elaborado pelos autores (2026), com base nas páginas individuais da Entrega 6.
 
-## 4. Pendência de Gabriel Robson
+## 4. Materiais de Gabriel Robson
 
-Não há material de Gabriel Robson na Entrega 6 publicado no site. **[VERIFICAR: contribuição de Gabriel Robson nesta entrega]**
+**Tabela 5 – Evidências dos materiais de Gabriel Robson**
+
+| Atividade | Evidência | Situação registrada na página |
+| --- | --- | --- |
+| Protótipo de papel | [Protótipo de papel](integrantes/gabriel-robson/prototipo-papel.md) | Sequência e legendas de sete fotografias documentadas; os arquivos das fotografias aguardam publicação |
+| Planejamento do teste de usabilidade | [Planejamento](integrantes/gabriel-robson/planejamento-alta-fidelidade.md) | Planejamento inicial |
+| Registro da avaliação | [Registro](integrantes/gabriel-robson/video-avaliacao.md) | Espaço para as gravações e os resultados, que ainda precisam ser realizados |
+
+Fonte: elaborado pelos autores (2026), com base nas páginas individuais da Entrega 6.
 
 ## Referências
 
