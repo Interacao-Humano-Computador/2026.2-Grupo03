@@ -68,13 +68,13 @@ Os itens D6 a D9 (cronograma executado, atas, gravação da reunião e vídeos �
 
 | Item | Conforme | Total avaliado |
 | --- | ---: | ---: |
-| D1 Histórico de versão | 176 | 177 |
-| D2 Autor e revisor nominal | 175 | 177 |
-| D3 Referências | 175 | 177 |
-| D4 Legenda e fonte das tabelas e imagens | 109 | 177 |
-| D5 Introdução | 132 | 177 |
-| D10 Tabela de contribuição | 176 | 177 |
-| D11 Uso de IA generativa | 176 | 177 |
+| D1 Histórico de versão | 178 | 179 |
+| D2 Autor e revisor nominal | 177 | 179 |
+| D3 Referências | 177 | 179 |
+| D4 Legenda e fonte das tabelas e imagens | 111 | 179 |
+| D5 Introdução | 134 | 179 |
+| D10 Tabela de contribuição | 178 | 179 |
+| D11 Uso de IA generativa | 178 | 179 |
 
 Fonte: elaborado pelos autores (2026), com `ferramentas/auditoria-site/auditoria.py`.
 
@@ -283,6 +283,7 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 | [entrega-7/integrantes/alexandre-vilar/roteiro.md](../entrega-7/integrantes/alexandre-vilar/roteiro.md) | C | C | C | NC | C | C | C |
 | [entrega-7/integrantes/alexandre-vilar/verificacao.md](../entrega-7/integrantes/alexandre-vilar/verificacao.md) | C | C | C | NC | NC | C | C |
 | [entrega-7/integrantes/henrique-schneider/index.md](../entrega-7/integrantes/henrique-schneider/index.md) | C | C | C | C | C | C | C |
+| [entrega-7/integrantes/henrique-schneider/piloto.md](../entrega-7/integrantes/henrique-schneider/piloto.md) | C | C | C | C | C | C | C |
 | [entrega-7/integrantes/henrique-schneider/planejamento.md](../entrega-7/integrantes/henrique-schneider/planejamento.md) | C | C | C | C | C | C | C |
 | [entrega-7/integrantes/henrique-schneider/prototipo.md](../entrega-7/integrantes/henrique-schneider/prototipo.md) | C | C | C | C | C | C | C |
 | [entrega-7/integrantes/henrique-schneider/relato.md](../entrega-7/integrantes/henrique-schneider/relato.md) | C | C | C | C | C | C | C |
@@ -290,6 +291,7 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 | [entrega-7/integrantes/henrique-schneider/roteiro.md](../entrega-7/integrantes/henrique-schneider/roteiro.md) | C | C | C | C | C | C | C |
 | [entrega-7/integrantes/henrique-schneider/sessao-p8.md](../entrega-7/integrantes/henrique-schneider/sessao-p8.md) | C | C | C | C | C | C | C |
 | [entrega-7/integrantes/henrique-schneider/transcricao-p8.md](../entrega-7/integrantes/henrique-schneider/transcricao-p8.md) | C | C | C | C | C | C | C |
+| [entrega-7/integrantes/henrique-schneider/transcricao-piloto.md](../entrega-7/integrantes/henrique-schneider/transcricao-piloto.md) | C | C | C | C | C | C | C |
 | [entrega-7/integrantes/henrique-schneider/verificacao.md](../entrega-7/integrantes/henrique-schneider/verificacao.md) | C | C | C | C | C | C | C |
 | [entrega-7/integrantes/joao-vitor/index.md](../entrega-7/integrantes/joao-vitor/index.md) | C | C | C | C | C | C | C |
 | [entrega-7/integrantes/joao-vitor/planejamento.md](../entrega-7/integrantes/joao-vitor/planejamento.md) | C | C | C | C | C | C | C |

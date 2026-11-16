@@ -20,7 +20,7 @@ Fonte: minha elaboração (2026).
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 14/11/2026 | 1.2 | Incluí o OBS Studio entre os instrumentos e detalhei a preparação da gravação | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 15/11/2026 | 1.3 | Vinculei as entrevistas e completei a conferência do registro técnico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 15/11/2026 | 1.4 | Vinculei a captura direta de P03 e distingui instrumento previsto de gravação recebida | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão desta atualização pendente |
+| 15/11/2026 | 1.4 | Vinculei a captura direta de P03 e distingui instrumento previsto de gravação recebida | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 

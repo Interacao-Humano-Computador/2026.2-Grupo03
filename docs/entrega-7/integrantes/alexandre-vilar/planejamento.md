@@ -20,7 +20,7 @@ Fonte: minha elaboração (2026).
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 14/11/2026 | 1.2 | Defini o OBS Studio como meio de gravação e vinculei os instrumentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 15/11/2026 | 1.3 | Vinculei a execução e diferenciei as datas propostas dos registros das entrevistas | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 15/11/2026 | 1.4 | Registrei a ampliação para três participantes e mantive a distinção entre plano e execução | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão desta atualização pendente |
+| 15/11/2026 | 1.4 | Registrei a ampliação para três participantes e mantive a distinção entre plano e execução | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 

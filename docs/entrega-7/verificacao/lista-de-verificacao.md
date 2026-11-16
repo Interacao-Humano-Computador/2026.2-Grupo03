@@ -21,6 +21,8 @@ Fonte: elaborado pelo autor (2026).
 | --- | --- | --- | --- | --- |
 | 15/11/2026 | 1.0 | Criação da lista: itens do desenvolvimento do projeto com autoavaliação preliminar, 12 itens de conteúdo propostos com fonte e quadros de registro para a inspeção do próprio grupo e do Grupo +1 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.1 | Registro da inspeção do próprio Grupo 03 (Quadro 3 e Quadro 4), com as respostas a D1 a D11 e C1 a C12, as evidências e as não conformidades corrigidas durante a inspeção | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.2 | Atualização do item D9 com o link da gravação da sessão com o participante P8 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.3 | Atualização dos itens C3 e C8 com o registro do teste-piloto | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -46,7 +48,7 @@ O Plano de Ensino traz a lista de referência só até a Entrega 4 (Sales, 2026,
 | D6 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | Não | O [Cronograma executado](../../entrega-1/planejamento/cronograma-executado.md) registra as atividades das Entregas 1 a 4 e ainda não traz as da Entrega 7 |
 | D7 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc.)? | Não | As [atas publicadas](../../atas/index.md) são de 27/09/2026 e 14/10/2026; não há ata da semana da Entrega 7 |
 | D8 | A gravação da reunião do grupo? | Não | Nenhum link de gravação de reunião do grupo na Entrega 7 |
-| D9 | Vídeo de apresentação na categoria “não listado” no YouTube? | Não | Os vídeos da sessão com o participante P8 e da apresentação da Entrega 7 ainda não têm link no site |
+| D9 | Vídeo de apresentação na categoria “não listado” no YouTube? | Incompleto | A gravação da sessão com o participante P8 ([YouTube](https://youtu.be/OI7Bcn_aIPI)) e a do teste-piloto ([YouTube](https://youtu.be/iY2V5_fCw3U)) têm link; a visibilidade “não listado” não foi conferida, e o vídeo da apresentação da Entrega 7 ainda não tem link |
 | D10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação da atividade e da gravação, se houver? | Incompleto | O relatório lista os quatro integrantes, e a contribuição de Gabriel Robson está em branco (—) |
 | D11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | Sim | Todas as páginas têm a seção, com o que o Claude fez e o que depende do autor |
 
@@ -95,17 +97,17 @@ A inspeção do próprio Grupo 03 foi feita em 15/11/2026, por leitura das pági
 | D6 | Não | O [Cronograma executado](../../entrega-1/planejamento/cronograma-executado.md) não traz as atividades da Entrega 7 | Relatório v1.1; 15/11/2026, 22:27 |
 | D7 | Não | As [atas publicadas](../../atas/index.md) são de 27/09/2026 e 14/10/2026; não há ata da semana da Entrega 7 | Relatório v1.1; 15/11/2026, 22:27 |
 | D8 | Não | Nenhum link de gravação de reunião do grupo na Entrega 7 | Relatório v1.1; 15/11/2026, 22:27 |
-| D9 | Não | Os vídeos da sessão com o participante P8 e da apresentação da Entrega 7 ainda não têm link nas páginas (relatório, Seção 5) | Relatório v1.1; 15/11/2026, 22:27 |
+| D9 | Incompleto | A gravação da sessão com P8 tem link na página da sessão e no relatório (Seção 5); a visibilidade “não listado” não foi conferida, e o vídeo da apresentação da Entrega 7 ainda não tem link | Relatório v1.1; 15/11/2026, 22:27 |
 | D10 | Incompleto | Tabela 1 em todas as páginas; no [relatório](../relatorio.md), a contribuição de Gabriel Robson está em branco (—) | Relatório v1.1; 15/11/2026, 22:27 |
 | D11 | Sim | Seção “Agradecimentos e uso de IA generativa” em cada página, dizendo o que o Claude fez e o que depende do autor | Relatório v1.1; 15/11/2026, 22:27 |
 | C1 | Sim | [Relatório](../relatorio.md), Seção 4.1 (objetivos a, b e c e escopo) | Relatório v1.1; 15/11/2026, 22:27 |
 | C2 | Sim | [Relatório](../relatorio.md), Seção 4.2 (método e tarefas) e Tabela 5 (medidas por tarefa) | Relatório v1.1; 15/11/2026, 22:27 |
-| C3 | Incompleto | [Relatório](../relatorio.md), Seção 4.3 e Tabela 4: traz o perfil de P8 e diz que ele está fora do perfil previsto, mas falta definir se foi sessão ou piloto e se haverá P9 e P10 | Relatório v1.1; 15/11/2026, 22:27 |
+| C3 | Incompleto | [Relatório](../relatorio.md), Seção 4.3 e Tabela 4: traz o perfil de P8 e diz que ele está fora do perfil previsto, mas falta definir se haverá P9 e P10 | Relatório v1.1; 15/11/2026, 22:27 |
 | C4 | Incompleto | [Relatório](../relatorio.md), Tabela 5: compara com os valores-alvo e diz “não avaliável”, mas as células da T2 e da T4 estão em branco (—) | Relatório v1.1; 15/11/2026, 22:27 |
 | C5 | Incompleto | [Relatório](../relatorio.md), Tabela 6: PA01 e PA02 têm local, descrição, fatores e frequência, mas a severidade e a sugestão de solução estão em branco (—) | Relatório v1.1; 15/11/2026, 22:27 |
 | C6 | Não | [Relatório](../relatorio.md), Tabela 6: a severidade de PA01 e PA02 ainda não foi definida | Relatório v1.1; 15/11/2026, 22:27 |
 | C7 | Incompleto | [Relatório](../relatorio.md), Seção 4.5: cita minutos da transcrição, mas o vídeo ainda não foi conferido | Relatório v1.1; 15/11/2026, 22:27 |
-| C8 | Incompleto | [Relatório](../relatorio.md), Seção 4.8: traz a regra, mas não diz se a sessão com P8 é piloto | Relatório v1.1; 15/11/2026, 22:27 |
+| C8 | Sim | [Relatório](../relatorio.md), Seção 4.8: o piloto foi um ensaio técnico sem participante, e a sessão com P8 é a sessão válida; os dados do piloto não entram nos resultados | Relatório v1.1; 15/11/2026, 22:27 |
 | C9 | Sim | [Relatório](../relatorio.md), Seção 4.9, e [sessão](../integrantes/henrique-schneider/sessao-p8.md), Seção 7 | Relatório v1.1; 15/11/2026, 22:27 |
 | C10 | Sim | [Relatório](../relatorio.md), Seção 4.5, último item: diz que a sessão não permite avaliar as correções do papel e liga ao Apêndice E | Relatório v1.1; 15/11/2026, 22:27 |
 | C11 | Incompleto | [Relatório](../relatorio.md), Seção 4.7: diz o que verificar nas próximas sessões, mas não traz um planejamento do reprojeto | Relatório v1.1; 15/11/2026, 22:27 |
@@ -137,4 +139,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir esta lista a partir do Plano de Ensino, da lista da Entrega 6 e das fontes citadas nas páginas da Entrega 7, para propor os itens de conteúdo C1 a C12 (a confirmar pelo grupo) e para executar a verificação automática que sustenta a autoavaliação do Quadro 1. Não foram criadas respostas de inspeção do Grupo +1 nem dados de outros grupos. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para registrar a inspeção do próprio Grupo 03 (Quadros 3 e 4) por leitura das páginas da Entrega 7, sem assistir ao vídeo da sessão, e para corrigir as não conformidades encontradas.
+**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir esta lista a partir do Plano de Ensino, da lista da Entrega 6 e das fontes citadas nas páginas da Entrega 7, para propor os itens de conteúdo C1 a C12 (a confirmar pelo grupo) e para executar a verificação automática que sustenta a autoavaliação do Quadro 1. Não foram criadas respostas de inspeção do Grupo +1 nem dados de outros grupos. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para registrar a inspeção do próprio Grupo 03 (Quadros 3 e 4) por leitura das páginas da Entrega 7, sem assistir ao vídeo da sessão, e para corrigir as não conformidades encontradas. Em 15/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8. Em 15/11/2026, também foi usado para atualizar os itens C3 e C8.

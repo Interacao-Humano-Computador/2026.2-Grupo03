@@ -20,7 +20,7 @@ Fonte: minha elaboração (2026).
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 14/11/2026 | 1.2 | Organizei as seis divisões da entrega e separei o protótipo interativo | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 15/11/2026 | 1.3 | Vinculei os resultados das entrevistas e atualizei a situação da minha entrega | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 15/11/2026 | 1.4 | Acrescentei P03 e vinculei sua entrevista, captura de tela e sugestão de histórico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão desta atualização pendente |
+| 15/11/2026 | 1.4 | Acrescentei P03 e vinculei sua entrevista, captura de tela e sugestão de histórico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 

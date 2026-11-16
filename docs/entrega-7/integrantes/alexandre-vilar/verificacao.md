@@ -19,7 +19,7 @@ Fonte: minha elaboração (2026).
 | 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 15/11/2026 | 1.2 | Conferi as evidências das entrevistas sem transformar registros parciais em atendimento completo | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 15/11/2026 | 1.3 | Atualizei a amostra para três participantes e vinculei os registros complementares de P03 | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão desta atualização pendente |
+| 15/11/2026 | 1.3 | Atualizei a amostra para três participantes e vinculei os registros complementares de P03 | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 

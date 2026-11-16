@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Planejamento, análise das três entrevistas e registro do ensaio técnico da vistoria veicular, com apoio do ChatGPT | [Relato individual](integrantes/alexandre-vilar/relato.md) | [Entrevistas e ensaio](integrantes/alexandre-vilar/relato.md#videos) |
 | Gabriel Robson Nunes Neiva da Silva | — | — | — |
-| Henrique Schneider Fernandes da Rosa | Estrutura desta página, protótipo de alta fidelidade (Figma) e registro da sessão com o participante P8 | [Protótipo no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) | — |
+| Henrique Schneider Fernandes da Rosa | Estrutura desta página, protótipo de alta fidelidade (Figma) e registro da sessão com o participante P8 | [Protótipo no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) | [Gravação da sessão com P8](https://youtu.be/OI7Bcn_aIPI) |
 | João Vitor Tavares de Sá Lima | Protótipo de biometria, planejamento, vídeos e relato de think-aloud de P01/P02/P03 | [Relato individual](integrantes/joao-vitor/relato.md) | [Gravações fornecidas](integrantes/joao-vitor/relato.md#gravacoes) |
 
 Fonte: elaborado pelos autores (2026).
@@ -30,7 +30,10 @@ Fonte: elaborado pelos autores (2026).
 | 15/11/2026 | 0.9 | Vinculação dos registros de biometria e análise textual preliminar, mantendo limites e P03 pendente | João Vitor | Gabriel Robson |
 | 15/11/2026 | 1.0 | Atualização da data das aplicações, apresentação dos vídeos e inclusão do reagendamento de P03 informado pelo avaliador | João Vitor | Gabriel Robson |
 | 15/11/2026 | 1.1 | Correção da introdução, que ainda dizia que não havia sessão registrada, e inclusão das chamadas das Tabelas 1, 2, 4 e 6 no texto, a partir da inspeção do próprio grupo; renumeração das versões do histórico, que estavam repetidas depois da fusão das edições dos integrantes | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 1.2 | Acrescentei minha entrevista P03 e sua captura de tela, com a sugestão de histórico de agendamentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão desta atualização pendente |
+| 15/11/2026 | 1.2 | Acrescentei minha entrevista P03 e sua captura de tela, com a sugestão de histórico de agendamentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 15/11/2026 | 1.3 | Inclusão do link da gravação da sessão com o participante P8 no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.4 | Inclusão do teste-piloto (ensaio técnico) na Seção 4.8 e nas limitações, e definição da sessão com P8 como a sessão válida da avaliação | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.5 | Inclusão do link da gravação do teste-piloto no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -48,7 +51,7 @@ A Entrega 7 pede o “Relato dos resultados do Protótipo de alta fidelidade” 
 | --- | --- | --- |
 | Lista de verificação individual – Cenários | 10/11/2026, 23:30 | Transcrição das atividades do Moodle |
 | Entrega no Moodle | 15/11/2026, 23:59 | Sales (2026, p. 5) |
-| Inspeção do Grupo +1 | 16/11/2026 | Transcrição das atividades do Moodle |
+| Inspeção do Grupo +1 | 15/11/2026 | Transcrição das atividades do Moodle |
 | Apresentação em aula | 17/11/2026 | Sales (2026, p. 5) |
 | Nome do arquivo no Moodle | `RelatoProtAltaFideNomedoSite.pdf` | Transcrição das atividades do Moodle |
 
@@ -64,7 +67,7 @@ A proposta de **João Vitor** para agendamento e gerenciamento de biometria foi 
 
 Alexandre Vilar e João Vitor planejaram a avaliação das suas propostas ([Alexandre Vilar](../entrega-6/integrantes/alexandre-vilar/planejamento-alta-fidelidade.md); [João Vitor](../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md)).
 
-O planejamento previa o teste-piloto em 08/11/2026 e as sessões de 09/11 a 11/11/2026.
+O planejamento previa o teste-piloto em 08/11/2026 e as sessões de 09/11 a 11/11/2026. O piloto foi um [ensaio técnico](integrantes/henrique-schneider/piloto.md) do avaliador, gravado em 15/11/2026, e a sessão com P8 foi feita no mesmo dia.
 
 ### 3.1 Minha síntese de resultados — Alexandre Vilar {#resultados-alexandre}
 
@@ -152,7 +155,7 @@ Fonte: elaborado pelos autores (2026), com os campos de Barbosa e Silva (2010, c
 
 ### 4.8 Teste-piloto
 
-Os resultados do teste-piloto não entram nos resultados da avaliação (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 307). Se P8 for o piloto, os dados dele saem dos resultados e as diferenças de procedimento registradas na página da sessão viram os ajustes para as próximas sessões.
+Os resultados do teste-piloto não entram nos resultados da avaliação (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 307). O piloto foi um **ensaio técnico** do avaliador, sozinho, de 2 min 37 s, gravado antes da sessão com P8 (segundo o autor; o arquivo indica início às 23:40 de 15/11/2026): ele conferiu o áudio, o compartilhamento da tela, o acesso compartilhado ao protótipo e os botões que funcionam ou não, e estimou a sessão em 10 a 30 minutos. O registro está na [página do piloto](integrantes/henrique-schneider/piloto.md) e na [transcrição](integrantes/henrique-schneider/transcricao-piloto.md). Como não houve participante, o ensaio não conferiu se os cenários são entendidos sem explicação nem o tempo das tarefas, e os valores-alvo continuam sem confirmação. A sessão com P8 é, portanto, a sessão válida desta avaliação, e as diferenças de procedimento registradas na página dela viram ajustes para as próximas sessões.
 
 ### 4.9 Limitações do teste
 
@@ -160,10 +163,11 @@ Os resultados do teste-piloto não entram nos resultados da avaliação (Barbosa
 - Sessão remota pelo Teams, com a versão para computador, e não presencial com o protótipo num celular; o atraso do compartilhamento pode ter alterado os tempos.
 - Diferenças de procedimento em relação ao roteiro (apresentação prévia do protótipo, pedido para falar em voz alta, apontamento do erro da T1, T2 só verbal e ausência da nota de facilidade).
 - Tempos estimados na transcrição automática do Teams, que tem erros, e não cronometrados.
+- O piloto foi um ensaio técnico sem participante, e não uma sessão com alguém de fora do planejamento; os valores-alvo de tempo não foram confirmados.
 
 ## 5. Vídeos e gravações
 
-A gravação da sessão com P8 tem 17 min 14 s; a [página da sessão](integrantes/henrique-schneider/sessao-p8.md) tem o campo do link, e a [transcrição anonimizada](integrantes/henrique-schneider/transcricao-p8.md) já está publicada.
+A gravação da sessão com P8 tem 17 min 14 s; a [página da sessão](integrantes/henrique-schneider/sessao-p8.md) tem o [vídeo no YouTube](https://youtu.be/OI7Bcn_aIPI), e a [transcrição anonimizada](integrantes/henrique-schneider/transcricao-p8.md) já está publicada. A gravação do ensaio técnico (2 min 37 s) está no [YouTube](https://youtu.be/iY2V5_fCw3U); o registro está na [página do piloto](integrantes/henrique-schneider/piloto.md).
 
 ## Documento em PDF
 
@@ -182,4 +186,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 Em 14/11/2026, o ChatGPT (OpenAI) apoiou João Vitor na integração de seus materiais individuais, na implementação e documentação do protótipo de biometria e na verificação técnica. O apoio de IA está declarado nos agradecimentos; não foram criados resultados de sessões, falas ou gravações de participantes.
 
-Em 15/11/2026, o ChatGPT apoiou João Vitor na revisão editorial do relato. A data de aplicação de 14/11/2026 e o reagendamento de P03 foram informados pelo responsável. Não foram criadas falas, métricas ou valores ausentes dos registros.
+Em 15/11/2026, o ChatGPT apoiou João Vitor na revisão editorial do relato. A data de aplicação de 14/11/2026 e o reagendamento de P03 foram informados pelo responsável. Não foram criadas falas, métricas ou valores ausentes dos registros. Em 15/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8. Em 15/11/2026, também foi usado para incluir o registro do teste-piloto a partir da transcrição automática do Teams. Em 15/11/2026, também foi usado para incluir o link da gravação do teste-piloto.

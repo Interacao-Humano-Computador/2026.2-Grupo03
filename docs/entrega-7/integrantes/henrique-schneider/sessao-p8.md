@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Condução da sessão, registro das medidas e das respostas da entrevista pós-teste | [Visão geral](index.md) | — |
+| Henrique Schneider Fernandes da Rosa | Condução da sessão, registro das medidas e das respostas da entrevista pós-teste | [Visão geral](index.md) | [Gravação da sessão com P8](https://youtu.be/OI7Bcn_aIPI) |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -20,6 +20,8 @@ Fonte: elaborado pelo autor (2026).
 | 15/11/2026 | 0.2 | Ajuste do modelo à mudança da modalidade: protótipo usado pelo controle remoto do Microsoft Teams, e seção de diferenças em relação ao planejamento | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.0 | Registro da sessão com o participante P8 a partir da gravação (17 min 14 s) e da transcrição automática do Teams: identificação, pré-teste, medidas aproximadas por tarefa, entrevista pós-teste, trechos e diferenças em relação ao planejamento | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.1 | Inclusão das chamadas das Tabelas 1 a 8 no texto, a partir da inspeção do próprio grupo | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.2 | Inclusão do link da gravação da sessão no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.3 | Definição desta página como a sessão válida; o piloto é o ensaio técnico registrado em outra página | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -47,8 +49,8 @@ A Tabela 3 compara o que o planejamento previa com o que foi registrado.
 | Observador | Outro integrante, se houver | Não houve observador na transcrição; a folha foi preenchida a partir da gravação (limitação) |
 | TCLE e autorizações | TCLE em duas vias; gravação de tela e áudio só se autorizada | O avaliador disse que já tinha enviado o TCLE (0:22) e o participante confirmou o uso de voz, imagem e vídeo (0:40 a 0:48). |
 | Duração da gravação | Até 30 minutos | 17 min 14 s |
-| Gravação | YouTube, não listado | — |
-| Este registro vale como | Sessão (os dados entram nos resultados) ou teste-piloto (os dados são descartados) | — |
+| Gravação | YouTube, não listado | [Assistir à sessão no YouTube](https://youtu.be/OI7Bcn_aIPI) |
+| Este registro vale como | Sessão (os dados entram nos resultados) ou teste-piloto (os dados são descartados) | Sessão. O teste-piloto foi um [ensaio técnico](piloto.md) separado, sem participante |
 
 Fonte: elaborado pelo autor (2026), com base no planejamento do teste de usabilidade (Seções 5, 6, 8 e 9) e na transcrição da sessão.
 
@@ -155,7 +157,7 @@ Estas diferenças afetam a leitura dos dados e devem ser declaradas no relato da
 
 ## 8. Transcrição anonimizada
 
-A transcrição anonimizada está em [transcricao-p8.md](transcricao-p8.md). A gravação ainda precisa do link do YouTube (não listado).
+A transcrição anonimizada está em [transcricao-p8.md](transcricao-p8.md). A gravação está no [YouTube](https://youtu.be/OI7Bcn_aIPI).
 
 ## Referências
 
@@ -163,4 +165,4 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Co
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar o modelo desta página a partir do planejamento do teste de usabilidade (identificação, questionário, medidas e entrevista). Nenhum dado de participante, tempo, resposta ou resultado foi criado: os campos de registro estão vazios até que o autor os preencha a partir da gravação. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também a pedido do autor, o Claude foi usado para ajustar o modelo à mudança da modalidade (controle remoto do Teams), sem acrescentar dados. Em 15/11/2026, também a pedido do autor, o Claude foi usado para preencher esta página a partir da transcrição automática do Teams (identificação, pré-teste, tempos estimados, entrevista e diferenças em relação ao planejamento). O vídeo da gravação não foi assistido pela ferramenta. Os tempos, as classificações e as frases dependem da conferência do autor na gravação. Em 15/11/2026, também foi usado para incluir as chamadas das tabelas no texto, a partir da inspeção do próprio grupo.
+**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar o modelo desta página a partir do planejamento do teste de usabilidade (identificação, questionário, medidas e entrevista). Nenhum dado de participante, tempo, resposta ou resultado foi criado: os campos de registro estão vazios até que o autor os preencha a partir da gravação. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também a pedido do autor, o Claude foi usado para ajustar o modelo à mudança da modalidade (controle remoto do Teams), sem acrescentar dados. Em 15/11/2026, também a pedido do autor, o Claude foi usado para preencher esta página a partir da transcrição automática do Teams (identificação, pré-teste, tempos estimados, entrevista e diferenças em relação ao planejamento). O vídeo da gravação não foi assistido pela ferramenta. Os tempos, as classificações e as frases dependem da conferência do autor na gravação. Em 15/11/2026, também foi usado para incluir as chamadas das tabelas no texto, a partir da inspeção do próprio grupo. Em 15/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8. Em 15/11/2026, também foi usado para registrar que o piloto foi um ensaio técnico separado.
