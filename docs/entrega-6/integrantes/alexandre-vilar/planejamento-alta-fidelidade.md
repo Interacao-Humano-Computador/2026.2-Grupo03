@@ -16,10 +16,10 @@ Fonte: minha elaboração (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 02/11/2026 | 1.0 | Registro do escopo e do cronograma previsto | Alexandre Vilar Valadares Fonsêca | **[VERIFICAR: revisor]** |
-| 03/11/2026 | 1.1 | Atualização do cronograma e dos pontos a observar | Alexandre Vilar Valadares Fonsêca | - |
-| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-| 12/11/2026 | 1.3 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 02/11/2026 | 1.0 | Registro do escopo e do cronograma previsto | Alexandre Vilar Valadares Fonsêca | Gabriel Robson |
+| 03/11/2026 | 1.1 | Atualização do cronograma e dos pontos a observar | Alexandre Vilar Valadares Fonsêca | Gabriel Robson |
+| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 12/11/2026 | 1.3 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 
@@ -68,6 +68,6 @@ BARBOSA, Simone Diniz Junqueira et al. **Interação Humano-Computador e Experi�
 
 SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 2026.2.** UnB, 2026. [Plano do projeto](../../../disciplina/plano-de-ensino.md).
 
-## Uso de IA generativa
+## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.

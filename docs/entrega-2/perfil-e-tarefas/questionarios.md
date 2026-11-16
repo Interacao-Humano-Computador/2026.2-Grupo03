@@ -22,9 +22,9 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 17/09/2026 | 1.0 | Elaboração da estrutura, definição do público-alvo e criação do bloco de perguntas do questionário. | Henrique Schneider | Alexandre Vilar |
 | 27/09/2026 | 2.0 | Revisão metodológica, adequação das instruções de preenchimento, inclusão da fundamentação teórica e consolidação dos dados. | Henrique Schneider | Eduardo Ribeiro |
-| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, legendas), das citações e referências (ABNT), retirada dos campos "[Inserir…]" e inclusão da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 2.2 | Inclusão das fotos dos trechos de Barbosa e Silva (2010) citados como Figuras 1 a 4, correção das páginas citadas e retirada dos campos de link e de total de respostas sem conteúdo | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, legendas), das citações e referências (ABNT), retirada dos campos "[Inserir…]" e inclusão da seção de uso de IA | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 2.2 | Inclusão das fotos dos trechos de Barbosa e Silva (2010) citados como Figuras 1 a 4, correção das páginas citadas e retirada dos campos de link e de total de respostas sem conteúdo | Henrique Schneider | Gabriel Robson |
+| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -61,14 +61,12 @@ No projeto do Portal Detran-DF, a aplicação do questionário fundamenta:
 2. **Priorização de Tarefas:** Mapeamento quantitativo das tarefas primárias (débitos/CNH) em relação às secundárias (agendamentos/simulados).
 3. **Mapeamento de Falhas de IHC:** Diagnóstico da incidência de erros de preenchimento, clareza das mensagens de diagnóstico e adequação dos layouts em dispositivos móveis.
 
-
 ## 2. Identificação Geral do Instrumento
 
 * **Técnica Utilizada:** Questionário Estruturado Online (Google Forms / Microsoft Forms).
 * **Responsável pela Elaboração e Aplicação:** Henrique Schneider Fernandes da Rosa.
 * **Público-Alvo / Amostra:** Cidadãos do Distrito Federal, condutores habilitados, candidatos à primeira CNH e proprietários de veículos.
 * **Tempo Médio de Preenchimento:** 5 a 8 minutos.
-
 
 ## 3. Roteiro e Bloco de Perguntas do Questionário
 
@@ -81,7 +79,6 @@ O formulário foi organizado em seções lógicas que progridem de questões dem
   > *"Somos alunos da Universidade de Brasília (UnB/FGA) desenvolvendo um estudo de Interação Humano-Computador sobre o portal do Detran-DF. Suas respostas são anônimas e utilizadas exclusivamente para fins acadêmicos. Ao prosseguir, você declara estar ciente e concordar em participar voluntariamente."*
 * **Item de Consentimento [Obrigatório]:**
   - [ ] Li e concordo em participar da pesquisa de forma voluntária.
-
 
 ### Seção 2: Perfil Demográfico e Experiência Digital (Aquecimento)
 
@@ -100,7 +97,6 @@ O formulário foi organizado em seções lógicas que progridem de questões dem
   - ( ) Smartphone (Celular)
   - ( ) Computador de mesa (Desktop) ou Notebook
   - ( ) Tablet
-
 
 ### Seção 3: Avaliação de Uso dos Serviços do Detran-DF
 
@@ -124,7 +120,6 @@ O formulário foi organizado em seções lógicas que progridem de questões dem
   - ( ) 4 - Na maioria das vezes
   - ( ) 5 - Sempre explica com clareza
 
-
 ### Seção 4: Problemas Relatados e Comentários Finais (Desaquecimento)
 
 * **Pergunta 07 [Múltipla Escolha]:** Quais foram as principais dificuldades encontradas durante a navegação no portal?
@@ -137,7 +132,6 @@ O formulário foi organizado em seções lógicas que progridem de questões dem
 * **Pergunta 08 [Texto Livre / Opcional]:** Você gostaria de fazer algum comentário, crítica ou sugestão de melhoria para o portal do Detran-DF?
   * *[ Espaço reservado para inserção de texto livre do respondente ]*
 
-
 ## 4. Anotações e Tabulação da Amostragem
 
 * **Observações do Teste-Piloto:** Foi executado um teste-piloto prévio com 2 participantes para verificar a clareza dos enunciados. Ajustou-se a redação da Pergunta 06 para evitar dubiedade quanto aos conceitos de erro do sistema versus erro de digitação.
@@ -145,12 +139,10 @@ O formulário foi organizado em seções lógicas que progridem de questões dem
   * **Concentração de Acesso:** A maioria expressiva dos acessos ocorre via dispositivos móveis (smartphones).
   * **Gargalo Principal:** Destaque negativo para as mensagens de erro genéricas ("Carro não encontrado") e instabilidades de redirecionamento no login com a plataforma Gov.br.
 
-
 ## 5. Conclusões e Aplicação no Projeto
 
 * **Síntese dos Achados:** O questionário confirmou estatisticamente a hipótese de que a consulta de débitos e a emissão de boletos constituem a tarefa primária dos usuários. Os dados indicam a necessidade urgente de simplificar a interface móvel e aprimorar a clareza das mensagens de diagnóstico.
 * **Encaminhamentos para IHC:** Os resultados obtidos alimentam diretamente a validação dos Perfis de Usuário, o refinamento das Personas (Carlos Eduardo e Camila) e o mapeamento dos Golfos de Execução e Avaliação na Análise de Tarefas HTA.
-
 
 ## 6. Checklist de Verificação da Técnica de Questionários
 
@@ -191,4 +183,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 **Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, legendas) e padronizar citações e referências conforme a ABNT. Em 17/10/2026, a ferramenta foi usada para conferir no PDF de Barbosa e Silva (2010) as páginas citadas e recortar as fotos dos trechos (Figuras 1 a 4). Perguntas, achados e conclusões não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

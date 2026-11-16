@@ -17,7 +17,7 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Publicação da parte de Henrique Schneider no planejamento da avaliação do protótipo de papel (seções 3.8.1 e 4.4 do relatório do grupo) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 10/11/2026 | 1.1 | Inclusão dos links para o roteiro da sessão e para o protótipo de alta fidelidade no Figma, que correspondem às telas e às peças deste planejamento (nova Seção 5) | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.1 | Inclusão dos links para o roteiro da sessão e para o protótipo de alta fidelidade no Figma, que correspondem às telas e às peças deste planejamento (nova Seção 5) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 

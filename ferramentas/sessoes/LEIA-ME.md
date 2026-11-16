@@ -1,6 +1,6 @@
 # Como registrar as sessões do teste de usabilidade no site
 
-Passo a passo para levar a gravação e a transcrição de cada sessão para as páginas da Entrega 7. Nada aqui inventa dados: o que a gravação não mostrar fica como `**[VERIFICAR]**`.
+Passo a passo para levar a gravação e a transcrição de cada sessão para as páginas da Entrega 7. Nada aqui inventa dados: o que a gravação não mostrar fica em branco ou como “não registrado”.
 
 ## O que você precisa ter
 

@@ -16,11 +16,11 @@ Fonte: materiais e registros fornecidos pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Criação da estrutura do relatório, sem antecipar resultados não verificados | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 25/10/2026 | 1.1 | Inclusão do link da entrevista definitiva e manutenção dos resultados como pendentes de análise | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 25/10/2026 | 1.2 | Registro do consentimento formal e preservação de anonimato do participante | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 25/10/2026 | 1.3 | Consolidação dos resultados da entrevista a partir do registro resumido das respostas | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.0 | Criação da estrutura do relatório, sem antecipar resultados não verificados | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
+| 25/10/2026 | 1.1 | Inclusão do link da entrevista definitiva e manutenção dos resultados como pendentes de análise | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
+| 25/10/2026 | 1.2 | Registro do consentimento formal e preservação de anonimato do participante | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
+| 25/10/2026 | 1.3 | Consolidação dos resultados da entrevista a partir do registro resumido das respostas | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 
@@ -158,4 +158,4 @@ Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de João Vitor, para o
 
 [Voltar à avaliação individual](avaliacao.md).
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

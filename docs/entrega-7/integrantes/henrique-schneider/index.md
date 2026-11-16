@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Condução do teste de usabilidade do protótipo de alta fidelidade e registro da sessão com o participante P8 | [Visão geral](index.md) | **[VERIFICAR: link da gravação]** |
+| Henrique Schneider Fernandes da Rosa | Condução do teste de usabilidade do protótipo de alta fidelidade e registro da sessão com o participante P8 | [Visão geral](index.md) | — |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -16,10 +16,10 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/11/2026 | 0.1 | Criação da visão geral e do modelo de registro da sessão com o participante P8, sem dados | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-| 15/11/2026 | 0.2 | Registro da sessão com o participante P8 e da transcrição anonimizada | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-| 15/11/2026 | 0.3 | Inclusão do roteiro da apresentação e dos links para a lista de verificação da Entrega 7 | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-| 15/11/2026 | 0.4 | Inclusão das chamadas das Tabelas 1 a 3 no texto, a partir da inspeção do próprio grupo | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 0.1 | Criação da visão geral e do modelo de registro da sessão com o participante P8, sem dados | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 0.2 | Registro da sessão com o participante P8 e da transcrição anonimizada | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 0.3 | Inclusão do roteiro da apresentação e dos links para a lista de verificação da Entrega 7 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 0.4 | Inclusão das chamadas das Tabelas 1 a 3 no texto, a partir da inspeção do próprio grupo | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 0.5 | Inclusão das páginas de planejamento, roteiro, protótipo, relato e verificação, na estrutura usada pelos demais integrantes na Entrega 7 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
@@ -51,7 +51,7 @@ Fonte: elaborado pelo autor (2026).
 
 ## 3. Situação dos materiais
 
-A sessão com o participante P8 foi gravada em 15/11/2026 (17 min 14 s) e registrada na página da sessão a partir da transcrição automática do Teams. O vídeo ainda não foi conferido, então os tempos são aproximados e o que depende de ver a tela está marcado com **[VERIFICAR]**. Há uma única sessão, com um participante fora do perfil previsto e diferenças em relação ao roteiro, de modo que os resultados são só indícios (relatório da Entrega 7, Seções 4.5 e 4.9).
+A sessão com o participante P8 foi gravada em 15/11/2026 (17 min 14 s) e registrada na página da sessão a partir da transcrição automática do Teams. O vídeo ainda não foi conferido, então os tempos são aproximados e o que depende de ver a tela está marcado com. Há uma única sessão, com um participante fora do perfil previsto e diferenças em relação ao roteiro, de modo que os resultados são só indícios (relatório da Entrega 7, Seções 4.5 e 4.9).
 
 ## Referências
 

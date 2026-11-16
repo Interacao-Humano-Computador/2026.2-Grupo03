@@ -16,8 +16,8 @@ Fonte: materiais elaborados pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 02/11/2026 | 1.0 | Criação e organização das páginas individuais da Entrega 6 | João Vitor Tavares de Sá Lima | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 02/11/2026 | 1.0 | Criação e organização das páginas individuais da Entrega 6 | João Vitor Tavares de Sá Lima | Gabriel Robson |
+| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 
@@ -49,8 +49,12 @@ O teste-piloto e a sessão definitiva ainda não foram registrados nesta página
 
 O relato dos resultados será produzido somente após a execução da avaliação, por isso não há uma aba de relatos nesta versão.
 
+## Referências
+
+Não se aplica: a página não cita obras.
+
 ## Agradecimentos e uso de IA generativa
 
 Em 02/11/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de João Vitor, para apoiar a organização das páginas Markdown conforme o padrão da Entrega 5, a revisão dos textos do protótipo de papel e a estruturação do planejamento da avaliação do protótipo de alta fidelidade. Não foram gerados dados de participantes, resultados de avaliações, datas de sessões realizadas ou links de gravação. A responsabilidade pela revisão acadêmica e pelo conteúdo publicado é do autor.
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

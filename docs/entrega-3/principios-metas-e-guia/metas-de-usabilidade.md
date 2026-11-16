@@ -21,9 +21,9 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | João Vitor Tavares |
 | 06/10/2026 | 1.1 | Redação das metas de usabilidade | João Vitor Tavares | Henrique Schneider |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição e histórico no início, seções numeradas), inclusão das páginas nas citações após conferência no livro, da seção de item de conteúdo e da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 1.3 | Inclusão das fotos das fontes (Figuras 1 a 3), revisão das citações e organização da página | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição e histórico no início, seções numeradas), inclusão das páginas nas citações após conferência no livro, da seção de item de conteúdo e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 1.3 | Inclusão das fotos das fontes (Figuras 1 a 3), revisão das citações e organização da página | Henrique Schneider | Gabriel Robson |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -32,7 +32,6 @@ Fonte: elaborado pelos autores (2026).
 As metas de usabilidade orientam as decisões de design e ajudam a avaliar se a interface está atendendo às expectativas de interação e desempenho dos usuários. O projeto de um sistema interativo deve definir uma solução com alta qualidade de uso. 
 
 De acordo com a literatura de IHC (Barbosa; Silva, 2010, cap. 2, p. 29), a usabilidade é mensurada a partir de seis fatores e critérios fundamentais:
-
 
 * **Facilidade de Aprendizado:** Refere-se ao tempo e esforço necessários para que um usuário aprenda a utilizar o sistema com determinado nível de competência.
 * **Eficiência:** Relaciona-se ao tempo e recursos (como número de cliques ou esforço cognitivo) necessários para a conclusão de uma atividade após o aprendizado da interface.
@@ -87,4 +86,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 **Uso de IA generativa nesta página.** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar a página no modelo de artefato da disciplina (tabela de contribuição e histórico no início, seções numeradas), conferir no livro de Barbosa e Silva (2010) as páginas das duas citações e recortar as fotos dos trechos citados (Figuras 1 a 3). A fundamentação e as metas não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

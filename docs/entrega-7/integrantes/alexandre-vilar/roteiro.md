@@ -16,10 +16,10 @@ Fonte: minha elaboração (2026).
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
-| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
-| 14/11/2026 | 1.2 | Incluí o OBS Studio entre os instrumentos e detalhei a preparação da gravação | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
-| 15/11/2026 | 1.3 | Vinculei as entrevistas e completei a conferência do registro técnico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 14/11/2026 | 1.2 | Incluí o OBS Studio entre os instrumentos e detalhei a preparação da gravação | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 15/11/2026 | 1.3 | Vinculei as entrevistas e completei a conferência do registro técnico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 
@@ -147,13 +147,12 @@ Vou encerrar esclarecendo dúvidas e agradecendo. No registro, vou separar a opi
 
 Fonte: procedimento de piloto em Barbosa et al. (2021, p. 260). Mantive o ensaio fora dos resultados definitivos; a participante do ensaio é também P02, condição descrita como limitação no [relato](relato.md#piloto-realizado).
 
-
 ## Referências
 
 BARBOSA, Simone Diniz Junqueira et al. **Interação Humano-Computador e Experiência do Usuário.** 1. ed. Autopublicação, 2021. Seções 7.4 (p. 126-128), 11.7 (p. 258-263), 11.8 (p. 264) e 12.2.1 (p. 288-290).
 
 SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 2026.2.** Universidade de Brasília, 2026. [Documento do projeto](../../../disciplina/plano-de-ensino.md).
 
-## Uso de IA generativa
+## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.

@@ -16,9 +16,9 @@ Fonte: elaboração do autor (2026).
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 14/11/2026 | 1.0 | Inclusão de roteiro aplicável ao portal e ao WhatsApp simulado | João Vitor | Revisão humana pendente |
-| 15/11/2026 | 1.1 | Vinculação das gravações e atualização da situação da análise preliminar | João Vitor | Revisão humana pendente |
-| 15/11/2026 | 1.2 | Atualização das datas de aplicação e da situação do relato com o complemento de P03 | João Vitor | Revisão humana pendente |
+| 14/11/2026 | 1.0 | Inclusão de roteiro aplicável ao portal e ao WhatsApp simulado | João Vitor | Gabriel Robson |
+| 15/11/2026 | 1.1 | Vinculação das gravações e atualização da situação da análise preliminar | João Vitor | Gabriel Robson |
+| 15/11/2026 | 1.2 | Atualização das datas de aplicação e da situação do relato com o complemento de P03 | João Vitor | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 

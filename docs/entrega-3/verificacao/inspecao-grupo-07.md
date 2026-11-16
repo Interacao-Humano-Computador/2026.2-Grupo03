@@ -19,10 +19,10 @@ Fonte: elaborado pelos autores (2026), com base no relatório de inspeção (Gru
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/10/2026 | 1.0 | Relatório de inspeção entregue em PDF no Moodle | Alexandre Vilar, João Vitor Tavares e Henrique Schneider | **[VERIFICAR: revisor]** |
-| 15/10/2026 | 1.1 | Transcrição do relatório para o site (metodologia, 22 itens com respostas, horários, fontes e autores, ferramentas e uso de IA) | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 1.2 | Inclusão das fotos das fontes dos itens adicionais (Figuras 1 a 8), correção das páginas citadas nos itens 16, 17 e 19 e identificação das duas avaliações | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 10/10/2026 | 1.0 | Relatório de inspeção entregue em PDF no Moodle | Alexandre Vilar, João Vitor Tavares e Henrique Schneider | Gabriel Robson |
+| 15/10/2026 | 1.1 | Transcrição do relatório para o site (metodologia, 22 itens com respostas, horários, fontes e autores, ferramentas e uso de IA) | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 1.2 | Inclusão das fotos das fontes dos itens adicionais (Figuras 1 a 8), correção das páginas citadas nos itens 16, 17 e 19 e identificação das duas avaliações | Henrique Schneider | Gabriel Robson |
+| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -158,4 +158,4 @@ Segundo o relatório, o Riverside foi usado na transcrição automatizada das gr
 
 O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever para o site o relatório de inspeção entregue pelo grupo (extração do texto do PDF e organização nas Tabelas 3 a 5), sem alterar perguntas, respostas, horários ou autores; para conferir no livro de Barbosa e Silva (2010) as páginas citadas como fonte dos itens adicionais, corrigindo as dos itens 16, 17 e 19; e para recortar as fotos dos trechos citados (Figuras 1 a 8). A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

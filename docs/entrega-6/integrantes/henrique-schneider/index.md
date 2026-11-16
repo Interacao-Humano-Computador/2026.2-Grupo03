@@ -18,7 +18,7 @@ Fonte: elaborado pelo autor (2026).
 | --- | --- | --- | --- | --- |
 | 02/11/2026 | 1.0 | Publicação da visão geral do material de Henrique Schneider na Entrega 6, das três páginas de planejamento e dos PDFs | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.1 | Link do vídeo da apresentação; registro da Sessão 1 e do teste-piloto do protótipo de papel (03/11/2026), com links das gravações; novas versões do roteiro da sessão (v1.3), do TCLE do protótipo de papel (v1.1), da especificação (v1.2), do planejamento do teste de usabilidade (v1.2) e do roteiro da apresentação (v1.2); novo cronograma da avaliação de alta fidelidade | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
-| 10/11/2026 | 1.2 | Registro do protótipo de alta fidelidade construído no Figma (link na Tabela 3); novas versões da especificação (v1.3) e do planejamento do teste de usabilidade (v1.3) | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 10/11/2026 | 1.2 | Registro do protótipo de alta fidelidade construído no Figma (link na Tabela 3); novas versões da especificação (v1.3) e do planejamento do teste de usabilidade (v1.3) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -51,7 +51,7 @@ A avaliação do protótipo de papel foi feita em 03/11/2026: o teste-piloto (14
 
 Os problemas da Sessão 1 estão no roteiro da sessão: dois corrigidos no papel durante a sessão (PC01 e PC02) e quatro não corrigidos (PN01 a PN04), que alimentam a Seção 8 da especificação do protótipo de alta fidelidade.
 
-A construção do protótipo de alta fidelidade estava prevista para 07 e 08/11/2026 e foi feita em 10/11/2026, no Figma, com versões para celular e computador (especificação, Seção 10). O piloto do teste de usabilidade e as sessões estavam previstos para 08/11 e 09 a 11/11/2026 **[VERIFICAR: novas datas do piloto e das sessões]**; o relato continua na Entrega 7 (prazo em 15/11/2026). Os valores-alvo do teste de usabilidade são uma proposta do autor, a confirmar no teste-piloto, porque as metas de usabilidade da Entrega 3 não têm valores numéricos (GRUPO 03, 2026a, seç. 2).
+A construção do protótipo de alta fidelidade estava prevista para 07 e 08/11/2026 e foi feita em 10/11/2026, no Figma, com versões para celular e computador (especificação, Seção 10). O piloto do teste de usabilidade e as sessões estavam previstos para 08/11 e 09 a 11/11/2026; o relato continua na Entrega 7 (prazo em 15/11/2026). Os valores-alvo do teste de usabilidade são uma proposta do autor, a confirmar no teste-piloto, porque as metas de usabilidade da Entrega 3 não têm valores numéricos (GRUPO 03, 2026a, seç. 2).
 
 A parte de Henrique Schneider no relatório do grupo está nas seções 1.4.1 (relato do protótipo de papel) e 2.8.1 (planejamento do protótipo de alta fidelidade), nas Tabelas 1, 2, 3, 5, 6, 9, 10, 14 e 15 e no capítulo 3 (planejamento do relato).
 

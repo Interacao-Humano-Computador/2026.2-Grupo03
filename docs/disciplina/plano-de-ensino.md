@@ -19,11 +19,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 27/09/2026 | 1.0 | Criação da página com a transcrição do Plano de Ensino (registro recuperado do commit e86c6be) | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 27/09/2026 | 1.1 | Verificações e formatações finais (registro recuperado do commit 530579c) | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 15/10/2026 | 1.2 | Inclusão do histórico, do aviso sobre a transcrição parcial, do link para o documento oficial e da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 1.3 | Revisão da transcrição com o PDF: conteúdo programático completo, fórmulas da avaliação, declaração de IA generativa, bibliografia na ordem do Plano, cronograma das aulas completo e tópicos do projeto final; inclusão da tabela de contribuição | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 27/09/2026 | 1.0 | Criação da página com a transcrição do Plano de Ensino (registro recuperado do commit e86c6be) | Henrique Schneider | Gabriel Robson |
+| 27/09/2026 | 1.1 | Verificações e formatações finais (registro recuperado do commit 530579c) | Henrique Schneider | Gabriel Robson |
+| 15/10/2026 | 1.2 | Inclusão do histórico, do aviso sobre a transcrição parcial, do link para o documento oficial e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 1.3 | Revisão da transcrição com o PDF: conteúdo programático completo, fórmulas da avaliação, declaração de IA generativa, bibliografia na ordem do Plano, cronograma das aulas completo e tópicos do projeto final; inclusão da tabela de contribuição | Henrique Schneider | Gabriel Robson |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -275,4 +275,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para comparar esta transcrição com o PDF do Plano de Ensino e completá-la a partir dele (conteúdo programático, declaração sobre IA generativa, bibliografia, cronograma das aulas e tópicos do projeto final), incluir o histórico de versões (a partir dos commits), a tabela de contribuição e o link para o documento oficial. Nenhum conteúdo foi acrescentado além do que está no PDF. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

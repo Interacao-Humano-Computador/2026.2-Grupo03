@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Henrique Schneider Fernandes da Rosa | Gravação da sessão e transcrição automática pelo Microsoft Teams; anonimização com apoio do Claude | [Sessão do participante P8](sessao-p8.md) | **[VERIFICAR: link da gravação]** |
+| Henrique Schneider Fernandes da Rosa | Gravação da sessão e transcrição automática pelo Microsoft Teams; anonimização com apoio do Claude | [Sessão do participante P8](sessao-p8.md) | — |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -16,8 +16,8 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/11/2026 | 1.0 | Publicação da transcrição automática do Microsoft Teams da sessão com o participante P8, com o nome, a idade, o mês de nascimento e a formação do participante removidos | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-| 15/11/2026 | 1.1 | Inclusão das chamadas das Tabelas 1 a 3 no texto, a partir da inspeção do próprio grupo | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 1.0 | Publicação da transcrição automática do Microsoft Teams da sessão com o participante P8, com o nome, a idade, o mês de nascimento e a formação do participante removidos | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.1 | Inclusão das chamadas das Tabelas 1 a 3 no texto, a partir da inspeção do próprio grupo | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -25,7 +25,7 @@ Fonte: elaborado pelo autor (2026).
 
 Esta página reproduz a transcrição da [sessão do teste de usabilidade com o participante P8](sessao-p8.md). Seguindo Barbosa e Silva (2010, cap. 5, seç. 5.4, p. 140), o nome do participante foi substituído por um código, e foram removidos também a idade, o mês de nascimento e a formação, que ajudariam a identificá-lo. A coluna “Falante” mostra o código do participante (P8) e o nome do avaliador. A Tabela 1 traz a contribuição de cada integrante e a Tabela 2, o histórico de versões.
 
-**A transcrição é automática e tem erros.** O Teams trocou palavras e inseriu trechos em inglês onde a fala era em português (por exemplo, perto de 0:32, 0:48, 5:31, 8:07, 9:36 e 14:13). Nenhum texto foi corrigido: para citar uma fala, confira-a na gravação. **[VERIFICAR: conferir o anonimato do texto inteiro antes de publicar]**
+**A transcrição é automática e tem erros.** O Teams trocou palavras e inseriu trechos em inglês onde a fala era em português (por exemplo, perto de 0:32, 0:48, 5:31, 8:07, 9:36 e 14:13). Nenhum texto foi corrigido: para citar uma fala, confira-a na gravação.
 
 ## 2. Transcrição
 

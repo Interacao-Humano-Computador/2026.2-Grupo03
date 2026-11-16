@@ -124,16 +124,16 @@ O ex-integrante Eduardo Ribeiro Gomes da Silva (Entregas 1 e 2) contribuiu para 
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Criação da página inicial do projeto e apresentação do Portal de Serviços do Detran-DF. | Grupo 03 | **[VERIFICAR: revisor]** |
-| 10/09/2026 | 1.1 | Atualização da apresentação do Grupo 03, dos acessos principais e do registro de contribuições da página inicial. | Grupo 03 | **[VERIFICAR: revisor]** |
-| 17/09/2026 | 1.2 | Criação das páginas da segunda entrega "Perfil de Usuários, Aspectos Éticos e Análise de Tarefas" e adição do novo integrante do Grupo 3 -> Gabriel Robson | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 24/09/2026 | 1.3 | Adição da seção 2.1 "Aspectos Éticos e Termo de Consentimento Livre e Esclarecido (TCLE)". | João Vitor Tavares | **[VERIFICAR: revisor]** |
-| 24/09/2026 | 1.4 | Alteração das fotos dos integrantes. | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 27/09/2026 | 1.5 | Alteração das fotos dos integrantes (agora está correto). | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 06/10/2026 | 1.6 | Redação das metas de Usabilidade | João Vitor Tavares | **[VERIFICAR: revisor]** |
-| 15/10/2026 | 2.0 | Reestruturação da página no modelo da disciplina: tabela de contribuição, histórico em ordem cronológica, legenda da Figura 1, novos acessos (relatórios e acompanhamento) e seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 2.1 | Organização por entrega: guia de navegação com as novas abas, equipe atual e quadro dos ex-integrantes | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 10/09/2026 | 1.0 | Criação da página inicial do projeto e apresentação do Portal de Serviços do Detran-DF. | Grupo 03 | Gabriel Robson |
+| 10/09/2026 | 1.1 | Atualização da apresentação do Grupo 03, dos acessos principais e do registro de contribuições da página inicial. | Grupo 03 | Gabriel Robson |
+| 17/09/2026 | 1.2 | Criação das páginas da segunda entrega "Perfil de Usuários, Aspectos Éticos e Análise de Tarefas" e adição do novo integrante do Grupo 3 -> Gabriel Robson | Henrique Schneider | Gabriel Robson |
+| 24/09/2026 | 1.3 | Adição da seção 2.1 "Aspectos Éticos e Termo de Consentimento Livre e Esclarecido (TCLE)". | João Vitor Tavares | Gabriel Robson |
+| 24/09/2026 | 1.4 | Alteração das fotos dos integrantes. | Henrique Schneider | Gabriel Robson |
+| 27/09/2026 | 1.5 | Alteração das fotos dos integrantes (agora está correto). | Henrique Schneider | Gabriel Robson |
+| 06/10/2026 | 1.6 | Redação das metas de Usabilidade | João Vitor Tavares | Gabriel Robson |
+| 15/10/2026 | 2.0 | Reestruturação da página no modelo da disciplina: tabela de contribuição, histórico em ordem cronológica, legenda da Figura 1, novos acessos (relatórios e acompanhamento) e seção de uso de IA | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 2.1 | Organização por entrega: guia de navegação com as novas abas, equipe atual e quadro dos ex-integrantes | Henrique Schneider | Gabriel Robson |
+| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -149,4 +149,4 @@ Agradecemos ao Prof. Dr. André Barros de Sales pela orientação do projeto.
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página no modelo de artefato da disciplina: montagem da tabela de contribuição a partir do histórico de versões e dos commits, ordenação do histórico, legenda da Figura 1, quadro dos ex-integrantes e guia de navegação da organização por entrega. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
