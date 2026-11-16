@@ -17,12 +17,13 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 15/11/2026 | 1.0 | Criação do roteiro, com os blocos, o que mostrar em cada um, os pontos a dizer e o que não dizer, a partir do relatório da Entrega 7 e da página da sessão | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 1.1 | Inclusão das chamadas das Tabelas 1 a 3 no texto, a partir da inspeção do próprio grupo | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelo autor (2026).
 
 ## 1. Introdução
 
-O Plano de Ensino pede que, na apresentação em vídeo do projeto, o autor apresente o artefato que produziu (Sales, 2026, seção 5, Avaliação). **[VERIFICAR: página da regra no Plano de Ensino]** Este roteiro organiza a apresentação de Henrique Schneider na Entrega 7, marcada para 17/11/2026 (Sales, 2026, p. 5): o protótipo de alta fidelidade, o teste de usabilidade e o que a sessão com o participante P8 mostra. Ele traz só o que as páginas do site já registram. O que depende da conferência do vídeo da sessão aparece como **[VERIFICAR]** e deve ser resolvido antes de gravar.
+O Plano de Ensino pede que, na apresentação em vídeo do projeto, o autor apresente o artefato que produziu (Sales, 2026, seção 5, Avaliação). **[VERIFICAR: página da regra no Plano de Ensino]** Este roteiro organiza a apresentação de Henrique Schneider na Entrega 7, marcada para 17/11/2026 (Sales, 2026, p. 5): o protótipo de alta fidelidade, o teste de usabilidade e o que a sessão com o participante P8 mostra. Ele traz só o que as páginas do site já registram. O que depende da conferência do vídeo da sessão aparece como **[VERIFICAR]** e deve ser resolvido antes de gravar. A Tabela 1 traz a contribuição de cada integrante e a Tabela 2, o histórico de versões.
 
 **[VERIFICAR: duração máxima da apresentação da etapa 7; o Plano de Ensino só informa a duração da apresentação final (20 a 30 minutos)]**
 
@@ -34,6 +35,8 @@ O Plano de Ensino pede que, na apresentação em vídeo do projeto, o autor apre
 - Gravar em Microsoft Teams ou outro programa, publicar no YouTube como **não listado** e pôr o link na página da Entrega 7, no relatório e na tabela de contribuição.
 
 ## 3. Blocos da apresentação
+
+A Tabela 3 traz os blocos, o que mostrar e os pontos a dizer em cada um.
 
 **Tabela 3 – Blocos, tela a mostrar e pontos a dizer**
 
@@ -62,4 +65,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar este roteiro a partir do relatório da Entrega 7 e da página da sessão, sem acrescentar dados. Os tempos de cada bloco e o conteúdo do vídeo são do autor. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar este roteiro a partir do relatório da Entrega 7 e da página da sessão, sem acrescentar dados. Os tempos de cada bloco e o conteúdo do vídeo são do autor. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para incluir as chamadas das tabelas no texto, a partir da inspeção do próprio grupo.

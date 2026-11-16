@@ -19,14 +19,17 @@ Fonte: elaborado pelo autor (2026).
 | 15/11/2026 | 0.1 | Criação da visão geral e do modelo de registro da sessão com o participante P8, sem dados | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 15/11/2026 | 0.2 | Registro da sessão com o participante P8 e da transcrição anonimizada | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 15/11/2026 | 0.3 | Inclusão do roteiro da apresentação e dos links para a lista de verificação da Entrega 7 | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 0.4 | Inclusão das chamadas das Tabelas 1 a 3 no texto, a partir da inspeção do próprio grupo | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelo autor (2026).
 
 ## 1. Introdução
 
-Esta página reúne o material de Henrique Schneider na Entrega 7, que pede o “Relato dos resultados do Protótipo de alta fidelidade” (Sales, 2026, Cronograma das Aulas, p. 5). O cenário é o do agendamento da prova teórica com reserva de horário, avaliado no [protótipo do Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) segundo o [roteiro do teste de usabilidade](../../../entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md).
+Esta página reúne o material de Henrique Schneider na Entrega 7, que pede o “Relato dos resultados do Protótipo de alta fidelidade” (Sales, 2026, Cronograma das Aulas, p. 5). O cenário é o do agendamento da prova teórica com reserva de horário, avaliado no [protótipo do Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) segundo o [roteiro do teste de usabilidade](../../../entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md). A Tabela 1 traz a contribuição de cada integrante e a Tabela 2, o histórico de versões.
 
 ## 2. Trabalhos individuais
+
+A Tabela 3 lista os materiais de Henrique Schneider na Entrega 7.
 
 **Tabela 3 – Materiais de Henrique Schneider na Entrega 7**
 
@@ -50,4 +53,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar esta visão geral e o modelo da página da sessão a partir do planejamento do teste de usabilidade, sem acrescentar dados. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para registrar a sessão com o participante P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta. Em 15/11/2026, também foi usado para incluir o roteiro da apresentação e os links da lista de verificação.
+**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar esta visão geral e o modelo da página da sessão a partir do planejamento do teste de usabilidade, sem acrescentar dados. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para registrar a sessão com o participante P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta. Em 15/11/2026, também foi usado para incluir o roteiro da apresentação e os links da lista de verificação. Em 15/11/2026, também foi usado para incluir as chamadas das tabelas no texto, a partir da inspeção do próprio grupo.

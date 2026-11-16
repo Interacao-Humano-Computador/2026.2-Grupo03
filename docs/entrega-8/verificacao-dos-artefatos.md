@@ -273,12 +273,12 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 
 | Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA | [VERIFICAR] abertos |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-| [entrega-7/integrantes/henrique-schneider/index.md](../entrega-7/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 5 |
-| [entrega-7/integrantes/henrique-schneider/roteiro-apresentacao.md](../entrega-7/integrantes/henrique-schneider/roteiro-apresentacao.md) | C | NC | C | C | C | C | C | 13 |
-| [entrega-7/integrantes/henrique-schneider/sessao-p8.md](../entrega-7/integrantes/henrique-schneider/sessao-p8.md) | C | NC | C | C | C | C | C | 22 |
-| [entrega-7/integrantes/henrique-schneider/transcricao-p8.md](../entrega-7/integrantes/henrique-schneider/transcricao-p8.md) | C | NC | C | C | C | C | C | 3 |
-| [entrega-7/relatorio.md](../entrega-7/relatorio.md) | C | NC | C | C | C | C | C | 31 |
-| [entrega-7/verificacao/lista-de-verificacao.md](../entrega-7/verificacao/lista-de-verificacao.md) | C | NC | C | C | C | C | C | 22 |
+| [entrega-7/integrantes/henrique-schneider/index.md](../entrega-7/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 6 |
+| [entrega-7/integrantes/henrique-schneider/roteiro-apresentacao.md](../entrega-7/integrantes/henrique-schneider/roteiro-apresentacao.md) | C | NC | C | C | C | C | C | 14 |
+| [entrega-7/integrantes/henrique-schneider/sessao-p8.md](../entrega-7/integrantes/henrique-schneider/sessao-p8.md) | C | NC | C | C | C | C | C | 23 |
+| [entrega-7/integrantes/henrique-schneider/transcricao-p8.md](../entrega-7/integrantes/henrique-schneider/transcricao-p8.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-7/relatorio.md](../entrega-7/relatorio.md) | C | NC | C | C | C | C | C | 32 |
+| [entrega-7/verificacao/lista-de-verificacao.md](../entrega-7/verificacao/lista-de-verificacao.md) | C | NC | C | C | C | C | C | 24 |
 
 Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.py.
 

@@ -19,18 +19,21 @@ Fonte: elaborado pelo autor (2026).
 | 15/11/2026 | 0.1 | Criação do modelo da página, com os campos de registro da Sessão do participante P8 ainda sem dados, porque a sessão não tinha sido registrada | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 15/11/2026 | 0.2 | Ajuste do modelo à mudança da modalidade: protótipo usado pelo controle remoto do Microsoft Teams, e seção de diferenças em relação ao planejamento | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 15/11/2026 | 1.0 | Registro da sessão com o participante P8 a partir da gravação (17 min 14 s) e da transcrição automática do Teams: identificação, pré-teste, medidas aproximadas por tarefa, entrevista pós-teste, trechos e diferenças em relação ao planejamento | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 1.1 | Inclusão das chamadas das Tabelas 1 a 8 no texto, a partir da inspeção do próprio grupo | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelo autor (2026).
 
 ## 1. Introdução
 
-Esta página registra a sessão do teste de usabilidade do [protótipo de alta fidelidade](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) com o participante P8, conforme o [roteiro do teste](../../../entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md). Os dados desta sessão alimentam o [relatório da Entrega 7](../../relatorio.md).
+Esta página registra a sessão do teste de usabilidade do [protótipo de alta fidelidade](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) com o participante P8, conforme o [roteiro do teste](../../../entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md). Os dados desta sessão alimentam o [relatório da Entrega 7](../../relatorio.md). A Tabela 1 traz a contribuição de cada integrante e a Tabela 2, o histórico de versões.
 
 **Fonte dos dados.** Os registros abaixo vêm da transcrição automática do Teams (publicada em [transcricao-p8.md](transcricao-p8.md)). O vídeo da gravação ainda não foi conferido nesta versão, então os tempos são **aproximados** (leitura da transcrição, com resolução de segundos) e o que depende de ver a tela está marcado com **[VERIFICAR]**. A transcrição automática tem erros: para citar uma fala, confira-a na gravação.
 
 O código **P8** é o primeiro da série prevista no planejamento (P8 a P10). **[VERIFICAR: confirmar o código do participante]** O nome do participante não aparece em nenhuma página do site (Barbosa; Silva, 2010, cap. 5, seç. 5.4, p. 140).
 
 ## 2. Identificação da sessão
+
+A Tabela 3 compara o que o planejamento previa com o que foi registrado.
 
 **Tabela 3 – Identificação da sessão**
 
@@ -51,6 +54,8 @@ Fonte: elaborado pelo autor (2026), com base no planejamento do teste de usabili
 
 ## 3. Questionário pré-teste
 
+A Tabela 4 traz as respostas ao questionário pré-teste.
+
 **Tabela 4 – Respostas do participante P8 ao questionário pré-teste**
 
 | Nº | Pergunta | Resposta | Trecho |
@@ -67,7 +72,7 @@ Fonte: elaborado pelo autor (2026), com as perguntas do Apêndice A do planejame
 
 ## 4. Medidas por tarefa
 
-As definições são as do planejamento: **sem ajuda** (chega à tela-alvo sem intervenção), **com ajuda** (precisou de uma dica), **erro** (ação que não leva à tela-alvo) e **desvio** (passo fora do caminho da HTA, mesmo que corrigido depois). Os tempos foram estimados na transcrição, do “pode começar” ou do fim da instrução até a fala que encerra a tarefa, e **incluem o tempo em que o participante leu a tela em voz alta**. Nenhuma nota de facilidade (1 a 5) foi pedida.
+As definições são as do planejamento: **sem ajuda** (chega à tela-alvo sem intervenção), **com ajuda** (precisou de uma dica), **erro** (ação que não leva à tela-alvo) e **desvio** (passo fora do caminho da HTA, mesmo que corrigido depois). Os tempos foram estimados na transcrição, do “pode começar” ou do fim da instrução até a fala que encerra a tarefa, e **incluem o tempo em que o participante leu a tela em voz alta**. Nenhuma nota de facilidade (1 a 5) foi pedida. A Tabela 5 traz as medidas e a Tabela 6, os desvios e os comentários.
 
 **Tabela 5 – Medidas aproximadas do participante P8 por tarefa**
 
@@ -96,6 +101,8 @@ Fonte: elaborado pelo autor (2026), a partir da transcrição automática do Tea
 
 ## 5. Entrevista pós-teste
 
+A Tabela 7 traz as respostas à entrevista pós-teste.
+
 **Tabela 7 – Respostas do participante P8 à entrevista pós-teste**
 
 | Nº | Pergunta | Resposta resumida ou frase (transcrição automática) | Trecho |
@@ -111,6 +118,8 @@ Fonte: elaborado pelo autor (2026), a partir da transcrição automática do Tea
 Fonte: elaborado pelo autor (2026), com as perguntas do Apêndice D do planejamento e as respostas da transcrição automática.
 
 ## 6. Trechos da gravação
+
+A Tabela 8 mostra em que minuto da gravação está cada parte da sessão.
 
 **Tabela 8 – Trechos aproximados da sessão com o participante P8**
 
@@ -154,4 +163,4 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Co
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar o modelo desta página a partir do planejamento do teste de usabilidade (identificação, questionário, medidas e entrevista). Nenhum dado de participante, tempo, resposta ou resultado foi criado: os campos de registro estão vazios até que o autor os preencha a partir da gravação. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também a pedido do autor, o Claude foi usado para ajustar o modelo à mudança da modalidade (controle remoto do Teams), sem acrescentar dados. Em 15/11/2026, também a pedido do autor, o Claude foi usado para preencher esta página a partir da transcrição automática do Teams (identificação, pré-teste, tempos estimados, entrevista e diferenças em relação ao planejamento). O vídeo da gravação não foi assistido pela ferramenta. Os tempos, as classificações e as frases dependem da conferência do autor na gravação.
+**Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar o modelo desta página a partir do planejamento do teste de usabilidade (identificação, questionário, medidas e entrevista). Nenhum dado de participante, tempo, resposta ou resultado foi criado: os campos de registro estão vazios até que o autor os preencha a partir da gravação. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também a pedido do autor, o Claude foi usado para ajustar o modelo à mudança da modalidade (controle remoto do Teams), sem acrescentar dados. Em 15/11/2026, também a pedido do autor, o Claude foi usado para preencher esta página a partir da transcrição automática do Teams (identificação, pré-teste, tempos estimados, entrevista e diferenças em relação ao planejamento). O vídeo da gravação não foi assistido pela ferramenta. Os tempos, as classificações e as frases dependem da conferência do autor na gravação. Em 15/11/2026, também foi usado para incluir as chamadas das tabelas no texto, a partir da inspeção do próprio grupo.

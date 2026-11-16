@@ -8,8 +8,8 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Planejamento, análise das duas entrevistas e registro do ensaio técnico da vistoria veicular, com apoio do ChatGPT | [Relato individual](integrantes/alexandre-vilar/relato.md) | [Entrevistas e ensaio](integrantes/alexandre-vilar/relato.md#videos) |
 | Gabriel Robson Nunes Neiva da Silva | **[VERIFICAR: contribuição]** | — | — |
-| Henrique Schneider Fernandes da Rosa | Estrutura desta página e protótipo de alta fidelidade que será avaliado (Figma) | [Protótipo no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) | — |
-| João Vitor | Protótipo de biometria, planejamento, vídeos e relato de think-aloud de P01/P02/P03 | [Relato individual](integrantes/joao-vitor/relato.md) | [Gravações fornecidas](integrantes/joao-vitor/relato.md#gravacoes) |
+| Henrique Schneider Fernandes da Rosa | Estrutura desta página, protótipo de alta fidelidade (Figma) e registro da sessão com o participante P8 | [Protótipo no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) | — |
+| João Vitor Tavares de Sá Lima | Protótipo de biometria, planejamento, vídeos e relato de think-aloud de P01/P02/P03 | [Relato individual](integrantes/joao-vitor/relato.md) | [Gravações fornecidas](integrantes/joao-vitor/relato.md#gravacoes) |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -20,23 +20,24 @@ Fonte: elaborado pelos autores (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 10/11/2026 | 0.1 | Criação da estrutura do relato, com os prazos, o protótipo avaliado e as seções do relato dos resultados ainda sem dados, porque as sessões do teste de usabilidade não foram registradas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-| 15/11/2026 | 0.2 | Preenchimento do que já está definido no planejamento (objetivos, método, tarefas, valores-alvo e participante P8), inclusão das tabelas de sumário e de problemas e do link para a página da sessão; resultados ainda sem dados | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-| 15/11/2026 | 0.3 | Ajuste do método à mudança da modalidade das sessões (controle remoto do Microsoft Teams) | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-| 15/11/2026 | 0.4 | Inclusão dos dados da sessão com o participante P8 (transcrição automática do Teams): participante, sumário, interpretação cautelosa, problemas, limitações e diferenças em relação ao planejamento; o vídeo ainda não foi conferido | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
-| 15/11/2026 | 0.5 | Inclusão do link para a versão em PDF da página | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 11/11/2026 | 0.2 | Vinculação do planejamento e dos materiais individuais de Alexandre, sem resultados presumidos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
 | 14/11/2026 | 0.3 | Inclusão dos materiais individuais e do protótipo navegável de biometria de João Vitor; avaliação ainda pendente | João Vitor | Revisão humana pendente |
-| 15/11/2026 | 0.4 | Integrei minha análise de duas entrevistas e o registro do ensaio técnico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
-| 15/11/2026 | 0.5 | Vinculação dos registros de biometria e análise textual preliminar, mantendo limites e P03 pendente | João Vitor | Revisão humana pendente |
-| 15/11/2026 | 0.6 | Atualização da data das aplicações, apresentação dos vídeos e inclusão do reagendamento de P03 informado pelo avaliador | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 0.4 | Preenchimento do que já está definido no planejamento (objetivos, método, tarefas, valores-alvo e participante P8), inclusão das tabelas de sumário e de problemas e do link para a página da sessão; resultados ainda sem dados | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 0.5 | Ajuste do método à mudança da modalidade das sessões (controle remoto do Microsoft Teams) | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 0.6 | Inclusão dos dados da sessão com o participante P8 (transcrição automática do Teams): participante, sumário, interpretação cautelosa, problemas, limitações e diferenças em relação ao planejamento; o vídeo ainda não foi conferido | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 0.7 | Inclusão do link para a versão em PDF da página | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 0.8 | Integrei minha análise de duas entrevistas e o registro do ensaio técnico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 15/11/2026 | 0.9 | Vinculação dos registros de biometria e análise textual preliminar, mantendo limites e P03 pendente | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 1.0 | Atualização da data das aplicações, apresentação dos vídeos e inclusão do reagendamento de P03 informado pelo avaliador | João Vitor | Revisão humana pendente |
+| 15/11/2026 | 1.1 | Correção da introdução, que ainda dizia que não havia sessão registrada, e inclusão das chamadas das Tabelas 1, 2, 4 e 6 no texto, a partir da inspeção do próprio grupo; renumeração das versões do histórico, que estavam repetidas depois da fusão das edições dos integrantes | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-A Entrega 7 pede o “Relato dos resultados do Protótipo de alta fidelidade” (Sales, 2026, Cronograma das Aulas, p. 5). Esta página reúne a estrutura do relato, no formato que Barbosa e Silva (2010, cap. 9, seç. 9.7.5, pp. 311–312) indicam para os resultados consolidados de uma avaliação, e liga cada parte ao planejamento já publicado.
+A Entrega 7 pede o “Relato dos resultados do Protótipo de alta fidelidade” (Sales, 2026, Cronograma das Aulas, p. 5). Esta página reúne a estrutura do relato, no formato que Barbosa e Silva (2010, cap. 9, seç. 9.7.5, pp. 311–312) indicam para os resultados consolidados de uma avaliação, e liga cada parte ao planejamento já publicado. A Tabela 1 traz a contribuição de cada integrante e a Tabela 2, o histórico de versões.
 
-**Esta versão inclui o [relato individual de Alexandre](integrantes/alexandre-vilar/relato.md), com duas entrevistas e um ensaio técnico.** As seções coletivas ainda marcadas com **[VERIFICAR]** precisam ser completadas com os registros correspondentes. A síntese de Alexandre está identificada separadamente, sem atribuir seus resultados às propostas dos demais integrantes.
+**Esta versão reúne os registros de três integrantes.** O [relato individual de Alexandre](integrantes/alexandre-vilar/relato.md) traz duas entrevistas e um ensaio técnico; o [relato individual de João Vitor](integrantes/joao-vitor/relato.md) traz o protótipo de biometria e o relato de think-aloud de P01, P02 e P03; e a [sessão do participante P8](integrantes/henrique-schneider/sessao-p8.md) traz os dados de uma única sessão do protótipo do agendamento da prova teórica, que são só indícios. As Seções 4.1 a 4.9 tratam da sessão de Henrique Schneider; a síntese de cada integrante está identificada separadamente, sem atribuir seus resultados às propostas dos demais. A sessão com P8 foi registrada a partir da transcrição automática do Teams; o vídeo ainda não foi conferido, e o que depende de ver a tela aparece como **[VERIFICAR]**. Nenhum dado de participante, tempo, erro ou problema foi inventado.
 
 ## 2. Prazos
 
@@ -94,7 +95,7 @@ O método é o teste de usabilidade, com questionário pré-teste, sessão de ob
 
 ### 4.3 Número e perfil de usuários e avaliadores
 
-O planejamento previa três participantes (P8 a P10), candidatos à primeira habilitação que não participaram do storyboard nem do papel (roteiro, Seção 5). Até esta versão há **uma sessão registrada, com o participante P8**, em 15/11/2026, na [página da sessão](integrantes/henrique-schneider/sessao-p8.md). O avaliador é Henrique Schneider, e não houve observador.
+O planejamento previa três participantes (P8 a P10), candidatos à primeira habilitação que não participaram do storyboard nem do papel (roteiro, Seção 5). Até esta versão há **uma sessão registrada, com o participante P8**, em 15/11/2026, na [página da sessão](integrantes/henrique-schneider/sessao-p8.md). O avaliador é Henrique Schneider, e não houve observador. A Tabela 4 resume o perfil de P8.
 
 **Tabela 4 – Participantes do teste de usabilidade**
 
@@ -137,6 +138,8 @@ Com um único participante, o desvio padrão não se aplica, e os resultados sã
 
 ### 4.6 Lista dos problemas encontrados
 
+A Tabela 6 lista os problemas encontrados até esta versão.
+
 **Tabela 6 – Lista de problemas do teste de usabilidade**
 
 | ID | Local (tela · elemento) | Descrição e justificativa | Fatores de usabilidade prejudicados | Severidade (1 a 4) | Frequência | Sugestão de solução |
@@ -178,9 +181,7 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar a estrutura desta página a partir do Plano de Ensino, do planejamento do teste de usabilidade e do esqueleto que o grupo já tinha preparado. Em 15/11/2026, também foi usado para incluir os dados da sessão com P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta e os tempos e as classificações dependem da conferência do autor. Nenhum link de vídeo foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para gerar a versão em PDF desta página.
-**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar a estrutura desta página a partir do Plano de Ensino, do planejamento do teste de usabilidade e do esqueleto que o grupo já tinha preparado. Não foram criados dados de participantes, resultados, datas de sessões nem links de vídeo. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
-
+**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar a estrutura desta página a partir do Plano de Ensino, do planejamento do teste de usabilidade e do esqueleto que o grupo já tinha preparado. Em 15/11/2026, também foi usado para incluir os dados da sessão com P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta e os tempos e as classificações dependem da conferência do autor. Nenhum link de vídeo foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para gerar a versão em PDF desta página. Em 15/11/2026, também foi usado para corrigir a introdução e as chamadas de tabelas, a partir da inspeção do próprio grupo.
 
 Em 14/11/2026, o ChatGPT (OpenAI) apoiou João Vitor na integração de seus materiais individuais, na implementação e documentação do protótipo de biometria e na verificação técnica. O apoio de IA está declarado nos agradecimentos; não foram criados resultados de sessões, falas ou gravações de participantes.
 
