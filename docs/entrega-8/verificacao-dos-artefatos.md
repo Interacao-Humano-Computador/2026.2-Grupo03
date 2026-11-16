@@ -67,13 +67,13 @@ Os itens D6 a D9 (cronograma executado, atas, gravação da reunião e vídeos �
 
 | Item | Conforme | Total avaliado |
 | --- | ---: | ---: |
-| D1 Histórico de versão | 148 | 148 |
-| D2 Autor e revisor nominal | 7 | 148 |
-| D3 Referências | 136 | 148 |
-| D4 Legenda e fonte das tabelas e imagens | 91 | 148 |
-| D5 Introdução | 111 | 148 |
-| D10 Tabela de contribuição | 148 | 148 |
-| D11 Uso de IA generativa | 146 | 148 |
+| D1 Histórico de versão | 152 | 156 |
+| D2 Autor e revisor nominal | 7 | 156 |
+| D3 Referências | 143 | 156 |
+| D4 Legenda e fonte das tabelas e imagens | 96 | 156 |
+| D5 Introdução | 116 | 156 |
+| D10 Tabela de contribuição | 152 | 156 |
+| D11 Uso de IA generativa | 149 | 156 |
 
 Fonte: elaborado pelos autores (2026), com `ferramentas/auditoria-site/auditoria.py`.
 
@@ -249,10 +249,15 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 | [entrega-6/integrantes/alexandre-vilar/planejamento-alta-fidelidade.md](../entrega-6/integrantes/alexandre-vilar/planejamento-alta-fidelidade.md) | C | NC | NC | NC | NC | C | C | 5 |
 | [entrega-6/integrantes/alexandre-vilar/prototipo-papel.md](../entrega-6/integrantes/alexandre-vilar/prototipo-papel.md) | C | NC | NC | NC | NC | C | C | 5 |
 | [entrega-6/integrantes/alexandre-vilar/video-avaliacao.md](../entrega-6/integrantes/alexandre-vilar/video-avaliacao.md) | C | NC | NC | C | NC | C | C | 5 |
+| [entrega-6/integrantes/gabriel-robson/imagens/LEIA-ME-legendas.md](../entrega-6/integrantes/gabriel-robson/imagens/LEIA-ME-legendas.md) | NC | NC | NC | NC | NC | NC | NC | 0 |
+| [entrega-6/integrantes/gabriel-robson/index.md](../entrega-6/integrantes/gabriel-robson/index.md) | C | NC | C | C | C | C | NC | 0 |
+| [entrega-6/integrantes/gabriel-robson/planejamento-alta-fidelidade.md](../entrega-6/integrantes/gabriel-robson/planejamento-alta-fidelidade.md) | NC | NC | C | NC | C | NC | NC | 0 |
+| [entrega-6/integrantes/gabriel-robson/prototipo-papel.md](../entrega-6/integrantes/gabriel-robson/prototipo-papel.md) | NC | NC | C | C | NC | NC | NC | 0 |
+| [entrega-6/integrantes/gabriel-robson/video-avaliacao.md](../entrega-6/integrantes/gabriel-robson/video-avaliacao.md) | NC | NC | C | NC | NC | NC | NC | 0 |
 | [entrega-6/integrantes/henrique-schneider/especificacao-alta-fidelidade.md](../entrega-6/integrantes/henrique-schneider/especificacao-alta-fidelidade.md) | C | NC | C | C | C | C | C | 11 |
 | [entrega-6/integrantes/henrique-schneider/index.md](../entrega-6/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 2 |
 | [entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md](../entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md) | C | NC | C | NC | C | C | C | 6 |
-| [entrega-6/integrantes/henrique-schneider/prototipo-papel.md](../entrega-6/integrantes/henrique-schneider/prototipo-papel.md) | C | NC | C | NC | C | C | C | 2 |
+| [entrega-6/integrantes/henrique-schneider/prototipo-papel.md](../entrega-6/integrantes/henrique-schneider/prototipo-papel.md) | C | NC | C | NC | C | C | C | 6 |
 | [entrega-6/integrantes/joao-vitor/index.md](../entrega-6/integrantes/joao-vitor/index.md) | C | NC | NC | C | C | C | C | 4 |
 | [entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md](../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md) | C | NC | NC | C | NC | C | C | 5 |
 | [entrega-6/integrantes/joao-vitor/prototipo-papel.md](../entrega-6/integrantes/joao-vitor/prototipo-papel.md) | C | NC | NC | C | NC | C | C | 5 |
@@ -268,7 +273,10 @@ Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.
 
 | Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA | [VERIFICAR] abertos |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-| [entrega-7/relatorio.md](../entrega-7/relatorio.md) | C | NC | C | C | C | C | C | 16 |
+| [entrega-7/integrantes/henrique-schneider/index.md](../entrega-7/integrantes/henrique-schneider/index.md) | C | NC | C | C | C | C | C | 4 |
+| [entrega-7/integrantes/henrique-schneider/sessao-p8.md](../entrega-7/integrantes/henrique-schneider/sessao-p8.md) | C | NC | C | C | C | C | C | 22 |
+| [entrega-7/integrantes/henrique-schneider/transcricao-p8.md](../entrega-7/integrantes/henrique-schneider/transcricao-p8.md) | C | NC | C | C | C | C | C | 3 |
+| [entrega-7/relatorio.md](../entrega-7/relatorio.md) | C | NC | C | C | C | C | C | 30 |
 
 Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.py.
 

@@ -314,6 +314,11 @@ nav:
 
   - "Entrega 7":
     - Relatório da entrega: entrega-7/relatorio.md
+    - Material dos integrantes:
+      - Henrique Schneider:
+        - Visão geral: entrega-7/integrantes/henrique-schneider/index.md
+        - Sessão do participante P8: entrega-7/integrantes/henrique-schneider/sessao-p8.md
+        - Transcrição anonimizada do participante P8: entrega-7/integrantes/henrique-schneider/transcricao-p8.md
     - Alexandre Vilar:
       - Visão Geral: entrega-7/integrantes/alexandre-vilar/index.md
       - Planejamento DECIDE: entrega-7/integrantes/alexandre-vilar/planejamento.md
