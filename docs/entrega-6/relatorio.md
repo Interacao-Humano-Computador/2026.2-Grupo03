@@ -20,6 +20,7 @@ Fonte: elaborado pelos autores (2026), a partir das tabelas de contribuição de
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 10/11/2026 | 1.0 | Criação da página com a identificação da entrega, os artefatos de cada integrante, a situação do protótipo de papel e do protótipo de alta fidelidade e os links dos vídeos, a partir das páginas individuais já publicadas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 1.1 | Inclusão do link para a versão em PDF da página | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -97,10 +98,14 @@ Fonte: elaborado pelos autores (2026), com base nas páginas individuais da Entr
 
 A [lista de verificação da Entrega 6](verificacao/lista-de-verificacao.md) traz os itens do desenvolvimento do projeto, os itens de conteúdo propostos pelo grupo e os quadros para registrar a inspeção do próprio grupo e do Grupo +1, prevista para 04/11/2026. O registro da inspeção do Grupo +1 ainda não foi feito. **[VERIFICAR: grupo inspecionado, data e link da gravação]**
 
+## Documento em PDF
+
+A versão em PDF desta página, no formato pedido no Moodle (`PlajRelatoStoryBoarProtAltaFideNomedoSite.pdf`), está disponível para download: [Relatório da Entrega 6 (PDF)](../assets/pdfs/entregas/relatorio-entrega-6-grupo-03.pdf).
+
 ## Referências
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir das páginas individuais da Entrega 6 já publicadas (datas, horários, participantes, links e situação de cada material foram copiados dessas páginas, sem acréscimo de dados). Nada foi inventado: o que não consta nas páginas aparece como **[VERIFICAR]**. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir das páginas individuais da Entrega 6 já publicadas (datas, horários, participantes, links e situação de cada material foram copiados dessas páginas, sem acréscimo de dados). Nada foi inventado: o que não consta nas páginas aparece como **[VERIFICAR]**. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para gerar a versão em PDF desta página.

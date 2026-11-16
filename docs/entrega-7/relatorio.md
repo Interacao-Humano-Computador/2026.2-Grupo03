@@ -23,6 +23,7 @@ Fonte: elaborado pelos autores (2026).
 | 15/11/2026 | 0.2 | Preenchimento do que já está definido no planejamento (objetivos, método, tarefas, valores-alvo e participante P8), inclusão das tabelas de sumário e de problemas e do link para a página da sessão; resultados ainda sem dados | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 15/11/2026 | 0.3 | Ajuste do método à mudança da modalidade das sessões (controle remoto do Microsoft Teams) | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 | 15/11/2026 | 0.4 | Inclusão dos dados da sessão com o participante P8 (transcrição automática do Teams): participante, sumário, interpretação cautelosa, problemas, limitações e diferenças em relação ao planejamento; o vídeo ainda não foi conferido | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/11/2026 | 0.5 | Inclusão do link para a versão em PDF da página | Henrique Schneider, com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -139,6 +140,10 @@ Os resultados do teste-piloto não entram nos resultados da avaliação (Barbosa
 
 **[VERIFICAR: links dos vídeos do teste-piloto, das sessões e da apresentação da Entrega 7, em “não listado” no YouTube]** A gravação da sessão com P8 tem 17 min 14 s; a [página da sessão](integrantes/henrique-schneider/sessao-p8.md) tem o campo do link, e a [transcrição anonimizada](integrantes/henrique-schneider/transcricao-p8.md) já está publicada.
 
+## Documento em PDF
+
+A versão em PDF desta página, no formato pedido no Moodle (`RelatoProtAltaFideNomedoSite.pdf`), está disponível para download: [Relatório da Entrega 7 (PDF)](../assets/pdfs/entregas/relatorio-entrega-7-grupo-03.pdf).
+
 ## Referências
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
@@ -147,4 +152,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar a estrutura desta página a partir do Plano de Ensino, do planejamento do teste de usabilidade e do esqueleto que o grupo já tinha preparado. Em 15/11/2026, também foi usado para incluir os dados da sessão com P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta e os tempos e as classificações dependem da conferência do autor. Nenhum link de vídeo foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar a estrutura desta página a partir do Plano de Ensino, do planejamento do teste de usabilidade e do esqueleto que o grupo já tinha preparado. Em 15/11/2026, também foi usado para incluir os dados da sessão com P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta e os tempos e as classificações dependem da conferência do autor. Nenhum link de vídeo foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para gerar a versão em PDF desta página.
