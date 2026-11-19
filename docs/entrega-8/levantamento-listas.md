@@ -20,12 +20,13 @@ Fonte: elaborado pelos autores (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 19/11/2026 | 0.1 | Criação da página com o levantamento das listas de verificação das Entregas 1 a 8, a comparação com seis sites de referência e as pendências até 22/11/2026 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 0.2 | Substituição das pendências por contagem automática pelas pendências encontradas na leitura das páginas de cada entrega (Quadros 4, 6 e 7) | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-A Entrega 8 é a “Verificação dos artefatos” e vence em 22/11/2026, às 23:59 (Sales, 2026, p. 4). Para preparar a inspeção, o grupo levantou as listas de verificação de cada artefato das Entregas 1 a 8 e comparou a organização do próprio site com a de seis sites de colegas: dois de 2026.2, que o professor indicou como mais próximos do padrão esperado, e quatro de semestres anteriores. O Quadro 1 lista esses sites, o Quadro 2 compara as práticas deles com as do Grupo 03, o Quadro 3 traz a lista geral aplicável a todo artefato, o Quadro 4 relaciona os artefatos de cada entrega às listas existentes e às lacunas, o Quadro 5 propõe a lista da própria Entrega 8 e o Quadro 6 reúne as pendências até o prazo.
+A Entrega 8 é a “Verificação dos artefatos” e vence em 22/11/2026, às 23:59 (Sales, 2026, p. 4). Para preparar a inspeção, o grupo levantou as listas de verificação de cada artefato das Entregas 1 a 8 e comparou a organização do próprio site com a de seis sites de colegas: dois de 2026.2, que o professor indicou como mais próximos do padrão esperado, e quatro de semestres anteriores. O Quadro 1 lista esses sites, o Quadro 2 compara as práticas deles com as do Grupo 03, o Quadro 3 traz a lista geral aplicável a todo artefato, o Quadro 4 relaciona os artefatos de cada entrega às listas existentes e às lacunas, o Quadro 5 propõe a lista da própria Entrega 8, e os Quadros 6 e 7 reúnem as pendências encontradas na leitura das páginas de cada entrega.
 
 Esta página não registra respostas de inspeção: ela organiza o que deve ser verificado e o que ainda falta. As respostas continuam nas listas de cada entrega e na [Verificação dos Artefatos](verificacao-dos-artefatos.md).
 
@@ -87,22 +88,22 @@ Fonte: elaborado pelos autores (2026), com base em Sales (2026, pp. 8–9) e na 
 
 ## 5. Artefatos e listas por entrega
 
-O Quadro 4 relaciona cada artefato às listas que já existem no site e ao que falta. A coluna “Itens do Plano” usa os códigos das páginas de verificação de cada entrega (G, D e C).
+O Quadro 4 relaciona cada artefato às listas que já existem no site e às principais lacunas encontradas na leitura de cada página (seção 6). A coluna "Itens do Plano" usa os códigos das páginas de verificação de cada entrega (G, D e C).
 
 **Quadro 4 – Artefatos, listas existentes e lacunas, por entrega**
 
-| Entrega | Artefatos | Itens do Plano | Listas existentes no site | Lacuna a resolver |
+| Entrega | Artefatos | Itens do Plano | Listas existentes no site | Principais lacunas (leitura das páginas) |
 | :---: | --- | --- | --- | --- |
-| 1 | Cronograma planejado e executado, ferramentas, processo de design, site escolhido, sites avaliados e mapa de calor | G1 a G9, D1 a D11, C1 e C2 | [Listas da Entrega 1](../entrega-1/verificacao/listas.md); [avaliação da monitoria](../entrega-1/verificacao/avaliacao-monitoria.md); [inspeção do Grupo 05](../entrega-1/verificacao/inspecao-grupo-05.md) | 8 páginas com legenda ou fonte incompleta (Quadro 6); recortes das fontes de C1 e C2 a conferir |
-| 2 | Perfil e personas, questionários, aspectos éticos e TCLE, cenários, análise de tarefas | C1 a C12 | [Listas da Entrega 2](../entrega-2/verificacao/listas.md); listas individuais de perfil, personas, elenco, HTA e CTT; [inspeção do Grupo 02](../entrega-2/verificacao/inspecao-grupo-02.md) | 17 páginas com legenda ou fonte incompleta, a maioria nas listas individuais |
-| 3 | Princípios gerais, metas de usabilidade e guia de estilo | C10 a C17 | [Listas da Entrega 3](../entrega-3/verificacao/listas.md); [inspeção do Grupo 07](../entrega-3/verificacao/inspecao-grupo-07.md) | Guia de estilo e metas com legenda ou fonte incompleta |
-| 4 | Planejamento da avaliação (DECIDE) do storyboard e da análise de tarefas; storyboards | C2 a C13 | [Listas da Entrega 4](../entrega-4/verificacao/listas.md); listas de storyboard; [inspeção do Grupo 01](../entrega-4/verificacao/inspecao-grupo-01.md) | 8 páginas com legenda ou fonte incompleta |
-| 5 | Relato do storyboard e da HTA; planejamento do protótipo de papel | C1 a C22 | [Lista da Entrega 5](../entrega-5/verificacao/lista-de-verificacao.md), com fundamentação, inspeção do grupo e do Grupo 08 | 26 páginas sem introdução e 16 com legenda ou fonte incompleta |
-| 6 | Relato do protótipo de papel; planejamento do protótipo de alta fidelidade | C1 a C11 | [Lista da Entrega 6](../entrega-6/verificacao/lista-de-verificacao.md) | Respostas de C1 a C11 em branco; registro do Grupo +1 ausente; autor dos itens; recortes das fontes |
-| 7 | Protótipo de alta fidelidade e relato dos resultados | C1 a C12 | [Lista da Entrega 7](../entrega-7/verificacao/lista-de-verificacao.md), com inspeção do próprio grupo de 15/11/2026 | Registro do Grupo +1 (previsto para 16/11/2026); itens C3 a C7, C11 e C12 incompletos |
-| 8 | Verificação dos artefatos | D1 a D11 e itens de conteúdo | [Verificação dos Artefatos](verificacao-dos-artefatos.md), com a matriz automática | Lista própria da Entrega 8 (Quadro 5) e inspeção humana |
+| 1 | Cronograma planejado e executado, ferramentas, processo de design, site escolhido, sites avaliados e mapa de calor | G1 a G9, D1 a D11, C1 e C2 | [Listas da Entrega 1](../entrega-1/verificacao/listas.md); [avaliação da monitoria](../entrega-1/verificacao/avaliacao-monitoria.md); [inspeção do Grupo 05](../entrega-1/verificacao/inspecao-grupo-05.md) | Cronograma sem período de gravação e de ajustes por etapa (G3, G4); listas DECIDE com 12 e 13 itens, abaixo dos 15 pedidos pela monitoria; citações sem página |
+| 2 | Perfil e personas, questionários, aspectos éticos e TCLE, cenários, análise de tarefas | C1 a C12 | [Listas da Entrega 2](../entrega-2/verificacao/listas.md); listas individuais de perfil, personas, elenco, HTA e CTT; [inspeção do Grupo 02](../entrega-2/verificacao/inspecao-grupo-02.md) | Só HTA em tabela, sem diagrama e sem segunda técnica (C11); uma única técnica de coleta documentada (C8); questionário com resultados sem dados; sem lista de cenários |
+| 3 | Princípios gerais, metas de usabilidade e guia de estilo | C10 a C17 | [Listas da Entrega 3](../entrega-3/verificacao/listas.md); [inspeção do Grupo 07](../entrega-3/verificacao/inspecao-grupo-07.md) | Sem artefato de características da plataforma (C10); metas sem indicadores e sem justificativa da seleção (C13, C14); guia sem ligação com o portal avaliado (C17) |
+| 4 | Planejamento da avaliação (DECIDE) do storyboard e da análise de tarefas; storyboards | C2 a C13 | [Listas da Entrega 4](../entrega-4/verificacao/listas.md); listas de storyboard; [inspeção do Grupo 01](../entrega-4/verificacao/inspecao-grupo-01.md) | DECIDE só para o storyboard; sem data, horário e local das sessões (C8); teste-piloto e itens do avaliador não definidos (C11 a C13); planejamentos individuais iguais e o de Gabriel "a definir" |
+| 5 | Relato do storyboard e da HTA; planejamento do protótipo de papel | C1 a C22 | [Lista da Entrega 5](../entrega-5/verificacao/lista-de-verificacao.md); [inspeção do Grupo 08](../entrega-5/verificacao/inspecao-grupo-08.md) | Registro da inspeção do próprio grupo e do Grupo +1 em branco; sem storyboard desenhado e sem avaliação de Gabriel; planejamento do protótipo de papel só de Henrique e Alexandre, com datas "a definir" |
+| 6 | Relato do protótipo de papel; planejamento do protótipo de alta fidelidade | C1 a C11 | [Lista da Entrega 6](../entrega-6/verificacao/lista-de-verificacao.md) | Sem sessão de papel de João Vitor e de Gabriel; fotos do protótipo de Gabriel não publicadas; sem inspeção do Grupo +1; respostas de C1 a C11 em branco |
+| 7 | Protótipo de alta fidelidade e relato dos resultados | C1 a C12 | [Lista da Entrega 7](../entrega-7/verificacao/lista-de-verificacao.md), com inspeção do próprio grupo de 15/11/2026 | Seção 4.7 (reprojeto) vazia; severidade e solução dos problemas em branco; sem material de Gabriel; sem vídeos de apresentação; sem inspeção do Grupo +1 |
+| 8 | Verificação dos artefatos | D1 a D11 e itens de conteúdo | [Verificação dos Artefatos](verificacao-dos-artefatos.md) (matriz automática) | Sem lista própria (Quadro 5), sem inspeção humana registrada, sem PDF da entrega |
 
-Fonte: elaborado pelos autores (2026), com as listas de cada entrega e a verificação automática de 19/11/2026 (`ferramentas/auditoria-site/auditoria.py`).
+Fonte: elaborado pelos autores (2026), a partir da leitura das páginas de cada entrega em 19/11/2026.
 
 ### 5.1 Lista proposta para a Entrega 8
 
@@ -126,26 +127,54 @@ Fonte: elaborado pelos autores (2026), com base em Sales (2026, pp. 4–9), Bilh
 
 ## 6. Pendências até a Entrega 8
 
-O Quadro 6 reúne o que deve ser resolvido até 22/11/2026. As contagens vêm da verificação automática de 19/11/2026, que confere só a presença de seções, legendas e marcadores; as demais pendências vêm das listas de cada entrega e dependem de ações do grupo.
+As pendências abaixo vêm da leitura, documento a documento, das páginas de cada entrega em 19/11/2026, comparando cada uma com a lista do Plano de Ensino, com as avaliações da monitoria (Entregas 1 a 3) e com o que a própria página promete. O registro completo, página por página, está na pasta [`pendencias/levantamento-e8`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/tree/main/pendencias/levantamento-e8) do repositório. O Quadro 6 reúne as pendências que se repetem em várias entregas, e o Quadro 7, as principais de cada entrega.
 
-**Quadro 6 – Pendências por prioridade**
+**Quadro 6 – Pendências que se repetem em várias entregas**
 
-| Prioridade | Pendência | Itens | Origem |
-| :---: | --- | :---: | --- |
-| Alta | Registrar a inspeção do Grupo +1 das Entregas 6 e 7, que não consta no site, e a do Grupo -1, se houver | V5 | Listas das Entregas 6 e 7 |
-| Alta | Registrar a inspeção do próprio grupo na Entrega 6 (Quadro 3 da lista está em branco para C1 a C11) | V4 | Lista da Entrega 6 |
-| Alta | Atualizar o item D6 das listas das Entregas 6 e 7: o cronograma executado já traz as Entregas 5 a 7 (Tabelas 7 a 9) | D6 | Cronograma executado |
-| Alta | Resolver os itens incompletos da Entrega 7: severidade e sugestão de solução de PA01 e PA02, planejamento do reprojeto, conferência do vídeo da sessão e participantes P9 e P10 | C3 a C7, C11, C12 | Lista da Entrega 7 |
-| Alta | Registrar atas e gravações das reuniões que realmente ocorreram; só há atas de 27/09/2026 e 14/10/2026 | D7, D8 | [Atas](../atas/index.md) |
-| Média | Conferir a visibilidade “não listado” dos vídeos e incluir os links das apresentações das Entregas 6 e 7 | D9 | Listas das Entregas 6 e 7 |
-| Média | Preencher a contribuição de Gabriel Robson no relatório da Entrega 7 e conferir se a revisão nominal corresponde a uma revisão feita | D2, D10 | Lista da Entrega 7 |
-| Média | Incluir legenda, fonte e chamada no texto: 68 de 179 páginas não passam na verificação por contagem (8 na Entrega 1, 17 na 2, 3 na 3, 8 na 4, 16 na 5, 10 na 6 e 6 na 7) | D4 | Verificação automática |
-| Média | Incluir introdução nas 45 páginas que não têm (1 na Entrega 1, 1 na 2, 2 na 3, 1 na 4, 26 na 5, 10 na 6 e 4 na 7) | D5 | Verificação automática |
-| Média | Preencher o autor e reunir o recorte da fonte dos itens de conteúdo das Entregas 6 e 7 | V8 | Listas das Entregas 6 e 7 |
-| Baixa | Estender o quadro de inspeções de [Listas de Verificação](../listas-verificacao/index.md) às Entregas 5 a 8 | V5 | Grupo 05 (2026) |
-| Baixa | Planejar a página de gravações das entregas e de resultados alcançados para o Projeto Final (30/11/2026) | — | Banco Central (2023); Lichess (2022) |
+| Pendência | Entregas | Item | O que fazer |
+| --- | :---: | :---: | --- |
+| Vídeo de apresentação: só há o da Entrega 1 e as partes de Henrique Schneider nas Entregas 5 e 6; não há vídeo das Entregas 2, 3, 4 e 7 | 2 a 7 | D9 | Vincular os vídeos que existem ou registrar que não foram gravados |
+| Ata e gravação de reunião: só há as Reuniões 01 (27/09) e 02 (14/10) | 1, 3, 5, 6, 7 | D7, D8 | Registrar as reuniões que de fato ocorreram, com data, horário e participantes |
+| Revisor: Gabriel Robson aparece como revisor de versões anteriores à entrada dele (Entrega 1) e de versões que Alexandre e João Vitor declaram não revisadas (Entrega 7); nas páginas de Gabriel, autor e revisor coincidem | 1 a 7 | D2 | Registrar quem revisou de fato, ou "sem revisão registrada" |
+| Inspeção do próprio grupo sem registro ou com respostas em branco | 1, 3, 4, 5, 6 | inspeção | Preencher na inspeção da Entrega 8 |
+| Inspeção do Grupo +1 sem registro | 6, 7 | inspeção | Registrar se foi feita, com gravação |
+| Material de Gabriel Robson: sem avaliação na Entrega 5, sem sessão e sem fotos do protótipo de papel na Entrega 6, sem material na Entrega 7 | 5 a 7 | escopo | Decisão do grupo e de Gabriel sobre o que será entregue |
+| Itens de conteúdo sem autor do item ou sem o recorte da fonte reunido na lista | 2, 6, 7 | regra dos itens | Registrar o autor e reunir os recortes |
+| Relatórios sem seção "Introdução" | 1 a 5 | D5 | Incluir a introdução |
+| Frases quebradas pela retirada dos marcadores de verificação ("aparece como.", "está marcado com.") | 6, 7 | — | Reescrever as frases |
 
-Fonte: elaborado pelos autores (2026), com as listas de cada entrega e a verificação automática de 19/11/2026.
+Fonte: elaborado pelos autores (2026), a partir da leitura das páginas.
+
+**Quadro 7 – Principais pendências de cada entrega**
+
+| Entrega | Pendência | Item |
+| :---: | --- | :---: |
+| 1 | Cronograma planejado sem período de gravação e de ajustes por etapa; a autoavaliação respondeu "Sim" a esse item | G3, G4 |
+| 1 | Cronograma planejado com situação desatualizada ("Não iniciado" em entregas já feitas) e grupos de inspeção trocados (Entregas 4 e 5) | G2 |
+| 1 | Listas DECIDE com 12 e 13 itens (monitoria pede 15); Henrique sem lista nesta entrega | monitoria C1 |
+| 1 | Citações sem página em Processo de Design, Site Escolhido e Sites Avaliados; Processo de Design cita uma edição do livro de Sharp, Rogers e Preece que não está no material | D3 |
+| 2 | Análise de tarefas só com HTA em tabela, para dois fluxos, sem diagrama e sem CTT ou GOMS; as modelagens individuais citadas na matriz de contribuição não estão publicadas | C10, C11 |
+| 2 | Questionário com "resultados" sem número de respondentes nem dados, contradizendo Perfis e Personas, que diz que não houve coleta com usuários | C1, C8 |
+| 2 | Uma só técnica de coleta documentada; página de entrevistas retirada | C8 |
+| 2 | Sem justificativa da persona primária e do número de personas; sem lista de cenários | monitoria 6, 13 |
+| 3 | Não existe o artefato "Características da plataforma", que está no escopo da entrega | C10 |
+| 3 | Metas de usabilidade descrevem o portal atual, sem metas do projeto, indicadores e faixas, e sem "Satisfação" | C13, C14 |
+| 3 | Guia de estilo sem ligação com o portal avaliado e sem imagens de exemplo | C16, C17 |
+| 3 | Gabriel Robson sem item de conteúdo da disciplina | regra dos itens |
+| 4 | DECIDE só para o storyboard; análise de tarefas e relatos só com cronogramas | C2, C7 |
+| 4 | Sem data, horário e local das sessões; questões práticas genéricas; teste-piloto sem definição e sem a regra de excluir seus dados | C5, C8, C11, C12 |
+| 4 | Planejamentos individuais iguais (mesmo modelo, autor "Henrique Schneider" nas quatro páginas); o de Gabriel com todas as datas "a definir" | C2, D2 |
+| 5 | Relatório da entrega desatualizado (diz que a inspeção e os demais materiais "serão incorporados") | D5 |
+| 5 | Planejamento do protótipo de papel só de Henrique e Alexandre, com local e horário "a definir"; ausente para João Vitor e Gabriel | escopo |
+| 5 | Inspeção da HTA por outro integrante pendente; Fluxos 1 e 2 sem avaliação | relato |
+| 6 | Relato do papel de João Vitor sem sessão; Gabriel sem sessão e sem fotos publicadas; planejamento de alta fidelidade de Gabriel "inicial" | escopo |
+| 6 | Relatório e matriz de contribuição desatualizados em relação às páginas de Alexandre e João Vitor | D10 |
+| 7 | Seção 4.7 (planejamento do reprojeto) vazia; severidade e sugestão de solução de PA01 e PA02 em branco | C5, C6, C11 |
+| 7 | Declaração de IA mistura ações do Claude (Henrique) e do ChatGPT (João Vitor) | D11 |
+| 7 | Relatório entregue (Google Docs) diferente da página do site e sem link para ela | registro |
+| 8 | Lista da Entrega 8, inspeção humana dos artefatos, inspeção do Grupo +1 (23/11), PDF e apresentação (24/11) | Plano, p. 4 |
+
+Fonte: elaborado pelos autores (2026), a partir da leitura das páginas de cada entrega em 19/11/2026.
 
 ## Referências
 
@@ -167,4 +196,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler os menus e páginas de verificação dos seis sites de referência, comparar a organização deles com a do site do Grupo 03, reunir as listas existentes, executar a verificação automática e redigir esta página. A ferramenta não leu o conteúdo dos artefatos de outros grupos além das páginas de verificação e dos menus, e os itens do Quadro 5 são propostas que o grupo deve confirmar. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler os menus e páginas de verificação dos seis sites de referência, comparar a organização deles com a do site do Grupo 03, reunir as listas existentes e redigir esta página. Na versão 0.2, a ferramenta leu as páginas de cada entrega, uma a uma, e registrou as pendências dos Quadros 4, 6 e 7 e da pasta `pendencias/levantamento-e8`; as respostas de inspeção continuam com o grupo. A ferramenta não leu o conteúdo dos artefatos de outros grupos além das páginas de verificação e dos menus, e os itens do Quadro 5 são propostas que o grupo deve confirmar. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
