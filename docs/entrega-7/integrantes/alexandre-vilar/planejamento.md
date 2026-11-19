@@ -16,10 +16,11 @@ Fonte: minha elaboração (2026).
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
-| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
-| 14/11/2026 | 1.2 | Defini o OBS Studio como meio de gravação e vinculei os instrumentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
-| 15/11/2026 | 1.3 | Vinculei a execução e diferenciei as datas propostas dos registros das entrevistas | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 14/11/2026 | 1.2 | Defini o OBS Studio como meio de gravação e vinculei os instrumentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 15/11/2026 | 1.3 | Vinculei a execução e diferenciei as datas propostas dos registros das entrevistas | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 15/11/2026 | 1.4 | Registrei a ampliação para três participantes e mantive a distinção entre plano e execução | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 
@@ -28,6 +29,8 @@ Fonte: registro desta versão (2026).
 Adaptei o planejamento que usei como base para o storyboard à avaliação do meu **protótipo de alta fidelidade**. Nesta etapa, quero observar o participante usando o Figma para fazer o agendamento e entender onde ele encontra dificuldades. Vou usar os resultados da avaliação do papel para verificar se as melhorias ajudaram.
 
 O planejamento abaixo registra o procedimento que propus. Depois das entrevistas, documentei as [diferenças entre o plano e a execução](relato.md#tarefas-reais), a [caracterização das participantes](relato.md#participantes) e o [ensaio técnico](relato.md#piloto-realizado). Não considerei as datas inicialmente propostas como datas realizadas.
+
+**Atualização da execução:** o plano original previa duas pessoas. Com a entrevista adicional, o relato passou a consolidar **três participantes distintas**, mantendo dois vídeos de P03 como registros da mesma aplicação. A participante sugeriu um [histórico de agendamentos](relato.md#entrevista-p03).
 
 ## 2. Framework DECIDE {#decide}
 
@@ -148,7 +151,7 @@ Os dados de desempenho do piloto **não entram** nas contagens, tempos ou proble
 
 ## 4. Cronograma de avaliação {#cronograma}
 
-Na Tabela 5, preservei os horários originalmente propostos. O registro posterior confirma a data de P01 em 13/11/2026 e mantém a data de P02 e do ensaio técnico a confirmar; consultei as falas, sem usar a data de publicação dos vídeos como data de sessão. A consolidação foi realizada em 15/11/2026, conforme o [relato](relato.md#participantes). Os estados da tabela são os do plano original.
+Na Tabela 5, preservei os horários originalmente propostos. O registro posterior confirma a data de P01 em 13/11/2026 e mantém as datas de P02, P03 e do ensaio técnico a confirmar; consultei as falas, sem usar a data de publicação dos vídeos como data de sessão. A consolidação foi realizada em 15/11/2026, conforme o [relato](relato.md#participantes). Os estados da tabela são os do plano original.
 
 **Tabela 5 - Cronograma operacional proposto**
 
@@ -175,13 +178,12 @@ Reuni os instrumentos no [roteiro de aplicação](roteiro.md). A Figura 5 reprod
 
 Fonte: Barbosa et al. (2021), p. 259. Trecho do livro que usei como referência; clique para ampliar.
 
-
 ## Referências
 
 BARBOSA, Simone Diniz Junqueira et al. **Interação Humano-Computador e Experiência do Usuário.** 1. ed. Autopublicação, 2021. Seções 7.4 (p. 126-128), 11.7 (p. 258-263), 11.8 (p. 264) e 12.2.1 (p. 288-290).
 
 SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 2026.2.** Universidade de Brasília, 2026. [Documento do projeto](../../../disciplina/plano-de-ensino.md).
 
-## Uso de IA generativa
+## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.

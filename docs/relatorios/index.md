@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Inclusão do acesso à Entrega 5 | [E5](../entrega-5/relatorio.md) | — |
 | Gabriel Robson Nunes Neiva da Silva | Nenhuma até esta versão | — | — |
-| Henrique Schneider Fernandes da Rosa | Criação da página e dos relatórios das Entregas 1 a 4; atualização para a organização por entrega | [E1](../entrega-1/relatorio.md) · [E2](../entrega-2/relatorio.md) · [E3](../entrega-3/relatorio.md) · [E4](../entrega-4/relatorio.md) | — |
+| Henrique Schneider Fernandes da Rosa | Criação da página e dos relatórios das Entregas 1 a 4, 6 e 7; atualização para a organização por entrega | [E1](../entrega-1/relatorio.md) · [E2](../entrega-2/relatorio.md) · [E3](../entrega-3/relatorio.md) · [E4](../entrega-4/relatorio.md) | — |
 | João Vitor Tavares de Sá Lima | Nenhuma até esta versão | — | — |
 
 Fonte: elaborado pelos autores (2026).
@@ -19,10 +19,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da página e dos relatórios das Entregas 1 a 4 | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 1.1 | Organização por entrega: links para os relatórios em cada aba de entrega, inclusão da tabela de contribuição e revisão do resumo | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 25/10/2026 | 1.2 | Inclusão da Entrega 5 e do acesso aos materiais organizados | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.0 | Criação da página e dos relatórios das Entregas 1 a 4 | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 1.1 | Organização por entrega: links para os relatórios em cada aba de entrega, inclusão da tabela de contribuição e revisão do resumo | Henrique Schneider | Gabriel Robson |
+| 25/10/2026 | 1.2 | Inclusão da Entrega 5 e do acesso aos materiais organizados | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
+| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.4 | Inclusão dos relatórios das Entregas 6 e 7, com os links dos PDFs | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -41,6 +42,8 @@ O Quadro 1 resume as entregas e leva a cada relatório.
 | 3 | Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo | 06/10/2026 | [Relatório da Entrega 3](../entrega-3/relatorio.md) |
 | 4 | Planejamento da Avaliação do Storyboard e da Análise de Tarefas | 13/10/2026 | [Relatório da Entrega 4](../entrega-4/relatorio.md) |
 | 5 | Avaliação do Storyboard e da Análise de Tarefas; planejamento da avaliação do protótipo de papel | 25/10/2026 | [Relatório da Entrega 5](../entrega-5/relatorio.md) |
+| 6 | Relato do protótipo de papel e planejamento do protótipo de alta fidelidade | 03/11/2026 | [Relatório da Entrega 6](../entrega-6/relatorio.md) ([PDF](../assets/pdfs/entregas/relatorio-entrega-6-grupo-03.pdf)) |
+| 7 | Relato dos resultados do protótipo de alta fidelidade | 15/11/2026 | [Relatório da Entrega 7](../entrega-7/relatorio.md) ([PDF](../assets/pdfs/entregas/relatorio-entrega-7-grupo-03.pdf)) |
 
 Fonte: elaborado pelos autores (2026), com os prazos de Sales (2026, pp. 4–5).
 
@@ -56,4 +59,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na inclusão da linha da Entrega 5 e de seu registro no histórico.
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página. Em 15/11/2026, também foi usado para incluir as linhas das Entregas 6 e 7.

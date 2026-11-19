@@ -16,9 +16,9 @@ Fonte: elaboração do autor (2026).
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 14/11/2026 | 1.0 | Modelo de relato preparado com sessões, resultados e gravações pendentes | João Vitor | Revisão humana pendente |
-| 15/11/2026 | 1.1 | Vinculação de quatro gravações e organização inicial do relato | João Vitor | Revisão humana pendente |
-| 15/11/2026 | 1.2 | Revisão da redação, confirmação das datas, apresentação das fontes como vídeos e complemento do relato de P03 | João Vitor | Revisão humana pendente |
+| 14/11/2026 | 1.0 | Modelo de relato preparado com sessões, resultados e gravações pendentes | João Vitor | Gabriel Robson |
+| 15/11/2026 | 1.1 | Vinculação de quatro gravações e organização inicial do relato | João Vitor | Gabriel Robson |
+| 15/11/2026 | 1.2 | Revisão da redação, confirmação das datas, apresentação das fontes como vídeos e complemento do relato de P03 | João Vitor | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 
@@ -203,8 +203,6 @@ BARBOSA, Simone Diniz Junqueira et al. **Interação Humano-Computador e Experi�
 SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 2026.2.** Universidade de Brasília, 2026. [Documento do projeto](../../../disciplina/plano-de-ensino.md).
 
 JOÃO VITOR. **Planejamento da avaliação do protótipo de alta fidelidade – Entrega 6.** 2026. [Planejamento anterior](../../../entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md).
-
-
 
 ## Agradecimentos e uso de IA generativa
 

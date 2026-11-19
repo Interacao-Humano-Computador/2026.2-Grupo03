@@ -16,11 +16,11 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Organização do procedimento de avaliação e dos materiais da entrevista | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 25/10/2026 | 1.1 | Registro do perfil disponível, sessão definitiva, análise operacional do piloto e ligação ao relato | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 25/10/2026 | 1.3 | Registro dos dados informados pelo autor sobre sessões, piloto, ajustes e planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.0 | Organização do procedimento de avaliação e dos materiais da entrevista | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
+| 25/10/2026 | 1.1 | Registro do perfil disponível, sessão definitiva, análise operacional do piloto e ligação ao relato | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
+| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
+| 25/10/2026 | 1.3 | Registro dos dados informados pelo autor sobre sessões, piloto, ajustes e planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: registro desta versão (2026).
 
 ## 1. Objetivo e escopo
@@ -150,4 +150,4 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selba
 
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

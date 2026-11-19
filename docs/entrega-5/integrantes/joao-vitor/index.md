@@ -16,9 +16,9 @@ Fonte: materiais disponibilizados pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Criação e organização da página no padrão individual da Entrega 5 | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 25/10/2026 | 1.1 | Atualização do status dos vídeos e do relatório pós-entrevista | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.0 | Criação e organização da página no padrão individual da Entrega 5 | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
+| 25/10/2026 | 1.1 | Atualização do status dos vídeos e do relatório pós-entrevista | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
+| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 
@@ -62,4 +62,4 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selba
 
 Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de João Vitor, para apoiar a organização das páginas Markdown conforme o padrão da Entrega 5 e a transcrição estrutural dos artefatos enviados. Não foram inventadas falas de participantes, resultados de entrevistas, datas de sessão ou links de gravações. A responsabilidade pela revisão acadêmica do conteúdo é do autor.
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

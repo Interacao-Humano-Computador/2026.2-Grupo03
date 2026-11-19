@@ -314,28 +314,48 @@ nav:
 
   - "Entrega 7":
     - Relatório da entrega: entrega-7/relatorio.md
+    - Verificação:
+      - Lista de verificação: entrega-7/verificacao/lista-de-verificacao.md
     - Material dos integrantes:
       - Henrique Schneider:
         - Visão geral: entrega-7/integrantes/henrique-schneider/index.md
+        - Planejamento do teste: entrega-7/integrantes/henrique-schneider/planejamento.md
+        - Roteiro e instrumentos: entrega-7/integrantes/henrique-schneider/roteiro.md
+        - Protótipo de alta fidelidade: entrega-7/integrantes/henrique-schneider/prototipo.md
+        - Relato dos resultados: entrega-7/integrantes/henrique-schneider/relato.md
+        - Lista de verificação: entrega-7/integrantes/henrique-schneider/verificacao.md
+        - Teste-piloto (ensaio técnico): entrega-7/integrantes/henrique-schneider/piloto.md
+        - Transcrição do piloto: entrega-7/integrantes/henrique-schneider/transcricao-piloto.md
         - Sessão do participante P8: entrega-7/integrantes/henrique-schneider/sessao-p8.md
         - Transcrição anonimizada do participante P8: entrega-7/integrantes/henrique-schneider/transcricao-p8.md
-    - Alexandre Vilar:
-      - Visão Geral: entrega-7/integrantes/alexandre-vilar/index.md
-      - Planejamento DECIDE: entrega-7/integrantes/alexandre-vilar/planejamento.md
-      - Roteiro e Instrumentos: entrega-7/integrantes/alexandre-vilar/roteiro.md
-      - Protótipo: entrega-7/integrantes/alexandre-vilar/prototipo.md
-      - Relato dos Resultados: entrega-7/integrantes/alexandre-vilar/relato.md
-      - Lista de Verificação: entrega-7/integrantes/alexandre-vilar/verificacao.md
-    - João Vitor:
-      - Visão Geral: entrega-7/integrantes/joao-vitor/index.md
-      - Planejamento DECIDE: entrega-7/integrantes/joao-vitor/planejamento.md
-      - Roteiro e Instrumentos: entrega-7/integrantes/joao-vitor/roteiro.md
-      - Protótipo: entrega-7/integrantes/joao-vitor/prototipo.md
-      - Relato dos Resultados: entrega-7/integrantes/joao-vitor/relato.md
-      - Lista de Verificação: entrega-7/integrantes/joao-vitor/verificacao.md
+        - Roteiro da apresentação: entrega-7/integrantes/henrique-schneider/roteiro-apresentacao.md
+      - Alexandre Vilar:
+        - Visão Geral: entrega-7/integrantes/alexandre-vilar/index.md
+        - Planejamento DECIDE: entrega-7/integrantes/alexandre-vilar/planejamento.md
+        - Roteiro e Instrumentos: entrega-7/integrantes/alexandre-vilar/roteiro.md
+        - Protótipo: entrega-7/integrantes/alexandre-vilar/prototipo.md
+        - Relato dos Resultados: entrega-7/integrantes/alexandre-vilar/relato.md
+        - Lista de Verificação: entrega-7/integrantes/alexandre-vilar/verificacao.md
+      - João Vitor:
+        - Visão Geral: entrega-7/integrantes/joao-vitor/index.md
+        - Planejamento DECIDE: entrega-7/integrantes/joao-vitor/planejamento.md
+        - Roteiro e Instrumentos: entrega-7/integrantes/joao-vitor/roteiro.md
+        - Protótipo: entrega-7/integrantes/joao-vitor/prototipo.md
+        - Relato dos Resultados: entrega-7/integrantes/joao-vitor/relato.md
+        - Lista de Verificação: entrega-7/integrantes/joao-vitor/verificacao.md
 
   - "Entrega 8":
     - Verificação dos artefatos: entrega-8/verificacao-dos-artefatos.md
+    - Inspeção de Fagan:
+      - Material conceitual e planejamento: entrega-8/inspecao-fagan/index.md
+      - Itens gerais do projeto: entrega-8/inspecao-fagan/projeto.md
+      - Entrega 1: entrega-8/inspecao-fagan/entrega-1.md
+      - Entrega 2: entrega-8/inspecao-fagan/entrega-2.md
+      - Entrega 3: entrega-8/inspecao-fagan/entrega-3.md
+      - Entrega 4: entrega-8/inspecao-fagan/entrega-4.md
+      - Entrega 5: entrega-8/inspecao-fagan/entrega-5.md
+      - Entrega 6: entrega-8/inspecao-fagan/entrega-6.md
+      - Entrega 7: entrega-8/inspecao-fagan/entrega-7.md
 
   - Trabalhos Avaliativos:
     - Visão geral: trabalhos-avaliativos/index.md

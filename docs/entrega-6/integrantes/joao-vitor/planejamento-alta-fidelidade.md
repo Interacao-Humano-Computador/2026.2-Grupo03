@@ -16,8 +16,8 @@ Fonte: material elaborado pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 02/11/2026 | 1.0 | Publicação do planejamento da avaliação do protótipo de alta fidelidade | João Vitor Tavares de Sá Lima | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 02/11/2026 | 1.0 | Publicação do planejamento da avaliação do protótipo de alta fidelidade | João Vitor Tavares de Sá Lima | Gabriel Robson |
+| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 
@@ -75,6 +75,10 @@ Fonte: planejamento individual registrado para a Entrega 6 (2026).
 
 [Voltar à visão geral](index.md).
 
+## Referências
+
+Não se aplica: a página não cita obras.
+
 ## Agradecimentos e uso de IA generativa
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página. O uso de IA generativa pelos autores no conteúdo desta página **[VERIFICAR: autor declarar o uso de IA, se houver]**.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página. O uso de IA generativa pelos autores no conteúdo desta página.

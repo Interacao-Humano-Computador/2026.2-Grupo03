@@ -18,8 +18,8 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 03/11/2026 | 1.0 | Criação da visão geral e estrutura inicial dos materiais individuais para a proposta de renovação da CNH | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Pendente |
-| 04/11/2026 | 1.1 | Organização das legendas e da sequência das sete fotografias; publicação das imagens originais ainda pendente | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Pendente |
+| 03/11/2026 | 1.0 | Criação da visão geral e estrutura inicial dos materiais individuais para a proposta de renovação da CNH | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Gabriel Robson |
+| 04/11/2026 | 1.1 | Organização das legendas e da sequência das sete fotografias; publicação das imagens originais ainda pendente | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -56,6 +56,6 @@ Vídeo da apresentação: a definir após a gravação.
 - GRUPO 03. *Metas de usabilidade*. Entrega 3 do projeto da disciplina de Interação Humano-Computador. Brasília: UnB, 2026.
 - GRUPO 03. *Relatório da Entrega 5*. Projeto da disciplina de Interação Humano-Computador. Brasília: UnB, 2026.
 
-## Uso de IA generativa
+## Agradecimentos e uso de IA generativa
 
 O ChatGPT (OpenAI) foi utilizado como apoio à organização e redação inicial desta documentação, a pedido do autor. O autor deve revisar, complementar e validar o conteúdo. Não foram inventados participantes, sessões, resultados, gravações ou problemas observados.

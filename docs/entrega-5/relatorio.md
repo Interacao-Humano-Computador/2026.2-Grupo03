@@ -20,13 +20,13 @@ Fonte: materiais disponibilizados para esta organização (2026). A tabela não 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Criação da página | Alexandre Vilar | João Vitor |
-| 25/10/2026 | 1.1 | Organização no padrão da Entrega 4; inclusão dos materiais de Alexandre e reserva dos espaços da entrevista e do relatório | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 25/10/2026 | 1.2 | Inclusão do relato e do registro do piloto; atualização dos materiais e situações de Alexandre | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 25/10/2026 | 1.3 | Inclusão dos materiais de João Vitor e atualização da situação da entrega | João Vitor, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.1 | Organização no padrão da Entrega 4; inclusão dos materiais de Alexandre e reserva dos espaços da entrevista e do relatório | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
+| 25/10/2026 | 1.2 | Inclusão do relato e do registro do piloto; atualização dos materiais e situações de Alexandre | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
+| 25/10/2026 | 1.3 | Inclusão dos materiais de João Vitor e atualização da situação da entrega | João Vitor, com apoio do ChatGPT | Gabriel Robson |
 | 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider e do relatório do grupo (Google Docs, v1.8) | Henrique Schneider, com apoio do Claude | Gabriel Robson |
-| 25/10/2026 | 1.5 | Inclusão da consolidação de Alexandre no relatório do grupo e sincronização do perfil de P2 | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 25/10/2026 | 1.6 | Atualização dos dados confirmados da entrevista e do piloto de Alexandre e do planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.7 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 25/10/2026 | 1.5 | Inclusão da consolidação de Alexandre no relatório do grupo e sincronização do perfil de P2 | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
+| 25/10/2026 | 1.6 | Atualização dos dados confirmados da entrevista e do piloto de Alexandre e do planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
+| 10/11/2026 | 1.7 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: histórico da página e registro desta atualização (2026).
 
 ## 1. Identificação
@@ -81,7 +81,6 @@ Fonte: materiais disponibilizados nesta atividade (2026).
 
 [Assistir à entrevista](https://youtu.be/U1eg2EeanWg?is=TA9OJrSPBYPRLlLP)
 
-
 [Abrir a página destinada ao vídeo](integrantes/alexandre-vilar/video-entrevista.md).
 
 ### 5.2 Relatório pós-entrevista de Alexandre
@@ -134,4 +133,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

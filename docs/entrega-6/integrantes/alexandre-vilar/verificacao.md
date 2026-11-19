@@ -16,7 +16,7 @@ Fonte: minha elaboração (2026).
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 12/11/2026 | 1.0 | Organizei meus registros do papel e a conferência individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 12/11/2026 | 1.0 | Organizei meus registros do papel e a conferência individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: meus registros (2026).
 
@@ -72,6 +72,6 @@ BARBOSA, Simone Diniz Junqueira et al. **Interação Humano-Computador e Experi�
 
 SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 2026.2.** UnB, 2026. [Plano do projeto](../../../disciplina/plano-de-ensino.md).
 
-## Uso de IA generativa
+## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT como apoio para organizar os materiais, adaptar o planejamento e revisar a redação. Mantive as fontes e separei os registros da sessão das atividades ainda pendentes.

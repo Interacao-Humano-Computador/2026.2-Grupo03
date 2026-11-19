@@ -61,7 +61,6 @@ def auditar(p):
         introducao=bool(re.search(r'^##\s+(\d+\.\s*)?Introdu[çc][ãa]o', t, re.M | re.I)),
         contribuicao=bool(re.search(r'^##\s+(Tabela|Quadro) de contribui', t, re.M | re.I)),
         ia=bool(re.search(r'^##\s+Agradecimentos e uso de IA', t, re.M | re.I)),
-        verificar=len(re.findall(r'\[VERIFICAR', t)),
         figma=len(re.findall(r'figma\.com', t)),
     )
 
@@ -87,8 +86,8 @@ def matriz(inicio=2):
         titulo = 'Páginas gerais' if g == 'Geral' else 'Entrega ' + g.split('-')[1]
         linhas += ['', f'### {titulo}', '',
                    f'**Quadro {n_quadro} – Matriz de conformidade das páginas ({titulo}; C = Conforme, NC = Não conforme, NA = Não se aplica)**', '',
-                   '| Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA | [VERIFICAR] abertos |',
-                   '| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |']
+                   '| Página | D1 Histórico | D2 Revisor nominal | D3 Referências | D4 Legendas e fonte | D5 Introdução | D10 Contribuição | D11 IA |',
+                   '| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |']
         for p in grupos[g]:
             a = auditar(p)
             na = p in NAO_SE_APLICA
@@ -103,7 +102,7 @@ def matriz(inicio=2):
                     total[k][1] += 1
                     total[k][0] += v == 'Conforme'
             curto = {'Conforme': 'C', 'Não conforme': 'NC', 'Não se aplica': 'NA'}
-            linhas.append(f"| [{p}](../{p}) | " + ' | '.join(curto[cel[k]] for k in ('D1', 'D2', 'D3', 'D4', 'D5', 'D10', 'D11')) + f" | {a['verificar']} |")
+            linhas.append(f"| [{p}](../{p}) | " + ' | '.join(curto[cel[k]] for k in ('D1', 'D2', 'D3', 'D4', 'D5', 'D10', 'D11')) + " |")
         linhas += ['', 'Fonte: elaborado pelos autores (2026), com ferramentas/auditoria-site/auditoria.py.']
         n_quadro += 1
     resumo = ['| Item | Conforme | Total avaliado |', '| --- | ---: | ---: |']

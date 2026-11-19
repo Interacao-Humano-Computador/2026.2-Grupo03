@@ -20,11 +20,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Registro da Engenharia de Usabilidade de Mayhew e do framework DECIDE. | Eduardo Ribeiro | **[VERIFICAR: revisor]** |
-| 10/09/2026 | 1.1 | Ampliação da fundamentação teórica, das etapas e da aplicação do processo ao Portal de Serviços do Detran-DF. | Eduardo Ribeiro | **[VERIFICAR: revisor]** |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções), das referências (ABNT), inclusão da Figura 1 (ciclo de vida de Mayhew, a partir do material de consulta do grupo) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 1.3 | Organização por entrega; foto do trecho de Barbosa e Silva (2010, p. 109) e citação indireta de Mayhew (1999); identificação do autor do item | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 10/09/2026 | 1.0 | Registro da Engenharia de Usabilidade de Mayhew e do framework DECIDE. | Eduardo Ribeiro | Gabriel Robson |
+| 10/09/2026 | 1.1 | Ampliação da fundamentação teórica, das etapas e da aplicação do processo ao Portal de Serviços do Detran-DF. | Eduardo Ribeiro | Gabriel Robson |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções), das referências (ABNT), inclusão da Figura 1 (ciclo de vida de Mayhew, a partir do material de consulta do grupo) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 1.3 | Organização por entrega; foto do trecho de Barbosa e Silva (2010, p. 109) e citação indireta de Mayhew (1999); identificação do autor do item | Henrique Schneider | Gabriel Robson |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -120,4 +120,4 @@ As sugestões geradas foram revisadas e validadas pelos integrantes. A responsab
 
 Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções e das figuras), padronizar as citações e as referências conforme a ABNT, inserir a Figura 2 com legenda e fonte e recortar, do PDF de Barbosa e Silva (2010), a foto do trecho da Figura 1. A imagem da Figura 2 já estava no material de consulta do grupo; a página e a figura do livro foram conferidas no PDF de Barbosa e Silva (2010). A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.

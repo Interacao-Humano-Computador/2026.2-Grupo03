@@ -16,10 +16,11 @@ Fonte: minha elaboração (2026).
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
-| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
-| 14/11/2026 | 1.2 | Organizei as seis divisões da entrega e separei o protótipo interativo | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
-| 15/11/2026 | 1.3 | Vinculei os resultados das entrevistas e atualizei a situação da minha entrega | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Revisão humana pendente |
+| 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 14/11/2026 | 1.2 | Organizei as seis divisões da entrega e separei o protótipo interativo | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 15/11/2026 | 1.3 | Vinculei os resultados das entrevistas e atualizei a situação da minha entrega | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 15/11/2026 | 1.4 | Acrescentei P03 e vinculei sua entrevista, captura de tela e sugestão de histórico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
 Fonte: registro desta versão (2026).
 
@@ -27,7 +28,7 @@ Fonte: registro desta versão (2026).
 
 Nesta etapa, organizei a avaliação do meu protótipo de alta fidelidade para o **agendamento de Vistoria de Transferência Veicular**. Reuni o planejamento, o roteiro e a estrutura que vou usar para apresentar os resultados.
 
-Publiquei o [relato das duas entrevistas de alta fidelidade](relato.md), com [links das gravações](relato.md#videos), respostas ao DECIDE e limitações do procedimento. Separei o ensaio técnico dos resultados. Os registros da Entrega 6 continuam identificados como avaliação do papel.
+Publiquei o [relato das três entrevistas de alta fidelidade](relato.md), com [links das gravações](relato.md#videos), respostas ao DECIDE e limitações do procedimento. Separei o ensaio técnico dos resultados. P03 possui dois vídeos complementares da mesma entrevista e sugeriu um [histórico de agendamentos](relato.md#entrevista-p03). Os registros da Entrega 6 continuam identificados como avaliação do papel.
 
 ## 2. Materiais individuais {#materiais}
 
@@ -76,15 +77,15 @@ Na Tabela 5, registrei o andamento da minha parte e as atividades que ainda prec
 | --- | --- | --- | --- | --- |
 | Organização das páginas, vínculo do Figma e adaptação do planejamento | Eu, com apoio do ChatGPT | 11/11/2026 | 11/11/2026 | [Materiais individuais](#materiais) |
 | Ensaio técnico apresentado como piloto | Eu e P02 | Data a confirmar | Data a confirmar | [Registro e limitações](relato.md#piloto-realizado) |
-| Entrevistas de alta fidelidade com P01 e P02 | Eu e duas participantes | P01: 13/11/2026; P02: data a confirmar | Horários exatos a confirmar | [Análise das entrevistas](relato.md#consolidacao) |
+| Entrevistas de alta fidelidade com P01, P02 e P03 | Eu e três participantes | P01: 13/11/2026; P02/P03: datas a confirmar | Horários exatos a confirmar | [Análise das entrevistas](relato.md#consolidacao) |
 | Consolidação dos resultados e publicação das evidências | Eu, com apoio do ChatGPT | 15/11/2026 | 15/11/2026 | [Relato](relato.md) |
-| Revisão por outro integrante | Revisor a confirmar | Pendente | Pendente | Histórico de versões |
+| Revisão por outro integrante | Gabriel Robson, indicado nos históricos | Versões anteriores identificadas no histórico | Revisão desta atualização pendente | Histórico de versões |
 
 Fonte: materiais e informações disponíveis nesta versão (2026).
 
 ## 6. Reuniões e apresentação {#reunioes}
 
-Vinculei as [duas entrevistas e o ensaio técnico](relato.md#videos). Ainda preciso completar os registros de organização da avaliação e o vídeo de apresentação desta etapa.
+Vinculei as [três entrevistas e o ensaio técnico](relato.md#videos). Ainda preciso completar os registros de organização da avaliação e o vídeo de apresentação desta etapa.
 
 **Minha apresentação da Entrega 7:** pendente. Depois de gravar, vou conferir o vídeo e publicá-lo como não listado.
 
@@ -92,9 +93,9 @@ Vinculei as [duas entrevistas e o ensaio técnico](relato.md#videos). Ainda prec
 
 1. Vou completar as datas faltantes, o local e o recrutamento das sessões realizadas.
 2. Vou conferir os registros originais, os dados do resumo final e as autorizações de divulgação.
-3. Vou conferir a versão do Figma e a ampliação dos horários, ainda não comprovada nos registros analisados.
+3. Vou especificar a proposta de histórico sugerida por P03 e conferir a versão do Figma e a ampliação dos horários, ainda não comprovada nos registros analisados.
 4. Vou considerar uma nova rodada com piloto completo, cenários padronizados e controle das dicas do Figma, conforme as [limitações identificadas](relato.md#problemas).
-5. Vou solicitar a revisão humana e vincular minha apresentação específica da Entrega 7.
+5. Vou solicitar a revisão desta atualização e vincular minha apresentação específica da Entrega 7.
 
 ## Referências
 
@@ -102,6 +103,6 @@ BARBOSA, Simone Diniz Junqueira et al. **Interação Humano-Computador e Experi�
 
 SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 2026.2.** Universidade de Brasília, 2026. [Documento do projeto](../../../disciplina/plano-de-ensino.md).
 
-## Uso de IA generativa
+## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.

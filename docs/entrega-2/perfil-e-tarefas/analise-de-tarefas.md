@@ -23,9 +23,9 @@ Fonte: elaborado pelos autores (2026).
 | 17/09/2026 | 1.0 | Catalogação e mapeamento dos fluxos de trabalho do usuário no portal do Detran-DF para a Entrega 2. | Henrique Schneider | Gabriel Robson |
 | 27/09/2026 | 1.1 | Correção da sequência e da identificação da tarefa 2 no fluxo de consulta de débitos. | Gabriel Robson | Henrique Schneider |
 | 27/09/2026 | 1.2 | Inclusão da introdução fundamentando a relevância da Análise de Tarefas (HTA) e dos Golfos de Interação no contexto de IHC. | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, legendas e chamadas dos quadros), remoção de marcadores de citação residuais ("3") e do rótulo "(Exemplo)" no Fluxo 1, inclusão das seções 6 e 7 e da seção de uso de IA | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 191 e 193) como Figuras 1 e 2, correção da página citada na introdução e retirada das seções 6 e 7 | Henrique Schneider | **[VERIFICAR: revisor]** |
-| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por [VERIFICAR: revisor] no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | **[VERIFICAR: revisor]** |
+| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, legendas e chamadas dos quadros), remoção de marcadores de citação residuais ("3") e do rótulo "(Exemplo)" no Fluxo 1, inclusão das seções 6 e 7 e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
+| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 191 e 193) como Figuras 1 e 2, correção da página citada na introdução e retirada das seções 6 e 7 | Henrique Schneider | Gabriel Robson |
+| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -61,7 +61,6 @@ Além disso, para cada fluxo catalogado, avaliam-se:
 * **Golfo de Execução:** A facilidade com que o cidadão entende os mecanismos de interação e descobre como executar as ações.
 * **Golfo de Avaliação:** A clareza das respostas e feedbacks fornecidos pela interface após cada ação executada.
 
-
 ## 3. Catalogação dos Fluxos de Trabalho
 
 ### 3.1. Fluxo 1: Consulta de Débitos e Emissão de Guia de Pagamento de Veículo
@@ -92,7 +91,6 @@ Fonte: elaborado pelos autores (2026).
 * **Plano 2:** Preencher Placa (2.1) e Renavam (2.2); submeter (2.3). Se houver erro de digitação, corrigir o campo sinalizado e reenviar.
 * **Plano 4:** Selecionar PIX ou Boleto (4.1); confirmar (4.2); se optar por PIX, utilizar botão "Copiar Código"; se Boleto, efetuar download do PDF (4.3).
 
-
 ### 3.2. Fluxo 2: Solicitação de Segunda Via da Carteira Nacional de Habilitação (CNH)
 
 * **Objetivo Geral:** Solicitar a emissão do documento impresso/digital da 2ª via da CNH por motivo de perda, roubo ou danificação.
@@ -120,7 +118,6 @@ Fonte: elaborado pelos autores (2026).
 * **Plano 0:** Fazer 1; em seguida 2; realizar 3; se os dados estiverem corretos, prosseguir para 4; caso contrário, cancelar e atualizar cadastro.
 * **Plano 3:** Conferir endereço e motivo (3.1 e 3.2). Se correto, avançar; se incorreto, utilizar botão "Cancelar" para evitar cobrança indevida.
 
-
 ## 4. Análise Consolidada dos Golfos de Interação
 
 O Quadro 3 sintetiza a avaliação dos golfos de execução e de avaliação nos dois fluxos.
@@ -133,7 +130,6 @@ O Quadro 3 sintetiza a avaliação dos golfos de execução e de avaliação nos
 | **Solicitação de 2ª Via da CNH** | **Regular:** A localização do serviço no menu é direta, porém a falta de botões para cancelar ou desfazer torna a execução insegura perante o receio de cobranças indevidas. | **Prejudicado:** O avanço direto para as telas de pagamento sem confirmação prévia gera incerteza sobre a efetivação e o registro do protocolo de atendimento. |
 
 Fonte: elaborado pelos autores (2026).
-
 
 ## 5. Conclusão
 
@@ -151,4 +147,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 **Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para: reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, legendas e chamadas dos quadros); remover marcadores numéricos residuais ("3") deixados após frases da introdução, sem mudar o texto; e remover o rótulo "(Exemplo)" do Fluxo 1, ausente no relatório entregue. Em 17/10/2026, a ferramenta foi usada para conferir no PDF de Barbosa e Silva (2010) as páginas citadas e recortar as fotos dos trechos (Figuras 1 e 2). As tabelas HTA, os planos e a análise dos golfos não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
-Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por **[VERIFICAR: revisor]**, sem alterar o conteúdo da página.
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
