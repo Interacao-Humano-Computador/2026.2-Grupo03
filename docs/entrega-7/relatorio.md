@@ -34,6 +34,7 @@ Fonte: elaborado pelos autores (2026).
 | 15/11/2026 | 1.3 | Inclusão do link da gravação da sessão com o participante P8 no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.4 | Inclusão do teste-piloto (ensaio técnico) na Seção 4.8 e nas limitações, e definição da sessão com P8 como a sessão válida da avaliação | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.5 | Inclusão do link da gravação do teste-piloto no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 1.6 | Restauração do texto da Seção 4.7 (planejamento do reprojeto), correção de frase da introdução, retirada da instrução de preenchimento da Seção 4, reorganização do parágrafo dos vídeos e separação das declarações de uso de IA, a partir do levantamento da Entrega 8 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -41,7 +42,7 @@ Fonte: elaborado pelos autores (2026).
 
 A Entrega 7 pede o “Relato dos resultados do Protótipo de alta fidelidade” (Sales, 2026, Cronograma das Aulas, p. 5). Esta página reúne a estrutura do relato, no formato que Barbosa e Silva (2010, cap. 9, seç. 9.7.5, pp. 311–312) indicam para os resultados consolidados de uma avaliação, e liga cada parte ao planejamento já publicado. A Tabela 1 traz a contribuição de cada integrante e a Tabela 2, o histórico de versões.
 
-**Esta versão reúne os registros de três integrantes.** O [relato individual de Alexandre](integrantes/alexandre-vilar/relato.md) traz três entrevistas e um ensaio técnico; o [relato individual de João Vitor](integrantes/joao-vitor/relato.md) traz o protótipo de biometria e o relato de think-aloud de P01, P02 e P03; e a [sessão do participante P8](integrantes/henrique-schneider/sessao-p8.md) traz os dados de uma única sessão do protótipo do agendamento da prova teórica, que são só indícios. As Seções 4.1 a 4.9 tratam da sessão de Henrique Schneider; a síntese de cada integrante está identificada separadamente, sem atribuir seus resultados às propostas dos demais. A sessão com P8 foi registrada a partir da transcrição automática do Teams; o vídeo ainda não foi conferido, e o que depende de ver a tela aparece como. Nenhum dado de participante, tempo, erro ou problema foi inventado.
+**Esta versão reúne os registros de três integrantes.** O [relato individual de Alexandre](integrantes/alexandre-vilar/relato.md) traz três entrevistas e um ensaio técnico; o [relato individual de João Vitor](integrantes/joao-vitor/relato.md) traz o protótipo de biometria e o relato de think-aloud de P01, P02 e P03; e a [sessão do participante P8](integrantes/henrique-schneider/sessao-p8.md) traz os dados de uma única sessão do protótipo do agendamento da prova teórica, que são só indícios. As Seções 4.1 a 4.9 tratam da sessão de Henrique Schneider; a síntese de cada integrante está identificada separadamente, sem atribuir seus resultados às propostas dos demais. A sessão com P8 foi registrada a partir da transcrição automática do Teams; o vídeo ainda não foi conferido, e o que depende de ver a tela ainda precisa ser conferido na gravação. Nenhum dado de participante, tempo, erro ou problema foi inventado.
 
 ## 2. Prazos
 
@@ -89,7 +90,7 @@ O [relato individual](integrantes/joao-vitor/relato.md) apresenta os vídeos, os
 
 ## 4. Estrutura do relato dos resultados
 
-Cada subseção abaixo deve ser preenchida com os dados reais da avaliação, na ordem de Barbosa e Silva (2010, cap. 9, seç. 9.7.5, pp. 311–312).
+As subseções abaixo seguem a ordem de Barbosa e Silva (2010, cap. 9, seç. 9.7.5, pp. 311–312) e tratam da sessão de Henrique Schneider; as sínteses de Alexandre Vilar e de João Vitor estão nas Seções 3.1 e 3.2.
 
 ### 4.1 Objetivos e escopo da avaliação
 
@@ -153,6 +154,8 @@ Fonte: elaborado pelos autores (2026), com os campos de Barbosa e Silva (2010, c
 
 ### 4.7 Planejamento do reprojeto
 
+O reprojeto do agendamento da prova teórica ainda não foi decidido: ele depende de conferir no vídeo a causa do PA01 e de haver mais sessões. Com uma única sessão, e com um participante fora do perfil previsto, esta seção registra apenas o que deve ser verificado nas próximas sessões: se o atalho da data mais próxima é percebido na Tela 3 (PA01) e se as tarefas T2 e T4 são executadas no protótipo, e não só descritas.
+
 ### 4.8 Teste-piloto
 
 Os resultados do teste-piloto não entram nos resultados da avaliação (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 307). O piloto foi um **ensaio técnico** do avaliador, sozinho, de 2 min 37 s, gravado antes da sessão com P8 (segundo o autor; o arquivo indica início às 23:40 de 15/11/2026): ele conferiu o áudio, o compartilhamento da tela, o acesso compartilhado ao protótipo e os botões que funcionam ou não, e estimou a sessão em 10 a 30 minutos. O registro está na [página do piloto](integrantes/henrique-schneider/piloto.md) e na [transcrição](integrantes/henrique-schneider/transcricao-piloto.md). Como não houve participante, o ensaio não conferiu se os cenários são entendidos sem explicação nem o tempo das tarefas, e os valores-alvo continuam sem confirmação. A sessão com P8 é, portanto, a sessão válida desta avaliação, e as diferenças de procedimento registradas na página dela viram ajustes para as próximas sessões.
@@ -169,10 +172,11 @@ Os resultados do teste-piloto não entram nos resultados da avaliação (Barbosa
 
 A gravação da sessão com P8 tem 17 min 14 s; a [página da sessão](integrantes/henrique-schneider/sessao-p8.md) tem o [vídeo no YouTube](https://youtu.be/OI7Bcn_aIPI), e a [transcrição anonimizada](integrantes/henrique-schneider/transcricao-p8.md) já está publicada. A gravação do ensaio técnico (2 min 37 s) está no [YouTube](https://youtu.be/iY2V5_fCw3U); o registro está na [página do piloto](integrantes/henrique-schneider/piloto.md).
 
+Os [vídeos de Alexandre](integrantes/alexandre-vilar/relato.md#videos) estão vinculados na Seção 3.1 e identificados como não listados, e os de João Vitor, no [relato individual](integrantes/joao-vitor/relato.md). Os vídeos de apresentação da Entrega 7 ainda não estão vinculados.
+
 ## Documento em PDF
 
 A versão em PDF desta página, no formato pedido no Moodle (`RelatoProtAltaFideNomedoSite.pdf`), está disponível para download: [Relatório da Entrega 7 (PDF)](../assets/pdfs/entregas/relatorio-entrega-7-grupo-03.pdf).
-Os [vídeos de Alexandre](integrantes/alexandre-vilar/relato.md#videos) estão vinculados na síntese acima e identificados como não listados. A apresentação específica da etapa e os registros dos demais integrantes ainda precisam ser vinculados.
 
 ## Referências
 
@@ -182,8 +186,8 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar a estrutura desta página a partir do Plano de Ensino, do planejamento do teste de usabilidade e do esqueleto que o grupo já tinha preparado. Em 15/11/2026, também foi usado para incluir os dados da sessão com P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta e os tempos e as classificações dependem da conferência do autor. Nenhum link de vídeo foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para gerar a versão em PDF desta página. Em 15/11/2026, também foi usado para corrigir a introdução e as chamadas de tabelas, a partir da inspeção do próprio grupo.
+**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar a estrutura desta página a partir do Plano de Ensino, do planejamento do teste de usabilidade e do esqueleto que o grupo já tinha preparado. Em 15/11/2026, também foi usado para incluir os dados da sessão com P8 a partir da transcrição automática do Teams; o vídeo não foi assistido pela ferramenta e os tempos e as classificações dependem da conferência do autor. Nenhum link de vídeo foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para gerar a versão em PDF desta página. Em 15/11/2026, também foi usado para corrigir a introdução e as chamadas de tabelas, a partir da inspeção do próprio grupo, para incluir o link da gravação da sessão com o participante P8, para incluir o registro do teste-piloto a partir da transcrição automática do Teams e para incluir o link da gravação do teste-piloto. Em 19/11/2026, a pedido de Henrique Schneider, também foi usado para restaurar o texto da Seção 4.7, que tinha sido apagado junto com um marcador de verificação, corrigir uma frase da introdução, retirar a instrução de preenchimento da Seção 4 e separar as declarações de uso de IA por ferramenta.
 
 Em 14/11/2026, o ChatGPT (OpenAI) apoiou João Vitor na integração de seus materiais individuais, na implementação e documentação do protótipo de biometria e na verificação técnica. O apoio de IA está declarado nos agradecimentos; não foram criados resultados de sessões, falas ou gravações de participantes.
 
-Em 15/11/2026, o ChatGPT apoiou João Vitor na revisão editorial do relato. A data de aplicação de 14/11/2026 e o reagendamento de P03 foram informados pelo responsável. Não foram criadas falas, métricas ou valores ausentes dos registros. Em 15/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8. Em 15/11/2026, também foi usado para incluir o registro do teste-piloto a partir da transcrição automática do Teams. Em 15/11/2026, também foi usado para incluir o link da gravação do teste-piloto.
+Em 15/11/2026, o ChatGPT apoiou João Vitor na revisão editorial do relato. A data de aplicação de 14/11/2026 e o reagendamento de P03 foram informados pelo responsável. Não foram criadas falas, métricas ou valores ausentes dos registros.

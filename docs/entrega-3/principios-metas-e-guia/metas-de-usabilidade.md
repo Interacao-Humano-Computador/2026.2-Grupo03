@@ -24,8 +24,13 @@ Fonte: elaborado pelos autores (2026).
 | 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição e histórico no início, seções numeradas), inclusão das páginas nas citações após conferência no livro, da seção de item de conteúdo e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
 | 17/10/2026 | 1.3 | Inclusão das fotos das fontes (Figuras 1 a 3), revisão das citações e organização da página | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 1.5 | Inclusão da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
+
+## Introdução
+
+Esta página trata das metas de usabilidade do redesign do portal do Detran-DF. A Seção 1 apresenta os fatores de usabilidade e como as metas devem ser definidas e medidas (Figuras 1 a 3), e a Seção 2 apresenta as metas e as justificativas registradas pelo grupo para o portal.
 
 ## 1. Fundamentação teórica
 
@@ -87,3 +92,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar a página no modelo de artefato da disciplina (tabela de contribuição e histórico no início, seções numeradas), conferir no livro de Barbosa e Silva (2010) as páginas das duas citações e recortar as fotos dos trechos citados (Figuras 1 a 3). A fundamentação e as metas não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 19/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir do levantamento da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

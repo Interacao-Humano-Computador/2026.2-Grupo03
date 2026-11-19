@@ -21,12 +21,13 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 19/11/2026 | 0.1 | Criação da página com o levantamento das listas de verificação das Entregas 1 a 8, a comparação com seis sites de referência e as pendências até 22/11/2026 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 | 19/11/2026 | 0.2 | Substituição das pendências por contagem automática pelas pendências encontradas na leitura das páginas de cada entrega (Quadros 4, 6 e 7) | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 0.3 | Inclusão da Seção 6.1 (Quadro 8) com as pendências corrigidas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-A Entrega 8 é a “Verificação dos artefatos” e vence em 22/11/2026, às 23:59 (Sales, 2026, p. 4). Para preparar a inspeção, o grupo levantou as listas de verificação de cada artefato das Entregas 1 a 8 e comparou a organização do próprio site com a de seis sites de colegas: dois de 2026.2, que o professor indicou como mais próximos do padrão esperado, e quatro de semestres anteriores. O Quadro 1 lista esses sites, o Quadro 2 compara as práticas deles com as do Grupo 03, o Quadro 3 traz a lista geral aplicável a todo artefato, o Quadro 4 relaciona os artefatos de cada entrega às listas existentes e às lacunas, o Quadro 5 propõe a lista da própria Entrega 8, e os Quadros 6 e 7 reúnem as pendências encontradas na leitura das páginas de cada entrega.
+A Entrega 8 é a “Verificação dos artefatos” e vence em 22/11/2026, às 23:59 (Sales, 2026, p. 4). Para preparar a inspeção, o grupo levantou as listas de verificação de cada artefato das Entregas 1 a 8 e comparou a organização do próprio site com a de seis sites de colegas: dois de 2026.2, que o professor indicou como mais próximos do padrão esperado, e quatro de semestres anteriores. O Quadro 1 lista esses sites, o Quadro 2 compara as práticas deles com as do Grupo 03, o Quadro 3 traz a lista geral aplicável a todo artefato, o Quadro 4 relaciona os artefatos de cada entrega às listas existentes e às lacunas, o Quadro 5 propõe a lista da própria Entrega 8, os Quadros 6 e 7 reúnem as pendências encontradas na leitura das páginas de cada entrega, e o Quadro 8, as que já foram corrigidas.
 
 Esta página não registra respostas de inspeção: ela organiza o que deve ser verificado e o que ainda falta. As respostas continuam nas listas de cada entrega e na [Verificação dos Artefatos](verificacao-dos-artefatos.md).
 
@@ -141,7 +142,6 @@ As pendências abaixo vêm da leitura, documento a documento, das páginas de ca
 | Material de Gabriel Robson: sem avaliação na Entrega 5, sem sessão e sem fotos do protótipo de papel na Entrega 6, sem material na Entrega 7 | 5 a 7 | escopo | Decisão do grupo e de Gabriel sobre o que será entregue |
 | Itens de conteúdo sem autor do item ou sem o recorte da fonte reunido na lista | 2, 6, 7 | regra dos itens | Registrar o autor e reunir os recortes |
 | Relatórios sem seção "Introdução" | 1 a 5 | D5 | Incluir a introdução |
-| Frases quebradas pela retirada dos marcadores de verificação ("aparece como.", "está marcado com.") | 6, 7 | — | Reescrever as frases |
 
 Fonte: elaborado pelos autores (2026), a partir da leitura das páginas.
 
@@ -176,6 +176,27 @@ Fonte: elaborado pelos autores (2026), a partir da leitura das páginas.
 
 Fonte: elaborado pelos autores (2026), a partir da leitura das páginas de cada entrega em 19/11/2026.
 
+### 6.1 Correções feitas em 19/11/2026
+
+As pendências que não dependiam de dados novos foram corrigidas logo depois do levantamento, como mostra o Quadro 8. As demais continuam nos Quadros 6 e 7.
+
+**Quadro 8 – Pendências corrigidas em 19/11/2026**
+
+| Entrega | Correção | Página |
+| :---: | --- | --- |
+| 1 | Situação das tarefas da Entrega 3 e das inspeções das Entregas 2 a 5 atualizada conforme o cronograma executado; data de entrega da Entrega 3 corrigida para 06/10/2026 | [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md) |
+| 1 | Número de integrantes retirado do texto | [Ferramentas](../entrega-1/planejamento/ferramentas.md) |
+| 1 a 5 | Introdução incluída nos relatórios | Relatórios das Entregas [1](../entrega-1/relatorio.md), [2](../entrega-2/relatorio.md), [3](../entrega-3/relatorio.md), [4](../entrega-4/relatorio.md) e [5](../entrega-5/relatorio.md) |
+| 3 | Número de princípios corrigido (nove), parágrafo repetido retirado e página incluída na citação da introdução | [Princípios Gerais](../entrega-3/principios-metas-e-guia/principios-gerais.md) |
+| 3 | Introdução incluída | [Metas de Usabilidade](../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) |
+| 4 | Nota sobre a ausência do cronograma de Gabriel Robson no relatório entregue | [Relatório da Entrega 4](../entrega-4/relatorio.md) |
+| 5 | Relatório atualizado: inspeção do Grupo 08, material de Gabriel Robson, escopo e situação dos quatro integrantes, referência completa | [Relatório da Entrega 5](../entrega-5/relatorio.md) |
+| 6 | Situação de Alexandre Vilar e de João Vitor atualizada no relatório e na matriz; frase quebrada corrigida; item D6 da lista atualizado | [Relatório](../entrega-6/relatorio.md), [Contribuições](../entrega-6/contribuicoes.md) e [Lista](../entrega-6/verificacao/lista-de-verificacao.md) da Entrega 6 |
+| 7 | Texto da Seção 4.7, apagado junto com um marcador de verificação, restaurado; frase quebrada corrigida; instrução de preenchimento retirada; declarações de IA separadas por ferramenta | [Relatório da Entrega 7](../entrega-7/relatorio.md) |
+| 7 | Frases quebradas corrigidas; nota de atualização do item D6 na lista | [Visão geral](../entrega-7/integrantes/henrique-schneider/index.md) e [sessão com P8](../entrega-7/integrantes/henrique-schneider/sessao-p8.md) de Henrique Schneider; [Lista da Entrega 7](../entrega-7/verificacao/lista-de-verificacao.md) |
+
+Fonte: elaborado pelos autores (2026).
+
 ## Referências
 
 BANCO CENTRAL (GRUPO 3). *Projeto Interação Humano-Computador – Banco Central do Brasil*. Brasília: Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BancoCentral/. Acesso em: 19 nov. 2026.
@@ -196,4 +217,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler os menus e páginas de verificação dos seis sites de referência, comparar a organização deles com a do site do Grupo 03, reunir as listas existentes e redigir esta página. Na versão 0.2, a ferramenta leu as páginas de cada entrega, uma a uma, e registrou as pendências dos Quadros 4, 6 e 7 e da pasta `pendencias/levantamento-e8`; as respostas de inspeção continuam com o grupo. A ferramenta não leu o conteúdo dos artefatos de outros grupos além das páginas de verificação e dos menus, e os itens do Quadro 5 são propostas que o grupo deve confirmar. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler os menus e páginas de verificação dos seis sites de referência, comparar a organização deles com a do site do Grupo 03, reunir as listas existentes e redigir esta página. Na versão 0.2, a ferramenta leu as páginas de cada entrega, uma a uma, e registrou as pendências dos Quadros 4, 6 e 7 e da pasta `pendencias/levantamento-e8`; as respostas de inspeção continuam com o grupo. Na versão 0.3, a ferramenta corrigiu nas páginas as pendências que não dependiam de dados novos e as registrou no Quadro 8. A ferramenta não leu o conteúdo dos artefatos de outros grupos além das páginas de verificação e dos menus, e os itens do Quadro 5 são propostas que o grupo deve confirmar. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).

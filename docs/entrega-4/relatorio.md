@@ -23,8 +23,13 @@ Fonte: elaborado pelos autores (2026), com base no relatório entregue (Grupo 03
 | 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento DECIDE publicado em página própria, artefatos, matriz de conformidade com a lista do Plano de Ensino e inspeção; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | Gabriel Robson |
 | 17/10/2026 | 2.1 | Organização por entrega; atualização da equipe, dos artefatos e das listas individuais; reorganização das seções | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 2.3 | Inclusão da introdução e da nota sobre a ausência do cronograma de Gabriel Robson | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
+
+## Introdução
+
+Esta página reúne o que o Grupo 03 produziu na Entrega 4: o planejamento da avaliação pelo framework DECIDE, os planejamentos individuais, as listas de verificação e a inspeção do Grupo 01. Ela indica onde está cada artefato no site e resume os períodos planejados por integrante. A Tabela 3 identifica a entrega, a Tabela 4 resume os períodos planejados e a Tabela 5 relaciona os artefatos.
 
 ## 1. Identificação
 
@@ -59,6 +64,8 @@ O planejamento pelo framework DECIDE, que estava apenas no relatório entregue (
 | João Vitor | 15/10 – 25/10/2026 | 18/10 – 25/10/2026 | 14/10 – 25/10/2026 |
 
 Fonte: Grupo 03 (2026a, pp. 7–14).
+
+O relatório entregue não traz cronograma de Gabriel Robson; a página individual dele tem as datas "a definir".
 
 O planejamento geral desta etapa está no [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), seções 2.7 e 2.8, e o que foi realizado, no [Cronograma Executado](../entrega-1/planejamento/cronograma-executado.md), Tabela 6.
 
@@ -97,3 +104,5 @@ O relatório entregue registra o uso do Claude (Anthropic) e do Gemini (Google) 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever o relatório da Entrega 4 como página do site, a partir do texto do PDF entregue, e para organizar as Tabelas 1 e 3 a 5. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 19/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta o conteúdo já existente na página, e a nota sobre o cronograma de Gabriel Robson, a partir do levantamento da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
