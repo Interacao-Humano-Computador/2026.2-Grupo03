@@ -21,7 +21,6 @@ Fonte: elaborado pelos autores (2026), a partir das tabelas de contribuição de
 | --- | --- | --- | --- | --- |
 | 10/11/2026 | 1.0 | Criação da página com a identificação da entrega, os artefatos de cada integrante, a situação do protótipo de papel e do protótipo de alta fidelidade e os links dos vídeos, a partir das páginas individuais já publicadas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.1 | Inclusão do link para a versão em PDF da página | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 19/11/2026 | 1.2 | Atualização da situação de Alexandre Vilar (sessão de 03/11/2026) e de João Vitor (teste-piloto publicado), inclusão da situação do planejamento de Gabriel Robson e correção de frase incompleta | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -70,8 +69,8 @@ Fonte: elaborado pelos autores (2026).
 | Integrante | Situação registrada na página individual |
 | --- | --- |
 | Henrique Schneider | Teste-piloto (14h00 às 14h30) e Sessão 1, com o participante P5 (16h48, 17 min 37 s), realizados em 03/11/2026. Foram executadas as tarefas T1 e T3; T2 e T4 não foram executadas. Há uma única sessão e um único avaliador, de modo que os resultados são indícios. Os problemas encontrados são PC01, PC02 e PN01 a PN04 |
-| Alexandre Vilar | Protótipo de papel concluído, com 12 fotos do passo a passo. A entrevista inicialmente prevista não ocorreu porque o participante desmarcou; a sessão foi feita em 03/11/2026, com um participante e a tarefa T1, com pensar em voz alta, e o relato está na página do protótipo de papel |
-| João Vitor | Protótipo de papel documentado, com tarefas T1 a T4. O teste-piloto está publicado; a sessão definitiva ainda não foi registrada na página |
+| Alexandre Vilar | Protótipo de papel concluído, com 12 fotos do passo a passo. A entrevista inicialmente prevista não ocorreu porque o participante desmarcou, e a nova sessão estava prevista para 03/11/2026. O relato será feito depois da avaliação |
+| João Vitor | Protótipo de papel documentado, com tarefas T1 a T4. O teste-piloto e a sessão definitiva ainda não foram registrados na página |
 | Gabriel Robson | Protótipo de papel documentado, com a sequência e as legendas de sete fotografias; os arquivos das fotografias ainda aguardam publicação, e as sessões ainda precisam ser realizadas |
 
 Fonte: elaborado pelos autores (2026), com base nas páginas individuais da Entrega 6.
@@ -82,7 +81,7 @@ Os problemas da Sessão 1 de Henrique Schneider estão nos Apêndices C e D do [
 
 O protótipo de alta fidelidade de Henrique Schneider foi construído no Figma em 10/11/2026, nas versões para celular (360 × 800 px) e para computador (1280 px de largura), a partir da [especificação](integrantes/henrique-schneider/especificacao-alta-fidelidade.md). O [Apêndice E do roteiro do protótipo de papel](integrantes/henrique-schneider/prototipo-papel.md#apendice-e-correspondencia-entre-o-prototipo-de-papel-e-o-figma) liga cada tela e cada peça do papel ao quadro correspondente no Figma e mostra onde foi tratado cada problema da Sessão 1. O planejamento do teste de usabilidade está no [roteiro do teste](integrantes/henrique-schneider/planejamento-alta-fidelidade.md).
 
-Alexandre Vilar e João Vitor entregaram o planejamento da avaliação de alta fidelidade das suas propostas. Gabriel Robson publicou um planejamento inicial do teste de usabilidade, com as atividades ainda a combinar.
+Alexandre Vilar e João Vitor entregaram o planejamento da avaliação das suas propostas; as páginas deles informam que o relato dos resultados será feito depois das sessões.
 
 ## 6. Vídeos e gravações
 
@@ -113,6 +112,4 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir das páginas individuais da Entrega 6 já publicadas (datas, horários, participantes, links e situação de cada material foram copiados dessas páginas, sem acréscimo de dados). Nada foi inventado: o que não consta nas páginas aparece como “—”. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para gerar a versão em PDF desta página.
-
-Em 19/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para atualizar a Tabela 5 e a Seção 5 com o que as páginas individuais já registram e corrigir uma frase que ficou incompleta depois da retirada dos marcadores de verificação, a partir do levantamento da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir das páginas individuais da Entrega 6 já publicadas (datas, horários, participantes, links e situação de cada material foram copiados dessas páginas, sem acréscimo de dados). Nada foi inventado: o que não consta nas páginas aparece como. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para gerar a versão em PDF desta página.

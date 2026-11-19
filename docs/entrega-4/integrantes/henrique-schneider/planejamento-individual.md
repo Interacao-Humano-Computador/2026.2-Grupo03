@@ -139,8 +139,8 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no mesmo modelo das demais páginas individuais da Entrega 4 (tabela de contribuição, legenda do histórico, antes "Documento de Análise de Tarefas", introdução, legendas e fontes das tabelas, citações e referências) e para recortar as fotos dos trechos de Barbosa e Silva (2010) das Figuras 1 e 2. A tabela do DECIDE e as datas dos cronogramas não foram alteradas. O relatório da Entrega 4 registra o uso do Claude na formatação dos cronogramas individuais e do Gemini na estruturação dos relatórios (GRUPO 03, 2026, p. 15). A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
-Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
-
 ---
 
 *Interação Humano Computador — André Barros de Sales — 2026.2 — Grupo 03*
+
+Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
