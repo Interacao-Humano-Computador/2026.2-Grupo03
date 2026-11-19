@@ -23,13 +23,8 @@ Fonte: elaborado pelos autores (2026), com base nos históricos de versão, nos 
 | 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, matriz de conformidade com a lista do Plano de Ensino após a refatoração e inspeção | Henrique Schneider | Gabriel Robson |
 | 17/10/2026 | 2.1 | Inclusão da avaliação da monitoria e organização da página | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 19/11/2026 | 2.3 | Inclusão da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
-
-## Introdução
-
-Esta página reúne o que o Grupo 03 produziu na Entrega 3: princípios gerais de projeto, metas de usabilidade e guia de estilo. Ela indica onde está cada artefato no site, aponta o registro da inspeção do Grupo 07 e resume a avaliação feita pela monitoria em 11/10/2026. O escopo da entrega também inclui as características da plataforma para o projeto, artefato que ainda não foi elaborado. A Tabela 3 identifica a entrega, e a Tabela 4 relaciona os artefatos.
 
 ## 1. Identificação
 
@@ -92,5 +87,3 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página do relatório da Entrega 3 a partir das páginas publicadas, dos históricos de versão, dos commits, do relatório de inspeção do Grupo 07 e da avaliação da monitoria, e para resumir o resultado dessa avaliação. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
-
-Em 19/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta o conteúdo já existente na página, a partir do levantamento da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
