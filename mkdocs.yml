@@ -346,6 +346,16 @@ nav:
 
   - "Entrega 8":
     - Verificação dos artefatos: entrega-8/verificacao-dos-artefatos.md
+    - Inspeção de Fagan:
+      - Material conceitual e planejamento: entrega-8/inspecao-fagan/index.md
+      - Itens gerais do projeto: entrega-8/inspecao-fagan/projeto.md
+      - Entrega 1: entrega-8/inspecao-fagan/entrega-1.md
+      - Entrega 2: entrega-8/inspecao-fagan/entrega-2.md
+      - Entrega 3: entrega-8/inspecao-fagan/entrega-3.md
+      - Entrega 4: entrega-8/inspecao-fagan/entrega-4.md
+      - Entrega 5: entrega-8/inspecao-fagan/entrega-5.md
+      - Entrega 6: entrega-8/inspecao-fagan/entrega-6.md
+      - Entrega 7: entrega-8/inspecao-fagan/entrega-7.md
 
   - Trabalhos Avaliativos:
     - Visão geral: trabalhos-avaliativos/index.md
