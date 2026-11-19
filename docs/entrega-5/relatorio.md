@@ -27,7 +27,13 @@ Fonte: materiais disponibilizados para esta organização (2026). A tabela não 
 | 25/10/2026 | 1.5 | Inclusão da consolidação de Alexandre no relatório do grupo e sincronização do perfil de P2 | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
 | 25/10/2026 | 1.6 | Atualização dos dados confirmados da entrevista e do piloto de Alexandre e do planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
 | 10/11/2026 | 1.7 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 1.8 | Inclusão da introdução, do registro da inspeção do Grupo 08 e do material de Gabriel Robson; atualização do escopo e da situação, que ainda tratavam só do material de Alexandre; padronização de uma referência e de um link | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+
 Fonte: histórico da página e registro desta atualização (2026).
+
+## Introdução
+
+Esta página reúne o que o Grupo 03 produziu na Entrega 5: o relato dos resultados da avaliação do storyboard e da análise de tarefas e o planejamento da avaliação e do relato do protótipo de papel. O relatório coletivo está no [Relatório do grupo](relatorio-do-grupo.md); esta página indica onde está o material de cada integrante e a situação de cada parte. A Tabela 3 identifica a entrega, e a Tabela 4 relaciona os artefatos.
 
 ## 1. Identificação
 
@@ -38,17 +44,17 @@ Fonte: histórico da página e registro desta atualização (2026).
 | Disciplina | Interação Humano Computador (FGA0173), Turma 01, 02/2026 – Prof. Dr. André Barros de Sales |
 | Grupo | Grupo 03 – Alexandre Vilar, Gabriel Robson, Henrique Schneider e João Vitor |
 | Prazo previsto no Plano de Ensino | 25/10/2026 |
-| Inspeção prevista no Plano de Ensino | 26/10/2026 – Grupo +1; registro ainda não incorporado |
+| Inspeção do Grupo +1 | 26/10/2026 – Grupo 08 ([registro](verificacao/inspecao-grupo-08.md)) |
 | Apresentação prevista no Plano de Ensino | 27/10/2026 |
-| Situação desta versão | Materiais e resultados de Alexandre publicados; materiais, gravações e relato individual de João Vitor publicados; materiais e relato individual de Henrique Schneider e relatório do grupo publicados |
+| Situação desta versão | Materiais e resultados de Alexandre publicados; materiais, gravações e relato individual de João Vitor publicados; materiais e relato individual de Henrique Schneider e relatório do grupo publicados; proposta de Gabriel Robson publicada sem avaliação |
 
 Fonte: [Plano de Ensino](../disciplina/plano-de-ensino.md) e materiais desta atividade (2026). As datas previstas não comprovam a realização das atividades.
 
 ## 2. Escopo da entrega
 
-O Plano de Ensino prevê o relato dos resultados da avaliação do storyboard e da análise de tarefas, além do planejamento da avaliação do protótipo de papel e do planejamento de seu relato. Esta versão reúne os materiais de Alexandre, os registros da entrevista e do piloto e o relato individual dos resultados. Os demais materiais do grupo e o planejamento relativo ao protótipo de papel permanecem a incorporar pelos responsáveis.
+O Plano de Ensino prevê o relato dos resultados da avaliação do storyboard e da análise de tarefas, além do planejamento da avaliação do protótipo de papel e do planejamento de seu relato. Esta versão reúne os materiais dos quatro integrantes e o relatório coletivo, que traz o planejamento da avaliação do protótipo de papel (capítulo 3) e o planejamento do relato (capítulo 4).
 
-O cenário individual é a **vistoria para transferência de propriedade**. A proposta de melhoria é organizar o agendamento pelo portal com escolha de empresa credenciada, data e horário. O HTA atual descreve a busca de orientações; o redesign descreve o funcionamento proposto.
+O cenário de Alexandre Vilar é a **vistoria para transferência de propriedade**. A proposta de melhoria é organizar o agendamento pelo portal com escolha de empresa credenciada, data e horário. O HTA atual descreve a busca de orientações; o redesign descreve o funcionamento proposto.
 
 ## 3. Organização da avaliação
 
@@ -63,6 +69,7 @@ O [planejamento da Entrega 4](../entrega-4/relatorio.md) é a referência da eta
 | Materiais de Alexandre | [Visão geral](integrantes/alexandre-vilar/index.md) | Organizados |
 | Materiais de João Vitor | [Visão geral](integrantes/joao-vitor/index.md) | HTAs, storyboard, roteiro, avaliação, gravações e relato publicados |
 | Materiais de Henrique Schneider | [Visão geral](integrantes/henrique-schneider/index.md) | Storyboard, HTA, roteiro, vídeos, transcrições, relato e planejamento do protótipo de papel publicados |
+| Materiais de Gabriel Robson | [Visão geral](integrantes/gabriel-robson/index.md) | HTAs, roteiro textual do storyboard, roteiro de entrevista e protótipo demonstrativo; storyboard desenhado, teste-piloto e entrevista não realizados |
 | Relatório do grupo | [Relatório do grupo](relatorio-do-grupo.md) | Publicado a partir do Google Docs (v1.8) |
 | HTA do processo atual | [HTA atual](integrantes/alexandre-vilar/hta-atual.md) | Avaliação exploratória registrada; validação parcial |
 | Storyboard | [Storyboard](integrantes/alexandre-vilar/storyboard.md) | Narrativa e imagem publicadas |
@@ -79,7 +86,7 @@ Fonte: materiais disponibilizados nesta atividade (2026).
 
 ### 5.1 Vídeo da entrevista de Alexandre
 
-[Assistir à entrevista](https://youtu.be/U1eg2EeanWg?is=TA9OJrSPBYPRLlLP)
+[Assistir à entrevista](https://youtu.be/U1eg2EeanWg)
 
 [Abrir a página destinada ao vídeo](integrantes/alexandre-vilar/video-entrevista.md).
 
@@ -113,13 +120,17 @@ O [relato dos resultados](integrantes/henrique-schneider/relatorio-pos-entrevist
 
 O [relatório coletivo](relatorio-do-grupo.md) incorpora as respostas de P2, a relação storyboard–HTA–perfil, PS08 e seu reprojeto, o Fluxo 5 e sua conferência documental. O escopo preparatório do protótipo de vistoria está definido. Alexandre pretende convidar duas pessoas habilitadas e contar com João Vitor como apoio e revisor previsto. A realização até 28/10/2026 e na casa de Alexandre é provisória; permanecem a confirmar horários, local, participantes e divisão final dos papéis. O registro individual e o coletivo usam os mesmos dados de perfil e de data disponíveis.
 
+### 5.7 Material de Gabriel Robson
+
+O material de Gabriel Robson aborda a proposta **Renova CNH Fácil**, de orientação guiada para a renovação da CNH. A [página de avaliação](integrantes/gabriel-robson/avaliacao.md) registra que o storyboard desenhado, o teste-piloto, a entrevista, a gravação, o TCLE e o relatório ainda não foram feitos.
+
 ## 6. Inspeção e verificação
 
-O registro da inspeção da Entrega 5 e as listas específicas serão incorporados quando disponibilizados pelo grupo. Nenhuma inspeção é apresentada como concluída nesta versão.
+O Grupo 03 inspecionou a Entrega 5 do Grupo 08 em 26/10/2026, em sessão gravada; o registro está em [Inspeção do Grupo 08](verificacao/inspecao-grupo-08.md). A [lista de verificação da Entrega 5](verificacao/lista-de-verificacao.md) traz os itens usados e os quadros de registro da inspeção do próprio grupo e da inspeção feita pelo Grupo +1, que ainda estão em branco.
 
 ## Referências
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. 2021.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. [*S. l.*]: Autopublicação, 2021. Disponível em: https://leanpub.com/ihc-ux.
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026. [Consultar](../disciplina/plano-de-ensino.md).
 
@@ -134,3 +145,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 19/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, atualizar o escopo, a situação, a Tabela 4 e a Seção 6 com o que as páginas da entrega já registram, incluir a Seção 5.7 e completar a referência de Barbosa et al. (2021), a partir do levantamento da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

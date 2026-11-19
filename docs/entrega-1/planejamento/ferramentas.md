@@ -26,12 +26,13 @@ Fonte: elaborado pelos autores (2026).
 | 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções, legenda da tabela), das referências (ABNT) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | Gabriel Robson |
 | 17/10/2026 | 1.3 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 1.5 | Retirada do número de integrantes do texto, porque a equipe teve cinco pessoas na Entrega 1 e quatro a partir da Entrega 2 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-Para desenvolver o projeto da disciplina de Interação Humano-Computador (IHC) de forma organizada, foram escolhidas ferramentas para auxiliar os quatro integrantes durante as diferentes etapas do trabalho. Esses recursos foram utilizados principalmente para facilitar a comunicação, organizar as tarefas, colaborar no desenvolvimento do projeto e registrar os materiais produzidos (Grupo 03, 2026).
+Para desenvolver o projeto da disciplina de Interação Humano-Computador (IHC) de forma organizada, foram escolhidas ferramentas para auxiliar os integrantes durante as diferentes etapas do trabalho. Esses recursos foram utilizados principalmente para facilitar a comunicação, organizar as tarefas, colaborar no desenvolvimento do projeto e registrar os materiais produzidos (Grupo 03, 2026).
 
 A escolha das plataformas considerou principalmente a facilidade de acesso, a praticidade, a colaboração remota e a possibilidade de integração entre elas. Com isso, foi possível organizar melhor as etapas de análise, síntese e avaliação, além de manter os registros e documentos do projeto centralizados e de fácil acesso para a equipe.
 
@@ -43,7 +44,7 @@ A **Tabela 3** apresenta as ferramentas utilizadas no projeto e explica o motivo
 
 | Ferramenta | Logo | Motivo da escolha |
 | --- | --- | --- |
-| Google Docs | ![Logo do Google Docs](https://cdn.simpleicons.org/googledocs/4285F4){ width="42" } | Permite edição simultânea pelos quatro integrantes, comentários e histórico de versões, reduzindo conflitos entre arquivos locais. |
+| Google Docs | ![Logo do Google Docs](https://cdn.simpleicons.org/googledocs/4285F4){ width="42" } | Permite edição simultânea pelos integrantes, comentários e histórico de versões, reduzindo conflitos entre arquivos locais. |
 | Git e GitHub Pages | ![Logo do GitHub](https://cdn.simpleicons.org/github/181717){ width="42" } | Mantém os documentos e artefatos versionados e publica a documentação para acompanhamento do projeto. |
 | Microsoft Teams | ![Logo do Microsoft Teams](https://img.icons8.com/color/96/microsoft-teams.png){ width="42" } | Permite gravar tela e áudio, gerar transcrições e registrar apresentações e inspeções. |
 | WhatsApp | ![Logo do WhatsApp](https://cdn.simpleicons.org/whatsapp/25D366){ width="42" } | Facilita a comunicação rápida da equipe, o alinhamento de tarefas e o envio de avisos durante o desenvolvimento. |
@@ -101,3 +102,5 @@ Todo conteúdo sugerido pela inteligência artificial foi analisado, conferido e
 Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico em ordem cronológica, numeração das seções e legenda da tabela), padronizar as referências conforme a ABNT e reunir as declarações de uso de IA nesta seção. A tabela de ferramentas e o texto da página não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 19/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para retirar do texto o número de integrantes, que mudou ao longo do projeto, a partir do levantamento da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
