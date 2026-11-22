@@ -24,6 +24,7 @@ Fonte: elaborado pelos autores (2026).
 | 22/11/2026 | 0.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 | 22/11/2026 | 0.4 | Exclusão da inspeção dos itens de ex-integrantes (Camile Barbosa, Eduardo Ribeiro e Gabriel Robson) e novo cálculo do resultado | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 0.5 | Inclusão da foto da página do SWEBOK (nova Figura 2) e renumeração das figuras seguintes, conforme a exigência do Plano de Ensino de trazer a foto de cada fonte | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -42,13 +43,19 @@ Verificar é conferir se um produto de trabalho atende ao que foi especificado p
 
 Fonte: Univesp ([20--], aula 06, 14:15).
 
-Serrano e Serrano ([20--], slide 21) resumem o objetivo das inspeções como verificar se o artefato “está de acordo com a notação do modelo e com o que se espera desse modelo”. O SWEBOK classifica esse tipo de verificação entre as revisões técnicas e registra, entre os tipos de revisão da norma ISO/IEC 20246:2017, as **revisões baseadas em lista de verificação** (*checklist-based reviews*), que identificam problemas de forma sistemática a partir de uma lista (Washizaki, 2024, cap. 12, seç. 3.4.5, p. 12-14). O mesmo trecho lembra que corrigir um defeito depois que o produto está pronto custa mais do que encontrá-lo antes.
+Serrano e Serrano ([20--], slide 21) resumem o objetivo das inspeções como verificar se o artefato “está de acordo com a notação do modelo e com o que se espera desse modelo”. O SWEBOK classifica esse tipo de verificação entre as revisões técnicas e registra, entre os tipos de revisão da norma ISO/IEC 20246:2017, as **revisões baseadas em lista de verificação** (*checklist-based reviews*), que identificam problemas de forma sistemática a partir de uma lista (Washizaki, 2024, cap. 12, seç. 3.4.5, p. 12-14). O mesmo trecho lembra que corrigir um defeito depois que o produto está pronto custa mais do que encontrá-lo antes. A Figura 2 mostra a página do SWEBOK citada.
+
+**Figura 2 – Revisões técnicas e revisões baseadas em lista de verificação (SWEBOK v4)**
+
+![Página 12-14 do SWEBOK Guide v4.0, seção 3.4.5, com a lista dos tipos de revisão da norma ISO/IEC 20246:2017, entre eles as revisões baseadas em lista de verificação, e a frase sobre o custo de corrigir um defeito depois do produto pronto](../imagens/swebok-v4-cap12-p12-14.png){ width="480" }
+
+Fonte: Washizaki (2024, cap. 12, seç. 3.4.5, p. 12-14).
 
 ### 2.2 Por que inspecionar cedo
 
-A Figura 2, que Serrano e Serrano ([20--], slide 20) adaptam de Wheeler *et al.* (1996), compara os gastos de desenvolvimento de projetos com e sem inspeções: com inspeções, o gasto sobe no início e cai antes do início dos testes; sem inspeções, o pico vem depois e se estende por mais tempo.
+A Figura 3, que Serrano e Serrano ([20--], slide 20) adaptam de Wheeler *et al.* (1996), compara os gastos de desenvolvimento de projetos com e sem inspeções: com inspeções, o gasto sobe no início e cai antes do início dos testes; sem inspeções, o pico vem depois e se estende por mais tempo.
 
-**Figura 2 – Gastos de desenvolvimento com e sem inspeções**
+**Figura 3 – Gastos de desenvolvimento com e sem inspeções**
 
 ![Gráfico dos gastos de desenvolvimento ao longo do cronograma, em meses, com uma curva para projetos com inspeções e outra sem inspeções, e a marca do início dos testes](../imagens/serrano-slide-20-inspecoes.jpg)
 
@@ -56,9 +63,9 @@ Fonte: Serrano e Serrano ([20--], slide 20), adaptado de Wheeler *et al.* (1996)
 
 ### 2.3 Os seis passos de Fagan
 
-Segundo Serrano e Serrano ([20--], slide 21), o método de inspeção de Fagan estabelece um processo com seis passos principais: **planejamento, visão geral, preparação, inspeção, correção e acompanhamento** (Figura 3). O Quadro 1 descreve cada passo como ele aparece nas respostas dos integrantes à lista de exercícios de verificação da Entrega 1, que se apoiam nessa mesma fonte e na videoaula da Univesp.
+Segundo Serrano e Serrano ([20--], slide 21), o método de inspeção de Fagan estabelece um processo com seis passos principais: **planejamento, visão geral, preparação, inspeção, correção e acompanhamento** (Figura 4). O Quadro 1 descreve cada passo como ele aparece nas respostas dos integrantes à lista de exercícios de verificação da Entrega 1, que se apoiam nessa mesma fonte e na videoaula da Univesp.
 
-**Figura 3 – Os seis passos do método de inspeção de Fagan**
+**Figura 4 – Os seis passos do método de inspeção de Fagan**
 
 ![Slide de Serrano e Serrano com o objetivo das inspeções e os seis passos do método de Fagan: planejamento, visão geral, preparação, inspeção, correção e acompanhamento](../imagens/serrano-slide-21-fagan.jpg)
 
@@ -79,9 +86,9 @@ Fonte: elaborado pelos autores (2026), com base em Serrano e Serrano ([20--], sl
 
 ### 2.4 Características da inspeção
 
-A videoaula da Univesp ([20--], aula 06, 15:26) aponta quatro características principais da inspeção, mostradas na Figura 4: o **uso de listas de verificação** (*checklists*), a **classificação dos defeitos identificados**, a **ênfase na preparação** e a **leitura do artefato por alguém que não é o autor** (o leitor).
+A videoaula da Univesp ([20--], aula 06, 15:26) aponta quatro características principais da inspeção, mostradas na Figura 5: o **uso de listas de verificação** (*checklists*), a **classificação dos defeitos identificados**, a **ênfase na preparação** e a **leitura do artefato por alguém que não é o autor** (o leitor).
 
-**Figura 4 – Características principais da inspeção**
+**Figura 5 – Características principais da inspeção**
 
 ![Quadro da videoaula da Univesp com as características principais da inspeção: uso de checklists, classificação dos defeitos identificados, ênfase na preparação e leitura do artefato feita por um leitor, e não pelo autor](../imagens/univesp-aula06-caracteristicas.jpg)
 
@@ -142,7 +149,7 @@ Cada lista tem duas partes:
 - **Itens do Plano de Ensino sobre a avaliação do projeto (P1 a P9)**, tirados da seção de avaliação e dos avisos do Plano (Sales, 2026, pp. 3 e 6–8): identificação do estudante e do autor de cada artefato, referência e foto em cada resposta das atividades avaliativas, apresentação em vídeo pelo próprio autor, uso do Git com nomes identificáveis, documentação evolutiva no GitHub Pages, declaração do uso de IA generativa segundo a SBC, participação de todos os integrantes e os tópicos do projeto final. Estão na [lista dos itens gerais do projeto](projeto.md).
 - **Itens do artefato**, tirados dos itens do conteúdo da disciplina do Plano de Ensino para a entrega correspondente (Sales, 2026, pp. 8–13), das listas de verificação de cada entrega e das avaliações da monitoria, com o código original entre parênteses.
 
-**Classificação dos defeitos.** Para atender à característica de classificar os defeitos (Figura 4), cada não conformidade recebe um tipo: **Ausência** (o elemento pedido não existe), **Inconsistência** (o elemento existe, mas contradiz outra página ou a fonte) ou **Forma** (o elemento existe, mas fora do padrão). Essa classificação é uma proposta do grupo.
+**Classificação dos defeitos.** Para atender à característica de classificar os defeitos (Figura 5), cada não conformidade recebe um tipo: **Ausência** (o elemento pedido não existe), **Inconsistência** (o elemento existe, mas contradiz outra página ou a fonte) ou **Forma** (o elemento existe, mas fora do padrão). Essa classificação é uma proposta do grupo.
 
 **Limite desta versão.** As avaliações registradas nas listas são o resultado da **preparação** (passo 3), feita por leitura das páginas, e da **correção e acompanhamento** (passos 5 e 6), feitos em 22/11/2026. Elas devem ser confirmadas ou alteradas na reunião de inspeção (passo 4), conduzida por um leitor que não seja o autor de cada artefato, como pede o método.
 
