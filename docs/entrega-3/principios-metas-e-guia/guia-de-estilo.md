@@ -25,6 +25,7 @@ Fonte: elaborado pelos autores (2026).
 | 17/10/2026 | 1.3 | Inclusão das fotos das fontes (Figuras 1 e 2), ordenação alfabética das referências e organização da página | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.5 | Referências em parágrafos, sem marcadores de lista, conforme o padrão das demais páginas, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -331,18 +332,31 @@ Utilizar **Conforme / Não conforme / Não se aplica**, registrando tela, evidê
 9. Carregamento, sucesso, falha e indisponibilidade são comunicados por texto?
 10. Cada mudança de padrão registra sua origem e justificativa?
 
-## Referências bibliográficas
+## Referências
 
-- BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
-- DETRAN-DF. *Detran Digital: Portal de Serviços*. Disponível em: <https://portal.detran.df.gov.br/>. Catálogo público indexado consultado em: 6 out. 2026; formulários não inspecionados.
-- DETRAN-DF. *Site institucional*. Disponível em: <https://www.detran.df.gov.br/>. Tentativa de acesso em: 6 out. 2026; inspeção visual não concluída.
-- GRUPO 03. *Perfis de Usuário e Personas; Análise de Tarefas; Metas de Usabilidade*. Projeto de IHC, UnB, 2026. Documentos vinculados neste guia.
-- MARCUS, Aaron. *Graphic Design for Electronic Documents and User Interfaces*. New York: ACM Press, 1992. Referência citada por Barbosa e Silva (2010); consulta indireta.
-- MAYHEW, Deborah J. *The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design*. San Francisco: Morgan Kaufmann, 1999. Referência citada por Barbosa e Silva (2010); consulta indireta.
-- SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
-- W3C. *Understanding SC 1.4.3: Contrast (Minimum)*. Disponível em: <https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html>. Acesso em: 6 out. 2026.
-- W3C. *Understanding SC 2.5.8: Target Size (Minimum)*. Disponível em: <https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html>. Acesso em: 6 out. 2026.
-- W3C. *Web Content Accessibility Guidelines (WCAG) 2.2*. Disponível em: <https://www.w3.org/TR/WCAG22/>. Critérios 1.4.3, 1.4.11, 2.5.8 e demais critérios aplicáveis.
+As referências seguem a NBR 6023 (ABNT, 2018).
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
+
+DETRAN-DF. *Detran Digital: Portal de Serviços*. Disponível em: <https://portal.detran.df.gov.br/>. Catálogo público indexado consultado em: 6 out. 2026; formulários não inspecionados.
+
+DETRAN-DF. *Site institucional*. Disponível em: <https://www.detran.df.gov.br/>. Tentativa de acesso em: 6 out. 2026; inspeção visual não concluída.
+
+GRUPO 03. *Perfis de Usuário e Personas; Análise de Tarefas; Metas de Usabilidade*. Projeto de IHC, UnB, 2026. Documentos vinculados neste guia.
+
+MARCUS, Aaron. *Graphic Design for Electronic Documents and User Interfaces*. New York: ACM Press, 1992. Referência citada por Barbosa e Silva (2010); consulta indireta.
+
+MAYHEW, Deborah J. *The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design*. San Francisco: Morgan Kaufmann, 1999. Referência citada por Barbosa e Silva (2010); consulta indireta.
+
+SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
+
+W3C. *Understanding SC 1.4.3: Contrast (Minimum)*. Disponível em: <https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html>. Acesso em: 6 out. 2026.
+
+W3C. *Understanding SC 2.5.8: Target Size (Minimum)*. Disponível em: <https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html>. Acesso em: 6 out. 2026.
+
+W3C. *Web Content Accessibility Guidelines (WCAG) 2.2*. Disponível em: <https://www.w3.org/TR/WCAG22/>. Critérios 1.4.3, 1.4.11, 2.5.8 e demais critérios aplicáveis.
 
 ## Agradecimentos e uso de IA generativa
 
@@ -355,3 +369,5 @@ ChatGPT auxiliou na organização, redação e verificação de coerência docum
 O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar a página no modelo de artefato da disciplina (tabela de contribuição e histórico no início; legenda, fonte e chamada no texto das Tabelas 3 a 11; referências em ordem alfabética), registrar o autor do item e recortar as fotos dos trechos de Barbosa e Silva (2010) citados (Figuras 1 e 2). As decisões de design e os valores do guia não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para retirar os marcadores de lista das referências e citar a NBR 6023, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

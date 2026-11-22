@@ -2,7 +2,7 @@
 
 ## Tabela de contribuição
 
-**Tabela 1 - Minha contribuição neste artefato**
+**Tabela 1 – Minha contribuição neste artefato**
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
@@ -12,12 +12,13 @@ Fonte: minha elaboração (2026).
 
 ## Histórico de versões
 
-**Tabela 2 - Histórico de versões**
+**Tabela 2 – Histórico de versões**
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 14/11/2026 | 1.0 | Separei o protótipo em uma página própria e incorporei a navegação interativa do Figma | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
+| 22/11/2026 | 1.1 | Padronização das legendas das tabelas e figuras, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: meus registros (2026).
 
 ## 1. Introdução {#introducao}
@@ -67,3 +68,5 @@ FIGMA. **Embed a Figma prototype.** Documentação oficial. [Incorporação de p
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para padronizar as legendas das tabelas e figuras (travessão, legenda em negrito antes da figura e fonte depois dela), a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -20,9 +20,14 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | 25/10/2026 | 1.1 | Correção dos avisos dos anexos já publicados e ligação à análise da entrevista | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
 | 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.3 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: registro desta versão (2026).
 
 [Baixar roteiro da entrevista com fundamentação](arquivos/roteiro-entrevista-decide-vistoria.pdf)
+
+## Introdução
+
+Esta página registra o artefato “Roteiro de Entrevista”, de Alexandre Vilar, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de Alexandre e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Primeiro E do DECIDE”, a Seção 2 trata de “Orientações de aplicação”, a Seção 3 trata de “Perguntas e fundamentação” e a Seção 4 trata de “Adequação ao storyboard”.
 
 ## 1. Primeiro E do DECIDE
 
@@ -213,3 +218,5 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selba
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

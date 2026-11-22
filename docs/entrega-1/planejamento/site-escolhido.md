@@ -26,11 +26,12 @@ Fonte: elaborado pelos autores (2026).
 | 17/10/2026 | 1.2 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.4 | Citação do portal do Detran-DF e retirada de Nielsen (1994), que não é citado no texto, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-Após algumas discussões e análises, chegamos a um consenso e escolhemos o **Portal do Departamento de Trânsito do Distrito Federal (Detran-DF)** como foco do nosso trabalho. O principal objetivo é aplicar os métodos de IHC para avaliar a plataforma atual e entender como ela é utilizada pelos cidadãos. Essa abordagem considera a interação entre usuários, objetivos, tarefas e sistema, aspecto central da área de Interação Humano-Computador (Barbosa; Silva, 2010). A seguir, apresentaremos os critérios e motivos que levaram à escolha desse portal.
+Após algumas discussões e análises, chegamos a um consenso e escolhemos o **Portal do Departamento de Trânsito do Distrito Federal (Detran-DF)** como foco do nosso trabalho. O principal objetivo é aplicar os métodos de IHC para avaliar a plataforma atual e entender como ela é utilizada pelos cidadãos. Essa abordagem considera a interação entre usuários, objetivos, tarefas e sistema, aspecto central da área de Interação Humano-Computador (Barbosa; Silva, 2010). A seguir, apresentaremos os critérios e motivos que levaram à escolha desse portal (Departamento de Trânsito do Distrito Federal, 2026).
 
 ## 2. Justificativa da escolha
 
@@ -61,8 +62,6 @@ DEPARTAMENTO DE TRÂNSITO DO DISTRITO FEDERAL. *Portal do Detran-DF*. Brasília,
 
 GRUPO 03. *Relatório da Etapa 1: Planejamento do Projeto – Portal do Detran-DF*. Brasília: Universidade de Brasília, 2026. Disponível em: [PDF](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf).
 
-NIELSEN, Jakob. Heuristic evaluation. *In*: NIELSEN, Jakob; MACK, Robert L. (ed.). *Usability inspection methods*. New York: John Wiley & Sons, 1994. p. 25-62.
-
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
 
 ## Agradecimentos e uso de IA generativa
@@ -70,3 +69,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções e desta seção) e padronizar as citações e as referências conforme a ABNT. O texto da introdução, da justificativa e dos critérios não foi alterado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para citar no texto o portal do Detran-DF, que estava só nas referências, e retirar uma obra não citada, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -20,7 +20,12 @@ Fonte: elaboração do autor (2026).
 | 15/11/2026 | 1.1 | Vinculação de quatro gravações e organização inicial do relato | João Vitor | Gabriel Robson |
 | 15/11/2026 | 1.2 | Revisão da redação, confirmação das datas, apresentação das fontes como vídeos e complemento do relato de P03 | João Vitor | Gabriel Robson |
 
+| 22/11/2026 | 1.3 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: registro desta versão (2026).
+
+## Introdução
+
+Esta página registra o artefato “Relato dos resultados da avaliação”, de João Vitor, na Entrega 7 (relato dos resultados do protótipo de alta fidelidade). Ela faz parte do material individual de João Vitor e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Apresentação do relato”, a Seção 2 trata de “Objetivos, método e contexto”, a Seção 3 trata de “Relato por participante”, a Seção 4 trata de “Consolidação das tarefas”, a Seção 5 trata de “Interpretação e encaminhamentos”, a Seção 6 trata de “Piloto” e a Seção 7 trata de “Fechamento e revisão”.
 
 ## 1. Apresentação do relato {#situacao}
 
@@ -207,3 +212,5 @@ JOÃO VITOR. **Planejamento da avaliação do protótipo de alta fidelidade – 
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio à organização e à revisão do texto, das tabelas e dos links de evidência. A data de aplicação de todos os registros e o complemento sobre o reagendamento de P03 foram informados por mim. Mantive a autoria como João Vitor e não acrescentei falas, marcações de tempo ou valores não fornecidos. A responsabilidade pela conferência e pelo conteúdo publicado é minha.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

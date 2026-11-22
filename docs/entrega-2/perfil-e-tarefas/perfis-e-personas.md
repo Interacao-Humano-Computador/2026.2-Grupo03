@@ -28,11 +28,12 @@ Fonte: elaborado pelos autores (2026).
 | 17/10/2026 | 2.4 | Inclusão da foto da p. 134 de Barbosa e Silva (2010) como Figura 3 e revisão das citações | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 2.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 2.6 | Citação do portal do Detran-DF e da NBR 6023, que estavam só nas referências, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução e Escopo
 
-Este documento apresenta a caracterização dos **Perfis de Usuário** e do elenco de **Personas** desenvolvidos para fundamentar o design de Interação Humano-Computador (IHC) do portal do Detran-DF. A definição desses artefatos assegura que as decisões de projeto atendam aos objetivos reais de cidadãos, candidatos à habilitação e servidores do órgão.
+Este documento apresenta a caracterização dos **Perfis de Usuário** e do elenco de **Personas** desenvolvidos para fundamentar o design de Interação Humano-Computador (IHC) do portal do Detran-DF. A definição desses artefatos assegura que as decisões de projeto atendam aos objetivos reais de cidadãos, candidatos à habilitação e servidores do órgão. O portal analisado é o do Detran-DF (Departamento de Trânsito do Distrito Federal, 2026).
 
 O objetivo deste documento é identificar as categorias de usuários do portal do Detran-DF, descrever suas necessidades e vincular uma persona representativa a cada categoria. O perfil caracteriza quem utiliza o serviço e com qual finalidade; a persona apresenta um personagem fictício (*proto-persona*) que torna concretos o contexto, os objetivos, as atitudes e as dificuldades de um integrante desse perfil.
 
@@ -301,7 +302,9 @@ Como estas personas foram inicialmente modeladas como **proto-personas** (hipót
 3. **Refinamento do Artefato:** Comparar os dados coletados em campo com o comportamento previsto das proto-personas e atualizar as hipóteses.
 4. **Procedimentos Éticos:** Garantir a participação voluntária, assinatura do Termo de Consentimento Livre e Esclarecido (TCLE) e evitar a coleta de dados pessoais sensíveis.
 
-## Referências Bibliográficas
+## Referências
+
+As referências seguem a NBR 6023 (ABNT, 2018).
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
 
@@ -320,3 +323,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para: reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções e legendas); conferir no PDF de Barbosa e Silva (2010) as páginas das citações e corrigir as que estavam divergentes (pp. 134, 135 e 175); exibir as fotos das pp. 135 e 175, que já estavam no repositório, como Figuras 1 e 2; e substituir o marcador `caminho_imagem_p136_p175.png` pelas figuras existentes. Em 17/10/2026, a ferramenta foi usada para recortar do PDF do livro a foto do trecho da p. 134 (Figura 3). Perfis, personas, cenários e argumentos não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para citar no texto o portal do Detran-DF e a NBR 6023, que estavam só nas referências, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

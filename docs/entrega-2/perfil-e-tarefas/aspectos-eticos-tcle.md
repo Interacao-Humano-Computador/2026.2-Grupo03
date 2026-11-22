@@ -27,6 +27,7 @@ Fonte: elaborado pelos autores (2026).
 | 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 138, 139, 141 e 142) como Figuras 1 a 4, da fonte do termo de consentimento e retirada da seção de itens de conteúdo | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.6 | Registro de que a Resolução CNS nº 196/96 foi revogada pela Resolução nº 466/2012, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução e Importância no Contexto de IHC
@@ -45,6 +46,8 @@ Inspirado na Resolução nº 196/96 do Conselho Nacional de Saúde e na conduta 
 2. **Princípio da Beneficência:** Compromete os pesquisadores com a ponderação entre riscos e benefícios, garantindo o máximo de proveito científico/social com o mínimo de danos e impactos indesejados.
 3. **Princípio da Não Maleficência:** Garante a prevenção de danos previsíveis, constrangimentos, estresse ou prejuízos à reputação e autoestima do participante, tanto imediatos quanto tardios.
 4. **Princípio da Justiça e Equidade:** Assegura a distribuição justa dos benefícios da pesquisa e a igual consideração dos direitos de todos os participantes envolvidos.
+
+A Resolução nº 196/96 é a citada por Barbosa e Silva (2010); ela foi revogada pela Resolução nº 466/2012 do Conselho Nacional de Saúde (Brasil, 2012), que hoje regula as pesquisas com seres humanos no país.
 
 O trecho do livro com a responsabilidade da equipe de design sobre o bem-estar dos participantes, a Resolução nº 196/96 e os quatro princípios está na Figura 2.
 
@@ -102,6 +105,8 @@ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e document
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
+BRASIL. Conselho Nacional de Saúde. *Resolução nº 466, de 12 de dezembro de 2012*. Aprova diretrizes e normas regulamentadoras de pesquisas envolvendo seres humanos. Brasília, DF: CNS, 2012.
+
 CONSELHO NACIONAL DE SAÚDE. *Resolução nº 196/96* sobre pesquisas envolvendo seres humanos. Brasília, DF: CNS, 1996.
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
@@ -111,3 +116,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções) e padronizar as citações após conferir as páginas no PDF de Barbosa e Silva (2010). Em 17/10/2026, a ferramenta foi usada para recortar do PDF do livro as fotos dos trechos citados (Figuras 1 a 4) e para identificar no livro o exemplo de termo de consentimento em que o termo da seção 2 se baseia. O texto da introdução e do termo não foi alterado; o campo do e-mail de contato aparece em branco, como os demais campos do formulário. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para registrar que a Resolução nº 196/96, citada pelo livro, foi revogada pela Resolução nº 466/2012 e incluir esta nas referências, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

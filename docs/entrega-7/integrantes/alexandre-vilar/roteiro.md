@@ -2,7 +2,7 @@
 
 ## Tabela de contribuição
 
-**Tabela 1 - Contribuições nesta versão do artefato**
+**Tabela 1 – Contribuições nesta versão do artefato**
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Fonte: minha elaboração (2026).
 
 ## Histórico de versões
 
-**Tabela 2 - Histórico de versões**
+**Tabela 2 – Histórico de versões**
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
@@ -22,6 +22,7 @@ Fonte: minha elaboração (2026).
 | 15/11/2026 | 1.3 | Vinculei as entrevistas e completei a conferência do registro técnico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 15/11/2026 | 1.4 | Vinculei a captura direta de P03 e distingui instrumento previsto de gravação recebida | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
+| 22/11/2026 | 1.5 | Padronização das legendas das tabelas e figuras, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução
@@ -87,7 +88,7 @@ Vou conferir o consentimento antes de iniciar a gravação no **OBS Studio**, fe
 
 Elaborei os cenários a partir da [decomposição da tarefa](index.md#rastreabilidade). Cada tarefa tem previsão de até cinco minutos, com interrupção ou pausa se ultrapassar o limite de condução de 20 minutos. Reabrir o protótipo na tela inicial entre tarefas.
 
-**Tabela 3 - Cenários, critérios de conclusão e registro**
+**Tabela 3 – Cenários, critérios de conclusão e registro**
 
 | Tarefa | Enunciado ao participante | Critério de conclusão |
 | --- | --- | --- |
@@ -103,7 +104,7 @@ P01 realiza T1, T2 e T3; P02 realiza T2, T1 e T3. Essa alternância reduz parcia
 
 Preparei a Tabela 4 para registrar cada participante e tarefa. Vou manter os registros de PP01 em um arquivo separado dos demais.
 
-**Tabela 4 - Registro por tarefa**
+**Tabela 4 – Registro por tarefa**
 
 | Código / tarefa | Início e fim | Tempo | Desfecho | Erros / desvios | Ajuda | Evidência |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -135,7 +136,7 @@ Vou encerrar esclarecendo dúvidas e agradecendo. No registro, vou separar a opi
 
 ## 8. Registro do piloto {#registro-piloto}
 
-**Tabela 5 - Verificação do procedimento**
+**Tabela 5 – Verificação do procedimento**
 
 | Verificação | Registro após o piloto |
 | --- | --- |
@@ -157,3 +158,5 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para padronizar as legendas das tabelas e figuras (travessão, legenda em negrito antes da figura e fonte depois dela), a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

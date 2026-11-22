@@ -21,6 +21,7 @@ Fonte: minha elaboração (2026).
 | 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 | 12/11/2026 | 1.3 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
+| 22/11/2026 | 1.4 | Padronização das legendas das tabelas e figuras, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução
@@ -31,7 +32,7 @@ Nesta página, reuni os materiais da minha Entrega 6. Trabalhei com o agendament
 
 Organizei meus materiais na Tabela 3.
 
-**Tabela 3 - Materiais da minha Entrega 6**
+**Tabela 3 – Materiais da minha Entrega 6**
 
 | Material | Conteúdo | Página |
 | --- | --- | --- |
@@ -51,7 +52,7 @@ Concluí o protótipo de papel e publiquei as 12 fotos. Realizei a entrevista em
 
 Na Tabela 4, registrei as atividades para as quais tenho uma data documentada. Ainda preciso completar as datas de construção do papel e solicitar a revisão dos materiais.
 
-**Tabela 4 - Registros de execução da minha parte**
+**Tabela 4 – Registros de execução da minha parte**
 
 | Atividade | Data registrada | Evidência |
 | --- | --- | --- |
@@ -77,3 +78,5 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para padronizar as legendas das tabelas e figuras (travessão, legenda em negrito antes da figura e fonte depois dela), a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -21,13 +21,20 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | 25/10/2026 | 1.2 | Inclusão da data, local, modalidade e duração aproximada informados pelo autor | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
 | 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.4 | Inclusão da introdução e retirada dos parâmetros de rastreamento dos links do YouTube e inclusão das legendas e fontes das tabelas que não as tinham, com a renumeração das tabelas seguintes, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: registro desta versão (2026).
+
+## Introdução
+
+Esta página registra o artefato “Vídeo da Entrevista”, de Alexandre Vilar, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de Alexandre e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Gravação da entrevista”.
 
 ## 1. Gravação da entrevista
 
-[Assistir à entrevista](https://youtu.be/U1eg2EeanWg?is=TA9OJrSPBYPRLlLP)
+[Assistir à entrevista](https://youtu.be/U1eg2EeanWg)
 
 A gravação tem **8min58s**. A abertura apresenta o TCLE, seguido da referência à navegação no portal e da avaliação do HTA e do storyboard. A autorização para gravação e divulgação está registrada pelo responsável na [página da avaliação](avaliacao.md#6-video-da-entrevista).
+
+**Tabela 3 – Gravação da entrevista**
 
 | Trecho aproximado | Conteúdo |
 | --- | --- |
@@ -57,3 +64,7 @@ Não se aplica: a página não cita obras.
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes e retirar dos links do YouTube os parâmetros de rastreamento, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir as legendas e as fontes das tabelas que não as tinham e renumerar as tabelas seguintes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

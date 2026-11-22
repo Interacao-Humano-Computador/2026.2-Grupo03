@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
 | Gabriel Robson Nunes Neiva da Silva | — | — | — |
-| Henrique Schneider Fernandes da Rosa | Decisão de aplicar a inspeção de Fagan com uma lista por artefato; levantamento do material conceitual; planejamento e preparação da inspeção | [Inspeção de Fagan](index.md) | — |
+| Henrique Schneider Fernandes da Rosa | Decisão de aplicar a inspeção de Fagan com uma lista por artefato; levantamento do material conceitual; planejamento, preparação, correção e acompanhamento da inspeção | [Inspeção de Fagan](index.md) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
 Fonte: elaborado pelos autores (2026).
@@ -20,6 +20,7 @@ Fonte: elaborado pelos autores (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 19/11/2026 | 0.1 | Criação da página com o material conceitual da inspeção de Fagan, o planejamento da inspeção dos artefatos e o formato das listas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (passos 5 e 6), inclusão das páginas gerais do site entre os objetos da inspeção, dos itens do Plano de Ensino sobre a avaliação do projeto e do resultado depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -88,7 +89,7 @@ Fonte: Univesp ([20--], aula 06, 15:26).
 
 ### 3.1 Objetos da inspeção
 
-Os objetos da inspeção são os artefatos das Entregas 1 a 7 publicados no site, no estado em que estavam em 19/11/2026, e os itens gerais do projeto (página de integrantes, cronogramas, atas e vídeos). Cada artefato tem a sua lista.
+Os objetos da inspeção são **todos os artefatos do projeto**, e não apenas as entregas: os artefatos das Entregas 1 a 7 publicados no site, no estado em que estavam em 19/11/2026, e as páginas gerais (página inicial, atas, apresentações e gravações, Plano de Ensino, integrantes, listas de verificação, relatórios e trabalhos avaliativos), além dos itens que valem para o site, o repositório e os vídeos como um todo. Cada artefato tem a sua lista; as páginas gerais foram incluídas em 22/11/2026.
 
 ### 3.2 Os seis passos neste projeto
 
@@ -101,29 +102,29 @@ O Quadro 2 mostra como cada passo de Fagan é aplicado e em que situação está
 | 1. Planejamento | Escolha dos artefatos, das listas (formato da Seção 4) e do cronograma; esta página | Henrique Schneider | 19/11/2026 | Feito |
 | 2. Visão geral | Apresentação de cada artefato pelo autor aos demais integrantes, no início da reunião de inspeção | Autor de cada artefato | A marcar pelo grupo, até 22/11/2026 | A fazer |
 | 3. Preparação | Leitura de cada artefato com a sua lista e registro preliminar da avaliação, do problema e da ação corretiva (páginas do Quadro 3) | Henrique Schneider (primeira leitura); demais integrantes | 19/11/2026 | Primeira leitura feita; leitura dos demais integrantes a fazer |
-| 4. Inspeção | Reunião gravada em que o grupo confirma ou altera cada avaliação, com um leitor que não é o autor do artefato | Todos os integrantes | A marcar pelo grupo, até 22/11/2026 | A fazer |
-| 5. Correção | Correção das não conformidades pelo autor de cada artefato | Autor de cada artefato | Até 22/11/2026 | A fazer |
-| 6. Acompanhamento | Conferência das correções, registrada nas listas | Leitor de cada artefato | Até 22/11/2026 | A fazer |
+| 4. Inspeção | Reunião gravada em que o grupo confirma ou altera cada avaliação, com um leitor que não é o autor do artefato | Todos os integrantes | A marcar pelo grupo | A fazer; as avaliações da preparação e do acompanhamento ficam sujeitas a ela |
+| 5. Correção | Correção das não conformidades de forma e de texto que não dependem de dados novos (introduções, legendas, referências, frases incompletas, links); as demais ficam com o autor de cada artefato | Henrique Schneider; autor de cada artefato | 22/11/2026 | Feita para as não conformidades que não dependem do autor |
+| 6. Acompanhamento | Conferência das correções, registrada na Seção 4 de cada página de listas, e nova verificação automática das páginas | Henrique Schneider; leitor de cada artefato | 22/11/2026 | Primeira conferência feita; a conferência pelo leitor fica para depois da reunião |
 
 Fonte: elaborado pelos autores (2026), com os passos de Serrano e Serrano ([20--], slide 21).
 
 ### 3.3 Listas por entrega
 
-O Quadro 3 indica onde estão as listas de cada entrega e resume o resultado da preparação.
+O Quadro 3 indica onde estão as listas de cada entrega e resume o resultado da preparação e o da correção. Dos 768 itens aplicáveis, 544 (71%) estavam conformes na preparação; depois da correção, 601 (78%) estão conformes, 9 foram corrigidos em parte e 158 continuam pendentes, quase todos por dependerem de material que não existe (vídeos, atas, gravações, material de um integrante) ou de dados e decisões dos autores (revisores, datas reais, contribuições).
 
-**Quadro 3 – Listas de inspeção por entrega e resultado da preparação**
+**Quadro 3 – Listas de inspeção por entrega e resultado da preparação e da correção**
 
-| Página | Artefatos | Conforme | Não conforme | Não se aplica | A confirmar |
-| --- | :---: | :---: | :---: | :---: | :---: |
-| [Itens gerais do projeto](projeto.md) | 4 | 28 | 6 | 8 | 0 |
-| [Entrega 1](entrega-1.md) | 15 | 106 | 44 | 1 | 0 |
-| [Entrega 2](entrega-2.md) | 12 | 96 | 28 | 1 | 0 |
-| [Entrega 3](entrega-3.md) | 10 | 66 | 27 | 8 | 0 |
-| [Entrega 4](entrega-4.md) | 7 | 52 | 26 | 0 | 0 |
-| [Entrega 5](entrega-5.md) | 9 | 60 | 28 | 0 | 6 |
-| [Entrega 6](entrega-6.md) | 7 | 48 | 21 | 0 | 5 |
-| [Entrega 7](entrega-7.md) | 6 | 39 | 22 | 8 | 4 |
-| **Total** | **70** | **495** | **202** | **26** | **15** |
+| Página | Artefatos | Conforme (preparação) | Não conforme (preparação) | A confirmar (preparação) | Conforme (após a correção) | Parcial | Pendente | Não se aplica |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Itens gerais do projeto](projeto.md) | 10 | 77 | 13 | 0 | 79 | 0 | 11 | 17 |
+| [Entrega 1](entrega-1.md) | 15 | 106 | 44 | 0 | 110 | 3 | 37 | 1 |
+| [Entrega 2](entrega-2.md) | 12 | 96 | 28 | 0 | 102 | 1 | 21 | 1 |
+| [Entrega 3](entrega-3.md) | 10 | 66 | 27 | 0 | 72 | 2 | 19 | 8 |
+| [Entrega 4](entrega-4.md) | 7 | 52 | 26 | 0 | 56 | 1 | 21 | 0 |
+| [Entrega 5](entrega-5.md) | 9 | 60 | 28 | 6 | 73 | 2 | 19 | 0 |
+| [Entrega 6](entrega-6.md) | 7 | 48 | 21 | 5 | 61 | 0 | 13 | 0 |
+| [Entrega 7](entrega-7.md) | 6 | 39 | 22 | 4 | 48 | 0 | 17 | 8 |
+| **Total** | **76** | **544** | **209** | **15** | **601** | **9** | **158** | **35** |
 
 Fonte: elaborado pelos autores (2026), a partir das listas de cada página.
 
@@ -136,11 +137,12 @@ As listas seguem o modelo de lista de verificação da qualidade de artefatos do
 Cada lista tem duas partes:
 
 - **Itens gerais (G1 a G8)**, iguais para todo artefato, tirados dos itens do desenvolvimento do projeto do Plano de Ensino (Sales, 2026, pp. 8–9) e do modelo: G1 histórico de versões; G2 autor e revisor nominais; G3 referências e citações com página; G4 tabelas e imagens com legenda, fonte e chamada no texto; G5 introdução; G6 tabela de contribuição; G7 declaração de uso de IA generativa; G8 texto sem trechos de exemplo, marcadores ou frases incompletas.
+- **Itens do Plano de Ensino sobre a avaliação do projeto (P1 a P9)**, tirados da seção de avaliação e dos avisos do Plano (Sales, 2026, pp. 3 e 6–8): identificação do estudante e do autor de cada artefato, referência e foto em cada resposta das atividades avaliativas, apresentação em vídeo pelo próprio autor, uso do Git com nomes identificáveis, documentação evolutiva no GitHub Pages, declaração do uso de IA generativa segundo a SBC, participação de todos os integrantes e os tópicos do projeto final. Estão na [lista dos itens gerais do projeto](projeto.md).
 - **Itens do artefato**, tirados dos itens do conteúdo da disciplina do Plano de Ensino para a entrega correspondente (Sales, 2026, pp. 8–13), das listas de verificação de cada entrega e das avaliações da monitoria, com o código original entre parênteses.
 
 **Classificação dos defeitos.** Para atender à característica de classificar os defeitos (Figura 4), cada não conformidade recebe um tipo: **Ausência** (o elemento pedido não existe), **Inconsistência** (o elemento existe, mas contradiz outra página ou a fonte) ou **Forma** (o elemento existe, mas fora do padrão). Essa classificação é uma proposta do grupo.
 
-**Limite desta versão.** As avaliações registradas nas listas são o resultado da **preparação** (passo 3), feita por leitura das páginas. Elas devem ser confirmadas ou alteradas na reunião de inspeção (passo 4).
+**Limite desta versão.** As avaliações registradas nas listas são o resultado da **preparação** (passo 3), feita por leitura das páginas, e da **correção e acompanhamento** (passos 5 e 6), feitos em 22/11/2026. Elas devem ser confirmadas ou alteradas na reunião de inspeção (passo 4), conduzida por um leitor que não seja o autor de cada artefato, como pede o método.
 
 ## Referências
 
@@ -157,3 +159,5 @@ WASHIZAKI, Hironori (ed.). *Guide to the Software Engineering Body of Knowledge 
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para levantar no material de consulta do grupo os trechos sobre inspeção e sobre o método de Fagan (slides de Serrano e Serrano, videoaula da Univesp já capturada nas listas de exercícios da Entrega 1, SWEBOK v4 e modelo de lista de verificação da disciplina), redigir esta página e organizar o planejamento. As figuras são capturas já publicadas nas listas de exercícios da Entrega 1. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para corrigir as não conformidades que não dependiam de dados novos, registrar a correção e o acompanhamento nas listas, incluir as páginas gerais do site e os itens do Plano de Ensino sobre a avaliação do projeto e recalcular o resultado. As correções estão no histórico de versões de cada página corrigida.

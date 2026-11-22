@@ -22,6 +22,7 @@ Fonte: elaborado pelo autor (2026).
 | 15/11/2026 | 1.1 | Inclusão das chamadas das Tabelas 1 a 8 no texto, a partir da inspeção do próprio grupo | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.2 | Inclusão do link da gravação da sessão no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.3 | Definição desta página como a sessão válida; o piloto é o ensaio técnico registrado em outra página | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 1.4 | Correção de frase que ficou incompleta depois da retirada dos marcadores de verificação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -29,7 +30,7 @@ Fonte: elaborado pelo autor (2026).
 
 Esta página registra a sessão do teste de usabilidade do [protótipo de alta fidelidade](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) com o participante P8, conforme o [roteiro do teste](../../../entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md). Os dados desta sessão alimentam o [relatório da Entrega 7](../../relatorio.md). A Tabela 1 traz a contribuição de cada integrante e a Tabela 2, o histórico de versões.
 
-**Fonte dos dados.** Os registros abaixo vêm da transcrição automática do Teams (publicada em [transcricao-p8.md](transcricao-p8.md)). O vídeo da gravação ainda não foi conferido nesta versão, então os tempos são **aproximados** (leitura da transcrição, com resolução de segundos) e o que depende de ver a tela está marcado com. A transcrição automática tem erros: para citar uma fala, confira-a na gravação.
+**Fonte dos dados.** Os registros abaixo vêm da transcrição automática do Teams (publicada em [transcricao-p8.md](transcricao-p8.md)). O vídeo da gravação ainda não foi conferido nesta versão, então os tempos são **aproximados** (leitura da transcrição, com resolução de segundos) e o que depende de ver a tela ainda precisa ser conferido na gravação. A transcrição automática tem erros: para citar uma fala, confira-a na gravação.
 
 O código **P8** é o primeiro da série prevista no planejamento (P8 a P10). O nome do participante não aparece em nenhuma página do site (Barbosa; Silva, 2010, cap. 5, seç. 5.4, p. 140).
 
@@ -166,3 +167,5 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Co
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar o modelo desta página a partir do planejamento do teste de usabilidade (identificação, questionário, medidas e entrevista). Nenhum dado de participante, tempo, resposta ou resultado foi criado: os campos de registro estão vazios até que o autor os preencha a partir da gravação. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também a pedido do autor, o Claude foi usado para ajustar o modelo à mudança da modalidade (controle remoto do Teams), sem acrescentar dados. Em 15/11/2026, também a pedido do autor, o Claude foi usado para preencher esta página a partir da transcrição automática do Teams (identificação, pré-teste, tempos estimados, entrevista e diferenças em relação ao planejamento). O vídeo da gravação não foi assistido pela ferramenta. Os tempos, as classificações e as frases dependem da conferência do autor na gravação. Em 15/11/2026, também foi usado para incluir as chamadas das tabelas no texto, a partir da inspeção do próprio grupo. Em 15/11/2026, também foi usado para incluir o link da gravação da sessão com o participante P8. Em 15/11/2026, também foi usado para registrar que o piloto foi um ensaio técnico separado.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para corrigir uma frase que ficou incompleta depois da retirada dos marcadores de verificação, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

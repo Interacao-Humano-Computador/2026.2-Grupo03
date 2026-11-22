@@ -24,6 +24,7 @@ Fonte: elaborado pelos autores (2026), com base nas páginas de verificação de
 | 19/10/2026 | 2.1 | Inclusão das listas de verificação individuais de Gabriel Robson no Quadro 2 | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 2.3 | Inclusão das Entregas 5 a 8 no Quadro 1 e da inspeção do Grupo 08 no Quadro 3, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -48,6 +49,10 @@ O Quadro 1 mostra, para cada entrega, onde estão a lista do professor, a avalia
 | 2 – Perfil do Usuário, Aspectos Éticos e Análise de Tarefas | [Listas da Entrega 2](../entrega-2/verificacao/listas.md): desenvolvimento do projeto e conteúdo (C1–C12) (Plano, pp. 9–11) | [Avaliação da monitoria](../entrega-2/verificacao/avaliacao-monitoria.md) (29 itens, 01/10/2026) | Itens 13 a 21 da inspeção do Grupo 02; [autoavaliação](autoavaliacao.md) (Tabela 4) | [Inspeção do Grupo 02](../entrega-2/verificacao/inspecao-grupo-02.md) |
 | 3 – Princípios Gerais, Metas de Usabilidade e Guia de Estilo | [Listas da Entrega 3](../entrega-3/verificacao/listas.md): desenvolvimento do projeto e conteúdo (C10–C17) (Plano, pp. 11–12) | [Avaliação da monitoria](../entrega-3/verificacao/avaliacao-monitoria.md) (21 itens, 11/10/2026) | Lista adaptada do Plano (10 perguntas); itens 11 a 22 da inspeção do Grupo 07; [autoavaliação](autoavaliacao.md) (Tabela 5) | [Inspeção do Grupo 07](../entrega-3/verificacao/inspecao-grupo-07.md) |
 | 4 – Planejamento da Avaliação do Storyboard e da Análise de Tarefas | [Listas da Entrega 4](../entrega-4/verificacao/listas.md): desenvolvimento do projeto e conteúdo (C2–C13) (Plano, pp. 12–13) | — | Itens N1 a N7 da inspeção do Grupo 01 | [Inspeção do Grupo 01](../entrega-4/verificacao/inspecao-grupo-01.md) |
+| 5 – Avaliação do Storyboard e da Análise de Tarefas | [Lista da Entrega 5](../entrega-5/verificacao/lista-de-verificacao.md) | — | Itens adicionais da inspeção do Grupo 08 | [Inspeção do Grupo 08](../entrega-5/verificacao/inspecao-grupo-08.md) |
+| 6 – Relato do Protótipo de Papel e Planejamento da Alta Fidelidade | [Lista da Entrega 6](../entrega-6/verificacao/lista-de-verificacao.md) | — | — | Sem registro |
+| 7 – Relato dos Resultados do Protótipo de Alta Fidelidade | [Lista da Entrega 7](../entrega-7/verificacao/lista-de-verificacao.md) | — | — | Sem registro |
+| 8 – Verificação dos Artefatos | [Inspeção de Fagan](../entrega-8/inspecao-fagan/index.md): uma lista por artefato, com os itens gerais G1–G8, os itens do Plano de Ensino e os da monitoria | — | Itens E1 a E8 das listas de inspeção | Inspeção de todos os artefatos do próprio grupo |
 | Projeto Final | [Lista do Projeto Final](projeto-final.md): 14 tópicos e duração da apresentação (Plano, pp. 7–8) | — | — | — |
 
 Fonte: elaborado pelos autores (2026), com base nas páginas de verificação de cada entrega e em Sales (2026, pp. 7–13).
@@ -93,6 +98,7 @@ As inspeções seguem o cronograma do Plano de Ensino, que prevê a "Inspeção 
 | 2 – Perfil do Usuário, Aspectos Éticos e Análise de Tarefas | Grupo 02 (-1) | 02/10/2026 | [YouTube](https://youtu.be/xNhCVgt2FE4) | [Inspeção do Grupo 02](../entrega-2/verificacao/inspecao-grupo-02.md) |
 | 3 – Princípios Gerais, Metas de Usabilidade e Guia de Estilo | Grupo 07 (+1) | 10/10/2026 | [Dupla](https://www.youtube.com/watch?v=ObXAAFdPD_I); [individual](https://youtu.be/TYv1vovnuYc) | [Inspeção do Grupo 07](../entrega-3/verificacao/inspecao-grupo-07.md) |
 | 4 – Planejamento da Avaliação do Storyboard e da Análise de Tarefas | Grupo 01 (-1) | 14/10/2026 | [YouTube](https://www.youtube.com/watch?v=uZxKqHfh_zI) | [Inspeção do Grupo 01](../entrega-4/verificacao/inspecao-grupo-01.md); [ata da Reunião 02](../atas/ata-reuniao-20261014-02.md) |
+| 5 – Avaliação do Storyboard e da Análise de Tarefas | Grupo 08 (+1) | 26/10/2026 | Gravada (ver o registro) | [Inspeção do Grupo 08](../entrega-5/verificacao/inspecao-grupo-08.md) |
 
 Fonte: elaborado pelos autores (2026), com as datas do Plano de Ensino (SALES, 2026, pp. 4–5) e dos relatórios de inspeção.
 
@@ -136,3 +142,5 @@ SILVA, Giovana Barbosa da. *Atividade avaliativa: IHC: Etapa 2: Grupo 3*. Brasí
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar a aba "Listas de Verificação" e montar os quadros desta página a partir das páginas de cada entrega, do material dos integrantes e da antiga página de Verificação. Nenhum item, resposta ou autoria foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir no Quadro 1 as listas das Entregas 5 a 8 e no Quadro 3 a inspeção do Grupo 08, a partir das páginas já publicadas, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

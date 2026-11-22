@@ -25,6 +25,7 @@ Fonte: elaborado pelos autores (2026).
 | 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.4 | Inclusão dos relatórios das Entregas 6 e 7, com os links dos PDFs | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.5 | Inclusão da Entrega 8, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -44,6 +45,7 @@ O Quadro 1 resume as entregas e leva a cada relatório.
 | 5 | Avaliação do Storyboard e da Análise de Tarefas; planejamento da avaliação do protótipo de papel | 25/10/2026 | [Relatório da Entrega 5](../entrega-5/relatorio.md) |
 | 6 | Relato do protótipo de papel e planejamento do protótipo de alta fidelidade | 03/11/2026 | [Relatório da Entrega 6](../entrega-6/relatorio.md) ([PDF](../assets/pdfs/entregas/relatorio-entrega-6-grupo-03.pdf)) |
 | 7 | Relato dos resultados do protótipo de alta fidelidade | 15/11/2026 | [Relatório da Entrega 7](../entrega-7/relatorio.md) ([PDF](../assets/pdfs/entregas/relatorio-entrega-7-grupo-03.pdf)) |
+| 8 | Verificação dos artefatos | 22/11/2026 | [Inspeção de Fagan](../entrega-8/inspecao-fagan/index.md) (relatório no Google Docs, PDF entregue no Moodle) |
 
 Fonte: elaborado pelos autores (2026), com os prazos de Sales (2026, pp. 4–5).
 
@@ -60,3 +62,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na inclusão da linha da Entrega 5 e de seu registro no histórico.
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página. Em 15/11/2026, também foi usado para incluir as linhas das Entregas 6 e 7.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a linha da Entrega 8 no Quadro 1, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

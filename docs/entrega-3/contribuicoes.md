@@ -25,6 +25,7 @@ Fonte: elaborado pelos autores (2026).
 | 17/10/2026 | 1.3 | Organização da página e retirada das linhas sem conteúdo das tabelas | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.5 | Citação da NBR 6023 e retirada de Barbosa e Silva (2010), que não é citado na página, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
 
 ## Introdução
@@ -60,11 +61,11 @@ A Tabela 4 registra as gravações da Entrega 3.
 
 Fonte: elaborado pelos autores (2026), com os links do relatório de inspeção da Entrega 3 (Grupo 03, 2026).
 
-## Referências Bibliográficas
+## Referências
+
+As referências seguem a NBR 6023 (ABNT, 2018).
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
-
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
 GRUPO 03. *Inspeção Grupo +1 (Grupo 7): Entrega 3*. Brasília: Universidade de Brasília, 2026. Disponível em: [PDF](../assets/pdfs/entregas/inspecao-entrega-3-grupo-07.pdf).
 
@@ -89,3 +90,5 @@ Fonte: elaborado pelos autores (2026).
 O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina, corrigir o tema da entrega, copiado da Entrega 2, e organizar nas tabelas as evidências do relatório de inspeção do Grupo 07 (autoria dos itens e links das gravações). As contribuições registradas pelos integrantes foram mantidas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a citação da NBR 6023 e retirar das referências uma obra não citada no texto, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

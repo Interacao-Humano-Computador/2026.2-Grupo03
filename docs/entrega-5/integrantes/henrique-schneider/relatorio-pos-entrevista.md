@@ -23,7 +23,12 @@ Fonte: elaborado pelo autor (2026).
 | 25/10/2026 | 3.0    | Inclusão da segunda sessão (participante P2): perfil, respostas, comparação entre os participantes (recorrências e divergências), novos problemas 06 e 07, atualização das hipóteses, do reprojeto e das limitações                                                           | Henrique Schneider Fernandes da Rosa, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 3.1    | Inclusão do link da gravação da sessão com P2 (YouTube, não listado), no lugar do marcador provisório, para publicação no GitHub Pages                                                                                                                                        | Henrique Schneider Fernandes da Rosa, com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 3.2 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelo autor (2026).
+
+## Introdução
+
+Esta página registra o artefato “Relato dos Resultados da Avaliação do Storyboard”, de Henrique Schneider, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de Henrique e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Objetivos e escopo da avaliação”, a Seção 2 trata de “Método de avaliação”, a Seção 3 trata de “Participantes e avaliadores”, a Seção 4 trata de “Sumário dos dados coletados”, a Seção 5 trata de “Interpretação e análise dos dados”, a Seção 6 trata de “Lista de problemas encontrados”, a Seção 7 trata de “Planejamento do reprojeto” e a Seção 8 trata de “Estrutura do relato”.
 
 ## 1. Objetivos e escopo da avaliação
 
@@ -242,3 +247,5 @@ O autor agradece aos participantes P1 e P2 pela disponibilidade e pela paciênci
 Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado como apoio na diagramação deste relato e na localização dos trechos citados de Barbosa e Silva (2010) (versão 1.0) e, na versão 2.0, na organização das respostas a partir da transcrição automática e da gravação da entrevista, na redação das tabelas de resultados e na proposta de severidades; a idade da participante P1, a data do teste-piloto e a autorização de imagem de P1 foram informadas pelo autor. Na versão 3.0, foi usado para organizar as respostas da sessão 2 e comparar os dois participantes. A condução da entrevista, os dados coletados, a revisão da análise e as conclusões são de responsabilidade do autor.
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para converter o PDF deste artefato em página do site, com a tabela de contribuição e a renumeração das tabelas a partir da Tabela 2. Os participantes aparecem como P1 e P2, como no PDF; no relatório do grupo, são P3 e P4. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

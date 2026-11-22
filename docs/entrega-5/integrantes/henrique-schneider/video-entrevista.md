@@ -18,7 +18,12 @@ Fonte: elaborado pelo autor (2026).
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Publicação das gravações das sessões com P1 e P2, dos trechos aproximados das duas sessões e das transcrições anonimizadas | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.1 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelo autor (2026).
+
+## Introdução
+
+Esta página registra o artefato “Vídeos da Entrevista”, de Henrique Schneider, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de Henrique e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Sessão 1 – participante P1”, a Seção 2 trata de “Sessão 2 – participante P2” e a Seção 3 trata de “Transcrições anonimizadas”.
 
 ## 1. Sessão 1 – participante P1
 
@@ -83,3 +88,5 @@ ROSA, Henrique Schneider Fernandes da. *Entrevista de avaliação do storyboard 
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir do Relatório da Entrega 5 e dos documentos individuais do autor. Não foram gerados dados de participantes, datas de sessão ou resultados. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

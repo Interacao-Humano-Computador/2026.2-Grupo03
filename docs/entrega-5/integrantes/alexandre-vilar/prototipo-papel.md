@@ -22,6 +22,11 @@ Fonte: intenções informadas por Alexandre Vilar em 25/10/2026.
 | 25/10/2026 | 1.0 | Organização das intenções de avaliação e revisão informadas pelo autor | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
 | 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.2 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+## Introdução
+
+Esta página registra o artefato “Planejamento da Avaliação do Protótipo de Papel”, de Alexandre Vilar, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de Alexandre e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Objetivo e escopo”, a Seção 2 trata de “Participantes, prazo e local pretendidos”, a Seção 3 trata de “Papéis dos avaliadores e revisão”, a Seção 4 trata de “Cenários e tarefas”, a Seção 5 trata de “Preparação dos materiais”, a Seção 6 trata de “Teste-piloto da nova avaliação”, a Seção 7 trata de “Coleta e análise” e a Seção 8 trata de “Planejamento do relato”.
+
 ## 1. Objetivo e escopo
 
 Avaliar se a proposta de agendamento de vistoria para transferência de propriedade permite identificar o serviço, compreender as orientações, selecionar local/data/horário e reconhecer a confirmação do atendimento. A base de projeto é o [HTA do redesign](hta-redesign.md), com os objetivos 1 a 5.
@@ -111,3 +116,5 @@ GRUPO 03. *Relatório da Entrega 5*. 2026. [Capítulos 3 e 4: planejamento colet
 Em 25/10/2026, o ChatGPT (OpenAI), a pedido de Alexandre Vilar, apoiou a organização deste planejamento a partir do HTA e das intenções informadas pelo autor. Estimativas e distribuição de papéis estão identificadas como propostas. A autoria e a responsabilidade pela revisão são humanas; não foram gerados resultados de sessões futuras.
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

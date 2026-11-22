@@ -26,8 +26,13 @@ Fonte: elaborado pelos autores (2026), com base nos históricos de versão, no r
 | 15/10/2026 | 3.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, matriz de conformidade com a lista do Plano de Ensino, avaliação recebida e inspeção | Henrique Schneider | Gabriel Robson |
 | 17/10/2026 | 3.1 | Retirada da matriz de conformidade e da seção de acompanhamento, vínculo com a página da avaliação da monitoria e revisão das referências | Henrique Schneider | Gabriel Robson |
 | 10/11/2026 | 3.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 3.3 | Inclusão da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026). As versões 1.0 a 2.0 foram transcritas do relatório entregue (Grupo 03, 2026a, p. 17).
+
+## Introdução
+
+Esta página reúne o que o Grupo 03 produziu na Entrega 2: perfis de usuário e personas, cenários, aspectos éticos e termo de consentimento, questionário e análise de tarefas. Ela indica onde está cada artefato no site, resume a avaliação feita pela monitoria em 01/10/2026 e aponta o registro da inspeção do Grupo 02. A Tabela 3 identifica a entrega, e a Tabela 4 relaciona os artefatos.
 
 ## 1. Identificação
 
@@ -93,3 +98,5 @@ O relatório entregue tem a seção "Agradecimentos e Suportes Tecnológicos", q
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reescrever o relatório da Entrega 2 como página do site: extração do texto do PDF entregue (resumo e histórico de versões), montagem das Tabelas 1, 3 e 4 a partir dos históricos de versão, dos commits e do Plano de Ensino e resumo dos apontamentos da avaliação recebida. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta o conteúdo já existente na página, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

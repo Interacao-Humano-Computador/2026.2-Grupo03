@@ -2,7 +2,7 @@
 
 ## Tabela de contribuição
 
-**Tabela 1 - Contribuições nesta versão do artefato**
+**Tabela 1 – Contribuições nesta versão do artefato**
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Fonte: minha elaboração (2026).
 
 ## Histórico de versões
 
-**Tabela 2 - Histórico de versões**
+**Tabela 2 – Histórico de versões**
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
@@ -21,7 +21,12 @@ Fonte: minha elaboração (2026).
 | 15/11/2026 | 1.2 | Conferi as evidências das entrevistas sem transformar registros parciais em atendimento completo | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 15/11/2026 | 1.3 | Atualizei a amostra para três participantes e vinculei os registros complementares de P03 | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
+| 22/11/2026 | 1.4 | Inclusão da introdução e padronização das legendas, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: registro desta versão (2026).
+
+## Introdução
+
+Esta página registra o artefato “Lista de verificação da Entrega 7”, de Alexandre Vilar, na Entrega 7 (relato dos resultados do protótipo de alta fidelidade). Ela faz parte do material individual de Alexandre e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Escopo e adaptação”, a Seção 2 trata de “Item 1 - Dez itens de desenvolvimento”, a Seção 3 trata de “Itens de conteúdo adaptados”, a Seção 4 trata de “Limites da minha verificação” e a Seção 5 trata de “Atualização da lista”.
 
 ## 1. Escopo e adaptação {#escopo}
 
@@ -33,7 +38,7 @@ Nesta lista, avaliei somente os materiais da **minha entrega**. Marquei **Sim** 
 
 A Tabela 3 detalha os dez itens referidos na primeira linha da lista enviada, conforme a transcrição do [plano de ensino](../../../entrega-1/verificacao/listas.md). Na minha parte, o item 1 está **Incompleto**, porque ainda preciso completar a revisão, os registros de organização e a apresentação, além de completar os dados de aplicação e a conferência dos registros.
 
-**Tabela 3 - Itens de desenvolvimento do projeto**
+**Tabela 3 – Itens de desenvolvimento do projeto**
 
 | Item | Na minha entrega... | Resposta | Versão, data e hora | Evidência e observação |
 | --- | --- | --- | --- | --- |
@@ -54,7 +59,7 @@ Fonte: adaptação de Sales (2026, p. 8-9) e minha conferência em 15/11/2026, 2
 
 Na Tabela 4, mantive a numeração da lista que usei como base e vinculei cada critério aos meus materiais da Entrega 7.
 
-**Tabela 4 - Rastreabilidade dos itens de conteúdo**
+**Tabela 4 – Rastreabilidade dos itens de conteúdo**
 
 | Item | Questão adaptada | Resposta | Versão, data e hora | Evidência e observação |
 | --- | --- | --- | --- | --- |
@@ -91,3 +96,7 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para padronizar as legendas das tabelas e figuras (travessão, legenda em negrito antes da figura e fonte depois dela), a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

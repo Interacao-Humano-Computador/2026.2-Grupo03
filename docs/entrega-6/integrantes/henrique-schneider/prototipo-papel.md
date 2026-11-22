@@ -21,8 +21,9 @@ Fonte: elaborado pelo autor (2026).
 | 02/11/2026 | 1.2 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 03/11/2026 | 1.3 | Registro da execução: teste-piloto e Sessão 1 (P5) em 03/11/2026, com links das gravações; Tabela 3 com as datas realizadas; papéis, recrutamento e ética ajustados ao que ocorreu; limitações; Apêndices C e D preenchidos com os problemas PC01, PC02 e PN01 a PN04 | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 05/11/2026 | 1.4 | Inclusão da seção 9, com as fotos do protótipo de papel construído (Figuras 10 a 13) | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | Gabriel Robson |
-| 10/11/2026 | 1.5 | Inclusão do Apêndice E, que liga as telas e as peças do protótipo de papel aos quadros do protótipo de alta fidelidade no Figma (Tabelas 9 e 10), e do link do Figma na introdução | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.5 | Inclusão do Apêndice E, que liga as telas e as peças do protótipo de papel aos quadros do protótipo de alta fidelidade no Figma (Tabelas 10 e 10), e do link do Figma na introdução | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.6 | Inclusão das legendas e fontes das tabelas que não as tinham, com a renumeração das tabelas seguintes, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelo autor (2026).
 
 ## 1. Introdução
@@ -41,11 +42,11 @@ A prototipação em papel avalia a usabilidade de um design representado em pape
 
 Fonte: Barbosa e Silva (2010, p. 358).
 
-As atividades do método estão na Tabela 10.7 do livro, reproduzida na Figura 2: na preparação, definir tarefas, recrutar participantes, criar os protótipos e executar um teste-piloto; na coleta e interpretação, cada usuário executa as tarefas mediado pelo avaliador, que lista os problemas e refina o protótipo para resolver os mais simples; na consolidação, priorizar e sugerir correções; e, por fim, relatar (Barbosa; Silva, 2010, cap. 10, seç. 10.2.3, p. 359, Tabela 10.7).
+As atividades do método estão na Tabela 11.7 do livro, reproduzida na Figura 2: na preparação, definir tarefas, recrutar participantes, criar os protótipos e executar um teste-piloto; na coleta e interpretação, cada usuário executa as tarefas mediado pelo avaliador, que lista os problemas e refina o protótipo para resolver os mais simples; na consolidação, priorizar e sugerir correções; e, por fim, relatar (Barbosa; Silva, 2010, cap. 10, seç. 10.2.3, p. 359, Tabela 11.7).
 
-**Figura 2 – Tabela 10.7 de Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 359): atividades da prototipação em papel**
+**Figura 2 – Tabela 11.7 de Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 359): atividades da prototipação em papel**
 
-![Figura 2 – Tabela 10.7 de Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 359): atividades da prototipação em papel](arquivos/fonte-barbosa-silva-2010-p359-tabela-10-7.png)
+![Figura 2 – Tabela 11.7 de Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 359): atividades da prototipação em papel](arquivos/fonte-barbosa-silva-2010-p359-tabela-10-7.png)
 
 Fonte: Barbosa e Silva (2010, p. 359).
 
@@ -71,7 +72,7 @@ Fonte: Barbosa e Silva (2010, pp. 360–361).
 
 ## 3. Objetivos e questões de avaliação
 
-Os objetivos são os do planejamento do grupo: identificar problemas de usabilidade nas telas propostas, verificar se o reprojeto resolve os problemas da avaliação do storyboard e comparar alternativas quando houver (Grupo 03, Relatório da Entrega 5, seç. 3.1). A Tabela 2 liga as questões de avaliação do grupo (Tabela 13 do mesmo relatório) às tarefas desta sessão e aos problemas do storyboard que cada tarefa retoma (Relato da avaliação do storyboard, v3.1, Tabela 7).
+Os objetivos são os do planejamento do grupo: identificar problemas de usabilidade nas telas propostas, verificar se o reprojeto resolve os problemas da avaliação do storyboard e comparar alternativas quando houver (Grupo 03, Relatório da Entrega 5, seç. 3.1). A Tabela 2 liga as questões de avaliação do grupo (Tabela 13 do mesmo relatório) às tarefas desta sessão e aos problemas do storyboard que cada tarefa retoma (Relato da avaliação do storyboard, v3.1, Tabela 8).
 
 **Tabela 2 – Questões de avaliação, tarefas e problemas do storyboard**
 
@@ -84,7 +85,7 @@ Os objetivos são os do planejamento do grupo: identificar problemas de usabilid
 | O participante percebe as confirmações e o feedback de cada etapa?         | T1, T3, T4           | Telas 4 e 5; peças D, E e F | 03 – medo de perder a vaga; 05 – prazo da reserva               |
 | Qual alternativa o participante prefere e por quê?                         | Entrevista pós-teste | —                           | Não aplicável: o protótipo tinha uma só versão de cada tela     |
 
-Fonte: elaborado pelo autor (2026), a partir do Relatório da Entrega 5 (Grupo 03, Tabela 13) e do relato da avaliação do storyboard (v3.1, Tabela 7).
+Fonte: elaborado pelo autor (2026), a partir do Relatório da Entrega 5 (Grupo 03, Tabela 13) e do relato da avaliação do storyboard (v3.1, Tabela 8).
 
 ## 4. Participantes e logística
 
@@ -232,13 +233,17 @@ Os textos das tarefas são os do planejamento (Grupo 03, Relatório da Entrega 5
 
 ## Apêndice B – Folha do observador (uma por participante)
 
+**Tabela 5 – Apêndice B – Folha do observador (uma por participante)**
+
 |                                                                                                |                          |                                                |
 |------------------------------------------------------------------------------------------------|--------------------------|------------------------------------------------|
 | Participante: P\_\_\_                                                                          | Data: \_\_\_/\_\_\_/2026 | Início: \_\_\_:\_\_\_ · Término: \_\_\_:\_\_\_ |
 | Computador: Henrique Schneider                                                                 | Observador:              | ☐ TCLE assinado ☐ áudio autorizado             |
 | Pré-teste (etapa da CNH, já agendou?, uso de celular/computador, gov.br, portal do Detran-DF): |                          |                                                |
 
-**Tabela 5 – Registro por tarefa**
+Fonte: elaborado pelo autor (2026).
+
+**Tabela 6 – Registro por tarefa**
 
 <table style="width:100%;">
 <colgroup>
@@ -303,7 +308,7 @@ Os textos das tarefas são os do planejamento (Grupo 03, Relatório da Entrega 5
 </tbody>
 </table>
 
-**Tabela 6 – Entrevista pós-teste**
+**Tabela 7 – Entrevista pós-teste**
 
 | Perg. | Resposta resumida / frase literal |
 |-------|-----------------------------------|
@@ -320,7 +325,7 @@ Fonte: elaborado pelo autor (2026).
 
 Preenchido depois da Sessão 1 (etapa 10 da Tabela 4). Mesmas colunas da Tabela 3 do relatório da Entrega 6 e da Tabela 16 do Relatório da Entrega 5, acrescidas da sessão em que o problema apareceu e da sessão a partir da qual a correção valeu. Os tempos entre parênteses são posições na [gravação da Sessão 1](https://youtu.be/S7j1gd70_Is).
 
-**Tabela 7 – Problemas corrigidos durante os ciclos de avaliação e reprojeto**
+**Tabela 8 – Problemas corrigidos durante os ciclos de avaliação e reprojeto**
 
 | ID   | Local (tela/peça) | Fatores de usabilidade | Descrição e justificativa | Correção no papel | Visto em / corrigido para | Voltou a ocorrer? |
 |------|-------------------|------------------------|---------------------------|-------------------|---------------------------|-------------------|
@@ -333,7 +338,7 @@ Fonte: elaborado pelo autor (2026), com base em Barbosa e Silva (2010, cap. 10, 
 
 Preenchido ao final da Sessão 1, a única realizada. A prioridade combina a severidade da Figura 9 e o número de participantes em que o problema ocorreu, como orientam Barbosa e Silva (2010, cap. 10, seç. 10.2.3, p. 361, 4º parágrafo). Com um único participante, a frequência é sempre 1 de 1, e a severidade é a classificação adotada pelo autor; por isso, a priorização é provisória. A coluna “No protótipo de alta fidelidade” liga cada problema à tela da Especificação do protótipo de alta fidelidade e à linha da Tabela 12 dessa especificação.
 
-**Tabela 8 – Problemas não corrigidos e prioridade de correção**
+**Tabela 9 – Problemas não corrigidos e prioridade de correção**
 
 | ID   | Local (tela/peça) | Fatores de usabilidade | Descrição e justificativa | Sev. (1–4) | Freq. (nº de P) | Sugestão de correção | No protótipo de alta fidelidade |
 |------|-------------------|------------------------|---------------------------|------------|-----------------|----------------------|---------------------------------|
@@ -346,9 +351,9 @@ Fonte: elaborado pelo autor (2026), com base em Barbosa e Silva (2010, cap. 10, 
 
 ## Apêndice E – Correspondência entre o protótipo de papel e o Figma
 
-O protótipo de alta fidelidade foi construído no arquivo do Figma [Detran-DF – Agendamento da Prova Teórica – Alta Fidelidade](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) a partir das Telas 1 a 5 e das peças soltas A a G do protótipo de papel (Especificação do protótipo de alta fidelidade, [Seção 10](especificacao-alta-fidelidade.md#10-prototipo-construido)). A Tabela 9 liga cada tela e cada peça do papel ao quadro correspondente no Figma, e a Tabela 10 mostra onde cada problema da Sessão 1 (Tabelas 7 e 8) foi tratado. Os códigos entre colchetes são os nomes dos quadros no Figma: os que começam com “M” são da versão para celular (360 × 800 px, com link direto) e os que começam com “D” são da versão para computador (1280 px), na página “Protótipo”.
+O protótipo de alta fidelidade foi construído no arquivo do Figma [Detran-DF – Agendamento da Prova Teórica – Alta Fidelidade](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) a partir das Telas 1 a 5 e das peças soltas A a G do protótipo de papel (Especificação do protótipo de alta fidelidade, [Seção 10](especificacao-alta-fidelidade.md#10-prototipo-construido)). A Tabela 10 liga cada tela e cada peça do papel ao quadro correspondente no Figma, e a Tabela 11 mostra onde cada problema da Sessão 1 (Tabelas 8 e 8) foi tratado. Os códigos entre colchetes são os nomes dos quadros no Figma: os que começam com “M” são da versão para celular (360 × 800 px, com link direto) e os que começam com “D” são da versão para computador (1280 px), na página “Protótipo”.
 
-**Tabela 9 – Telas e peças do protótipo de papel e quadros do Figma**
+**Tabela 10 – Telas e peças do protótipo de papel e quadros do Figma**
 
 | Tela ou peça do papel | Quadros no Figma (celular) | Quadros no Figma (computador) | Observação |
 |---|---|---|---|
@@ -369,7 +374,7 @@ O protótipo de alta fidelidade foi construído no arquivo do Figma [Detran-DF �
 
 Fonte: elaborado pelo autor (2026), com base no Modelo do protótipo de papel (v1.0) e na Especificação do protótipo de alta fidelidade (v1.3, Seção 10).
 
-**Tabela 10 – Problemas da Sessão 1 e onde foram tratados no Figma**
+**Tabela 11 – Problemas da Sessão 1 e onde foram tratados no Figma**
 
 | ID | O que mudou no Figma | Quadros | A verificar no teste de usabilidade |
 |---|---|---|---|
@@ -380,7 +385,7 @@ Fonte: elaborado pelo autor (2026), com base no Modelo do protótipo de papel (v
 | PN03 | Aviso de data sem vagas ao tocar no dia riscado, com “Ver 18/11” e “Trocar unidade” | [M3S](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-959), D3S | O participante entende por que a data não pode ser escolhida (T2) |
 | PN04 | Horários como botões selecionáveis, com ✓ no escolhido, no lugar dos círculos de seleção | [M3B](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-511), [M3C](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT?node-id=6-659) | O participante escolhe o horário sem confundir a lista com uma tabela (T1) |
 
-Fonte: elaborado pelo autor (2026), com base nas Tabelas 7 e 8 deste roteiro e na Tabela 12 da Especificação do protótipo de alta fidelidade.
+Fonte: elaborado pelo autor (2026), com base nas Tabelas 8 e 8 deste roteiro e na Tabela 12 da Especificação do protótipo de alta fidelidade.
 
 ## Referências
 
@@ -404,7 +409,7 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 
 Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado, em 27/10/2026, a pedido do autor, para redigir este roteiro, os cartões, a folha do observador e as tabelas dos apêndices a partir do planejamento da Entrega 5 e do modelo do protótipo de papel, e para localizar no livro de Barbosa e Silva (2010) e recortar os trechos das Figuras 1 a 9. As datas, o local, os participantes, a execução das sessões e a classificação de severidade são do autor. A ferramenta não é autora do documento, e seu uso não exime o autor da responsabilidade pelo conteúdo.
 
-Em 10/11/2026, também a pedido do autor, o Claude foi usado para redigir o Apêndice E (Tabelas 9 e 10), que liga o protótipo de papel aos quadros do Figma, a partir da especificação do protótipo de alta fidelidade e das Tabelas 7 e 8 deste roteiro. O conteúdo das tabelas anteriores não foi alterado.
+Em 10/11/2026, também a pedido do autor, o Claude foi usado para redigir o Apêndice E (Tabelas 10 e 10), que liga o protótipo de papel aos quadros do Figma, a partir da especificação do protótipo de alta fidelidade e das Tabelas 8 e 8 deste roteiro. O conteúdo das tabelas anteriores não foi alterado.
 
 Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site.
 
@@ -412,3 +417,5 @@ Em 05/11/2026, também a pedido do autor, o Claude foi usado para incluir na se�
 Em 03/11/2026, a pedido do autor, o Claude foi usado para consultar a transcrição e a gravação da Sessão 1, redigir os Apêndices C e D e o registro da execução a partir dessa gravação e das informações dadas pelo autor, e atualizar esta página. Os fatos da sessão (datas, horários, papéis, ausência de observador, tarefas executadas e participante) foram informados pelo autor ou conferidos na gravação; nenhum dado foi inventado.
 
 A versão em PDF deste artefato está disponível para download: [Roteiro da Sessão do Protótipo de Papel (PDF)](arquivos/roteiro-sessao-prototipo-papel.pdf).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir as legendas e as fontes das tabelas que não as tinham e renumerar as tabelas seguintes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

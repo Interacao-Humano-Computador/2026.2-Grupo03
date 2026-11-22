@@ -21,7 +21,12 @@ Fonte: elaborado pelo autor (2026).
 | 03/11/2026 | 1.0 | Criação da página, junto com a visão geral e os demais materiais individuais da Entrega 6 | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Gabriel Robson |
 | 15/11/2026 | 1.1 | Inclusão da tabela de contribuição e do histórico de versões no formato do grupo | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.2 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
+
+## Introdução
+
+Esta página registra o artefato “Protótipo de papel – Renovação da CNH”, de Gabriel Robson, na Entrega 6 (relato do protótipo de papel e planejamento do protótipo de alta fidelidade). Ela faz parte do material individual de Gabriel e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Objetivo”, a Seção 2 trata de “Sequência do protótipo”, a Seção 3 trata de “Tarefas propostas para avaliação” e a Seção 4 trata de “Observações e limites”.
 
 ## 1. Objetivo
 
@@ -108,3 +113,5 @@ As imagens são registros de um protótipo acadêmico de baixa fidelidade, feito
 O ChatGPT (OpenAI) foi utilizado como apoio para organizar a sequência das fotografias e redigir as legendas, a pedido do autor. As fotografias são os registros originais fornecidos por Gabriel Robson; não foram geradas ou alteradas por IA. O autor deve revisar as descrições e validar a correspondência entre cada imagem e a etapa representada.
 
 Em 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado apenas para incluir a tabela de contribuição e o histórico de versões, sem alterar o conteúdo escrito por Gabriel Robson.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -22,13 +22,20 @@ Fonte: elaborado pelo autor (2026).
 | 25/10/2026 | 1.0 | Proposta inicial de renovação guiada da CNH e documentação da Entrega 5 | Gabriel Robson, com apoio do ChatGPT | Gabriel Robson |
 | 10/11/2026 | 1.1 | Padronização da estrutura: tabela de contribuição e histórico de versões no formato do grupo, com legendas e fonte | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.2 | Inclusão da introdução e inclusão das legendas e fontes das tabelas que não as tinham, com a renumeração das tabelas seguintes, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelo autor (2026).
+
+## Introdução
+
+Esta página é a visão geral do material de Gabriel Robson na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel) e leva aos artefatos individuais. A Seção 1 trata de “Funcionalidade proposta”, a Seção 2 trata de “Materiais” e a Seção 3 trata de “Contexto”.
 
 ## 1. Funcionalidade proposta
 
 **Renova CNH Fácil**: fluxo guiado de orientação e solicitação de agendamento para etapas presenciais da renovação da CNH, quando exigidas. Pretende reduzir dúvidas sobre documentos, etapas, local e acompanhamento. A proposta não substitui o procedimento oficial nem garante disponibilidade de horários.
 
 ## 2. Materiais
+
+**Tabela 3 – Materiais**
 
 | Artefato | Objetivo | Link |
 | --- | --- | --- |
@@ -38,6 +45,8 @@ Fonte: elaborado pelo autor (2026).
 | Protótipo interativo | Simulação de agendamento sem dados reais | [Abrir protótipo](prototipo.html) |
 | Roteiro de avaliação | Perguntas para futura entrevista/teste | [Roteiro](roteiro-entrevista.md) |
 | Estado da avaliação | Evidências e pendências de validação | [Avaliação](avaliacao.md) |
+
+Fonte: elaborado pelo autor (2026).
 
 ## 3. Contexto
 
@@ -55,3 +64,7 @@ O redesign é distinto das propostas de colegas: Alexandre aborda agendamento de
 O ChatGPT (OpenAI) auxiliou na redação da proposta, estruturação dos HTAs, roteiro exploratório e protótipo demonstrativo em 25/10/2026, a pedido de Gabriel Robson. O conteúdo necessita de revisão pelo responsável. Nenhum resultado de avaliação foi inventado.
 
 Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado apenas para padronizar a estrutura desta página (tabela de contribuição e histórico de versões), sem alterar o conteúdo escrito por Gabriel Robson. A declaração do uso do ChatGPT acima é do autor.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir as legendas e as fontes das tabelas que não as tinham e renumerar as tabelas seguintes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -21,7 +21,12 @@ Fonte: minha elaboração (2026).
 | 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 | 12/11/2026 | 1.3 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
+| 22/11/2026 | 1.4 | Inclusão da introdução e padronização das legendas, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: registro desta versão (2026).
+
+## Introdução
+
+Esta página registra o artefato “Protótipo de Papel”, de Alexandre Vilar, na Entrega 6 (relato do protótipo de papel e planejamento do protótipo de alta fidelidade). Ela faz parte do material individual de Alexandre e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Contexto e objetivo”, a Seção 2 trata de “Fluxo representado”, a Seção 3 trata de “Protótipo de papel”, a Seção 4 trata de “Tarefa prevista para a avaliação”, a Seção 5 trata de “Relato da avaliação”, a Seção 6 trata de “Relação com a análise de tarefas”, a Seção 7 trata de “Ajustes e prioridades” e a Seção 8 trata de “Atividades do método de prototipação em papel”.
 
 ## 1. Contexto e objetivo
 
@@ -42,53 +47,77 @@ Organizei meu protótipo com o seguinte caminho:
 
 As Figuras 1 a 12 mostram o passo a passo que construí em papel.
 
+**Figura 1 – Página inicial com o botão Agendamento presencial**
+
 ![Página inicial com o botão Agendamento presencial](arquivos/PrototipoPapel01.jpeg)
 
-*Figura 1 – Página inicial com o botão Agendamento presencial.*
+Fonte: elaborado pelo autor (2026).
+
+**Figura 2 – Aba de agendamento com a opção Atendimento presencial**
 
 ![Aba de agendamento com a opção Atendimento presencial](arquivos/PrototipoPapel02.jpeg)
 
-*Figura 2 – Aba de agendamento com a opção Atendimento presencial.*
+Fonte: elaborado pelo autor (2026).
+
+**Figura 3 – Opção Novo agendamento**
 
 ![Opção Novo agendamento](arquivos/PrototipoPapel03.jpeg)
 
-*Figura 3 – Opção Novo agendamento.*
+Fonte: elaborado pelo autor (2026).
+
+**Figura 4 – Formulário de novo atendimento presencial**
 
 ![Formulário de novo atendimento presencial](arquivos/PrototipoPapel04.jpeg)
 
-*Figura 4 – Formulário de novo atendimento presencial.*
+Fonte: elaborado pelo autor (2026).
+
+**Figura 5 – Lista de serviços com a opção Vistoria de Transferência Veicular**
 
 ![Lista de serviços com a opção Vistoria de Transferência Veicular](arquivos/PrototipoPapel05.jpeg)
 
-*Figura 5 – Lista de serviços com a opção Vistoria de Transferência Veicular.*
+Fonte: elaborado pelo autor (2026).
+
+**Figura 6 – Vistoria de Transferência Veicular selecionada**
 
 ![Vistoria de Transferência Veicular selecionada](arquivos/PrototipoPapel06.jpeg)
 
-*Figura 6 – Vistoria de Transferência Veicular selecionada.*
+Fonte: elaborado pelo autor (2026).
+
+**Figura 7 – Lista de locais de atendimento com a opção Lago Sul**
 
 ![Lista de locais de atendimento com a opção Lago Sul](arquivos/PrototipoPapel07.jpeg)
 
-*Figura 7 – Lista de locais de atendimento com a opção Lago Sul.*
+Fonte: elaborado pelo autor (2026).
+
+**Figura 8 – Lago Sul selecionado como local de atendimento**
 
 ![Lago Sul selecionado como local de atendimento](arquivos/PrototipoPapel08.jpeg)
 
-*Figura 8 – Lago Sul selecionado como local de atendimento.*
+Fonte: elaborado pelo autor (2026).
+
+**Figura 9 – Lista de datas com a opção 14/11/2026**
 
 ![Lista de datas com a opção 14/11/2026](arquivos/PrototipoPapel09.jpeg)
 
-*Figura 9 – Lista de datas com a opção 14/11/2026.*
+Fonte: elaborado pelo autor (2026).
+
+**Figura 10 – Data de 14/11/2026 selecionada**
 
 ![Data de 14/11/2026 selecionada](arquivos/PrototipoPapel10.jpeg)
 
-*Figura 10 – Data de 14/11/2026 selecionada.*
+Fonte: elaborado pelo autor (2026).
+
+**Figura 11 – Lista de horários com a opção 15h00**
 
 ![Lista de horários com a opção 15h00](arquivos/PrototipoPapel11.jpeg)
 
-*Figura 11 – Lista de horários com a opção 15h00.*
+Fonte: elaborado pelo autor (2026).
+
+**Figura 12 – Formulário preenchido com Lago Sul, 14/11/2026 e 15h00, antes de clicar em Concluir**
 
 ![Formulário preenchido com Lago Sul, 14/11/2026 e 15h00, antes de clicar em Concluir](arquivos/PrototipoPapel12.jpeg)
 
-*Figura 12 – Formulário preenchido com Lago Sul, 14/11/2026 e 15h00, antes de clicar em Concluir.*
+Fonte: elaborado pelo autor (2026).
 
 Fonte: minha elaboração (2026).
 
@@ -102,7 +131,7 @@ A tarefa é considerada concluída quando o participante chega à tela de confir
 
 Realizei a sessão em **03/11/2026**, com um participante e a tarefa T1. Pedi que ele **pensasse em voz alta**, apresentei o cenário e indiquei o Lago Sul como local do atendimento. Na Tabela 3, reuni as principais observações.
 
-**Tabela 3 - Observações da minha avaliação**
+**Tabela 3 – Observações da minha avaliação**
 
 | Trecho da entrevista | Observação | Implicação para o redesign |
 | --- | --- | --- |
@@ -122,7 +151,7 @@ Vinculei os vídeos do teste-piloto e da entrevista na [página de vídeo da ava
 
 Na Tabela 4, relacionei as ações da tarefa aos estados do meu papel e à [HTA da Entrega 5](../../../entrega-5/integrantes/alexandre-vilar/index.md).
 
-**Tabela 4 - Correspondência do fluxo com o papel**
+**Tabela 4 – Correspondência do fluxo com o papel**
 
 | Ação da tarefa | Evidência no protótipo |
 | --- | --- |
@@ -139,7 +168,7 @@ Fonte: minha relação entre a tarefa e as telas (2026).
 
 Na Tabela 5, separei os achados das mudanças sugeridas. Não registrei uma nova rodada de correção física do papel; levei as recomendações para a alta fidelidade.
 
-**Tabela 5 - Problemas e encaminhamentos**
+**Tabela 5 – Problemas e encaminhamentos**
 
 | Achado | Prioridade e motivo | Correção sugerida | Situação |
 | --- | --- | --- | --- |
@@ -152,7 +181,7 @@ Fonte: minha análise da [entrevista](#5-relato-da-avaliacao), com apoio do Chat
 
 Adaptei a Tabela 10.7 de Barbosa e Silva (2010, p. 359) para relacionar cada atividade aos meus materiais. A Tabela 6 contém os links e indica onde ainda falta informação. A Figura 13 mostra o texto original que usei como base.
 
-**Tabela 6 - Atividades do método e evidências da minha Entrega 6**
+**Tabela 6 – Atividades do método e evidências da minha Entrega 6**
 
 | Atividade | Tarefa do método | Onde está na minha entrega e situação |
 | --- | --- | --- |
@@ -169,9 +198,11 @@ Adaptei a Tabela 10.7 de Barbosa e Silva (2010, p. 359) para relacionar cada ati
 
 Fonte: minha adaptação de Barbosa e Silva (2010, Tabela 10.7, p. 359).
 
+**Figura 13 – Texto de origem da tabela de atividades**
+
 ![Tabela 10.7 do livro: atividades do método de prototipação em papel](arquivos/tabela-10-7-p359.png)
 
-*Figura 13 - Texto de origem da tabela de atividades. Fonte: Barbosa e Silva (2010, p. 359, Tabela 10.7).*
+Fonte: Barbosa e Silva (2010, p. 359, Tabela 10.7).
 
 ## Referências
 
@@ -184,3 +215,7 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para padronizar as legendas das tabelas e figuras (travessão, legenda em negrito antes da figura e fonte depois dela), a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

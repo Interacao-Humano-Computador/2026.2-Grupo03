@@ -19,7 +19,12 @@ Fonte: elaborado pelo autor (2026).
 | 25/10/2026 | 1.0 | Publicação da parte de Henrique Schneider no planejamento da avaliação do protótipo de papel (seções 3.8.1 e 4.4 do relatório do grupo) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 10/11/2026 | 1.1 | Inclusão dos links para o roteiro da sessão e para o protótipo de alta fidelidade no Figma, que correspondem às telas e às peças deste planejamento (nova Seção 5) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 1.2 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelo autor (2026).
+
+## Introdução
+
+Esta página registra o artefato “Protótipo de Papel”, de Henrique Schneider, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de Henrique e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Telas e partes móveis do protótipo”, a Seção 2 trata de “Tarefas da avaliação”, a Seção 3 trata de “Decisões da avaliação e cronograma”, a Seção 4 trata de “Cronograma do relato” e a Seção 5 trata de “Execução e protótipo de alta fidelidade”.
 
 ## 1. Telas e partes móveis do protótipo
 
@@ -107,3 +112,5 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir das seções 3.8.1 e 4.4 do Relatório da Entrega 5, sem alterar o planejamento registrado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3). Em 10/11/2026, também a pedido do autor, o Claude foi usado para incluir a Seção 5, com os links para o roteiro da sessão e para o Figma, sem alterar o planejamento.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -2,7 +2,7 @@
 
 ## Tabela de contribuição
 
-**Tabela 1 - Contribuições nesta versão do artefato**
+**Tabela 1 – Contribuições nesta versão do artefato**
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Fonte: minha elaboração (2026).
 
 ## Histórico de versões
 
-**Tabela 2 - Histórico de versões**
+**Tabela 2 – Histórico de versões**
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
@@ -21,7 +21,12 @@ Fonte: minha elaboração (2026).
 | 15/11/2026 | 1.2 | Analisei as duas entrevistas e o teste técnico e publiquei os resultados com evidências | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 | 15/11/2026 | 1.3 | Integrei a entrevista P03 e sua captura de tela, com a sugestão de histórico de agendamentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
+| 22/11/2026 | 1.4 | Inclusão da introdução e padronização das legendas, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: registro desta versão (2026).
+
+## Introdução
+
+Esta página registra o artefato “Relato da avaliação de alta fidelidade”, de Alexandre Vilar, na Entrega 7 (relato dos resultados do protótipo de alta fidelidade). Ela faz parte do material individual de Alexandre e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Situação do relato”, a Seção 2 trata de “Objetivos, método e contexto”, a Seção 3 trata de “Consolidação dos dados”, a Seção 4 trata de “Achados, limitações e prioridades”, a Seção 5 trata de “Consolidação e planejamento do reprojeto”, a Seção 6 trata de “Registro do teste técnico apresentado como piloto” e a Seção 7 trata de “Análise da entrevista adicional — P03”.
 
 ## 1. Situação do relato {#situacao}
 
@@ -33,7 +38,7 @@ As três participantes avaliaram positivamente a navegação e verbalizaram a a�
 
 Na Tabela 3, identifiquei cinco vídeos relativos a três entrevistas e um ensaio técnico. Usei **P01**, **P02** e **P03** para apresentar a análise sem repetir os nomes das participantes. A numeração acompanha os títulos dos vídeos, não a ordem em que recebi os links. Os cinco vídeos estavam identificados como **não listados** no YouTube na conferência de 15/11/2026.
 
-**Tabela 3 - Gravações analisadas**
+**Tabela 3 – Gravações analisadas**
 
 | Registro | Título e link | Duração do vídeo | Uso na análise |
 | --- | --- | --- | --- |
@@ -51,7 +56,7 @@ O vídeo de apresentação específica da Entrega 7 ainda precisa ser vinculado.
 
 Organizei o relato conforme Barbosa et al. (2021, seção 11.7.5, p. 263, e seção 12.2.1, p. 288-290). Na Figura 1, apresento o trecho usado como referência para a análise e o relato do teste de usabilidade.
 
-**Figura 1 - Medições, interpretação e estrutura do relato de usabilidade**
+**Figura 1 – Medições, interpretação e estrutura do relato de usabilidade**
 
 [![Medições, interpretação e estrutura do relato de usabilidade](imagens/relato-p289.jpg)](imagens/relato-p289.jpg)
 
@@ -81,7 +86,7 @@ Nas sessões de P01 e P02, expliquei que clicar na área branca poderia revelar 
 
 Na Tabela 4, reuni os percursos e os desfechos verbalizados. A identificação de uma opção sem vaga foi tratada como situação de disponibilidade e recuperação, não como erro da participante.
 
-**Tabela 4 - Síntese das entrevistas definitivas**
+**Tabela 4 – Síntese das entrevistas definitivas**
 
 | Registro | Percurso e seleção verbalizada | Disponibilidade | Desfecho e opinião | Apoio e evidência |
 | --- | --- | --- | --- | --- |
@@ -97,7 +102,7 @@ Nas **três entrevistas**, houve opinião positiva e verbalização da ação de
 
 Na Tabela 5, usei a diferença entre a primeira ação de navegação verbalizada e o marco final indicado em cada caso. Esses intervalos incluem fala e interação, não substituem uma cronometragem controlada da tarefa e não demonstram que uma participante foi mais eficiente que a outra.
 
-**Tabela 5 - Intervalos entre verbalizações nos vídeos**
+**Tabela 5 – Intervalos entre verbalizações nos vídeos**
 
 | Registro | Primeira ação verbalizada | Marco final verbalizado | Intervalo aproximado |
 | --- | --- | --- | --- |
@@ -111,7 +116,7 @@ Fonte: marcas de tempo das transcrições das entrevistas no YouTube (2026). Em 
 
 Na Tabela 6, relacionei os achados com as perguntas do meu planejamento.
 
-**Tabela 6 - Questões da avaliação e evidências**
+**Tabela 6 – Questões da avaliação e evidências**
 
 | Questão | Resultado e interpretação | Evidência |
 | --- | --- | --- |
@@ -127,7 +132,7 @@ Fonte: minha interpretação das entrevistas, orientada por Barbosa et al. (2021
 
 Não identifiquei nas falas analisadas um impedimento de interface relatado como bloqueador da conclusão. Diferenciei os indícios positivos das limitações de avaliação e das recomendações que ainda precisam ser testadas. Não registrei uma recomendação minha como se tivesse sido solicitada pelas participantes.
 
-**Tabela 7 - Achados e encaminhamentos**
+**Tabela 7 – Achados e encaminhamentos**
 
 | ID | Tipo e local | Evidência e impacto na interpretação | Encaminhamento | Prioridade / situação |
 | --- | --- | --- | --- | --- |
@@ -151,7 +156,7 @@ Concluí a primeira consolidação documental em **15/11/2026**, com base nos tr
 
 Na Tabela 8, organizei os próximos encaminhamentos. Não considerei as verificações abaixo como alterações já executadas no Figma.
 
-**Tabela 8 - Próximos passos após a análise**
+**Tabela 8 – Próximos passos após a análise**
 
 | Atividade | Responsável | Momento previsto | Situação |
 | --- | --- | --- | --- |
@@ -183,7 +188,7 @@ Apresentei o mesmo objetivo geral de agendar uma vistoria no Lago Sul, com escol
 
 Na Tabela 9, relacionei as observações e as interpretações. Usei tempos próprios de cada vídeo, sem presumir alinhamento perfeito entre os arquivos. A captura direta melhora a possibilidade de conferir a interface; não afirmei ter validado todos os campos do resumo final apenas por sua existência.
 
-**Tabela 9 - Observações específicas de P03**
+**Tabela 9 – Observações específicas de P03**
 
 | Trecho | Observação registrada | Minha interpretação e encaminhamento |
 | --- | --- | --- |
@@ -206,3 +211,7 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Utilizei as falas registradas nas transcrições automáticas dos vídeos e mantive como pendentes as informações que não consegui confirmar. As recomendações são distintas das falas das participantes.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para padronizar as legendas das tabelas e figuras (travessão, legenda em negrito antes da figura e fonte depois dela), a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

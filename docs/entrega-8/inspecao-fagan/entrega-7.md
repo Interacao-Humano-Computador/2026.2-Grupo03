@@ -21,6 +21,7 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -31,13 +32,14 @@ As listas seguem o formato descrito na [página da inspeção de Fagan](index.md
 
 ## 2. Resumo
 
-A Tabela 3 resume as avaliações das listas desta página.
+A Tabela 3 resume as avaliações das listas desta página na preparação e depois da correção (Seção 4).
 
-**Tabela 3 – Resumo da preparação**
+**Tabela 3 – Resumo da preparação e da correção**
 
-| Artefatos inspecionados | Conforme | Não conforme | Não se aplica | A confirmar |
-| :---: | :---: | :---: | :---: | :---: |
-| 6 | 39 | 22 | 8 | 4 |
+| Momento | Artefatos inspecionados | Conforme | Parcial | Não conforme | Não se aplica | A confirmar |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Preparação (19/11/2026) | 6 | 39 | — | 22 | 8 | 4 |
+| Após a correção (22/11/2026) | 6 | 48 | 0 | 17 | 8 | 0 |
 
 Fonte: elaborado pelos autores (2026), a partir das listas desta página.
 
@@ -182,6 +184,45 @@ Artefato: não há pasta de Gabriel Robson na Entrega 7. A Tabela 9 traz a lista
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
 
+## 4. Correção e acompanhamento
+
+Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. A Tabela 10 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
+
+Nesta página, 26 itens foram retomados: 9 ficaram conformes, 0 foram corrigidos em parte e 17 continuam pendentes.
+
+**Tabela 10 – Correção e acompanhamento das não conformidades**
+
+| Lista | Artefato | Item | Avaliação na preparação | Tipo | Situação em 22/11/2026 | Registro |
+| :---: | --- | :---: | :---: | :---: | :---: | --- |
+| 3.1 | [Relatório da Entrega 7](../../entrega-7/relatorio.md) | G7 | Não conforme | Inconsistência | Corrigida | Declarações de uso de IA separadas por ferramenta e por pessoa (versão 1.6) |
+| 3.1 | [Relatório da Entrega 7](../../entrega-7/relatorio.md) | G8 | Não conforme | Forma | Corrigida | Frase incompleta corrigida, instrução de preenchimento retirada e parágrafo dos vídeos reorganizado (versão 1.6) |
+| 3.1 | [Relatório da Entrega 7](../../entrega-7/relatorio.md) | C4 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.1 | [Relatório da Entrega 7](../../entrega-7/relatorio.md) | C5 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.1 | [Relatório da Entrega 7](../../entrega-7/relatorio.md) | C6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.1 | [Relatório da Entrega 7](../../entrega-7/relatorio.md) | C11 | Não conforme | Ausência | Corrigida | Texto da Seção 4.7 restaurado (versão 1.6) |
+| 3.1 | [Relatório da Entrega 7](../../entrega-7/relatorio.md) | E7-1 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.1 | [Relatório da Entrega 7](../../entrega-7/relatorio.md) | E7-2 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.1 | [Relatório da Entrega 7](../../entrega-7/relatorio.md) | E7-3 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.2 | [Lista de Verificação da Entrega 7](../../entrega-7/verificacao/lista-de-verificacao.md) | E7-4 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.2 | [Lista de Verificação da Entrega 7](../../entrega-7/verificacao/lista-de-verificacao.md) | E7-6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.2 | [Lista de Verificação da Entrega 7](../../entrega-7/verificacao/lista-de-verificacao.md) | E7-7 | Não conforme | Inconsistência | Corrigida | Atualização de D6 registrada (versão 1.4) |
+| 3.3 | [Material de Henrique Schneider na Entrega 7](../../entrega-7/integrantes/henrique-schneider/index.md) | G8 | Não conforme | Forma | Corrigida | Frases incompletas corrigidas em index.md e sessao-p8.md |
+| 3.3 | [Material de Henrique Schneider na Entrega 7](../../entrega-7/integrantes/henrique-schneider/index.md) | E7-9 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.3 | [Material de Henrique Schneider na Entrega 7](../../entrega-7/integrantes/henrique-schneider/index.md) | E7-10 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.4 | [Material de Alexandre Vilar na Entrega 7](../../entrega-7/integrantes/alexandre-vilar/index.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.4 | [Material de Alexandre Vilar na Entrega 7](../../entrega-7/integrantes/alexandre-vilar/index.md) | G3 | A confirmar | Forma | Conforme na reconferência | Todas as páginas têm a seção de referências |
+| 3.4 | [Material de Alexandre Vilar na Entrega 7](../../entrega-7/integrantes/alexandre-vilar/index.md) | G4 | A confirmar | Forma | Corrigida | Legendas padronizadas nas seis páginas |
+| 3.4 | [Material de Alexandre Vilar na Entrega 7](../../entrega-7/integrantes/alexandre-vilar/index.md) | E7-12 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.4 | [Material de Alexandre Vilar na Entrega 7](../../entrega-7/integrantes/alexandre-vilar/index.md) | E7-13 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.5 | [Material de João Vitor na Entrega 7](../../entrega-7/integrantes/joao-vitor/index.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.5 | [Material de João Vitor na Entrega 7](../../entrega-7/integrantes/joao-vitor/index.md) | G3 | A confirmar | Forma | Conforme na reconferência | Todas as páginas têm a seção de referências |
+| 3.5 | [Material de João Vitor na Entrega 7](../../entrega-7/integrantes/joao-vitor/index.md) | G4 | A confirmar | Forma | Conforme na reconferência | Tabelas e figuras com legenda e fonte em todas as páginas |
+| 3.5 | [Material de João Vitor na Entrega 7](../../entrega-7/integrantes/joao-vitor/index.md) | E7-15 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.5 | [Material de João Vitor na Entrega 7](../../entrega-7/integrantes/joao-vitor/index.md) | E7-16 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.6 | Material de Gabriel Robson na Entrega 7 | E7-17 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+
+Fonte: elaborado pelos autores (2026), a partir das listas da Seção 3 e dos históricos de versões das páginas corrigidas.
+
 ## Referências
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
@@ -191,3 +232,5 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Co
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler as páginas dos artefatos, montar as listas de inspeção e registrar as avaliações da preparação, com o problema e a ação corretiva de cada não conformidade. As avaliações não substituem a reunião de inspeção do grupo. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+Em 22/11/2026, o Claude foi usado, a pedido de Henrique Schneider, para corrigir nas páginas do site as não conformidades que não dependiam de dados novos, registrar na Seção 4 a situação de cada item retomado e recalcular o resumo. As situações devem ser confirmadas na reunião de inspeção.

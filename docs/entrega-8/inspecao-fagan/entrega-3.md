@@ -21,6 +21,7 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -31,13 +32,14 @@ As listas seguem o formato descrito na [página da inspeção de Fagan](index.md
 
 ## 2. Resumo
 
-A Tabela 3 resume as avaliações das listas desta página.
+A Tabela 3 resume as avaliações das listas desta página na preparação e depois da correção (Seção 4).
 
-**Tabela 3 – Resumo da preparação**
+**Tabela 3 – Resumo da preparação e da correção**
 
-| Artefatos inspecionados | Conforme | Não conforme | Não se aplica | A confirmar |
-| :---: | :---: | :---: | :---: | :---: |
-| 10 | 66 | 27 | 8 | 0 |
+| Momento | Artefatos inspecionados | Conforme | Parcial | Não conforme | Não se aplica | A confirmar |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Preparação (19/11/2026) | 10 | 66 | — | 27 | 8 | 0 |
+| Após a correção (22/11/2026) | 10 | 72 | 2 | 19 | 8 | 0 |
 
 Fonte: elaborado pelos autores (2026), a partir das listas desta página.
 
@@ -254,6 +256,46 @@ Artefato: [Alexandre Vilar](../../entrega-3/integrantes/alexandre-vilar/index.md
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
 
+## 4. Correção e acompanhamento
+
+Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. A Tabela 14 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
+
+Nesta página, 27 itens foram retomados: 6 ficaram conformes, 2 foram corrigidos em parte e 19 continuam pendentes.
+
+**Tabela 14 – Correção e acompanhamento das não conformidades**
+
+| Lista | Artefato | Item | Avaliação na preparação | Tipo | Situação em 22/11/2026 | Registro |
+| :---: | --- | :---: | :---: | :---: | :---: | --- |
+| 3.1 | [Relatório da Entrega 3](../../entrega-3/relatorio.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída (versão 2.3) |
+| 3.1 | [Relatório da Entrega 3](../../entrega-3/relatorio.md) | E3-1 | Não conforme | Ausência | Parcial | A introdução registra que as características da plataforma não foram elaboradas; o artefato continua ausente |
+| 3.1 | [Relatório da Entrega 3](../../entrega-3/relatorio.md) | E3-2 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.2 | Características da Plataforma | C10 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.3 | [Princípios Gerais de Projeto](../../entrega-3/principios-metas-e-guia/principios-gerais.md) | G3 | Não conforme | Forma | Corrigida | Página incluída na citação da introdução (versão 1.5) |
+| 3.3 | [Princípios Gerais de Projeto](../../entrega-3/principios-metas-e-guia/principios-gerais.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.3 | [Princípios Gerais de Projeto](../../entrega-3/principios-metas-e-guia/principios-gerais.md) | G8 | Não conforme | Forma | Corrigida | Parágrafo repetido da Seção 2.9 retirado (versão 1.5) |
+| 3.3 | [Princípios Gerais de Projeto](../../entrega-3/principios-metas-e-guia/principios-gerais.md) | E3-3 | Não conforme | Inconsistência | Corrigida | Texto corrigido para nove princípios (versão 1.5) |
+| 3.3 | [Princípios Gerais de Projeto](../../entrega-3/principios-metas-e-guia/principios-gerais.md) | E3-4 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.4 | [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída (versão 1.5) |
+| 3.4 | [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.4 | [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | C13 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.4 | [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | C14 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.4 | [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | E3-5 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.5 | [Guia de Estilo](../../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.5 | [Guia de Estilo](../../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | G3 | Não conforme | Forma | Parcial | Referências em parágrafos e NBR 6023 citada; as entradas do Detran-DF continuam com “tentativa de acesso” |
+| 3.5 | [Guia de Estilo](../../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.5 | [Guia de Estilo](../../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | C17 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.5 | [Guia de Estilo](../../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | E3-6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.6 | [Matriz de Contribuição da Entrega 3](../../entrega-3/contribuicoes.md) | G3 | Não conforme | Forma | Corrigida | NBR 6023 citada e Barbosa e Silva (2010), não citado, retirado |
+| 3.6 | [Matriz de Contribuição da Entrega 3](../../entrega-3/contribuicoes.md) | E3-7 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.6 | [Matriz de Contribuição da Entrega 3](../../entrega-3/contribuicoes.md) | E3-8 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.7 | [Inspeção do Grupo 07](../../entrega-3/verificacao/inspecao-grupo-07.md) | G6 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.7 | [Inspeção do Grupo 07](../../entrega-3/verificacao/inspecao-grupo-07.md) | E3-10 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.8 | [Listas de Verificação da Entrega 3](../../entrega-3/verificacao/listas.md) | E3-11 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.8 | [Listas de Verificação da Entrega 3](../../entrega-3/verificacao/listas.md) | E3-12 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.10 | [Páginas dos integrantes na Entrega 3](../../entrega-3/integrantes/alexandre-vilar/index.md) | E3-13 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+
+Fonte: elaborado pelos autores (2026), a partir das listas da Seção 3 e dos históricos de versões das páginas corrigidas.
+
 ## Referências
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
@@ -261,3 +303,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler as páginas dos artefatos, montar as listas de inspeção e registrar as avaliações da preparação, com o problema e a ação corretiva de cada não conformidade. As avaliações não substituem a reunião de inspeção do grupo. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+Em 22/11/2026, o Claude foi usado, a pedido de Henrique Schneider, para corrigir nas páginas do site as não conformidades que não dependiam de dados novos, registrar na Seção 4 a situação de cada item retomado e recalcular o resumo. As situações devem ser confirmadas na reunião de inspeção.

@@ -21,6 +21,7 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -31,13 +32,14 @@ As listas seguem o formato descrito na [página da inspeção de Fagan](index.md
 
 ## 2. Resumo
 
-A Tabela 3 resume as avaliações das listas desta página.
+A Tabela 3 resume as avaliações das listas desta página na preparação e depois da correção (Seção 4).
 
-**Tabela 3 – Resumo da preparação**
+**Tabela 3 – Resumo da preparação e da correção**
 
-| Artefatos inspecionados | Conforme | Não conforme | Não se aplica | A confirmar |
-| :---: | :---: | :---: | :---: | :---: |
-| 15 | 106 | 44 | 1 | 0 |
+| Momento | Artefatos inspecionados | Conforme | Parcial | Não conforme | Não se aplica | A confirmar |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Preparação (19/11/2026) | 15 | 106 | — | 44 | 1 | 0 |
+| Após a correção (22/11/2026) | 15 | 110 | 3 | 37 | 1 | 0 |
 
 Fonte: elaborado pelos autores (2026), a partir das listas desta página.
 
@@ -359,6 +361,63 @@ Artefato: [Entrega 1 – Gabriel Robson](../../entrega-1/integrantes/gabriel-rob
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
 
+## 4. Correção e acompanhamento
+
+Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. A Tabela 19 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
+
+Nesta página, 44 itens foram retomados: 4 ficaram conformes, 3 foram corrigidos em parte e 37 continuam pendentes.
+
+**Tabela 19 – Correção e acompanhamento das não conformidades**
+
+| Lista | Artefato | Item | Avaliação na preparação | Tipo | Situação em 22/11/2026 | Registro |
+| :---: | --- | :---: | :---: | :---: | :---: | --- |
+| 3.1 | [Relatório da Entrega 1](../../entrega-1/relatorio.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.1 | [Relatório da Entrega 1](../../entrega-1/relatorio.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída (versão 2.3) |
+| 3.2 | [Processo de Design](../../entrega-1/planejamento/processo-de-design.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.2 | [Processo de Design](../../entrega-1/planejamento/processo-de-design.md) | G3 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.2 | [Processo de Design](../../entrega-1/planejamento/processo-de-design.md) | G6 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.2 | [Processo de Design](../../entrega-1/planejamento/processo-de-design.md) | E1-4 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.3 | [Site Escolhido](../../entrega-1/planejamento/site-escolhido.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.3 | [Site Escolhido](../../entrega-1/planejamento/site-escolhido.md) | G3 | Não conforme | Forma | Parcial | Detran-DF citado no texto e Nielsen (1994), não citado, retirado; as citações de Barbosa e Silva (2010) ainda não indicam página |
+| 3.3 | [Site Escolhido](../../entrega-1/planejamento/site-escolhido.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.4 | [Sites Avaliados](../../entrega-1/planejamento/sites-avaliados.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.4 | [Sites Avaliados](../../entrega-1/planejamento/sites-avaliados.md) | G3 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.4 | [Sites Avaliados](../../entrega-1/planejamento/sites-avaliados.md) | E1-7 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.5 | [Ferramentas Utilizadas](../../entrega-1/planejamento/ferramentas.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.5 | [Ferramentas Utilizadas](../../entrega-1/planejamento/ferramentas.md) | G6 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.5 | [Ferramentas Utilizadas](../../entrega-1/planejamento/ferramentas.md) | E1-9 | Não conforme | Inconsistência | Corrigida | Número de integrantes retirado do texto (versão 1.5) |
+| 3.5 | [Ferramentas Utilizadas](../../entrega-1/planejamento/ferramentas.md) | E1-10 | Não conforme | Ausência | Corrigida | Figma, When2Meet, Canva, ChatGPT e Claude incluídos na Tabela 3 (versão 1.6) |
+| 3.6 | [Heatmap de Disponibilidade](../../entrega-1/planejamento/heatmap.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.6 | [Heatmap de Disponibilidade](../../entrega-1/planejamento/heatmap.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.6 | [Heatmap de Disponibilidade](../../entrega-1/planejamento/heatmap.md) | E1-12 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.7 | [Cronograma de Atividades (planejado)](../../entrega-1/planejamento/cronograma-planejado.md) | G2 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.7 | [Cronograma de Atividades (planejado)](../../entrega-1/planejamento/cronograma-planejado.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.7 | [Cronograma de Atividades (planejado)](../../entrega-1/planejamento/cronograma-planejado.md) | E1-14 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.7 | [Cronograma de Atividades (planejado)](../../entrega-1/planejamento/cronograma-planejado.md) | E1-15 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.7 | [Cronograma de Atividades (planejado)](../../entrega-1/planejamento/cronograma-planejado.md) | E1-16 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.7 | [Cronograma de Atividades (planejado)](../../entrega-1/planejamento/cronograma-planejado.md) | E1-17 | Não conforme | Inconsistência | Parcial | Situação atualizada nas linhas que o cronograma executado registra (versão 1.7); as demais continuam como planejadas |
+| 3.7 | [Cronograma de Atividades (planejado)](../../entrega-1/planejamento/cronograma-planejado.md) | E1-18 | Não conforme | Inconsistência | Parcial | Vencimento da Entrega 3 corrigido para 06/10/2026 (versão 1.7); a identificação dos grupos +1 e −1 ainda difere das inspeções feitas |
+| 3.8 | [Cronograma Executado](../../entrega-1/planejamento/cronograma-executado.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.8 | [Cronograma Executado](../../entrega-1/planejamento/cronograma-executado.md) | E1-20 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.8 | [Cronograma Executado](../../entrega-1/planejamento/cronograma-executado.md) | E1-21 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.9 | [Inspeção do Grupo 05](../../entrega-1/verificacao/inspecao-grupo-05.md) | G2 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.9 | [Inspeção do Grupo 05](../../entrega-1/verificacao/inspecao-grupo-05.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.9 | [Inspeção do Grupo 05](../../entrega-1/verificacao/inspecao-grupo-05.md) | E1-22 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.9 | [Inspeção do Grupo 05](../../entrega-1/verificacao/inspecao-grupo-05.md) | E1-23 | Não conforme | Inconsistência | Corrigida | Diferença registrada na página; os números vêm do relatório entregue |
+| 3.10 | [Listas de Verificação da Entrega 1](../../entrega-1/verificacao/listas.md) | E1-24 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.10 | [Listas de Verificação da Entrega 1](../../entrega-1/verificacao/listas.md) | E1-25 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.10 | [Listas de Verificação da Entrega 1](../../entrega-1/verificacao/listas.md) | E1-26 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.12 | [Trabalhos individuais de Alexandre Vilar](../../entrega-1/integrantes/alexandre-vilar/index.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.12 | [Trabalhos individuais de Alexandre Vilar](../../entrega-1/integrantes/alexandre-vilar/index.md) | G3 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.12 | [Trabalhos individuais de Alexandre Vilar](../../entrega-1/integrantes/alexandre-vilar/index.md) | G7 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.13 | [Trabalhos individuais de João Vitor](../../entrega-1/integrantes/joao-vitor/index.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.13 | [Trabalhos individuais de João Vitor](../../entrega-1/integrantes/joao-vitor/index.md) | G3 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.13 | [Trabalhos individuais de João Vitor](../../entrega-1/integrantes/joao-vitor/index.md) | E1-29 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.14 | [Trabalho individual de Henrique Schneider](../../entrega-1/integrantes/henrique-schneider/index.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.14 | [Trabalho individual de Henrique Schneider](../../entrega-1/integrantes/henrique-schneider/index.md) | E1-31 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+
+Fonte: elaborado pelos autores (2026), a partir das listas da Seção 3 e dos históricos de versões das páginas corrigidas.
+
 ## Referências
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
@@ -366,3 +425,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler as páginas dos artefatos, montar as listas de inspeção e registrar as avaliações da preparação, com o problema e a ação corretiva de cada não conformidade. As avaliações não substituem a reunião de inspeção do grupo. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+Em 22/11/2026, o Claude foi usado, a pedido de Henrique Schneider, para corrigir nas páginas do site as não conformidades que não dependiam de dados novos, registrar na Seção 4 a situação de cada item retomado e recalcular o resumo. As situações devem ser confirmadas na reunião de inspeção.

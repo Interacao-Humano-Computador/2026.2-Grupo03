@@ -20,6 +20,7 @@ Fonte: elaborado pelos autores (2026), a partir da tabela de contribuição de c
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 10/11/2026 | 1.0 | Criação da matriz de contribuições da Entrega 6, com os materiais e as evidências de cada integrante | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 1.1 | Atualização da situação dos vídeos de Alexandre Vilar e de João Vitor e do teste de usabilidade de Henrique Schneider, conforme as páginas individuais | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -37,7 +38,7 @@ Esta matriz acompanha os materiais da [Entrega 6](relatorio.md) e segue o format
 | Ligação entre o papel e o Figma | [Apêndice E](integrantes/henrique-schneider/prototipo-papel.md#apendice-e-correspondencia-entre-o-prototipo-de-papel-e-o-figma) | Publicado em 10/11/2026 |
 | Especificação do protótipo de alta fidelidade | [Especificação](integrantes/henrique-schneider/especificacao-alta-fidelidade.md) | Versão 1.4, com o registro do protótipo construído (Seção 10) |
 | Protótipo de alta fidelidade | [Arquivo no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) | Construído em 10/11/2026; transições a conferir no modo de apresentação antes do teste-piloto |
-| Planejamento do teste de usabilidade | [Roteiro do teste](integrantes/henrique-schneider/planejamento-alta-fidelidade.md) | Publicado; piloto e sessões a realizar |
+| Planejamento do teste de usabilidade | [Roteiro do teste](integrantes/henrique-schneider/planejamento-alta-fidelidade.md) | Publicado; o piloto e a sessão foram feitos em 15/11/2026, na Entrega 7 |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -49,10 +50,10 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- |
 | Alexandre Vilar | Protótipo de papel | [Protótipo de papel](integrantes/alexandre-vilar/prototipo-papel.md) | Concluído, com fotos |
 | Alexandre Vilar | Planejamento da alta fidelidade | [Planejamento](integrantes/alexandre-vilar/planejamento-alta-fidelidade.md) | Publicado |
-| Alexandre Vilar | Vídeos da avaliação | [Vídeos](integrantes/alexandre-vilar/video-avaliacao.md) | — |
+| Alexandre Vilar | Vídeos da avaliação | [Vídeos](integrantes/alexandre-vilar/video-avaliacao.md) | Teste-piloto e sessão de 03/11/2026 publicados |
 | João Vitor | Protótipo de papel | [Protótipo de papel](integrantes/joao-vitor/prototipo-papel.md) | Documentado, com tarefas T1 a T4 |
 | João Vitor | Planejamento da alta fidelidade | [Planejamento](integrantes/joao-vitor/planejamento-alta-fidelidade.md) | Publicado |
-| João Vitor | Vídeos da avaliação | [Vídeos](integrantes/joao-vitor/video-avaliacao.md) | Links ainda por definir, segundo a página |
+| João Vitor | Vídeos da avaliação | [Vídeos](integrantes/joao-vitor/video-avaliacao.md) | Teste-piloto publicado; a sessão com participante ainda não foi registrada |
 
 Fonte: elaborado pelos autores (2026), com base nas páginas individuais da Entrega 6.
 
@@ -75,3 +76,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para montar esta matriz a partir das tabelas de contribuição e das situações já registradas nas páginas individuais, sem acrescentar dados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para atualizar a situação das Tabelas 3 e 4 com o que as páginas individuais já registram, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

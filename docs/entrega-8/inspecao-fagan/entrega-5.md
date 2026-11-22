@@ -21,6 +21,7 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 
+| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -31,13 +32,14 @@ As listas seguem o formato descrito na [página da inspeção de Fagan](index.md
 
 ## 2. Resumo
 
-A Tabela 3 resume as avaliações das listas desta página.
+A Tabela 3 resume as avaliações das listas desta página na preparação e depois da correção (Seção 4).
 
-**Tabela 3 – Resumo da preparação**
+**Tabela 3 – Resumo da preparação e da correção**
 
-| Artefatos inspecionados | Conforme | Não conforme | Não se aplica | A confirmar |
-| :---: | :---: | :---: | :---: | :---: |
-| 9 | 60 | 28 | 0 | 6 |
+| Momento | Artefatos inspecionados | Conforme | Parcial | Não conforme | Não se aplica | A confirmar |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Preparação (19/11/2026) | 9 | 60 | — | 28 | 0 | 6 |
+| Após a correção (22/11/2026) | 9 | 73 | 2 | 19 | 0 | 0 |
 
 Fonte: elaborado pelos autores (2026), a partir das listas desta página.
 
@@ -236,6 +238,53 @@ Artefato: [Entrega 5 – João Vitor](../../entrega-5/integrantes/joao-vitor/ind
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
 
+## 4. Correção e acompanhamento
+
+Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. A Tabela 13 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
+
+Nesta página, 34 itens foram retomados: 13 ficaram conformes, 2 foram corrigidos em parte e 19 continuam pendentes.
+
+**Tabela 13 – Correção e acompanhamento das não conformidades**
+
+| Lista | Artefato | Item | Avaliação na preparação | Tipo | Situação em 22/11/2026 | Registro |
+| :---: | --- | :---: | :---: | :---: | :---: | --- |
+| 3.1 | [Relatório da Entrega 5 (página do site)](../../entrega-5/relatorio.md) | G3 | Não conforme | Forma | Corrigida | Referência de Barbosa et al. (2021) completada (versão 1.8) |
+| 3.1 | [Relatório da Entrega 5 (página do site)](../../entrega-5/relatorio.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída (versão 1.8) |
+| 3.1 | [Relatório da Entrega 5 (página do site)](../../entrega-5/relatorio.md) | E5-1 | Não conforme | Inconsistência | Corrigida | Escopo, situação e Seção 6 atualizados com a inspeção do Grupo 08 e o material de Gabriel (versão 1.8) |
+| 3.1 | [Relatório da Entrega 5 (página do site)](../../entrega-5/relatorio.md) | E5-2 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-4 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-5 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-7 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-8 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-9 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.3 | [Lista de Verificação da Entrega 5](../../entrega-5/verificacao/lista-de-verificacao.md) | E5-11 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.4 | [Inspeção do Grupo 08](../../entrega-5/verificacao/inspecao-grupo-08.md) | G4 | Não conforme | Forma | Corrigida | Legendas e fontes no padrão Markdown, sem HTML |
+| 3.5 | [Matriz de Contribuição da Entrega 5](../../entrega-5/contribuicoes.md) | G6 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.6 | [Material de Alexandre Vilar na Entrega 5](../../entrega-5/integrantes/alexandre-vilar/index.md) | G3 | A confirmar | Forma | Conforme na reconferência | Todas as páginas têm a seção de referências |
+| 3.6 | [Material de Alexandre Vilar na Entrega 5](../../entrega-5/integrantes/alexandre-vilar/index.md) | G4 | A confirmar | Forma | Parcial | Legendas e fontes incluídas nas tabelas que não as tinham; o protótipo de papel e o roteiro ainda têm figuras a conferir |
+| 3.6 | [Material de Alexandre Vilar na Entrega 5](../../entrega-5/integrantes/alexandre-vilar/index.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída nas oito páginas que não a tinham |
+| 3.6 | [Material de Alexandre Vilar na Entrega 5](../../entrega-5/integrantes/alexandre-vilar/index.md) | E5-14 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.6 | [Material de Alexandre Vilar na Entrega 5](../../entrega-5/integrantes/alexandre-vilar/index.md) | E5-15 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | G3 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | G4 | A confirmar | Forma | Corrigida | Legendas e fontes incluídas nas tabelas das seis páginas |
+| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída nas seis páginas |
+| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | E5-16 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | E5-17 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.8 | [Material de Henrique Schneider na Entrega 5](../../entrega-5/integrantes/henrique-schneider/index.md) | G4 | A confirmar | Forma | Conforme na reconferência | Tabelas e figuras com legenda e fonte em todas as páginas |
+| 3.8 | [Material de Henrique Schneider na Entrega 5](../../entrega-5/integrantes/henrique-schneider/index.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída no storyboard, nos vídeos, no relatório pós-entrevista e no protótipo de papel |
+| 3.8 | [Material de Henrique Schneider na Entrega 5](../../entrega-5/integrantes/henrique-schneider/index.md) | E5-19 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.9 | [Material de João Vitor na Entrega 5](../../entrega-5/integrantes/joao-vitor/index.md) | G3 | A confirmar | Forma | Conforme na reconferência | Todas as páginas têm a seção de referências |
+| 3.9 | [Material de João Vitor na Entrega 5](../../entrega-5/integrantes/joao-vitor/index.md) | G4 | A confirmar | Forma | Parcial | Legenda incluída na tabela da avaliação; as dez imagens do roteiro de entrevista continuam sem legenda de figura e fonte |
+| 3.9 | [Material de João Vitor na Entrega 5](../../entrega-5/integrantes/joao-vitor/index.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída nas sete páginas que não a tinham |
+| 3.9 | [Material de João Vitor na Entrega 5](../../entrega-5/integrantes/joao-vitor/index.md) | G8 | Não conforme | Forma | Corrigida | Parâmetros de rastreamento retirados dos links do YouTube |
+| 3.9 | [Material de João Vitor na Entrega 5](../../entrega-5/integrantes/joao-vitor/index.md) | E5-21 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.9 | [Material de João Vitor na Entrega 5](../../entrega-5/integrantes/joao-vitor/index.md) | E5-22 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+
+Fonte: elaborado pelos autores (2026), a partir das listas da Seção 3 e dos históricos de versões das páginas corrigidas.
+
 ## Referências
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
@@ -243,3 +292,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler as páginas dos artefatos, montar as listas de inspeção e registrar as avaliações da preparação, com o problema e a ação corretiva de cada não conformidade. As avaliações não substituem a reunião de inspeção do grupo. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+Em 22/11/2026, o Claude foi usado, a pedido de Henrique Schneider, para corrigir nas páginas do site as não conformidades que não dependiam de dados novos, registrar na Seção 4 a situação de cada item retomado e recalcular o resumo. As situações devem ser confirmadas na reunião de inspeção.

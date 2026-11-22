@@ -2,7 +2,7 @@
 
 ## Tabela de contribuição
 
-**Tabela 1 - Minha contribuição neste artefato**
+**Tabela 1 – Minha contribuição neste artefato**
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
@@ -12,12 +12,13 @@ Fonte: minha elaboração (2026).
 
 ## Histórico de versões
 
-**Tabela 2 - Histórico de versões**
+**Tabela 2 – Histórico de versões**
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 12/11/2026 | 1.0 | Organizei meus registros do papel e a conferência individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
 
+| 22/11/2026 | 1.1 | Padronização das legendas das tabelas e figuras, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
 Fonte: meus registros (2026).
 
 ## 1. Introdução {#introducao}
@@ -28,9 +29,11 @@ Organizei nesta página o método, os instrumentos e os registros da minha avali
 
 Usei as seis atividades do DECIDE para organizar a avaliação. Na Figura 1, apresento o trecho que utilizei como referência.
 
+**Figura 1 – Atividades do Framework DECIDE**
+
 ![Framework DECIDE no livro](../../../entrega-7/integrantes/alexandre-vilar/imagens/decide-p264.jpg)
 
-*Figura 1 - Atividades do Framework DECIDE. Fonte: Barbosa et al. (2021, p. 264).*
+Fonte: Barbosa et al. (2021, p. 264).
 
 ### D — Objetivos {#objetivos}
 
@@ -57,7 +60,7 @@ Utilizei um protótipo físico de papel para simular a interface, apresentando u
 
 Na Tabela 3, separei as informações da minha sessão das lacunas que ainda preciso preencher. Não transferi os dados de recrutamento da avaliação anterior do storyboard para esta avaliação.
 
-**Tabela 3 - Recursos e organização da minha avaliação em papel**
+**Tabela 3 – Recursos e organização da minha avaliação em papel**
 
 | Aspecto | Registro disponível e complemento necessário |
 | --- | --- |
@@ -87,9 +90,11 @@ Usei o [protótipo com 12 fotos](prototipo-papel.md#3-prototipo-de-papel) e o [c
 
 Como apoio para conferir esses materiais, consultei a preparação da avaliação em Barbosa et al. (2021, p. 259), reproduzida na Figura 2.
 
+**Figura 2 – Preparação e materiais de apoio**
+
 ![Materiais de apoio no livro](../../../entrega-7/integrantes/alexandre-vilar/imagens/material-p259.jpg)
 
-*Figura 2 - Preparação e materiais de apoio. Fonte: Barbosa et al. (2021, p. 259).*
+Fonte: Barbosa et al. (2021, p. 259).
 
 ## 4. Teste-piloto {#piloto}
 
@@ -97,9 +102,11 @@ Entendo o piloto como um ensaio do procedimento para verificar o cenário, as in
 
 Na Figura 3, apresento o trecho de referência. **Autoria do item:** Alexandre Vilar Valadares Fonsêca.
 
+**Figura 3 – Teste-piloto da avaliação**
+
 ![Teste-piloto no livro](../../../entrega-7/integrantes/alexandre-vilar/imagens/piloto-p260.jpg)
 
-*Figura 3 - Teste-piloto da avaliação. Fonte: Barbosa et al. (2021, p. 260).*
+Fonte: Barbosa et al. (2021, p. 260).
 
 ### Separação dos dados do piloto {#dados-piloto}
 
@@ -109,7 +116,7 @@ Mantenho o piloto como verificação do procedimento. No relato principal, usei 
 
 Na Tabela 4, registrei as datas disponíveis. Ainda preciso completar os campos pendentes; não atribuí horários retroativamente.
 
-**Tabela 4 - Datas e local da avaliação do papel**
+**Tabela 4 – Datas e local da avaliação do papel**
 
 | Atividade | Data | Horário | Local | Responsável |
 | --- | --- | --- | --- | --- |
@@ -141,3 +148,5 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT como apoio para organizar os materiais, adaptar o planejamento e revisar a redação. Mantive as fontes e separei os registros da sessão das atividades ainda pendentes.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para padronizar as legendas das tabelas e figuras (travessão, legenda em negrito antes da figura e fonte depois dela), a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
