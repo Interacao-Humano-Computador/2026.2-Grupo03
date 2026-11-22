@@ -74,10 +74,6 @@ A Figura 1 apresenta os integrantes atuais do Grupo 03. Cada cartão leva ao per
 <img src="assets/alexandre.jpg" alt="Foto de Alexandre Vilar Valadares Fonsêca">
 <strong>Alexandre Vilar</strong>
 </a>
-<a class="team-card" href="https://github.com/Gabrielxcx" target="_blank" rel="noopener">
-<img src="assets/gabriel.jpg" alt="Foto de Gabriel Robson Nunes Neiva da Silva">
-<strong>Gabriel Robson</strong>
-</a>
 <a class="team-card" href="https://github.com/SchneiderCode1" target="_blank" rel="noopener">
 <img src="assets/henrique.jpg" alt="Foto de Henrique Schneider Fernandes da Rosa">
 <strong>Henrique Schneider</strong>
@@ -90,7 +86,7 @@ A Figura 1 apresenta os integrantes atuais do Grupo 03. Cada cartão leva ao per
 
 <p class="team-source"><em>Fonte: elaborado pelos autores (2026), com base no cronograma planejado e nos registros do projeto.</em></p>
 
-Dois integrantes participaram das primeiras entregas e saíram da equipe, conforme o Quadro 1. As contribuições deles continuam registradas nas páginas das entregas em que participaram e na aba [Integrantes](integrantes/index.md).
+Três integrantes participaram de parte das entregas e saíram da equipe, conforme o Quadro 1. As contribuições deles continuam registradas nas páginas das entregas em que participaram e na aba [Integrantes](integrantes/index.md).
 
 **Quadro 1 – Ex-integrantes do Grupo 03**
 
@@ -98,6 +94,7 @@ Dois integrantes participaram das primeiras entregas e saíram da equipe, confor
 | --- | :---: |
 | Camile Barbosa Gonzaga de Oliveira | Entrega 1 |
 | Eduardo Ribeiro Gomes da Silva | Entregas 1 e 2 |
+| Gabriel Robson Nunes Neiva da Silva | Entregas 2 a 7 |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -110,7 +107,7 @@ A Tabela 1 registra a contribuição de cada integrante nesta página, conforme 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Atualização das imagens e dos nomes dos integrantes | [Commit 2fefc9d](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/2fefc9d) | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Versões 1.2, 1.4, 1.5, 2.0 e 2.1 (páginas da Entrega 2, inclusão de Gabriel, fotos dos integrantes e reorganização da página) | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit df6cdea](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/df6cdea) | — |
 | João Vitor Tavares de Sá Lima | Versões 1.3 e 1.6 (registro do TCLE e das metas de usabilidade) | [Commit 01df6a6](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/01df6a6); [commit 5b5041f](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/5b5041f) | — |
 
@@ -124,16 +121,17 @@ O ex-integrante Eduardo Ribeiro Gomes da Silva (Entregas 1 e 2) contribuiu para 
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Criação da página inicial do projeto e apresentação do Portal de Serviços do Detran-DF. | Grupo 03 | Gabriel Robson |
-| 10/09/2026 | 1.1 | Atualização da apresentação do Grupo 03, dos acessos principais e do registro de contribuições da página inicial. | Grupo 03 | Gabriel Robson |
-| 17/09/2026 | 1.2 | Criação das páginas da segunda entrega "Perfil de Usuários, Aspectos Éticos e Análise de Tarefas" e adição do novo integrante do Grupo 3 -> Gabriel Robson | Henrique Schneider | Gabriel Robson |
-| 24/09/2026 | 1.3 | Adição da seção 2.1 "Aspectos Éticos e Termo de Consentimento Livre e Esclarecido (TCLE)". | João Vitor Tavares | Gabriel Robson |
-| 24/09/2026 | 1.4 | Alteração das fotos dos integrantes. | Henrique Schneider | Gabriel Robson |
-| 27/09/2026 | 1.5 | Alteração das fotos dos integrantes (agora está correto). | Henrique Schneider | Gabriel Robson |
-| 06/10/2026 | 1.6 | Redação das metas de Usabilidade | João Vitor Tavares | Gabriel Robson |
-| 15/10/2026 | 2.0 | Reestruturação da página no modelo da disciplina: tabela de contribuição, histórico em ordem cronológica, legenda da Figura 1, novos acessos (relatórios e acompanhamento) e seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 2.1 | Organização por entrega: guia de navegação com as novas abas, equipe atual e quadro dos ex-integrantes | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/09/2026 | 1.0 | Criação da página inicial do projeto e apresentação do Portal de Serviços do Detran-DF. | Grupo 03 | João Vitor |
+| 10/09/2026 | 1.1 | Atualização da apresentação do Grupo 03, dos acessos principais e do registro de contribuições da página inicial. | Grupo 03 | João Vitor |
+| 17/09/2026 | 1.2 | Criação das páginas da segunda entrega "Perfil de Usuários, Aspectos Éticos e Análise de Tarefas" e adição do novo integrante do Grupo 3 -> Gabriel Robson | Henrique Schneider | João Vitor |
+| 24/09/2026 | 1.3 | Adição da seção 2.1 "Aspectos Éticos e Termo de Consentimento Livre e Esclarecido (TCLE)". | João Vitor Tavares | Alexandre Vilar |
+| 24/09/2026 | 1.4 | Alteração das fotos dos integrantes. | Henrique Schneider | João Vitor |
+| 27/09/2026 | 1.5 | Alteração das fotos dos integrantes (agora está correto). | Henrique Schneider | João Vitor |
+| 06/10/2026 | 1.6 | Redação das metas de Usabilidade | João Vitor Tavares | Alexandre Vilar |
+| 15/10/2026 | 2.0 | Reestruturação da página no modelo da disciplina: tabela de contribuição, histórico em ordem cronológica, legenda da Figura 1, novos acessos (relatórios e acompanhamento) e seção de uso de IA | Henrique Schneider | João Vitor |
+| 17/10/2026 | 2.1 | Organização por entrega: guia de navegação com as novas abas, equipe atual e quadro dos ex-integrantes | Henrique Schneider | João Vitor |
+| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 2.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição; retirada de Gabriel Robson da Figura 1 e inclusão dele no quadro dos ex-integrantes | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -150,3 +148,5 @@ Agradecemos ao Prof. Dr. André Barros de Sales pela orientação do projeto.
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página no modelo de artefato da disciplina: montagem da tabela de contribuição a partir do histórico de versões e dos commits, ordenação do histórico, legenda da Figura 1, quadro dos ex-integrantes e guia de navegação da organização por entrega. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

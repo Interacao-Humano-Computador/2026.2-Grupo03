@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Preparação da inspeção (passo 3 de Fagan): leitura das páginas e registro preliminar das avaliações | [Inspeção da Entrega 5 – Relato do Storyboard e da HTA e Planejamento do Protótipo de Papel](entrega-5.md) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -19,9 +19,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
-| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 0.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -38,8 +39,8 @@ A Tabela 3 resume as avaliações das listas desta página na preparação e dep
 
 | Momento | Artefatos inspecionados | Conforme | Parcial | Não conforme | Não se aplica | A confirmar |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| Preparação (19/11/2026) | 9 | 60 | — | 28 | 0 | 6 |
-| Após a correção (22/11/2026) | 9 | 73 | 2 | 19 | 0 | 0 |
+| Preparação (19/11/2026) | 9 | 56 | — | 21 | 12 | 5 |
+| Após a correção (22/11/2026) | 9 | 67 | 2 | 13 | 12 | 0 |
 
 Fonte: elaborado pelos autores (2026), a partir das listas desta página.
 
@@ -62,7 +63,7 @@ Artefato: [Relatório da Entrega 5](../../entrega-5/relatorio.md). A Tabela 4 tr
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
 | E5-1 | A página está atualizada com o material de todos os integrantes e com a inspeção feita? | Não conforme | Inconsistência | O escopo diz que "os demais materiais do grupo ... permanecem a incorporar"; a seção 6 diz que a inspeção "será incorporada", mas a inspeção do Grupo 08 e a lista existem; o material de Gabriel não é citado | Atualizar o texto, a Tabela 4 e a seção 6 |
-| E5-2 | A página indica os vídeos de apresentação de todos os integrantes? (Plano, D9) | Não conforme | Ausência | Só a parte de Henrique tem vídeo (Apresentações); não há vídeo de Alexandre, João Vitor e Gabriel | Vincular os vídeos ou registrar que não foram gravados |
+| E5-2 | A página indica os vídeos de apresentação de todos os integrantes? (Plano, D9) | Não conforme | Ausência | Só a parte de Henrique tem vídeo (Apresentações); não há vídeo de Alexandre, João Vitor e Gabriel (a parte que trata de ex-integrante não é considerada) | Vincular os vídeos ou registrar que não foram gravados |
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
 
@@ -79,16 +80,16 @@ Artefato: [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md). A Tabela
 | G3 | O artefato tem referências no padrão ABNT, e as citações indicam capítulo e página? | Conforme | — | — | — |
 | G4 | As tabelas e imagens têm legenda, fonte e chamada no texto? | Conforme | — | — | — |
 | G5 | O artefato tem uma introdução? | Conforme | — | — | — |
-| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não conforme | Ausência | Gabriel com "—" | Registrar a contribuição ou "nenhuma" |
+| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
 | E5-3 | O relato dos storyboards traz objetivos, método, participantes, sumário dos dados, interpretação, problemas e reprojeto? | Conforme | — | Seções 1.1 a 1.9 | — |
-| E5-4 | Todos os integrantes têm storyboard avaliado? | Não conforme | Ausência | Gabriel Robson não tem storyboard desenhado nem avaliação (Tabela 5: "—"); a seção 1.3 diz que "os avaliadores foram os quatro integrantes" | Registrar a ausência e corrigir a seção 1.3 |
+| E5-4 | Todos os integrantes têm storyboard avaliado? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
 | E5-5 | O perfil dos participantes está registrado de forma correta? | Não conforme | Forma | Na Tabela 4, a coluna "Modalidade" de P1 traz "Biometria" (é o tema) e a faixa etária de P1 é "18" | Corrigir as células de P1 |
 | E5-6 | O relato da HTA cobre todos os fluxos e teve inspeção por outro integrante? | Não conforme | Ausência | Fluxos 1 e 2 sem responsável e sem resultado ("—"); a Tabela 20 registra "inspeção por outro integrante pendente" | Avaliar os Fluxos 1 e 2 ou registrar que ficaram fora; registrar a inspeção da HTA |
-| E5-7 | O planejamento do protótipo de papel está completo para todos os integrantes (DECIDE, data, horário, local, participantes)? | Não conforme | Ausência | Só Henrique (3.8.1, com local, horário e observador "a definir") e Alexandre (3.8.2, "meta provisória" e "a definir"); não há planejamento de João Vitor nem de Gabriel | Completar ou registrar a ausência |
-| E5-8 | O planejamento do relato do protótipo de papel tem estrutura e cronograma por integrante? | Não conforme | Ausência | A estrutura (4.1) e os modelos (Tabelas 17 e 18) existem; o cronograma (Tabela 19) só tem datas de Henrique; Alexandre "A definir"; João Vitor e Gabriel não aparecem | Completar o cronograma |
-| E5-9 | O cronograma executado da entrega está completo? | Não conforme | Ausência | A Tabela 20 não tem linhas de João Vitor e Gabriel, e "Publicação no GitHub Pages" está em "—" | Completar a Tabela 20 |
+| E5-7 | O planejamento do protótipo de papel está completo para todos os integrantes (DECIDE, data, horário, local, participantes)? | Não conforme | Ausência | Só Henrique (3.8.1, com local, horário e observador "a definir") e Alexandre (3.8.2, "meta provisória" e "a definir"); não há planejamento de João Vitor nem de Gabriel (a parte que trata de ex-integrante não é considerada) | Completar ou registrar a ausência |
+| E5-8 | O planejamento do relato do protótipo de papel tem estrutura e cronograma por integrante? | Não conforme | Ausência | A estrutura (4.1) e os modelos (Tabelas 17 e 18) existem; o cronograma (Tabela 19) só tem datas de Henrique; Alexandre "A definir"; João Vitor e Gabriel não aparecem (a parte que trata de ex-integrante não é considerada) | Completar o cronograma |
+| E5-9 | O cronograma executado da entrega está completo? | Não conforme | Ausência | A Tabela 20 não tem linhas de João Vitor e Gabriel, e "Publicação no GitHub Pages" está em "—" (a parte que trata de ex-integrante não é considerada) | Completar a Tabela 20 |
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
 
@@ -176,22 +177,24 @@ Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) 
 
 ### 3.7 Material de Gabriel Robson na Entrega 5
 
+**Ex-integrante.** Gabriel Robson deixou o grupo; este material fica sinalizado e não é considerado na inspeção. Todos os itens abaixo estão como Não se aplica.
+
 Artefato: [Entrega 5 – Gabriel Robson](../../entrega-5/integrantes/gabriel-robson/index.md). A Tabela 10 traz a lista de inspeção.
 
 **Tabela 10 – Lista de inspeção: Material de Gabriel Robson na Entrega 5**
 
 | Item | Descrição | Avaliação | Tipo | Descrição do problema | Sugestão de ação corretiva |
 | :---: | --- | :---: | :---: | --- | --- |
-| G1 | O artefato tem histórico de versões com data, versão, descrição, autor(es) e revisor(es)? | Conforme | — | — | — |
-| G2 | Autor e revisor estão indicados por nome em cada versão, e o revisor é outra pessoa? | Não conforme | Inconsistência | Versão 1.0 com autor e revisor Gabriel Robson | Registrar outro revisor |
-| G3 | O artefato tem referências no padrão ABNT, e as citações indicam capítulo e página? | Não conforme | Forma | Referências em lista, sem formato completo (Barbosa e Silva "capítulos 9 e 10"; portal sem data de acesso) | Padronizar as referências |
-| G4 | As tabelas e imagens têm legenda, fonte e chamada no texto? | A confirmar | — | Páginas não lidas por inteiro na preparação | Conferir na reunião de inspeção |
-| G5 | O artefato tem uma introdução? | Não conforme | Ausência | Só a visão geral tem introdução | Incluir introdução nas páginas |
-| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Conforme | — | — | — |
-| G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
-| G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
-| E5-16 | Há storyboard desenhado? | Não conforme | Ausência | "O storyboard desenhado permanece pendente"; há só roteiro textual | Publicar o storyboard ou registrar a ausência |
-| E5-17 | Há teste-piloto, entrevista, gravação, TCLE e relato da avaliação? | Não conforme | Ausência | A página de avaliação registra "Não realizado/sem registro" e "Pendentes" | Registrar a ausência no relatório da entrega |
+| G1 | O artefato tem histórico de versões com data, versão, descrição, autor(es) e revisor(es)? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
+| G2 | Autor e revisor estão indicados por nome em cada versão, e o revisor é outra pessoa? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
+| G3 | O artefato tem referências no padrão ABNT, e as citações indicam capítulo e página? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
+| G4 | As tabelas e imagens têm legenda, fonte e chamada no texto? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
+| G5 | O artefato tem uma introdução? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
+| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
+| G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
+| G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
+| E5-16 | Há storyboard desenhado? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
+| E5-17 | Há teste-piloto, entrevista, gravação, TCLE e relato da avaliação? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
 
@@ -240,9 +243,9 @@ Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) 
 
 ## 4. Correção e acompanhamento
 
-Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. A Tabela 13 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
+Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. Os itens de ex-integrantes (Camile Barbosa, Eduardo Ribeiro e Gabriel Robson) foram sinalizados como Não se aplica e saíram desta tabela. A Tabela 13 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
 
-Nesta página, 34 itens foram retomados: 13 ficaram conformes, 2 foram corrigidos em parte e 19 continuam pendentes.
+Nesta página, 26 itens foram retomados: 11 ficaram conformes, 2 foram corrigidos em parte e 13 continuam pendentes.
 
 **Tabela 13 – Correção e acompanhamento das não conformidades**
 
@@ -251,14 +254,12 @@ Nesta página, 34 itens foram retomados: 13 ficaram conformes, 2 foram corrigido
 | 3.1 | [Relatório da Entrega 5 (página do site)](../../entrega-5/relatorio.md) | G3 | Não conforme | Forma | Corrigida | Referência de Barbosa et al. (2021) completada (versão 1.8) |
 | 3.1 | [Relatório da Entrega 5 (página do site)](../../entrega-5/relatorio.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída (versão 1.8) |
 | 3.1 | [Relatório da Entrega 5 (página do site)](../../entrega-5/relatorio.md) | E5-1 | Não conforme | Inconsistência | Corrigida | Escopo, situação e Seção 6 atualizados com a inspeção do Grupo 08 e o material de Gabriel (versão 1.8) |
-| 3.1 | [Relatório da Entrega 5 (página do site)](../../entrega-5/relatorio.md) | E5-2 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-4 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.1 | [Relatório da Entrega 5 (página do site)](../../entrega-5/relatorio.md) | E5-2 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo; a parte de ex-integrante não é considerada |
 | 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-5 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
 | 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-7 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-8 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-9 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-7 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo; a parte de ex-integrante não é considerada |
+| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-8 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo; a parte de ex-integrante não é considerada |
+| 3.2 | [Relatório do grupo](../../entrega-5/relatorio-do-grupo.md) | E5-9 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo; a parte de ex-integrante não é considerada |
 | 3.3 | [Lista de Verificação da Entrega 5](../../entrega-5/verificacao/lista-de-verificacao.md) | E5-11 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.4 | [Inspeção do Grupo 08](../../entrega-5/verificacao/inspecao-grupo-08.md) | G4 | Não conforme | Forma | Corrigida | Legendas e fontes no padrão Markdown, sem HTML |
 | 3.5 | [Matriz de Contribuição da Entrega 5](../../entrega-5/contribuicoes.md) | G6 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
@@ -267,12 +268,6 @@ Nesta página, 34 itens foram retomados: 13 ficaram conformes, 2 foram corrigido
 | 3.6 | [Material de Alexandre Vilar na Entrega 5](../../entrega-5/integrantes/alexandre-vilar/index.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída nas oito páginas que não a tinham |
 | 3.6 | [Material de Alexandre Vilar na Entrega 5](../../entrega-5/integrantes/alexandre-vilar/index.md) | E5-14 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
 | 3.6 | [Material de Alexandre Vilar na Entrega 5](../../entrega-5/integrantes/alexandre-vilar/index.md) | E5-15 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
-| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | G3 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
-| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | G4 | A confirmar | Forma | Corrigida | Legendas e fontes incluídas nas tabelas das seis páginas |
-| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída nas seis páginas |
-| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | E5-16 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.7 | [Material de Gabriel Robson na Entrega 5](../../entrega-5/integrantes/gabriel-robson/index.md) | E5-17 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.8 | [Material de Henrique Schneider na Entrega 5](../../entrega-5/integrantes/henrique-schneider/index.md) | G4 | A confirmar | Forma | Conforme na reconferência | Tabelas e figuras com legenda e fonte em todas as páginas |
 | 3.8 | [Material de Henrique Schneider na Entrega 5](../../entrega-5/integrantes/henrique-schneider/index.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída no storyboard, nos vídeos, no relatório pós-entrevista e no protótipo de papel |
 | 3.8 | [Material de Henrique Schneider na Entrega 5](../../entrega-5/integrantes/henrique-schneider/index.md) | E5-19 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
@@ -294,3 +289,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler as páginas dos artefatos, montar as listas de inspeção e registrar as avaliações da preparação, com o problema e a ação corretiva de cada não conformidade. As avaliações não substituem a reunião de inspeção do grupo. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
 
 Em 22/11/2026, o Claude foi usado, a pedido de Henrique Schneider, para corrigir nas páginas do site as não conformidades que não dependiam de dados novos, registrar na Seção 4 a situação de cada item retomado e recalcular o resumo. As situações devem ser confirmadas na reunião de inspeção.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -19,10 +19,11 @@ Fonte: elaborado pelo autor (2026).
 | 27/10/2026 | 1.0    | Criação do roteiro: método, questões e medidas, valores-alvo propostos, participantes e logística, ética, teste-piloto, roteiro da sessão e apêndices (questionário pré-teste, cartões de cenário, folha de medição, entrevista pós-teste e consolidação), a partir do capítulo 2 do relatório da Entrega 6 | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.2 | Novo cronograma (Tabela 4): construção em 07 e 08/11, piloto em 08/11, sessões de 09 a 11/11, consolidação e relato até 15/11; número de participantes e observador definidos; piloto passa a considerar a experiência do piloto do protótipo de papel | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
-| 10/11/2026 | 1.3 | Registro do protótipo construído no Figma (link e fluxos de início das tarefas); a T1 passa a começar na Tela 0 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 1.4 | Mudança da modalidade das sessões: remota pelo Microsoft Teams, com o participante usando o protótipo pelo controle remoto do Teams, no computador do avaliador (Seção 5); registro do efeito dessa escolha nos tempos medidos | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.3 | Registro do protótipo construído no Figma (link e fluxos de início das tarefas); a T1 passa a começar na Tela 0 | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 15/11/2026 | 1.4 | Mudança da modalidade das sessões: remota pelo Microsoft Teams, com o participante usando o protótipo pelo controle remoto do Teams, no computador do avaliador (Seção 5); registro do efeito dessa escolha nos tempos medidos | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
 
-| 22/11/2026 | 1.5 | Inclusão das legendas e fontes das tabelas que não as tinham, com a renumeração das tabelas seguintes, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 1.5 | Inclusão das legendas e fontes das tabelas que não as tinham, com a renumeração das tabelas seguintes, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.6 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: elaborado pelo autor (2026).
 
 ## 1. Introdução
@@ -379,3 +380,5 @@ Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este
 A versão em PDF deste artefato está disponível para download: [Planejamento do Teste de Usabilidade (PDF)](arquivos/roteiro-teste-usabilidade-alta-fidelidade.pdf).
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir as legendas e as fontes das tabelas que não as tinham e renumerar as tabelas seguintes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

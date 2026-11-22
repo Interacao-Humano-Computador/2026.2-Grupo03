@@ -7,7 +7,7 @@
 | Integrante | Contribuição incorporada | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro fundamentado, registros do piloto e da entrevista e relato individual dos resultados, com apoio de IA | [Material individual](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
-| Gabriel Robson Nunes Neiva da Silva | Material a incorporar nesta seção | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Material a incorporar nesta seção | — | — |
 | Henrique Schneider Fernandes da Rosa | Storyboard, HTA, roteiro, entrevistas com P1 e P2, relato individual dos resultados, planejamento individual do protótipo de papel e relatório do grupo, com apoio de IA | [Material individual](integrantes/henrique-schneider/index.md) | [Vídeos](integrantes/henrique-schneider/video-entrevista.md) |
 | João Vitor Tavares de Sá Lima | HTAs de agendamento e gerenciamento de biometria, storyboard, roteiro, avaliação e relato dos resultados | [Material individual](integrantes/joao-vitor/index.md) | [Vídeos](integrantes/joao-vitor/video-entrevista.md) |
 
@@ -20,14 +20,15 @@ Fonte: materiais disponibilizados para esta organização (2026). A tabela não 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Criação da página | Alexandre Vilar | João Vitor |
-| 25/10/2026 | 1.1 | Organização no padrão da Entrega 4; inclusão dos materiais de Alexandre e reserva dos espaços da entrevista e do relatório | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.2 | Inclusão do relato e do registro do piloto; atualização dos materiais e situações de Alexandre | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.3 | Inclusão dos materiais de João Vitor e atualização da situação da entrega | João Vitor, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider e do relatório do grupo (Google Docs, v1.8) | Henrique Schneider, com apoio do Claude | Gabriel Robson |
-| 25/10/2026 | 1.5 | Inclusão da consolidação de Alexandre no relatório do grupo e sincronização do perfil de P2 | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.6 | Atualização dos dados confirmados da entrevista e do piloto de Alexandre e do planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 10/11/2026 | 1.7 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 1.8 | Inclusão da introdução, do registro da inspeção do Grupo 08 e do material de Gabriel Robson; atualização do escopo e da situação, que ainda tratavam só do material de Alexandre; padronização de uma referência e de um link | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.1 | Organização no padrão da Entrega 4; inclusão dos materiais de Alexandre e reserva dos espaços da entrevista e do relatório | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.2 | Inclusão do relato e do registro do piloto; atualização dos materiais e situações de Alexandre | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.3 | Inclusão dos materiais de João Vitor e atualização da situação da entrega | João Vitor, com apoio do ChatGPT | Alexandre Vilar |
+| 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider e do relatório do grupo (Google Docs, v1.8) | Henrique Schneider, com apoio do Claude | João Vitor |
+| 25/10/2026 | 1.5 | Inclusão da consolidação de Alexandre no relatório do grupo e sincronização do perfil de P2 | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.6 | Atualização dos dados confirmados da entrevista e do piloto de Alexandre e do planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 10/11/2026 | 1.7 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.8 | Inclusão da introdução, do registro da inspeção do Grupo 08 e do material de Gabriel Robson; atualização do escopo e da situação, que ainda tratavam só do material de Alexandre; padronização de uma referência e de um link | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.9 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: histórico da página e registro desta atualização (2026).
 
@@ -147,3 +148,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, atualizar o escopo, a situação, a Tabela 4 e a Seção 6 com o que as páginas da entrega já registram, incluir a Seção 5.7 e completar a referência de Barbosa et al. (2021), a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -16,11 +16,12 @@ Fonte: elaboração do autor (2026).
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 14/11/2026 | 1.0 | Modelo de relato preparado com sessões, resultados e gravações pendentes | João Vitor | Gabriel Robson |
-| 15/11/2026 | 1.1 | Vinculação de quatro gravações e organização inicial do relato | João Vitor | Gabriel Robson |
-| 15/11/2026 | 1.2 | Revisão da redação, confirmação das datas, apresentação das fontes como vídeos e complemento do relato de P03 | João Vitor | Gabriel Robson |
+| 14/11/2026 | 1.0 | Modelo de relato preparado com sessões, resultados e gravações pendentes | João Vitor | Alexandre Vilar |
+| 15/11/2026 | 1.1 | Vinculação de quatro gravações e organização inicial do relato | João Vitor | Alexandre Vilar |
+| 15/11/2026 | 1.2 | Revisão da redação, confirmação das datas, apresentação das fontes como vídeos e complemento do relato de P03 | João Vitor | Alexandre Vilar |
 
-| 22/11/2026 | 1.3 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 1.3 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.4 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: registro desta versão (2026).
 
 ## Introdução
@@ -214,3 +215,5 @@ JOÃO VITOR. **Planejamento da avaliação do protótipo de alta fidelidade – 
 Utilizei o ChatGPT (OpenAI) como apoio à organização e à revisão do texto, das tabelas e dos links de evidência. A data de aplicação de todos os registros e o complemento sobre o reagendamento de P03 foram informados por mim. Mantive a autoria como João Vitor e não acrescentei falas, marcações de tempo ou valores não fornecidos. A responsabilidade pela conferência e pelo conteúdo publicado é minha.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

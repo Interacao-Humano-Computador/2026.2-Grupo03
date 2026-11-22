@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Planejamento, análise das três entrevistas e registro do ensaio técnico da vistoria veicular, com apoio do ChatGPT | [Relato individual](integrantes/alexandre-vilar/relato.md) | [Entrevistas e ensaio](integrantes/alexandre-vilar/relato.md#videos) |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Estrutura desta página, protótipo de alta fidelidade (Figma) e registro da sessão com o participante P8 | [Protótipo no Figma](https://www.figma.com/design/ETq2iqXulJJ31NDKwYkzVT) | [Gravação da sessão com P8](https://youtu.be/OI7Bcn_aIPI) |
 | João Vitor Tavares de Sá Lima | Protótipo de biometria, planejamento, vídeos e relato de think-aloud de P01/P02/P03 | [Relato individual](integrantes/joao-vitor/relato.md) | [Gravações fornecidas](integrantes/joao-vitor/relato.md#gravacoes) |
 
@@ -19,22 +19,23 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/11/2026 | 0.1 | Criação da estrutura do relato, com os prazos, o protótipo avaliado e as seções do relato dos resultados ainda sem dados, porque as sessões do teste de usabilidade não foram registradas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 11/11/2026 | 0.2 | Vinculação do planejamento e dos materiais individuais de Alexandre, sem resultados presumidos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 14/11/2026 | 0.3 | Inclusão dos materiais individuais e do protótipo navegável de biometria de João Vitor; avaliação ainda pendente | João Vitor | Gabriel Robson |
-| 15/11/2026 | 0.4 | Preenchimento do que já está definido no planejamento (objetivos, método, tarefas, valores-alvo e participante P8), inclusão das tabelas de sumário e de problemas e do link para a página da sessão; resultados ainda sem dados | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 0.5 | Ajuste do método à mudança da modalidade das sessões (controle remoto do Microsoft Teams) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 0.6 | Inclusão dos dados da sessão com o participante P8 (transcrição automática do Teams): participante, sumário, interpretação cautelosa, problemas, limitações e diferenças em relação ao planejamento; o vídeo ainda não foi conferido | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 0.7 | Inclusão do link para a versão em PDF da página | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 0.8 | Integrei minha análise de duas entrevistas e o registro do ensaio técnico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 15/11/2026 | 0.9 | Vinculação dos registros de biometria e análise textual preliminar, mantendo limites e P03 pendente | João Vitor | Gabriel Robson |
-| 15/11/2026 | 1.0 | Atualização da data das aplicações, apresentação dos vídeos e inclusão do reagendamento de P03 informado pelo avaliador | João Vitor | Gabriel Robson |
-| 15/11/2026 | 1.1 | Correção da introdução, que ainda dizia que não havia sessão registrada, e inclusão das chamadas das Tabelas 1, 2, 4 e 6 no texto, a partir da inspeção do próprio grupo; renumeração das versões do histórico, que estavam repetidas depois da fusão das edições dos integrantes | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 1.2 | Acrescentei minha entrevista P03 e sua captura de tela, com a sugestão de histórico de agendamentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 15/11/2026 | 1.3 | Inclusão do link da gravação da sessão com o participante P8 no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 1.4 | Inclusão do teste-piloto (ensaio técnico) na Seção 4.8 e nas limitações, e definição da sessão com P8 como a sessão válida da avaliação | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 1.5 | Inclusão do link da gravação do teste-piloto no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 1.6 | Restauração do texto da Seção 4.7 (planejamento do reprojeto), correção de frase da introdução, retirada da instrução de preenchimento da Seção 4, reorganização do parágrafo dos vídeos e separação das declarações de uso de IA, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 0.1 | Criação da estrutura do relato, com os prazos, o protótipo avaliado e as seções do relato dos resultados ainda sem dados, porque as sessões do teste de usabilidade não foram registradas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 11/11/2026 | 0.2 | Vinculação do planejamento e dos materiais individuais de Alexandre, sem resultados presumidos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
+| 14/11/2026 | 0.3 | Inclusão dos materiais individuais e do protótipo navegável de biometria de João Vitor; avaliação ainda pendente | João Vitor | Alexandre Vilar |
+| 15/11/2026 | 0.4 | Preenchimento do que já está definido no planejamento (objetivos, método, tarefas, valores-alvo e participante P8), inclusão das tabelas de sumário e de problemas e do link para a página da sessão; resultados ainda sem dados | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 15/11/2026 | 0.5 | Ajuste do método à mudança da modalidade das sessões (controle remoto do Microsoft Teams) | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 15/11/2026 | 0.6 | Inclusão dos dados da sessão com o participante P8 (transcrição automática do Teams): participante, sumário, interpretação cautelosa, problemas, limitações e diferenças em relação ao planejamento; o vídeo ainda não foi conferido | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 15/11/2026 | 0.7 | Inclusão do link para a versão em PDF da página | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 15/11/2026 | 0.8 | Integrei minha análise de duas entrevistas e o registro do ensaio técnico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
+| 15/11/2026 | 0.9 | Vinculação dos registros de biometria e análise textual preliminar, mantendo limites e P03 pendente | João Vitor | Alexandre Vilar |
+| 15/11/2026 | 1.0 | Atualização da data das aplicações, apresentação dos vídeos e inclusão do reagendamento de P03 informado pelo avaliador | João Vitor | Alexandre Vilar |
+| 15/11/2026 | 1.1 | Correção da introdução, que ainda dizia que não havia sessão registrada, e inclusão das chamadas das Tabelas 1, 2, 4 e 6 no texto, a partir da inspeção do próprio grupo; renumeração das versões do histórico, que estavam repetidas depois da fusão das edições dos integrantes | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 15/11/2026 | 1.2 | Acrescentei minha entrevista P03 e sua captura de tela, com a sugestão de histórico de agendamentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
+| 15/11/2026 | 1.3 | Inclusão do link da gravação da sessão com o participante P8 no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 15/11/2026 | 1.4 | Inclusão do teste-piloto (ensaio técnico) na Seção 4.8 e nas limitações, e definição da sessão com P8 como a sessão válida da avaliação | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 15/11/2026 | 1.5 | Inclusão do link da gravação do teste-piloto no YouTube | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.6 | Restauração do texto da Seção 4.7 (planejamento do reprojeto), correção de frase da introdução, retirada da instrução de preenchimento da Seção 4, reorganização do parágrafo dos vídeos e separação das declarações de uso de IA, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.7 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -191,3 +192,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 Em 14/11/2026, o ChatGPT (OpenAI) apoiou João Vitor na integração de seus materiais individuais, na implementação e documentação do protótipo de biometria e na verificação técnica. O apoio de IA está declarado nos agradecimentos; não foram criados resultados de sessões, falas ou gravações de participantes.
 
 Em 15/11/2026, o ChatGPT apoiou João Vitor na revisão editorial do relato. A data de aplicação de 14/11/2026 e o reagendamento de P03 foram informados pelo responsável. Não foram criadas falas, métricas ou valores ausentes dos registros.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

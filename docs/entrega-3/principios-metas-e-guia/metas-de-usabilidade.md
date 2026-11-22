@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Criação do documento (v1.0); revisão da v1.1 | [Commit d803534](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d803534) | — |
 | João Vitor Tavares de Sá Lima | Fundamentação teórica e redação das metas de usabilidade (v1.1); revisão da v1.0 | [Commit 5b5041f](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/5b5041f) | — |
 
@@ -21,10 +21,11 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | João Vitor Tavares |
 | 06/10/2026 | 1.1 | Redação das metas de usabilidade | João Vitor Tavares | Henrique Schneider |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição e histórico no início, seções numeradas), inclusão das páginas nas citações após conferência no livro, da seção de item de conteúdo e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.3 | Inclusão das fotos das fontes (Figuras 1 a 3), revisão das citações e organização da página | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 1.5 | Inclusão da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição e histórico no início, seções numeradas), inclusão das páginas nas citações após conferência no livro, da seção de item de conteúdo e da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.3 | Inclusão das fotos das fontes (Figuras 1 a 3), revisão das citações e organização da página | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.5 | Inclusão da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.6 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -94,3 +95,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

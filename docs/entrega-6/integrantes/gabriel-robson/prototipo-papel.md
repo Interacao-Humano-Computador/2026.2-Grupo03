@@ -8,7 +8,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Gabriel Robson Nunes Neiva da Silva | Protótipo de papel da proposta Renova CNH Fácil | [Visão geral](index.md) | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Protótipo de papel da proposta Renova CNH Fácil | [Visão geral](index.md) | — |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -18,10 +18,11 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 03/11/2026 | 1.0 | Criação da página, junto com a visão geral e os demais materiais individuais da Entrega 6 | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 1.1 | Inclusão da tabela de contribuição e do histórico de versões no formato do grupo | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 03/11/2026 | 1.0 | Criação da página, junto com a visão geral e os demais materiais individuais da Entrega 6 | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Alexandre Vilar |
+| 15/11/2026 | 1.1 | Inclusão da tabela de contribuição e do histórico de versões no formato do grupo | Henrique Schneider, com apoio do Claude (IA generativa) | Alexandre Vilar |
 
-| 22/11/2026 | 1.2 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 1.2 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## Introdução
@@ -115,3 +116,5 @@ O ChatGPT (OpenAI) foi utilizado como apoio para organizar a sequência das foto
 Em 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado apenas para incluir a tabela de contribuição e o histórico de versões, sem alterar o conteúdo escrito por Gabriel Robson.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

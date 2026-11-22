@@ -7,8 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Revisão da v1.0 | — | — |
-| Eduardo Ribeiro Gomes da Silva | Revisão da v2.0 | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Revisão da v2.0 | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Estrutura, público-alvo e bloco de perguntas (v1.0); revisão metodológica e fundamentação (v2.0); responsável pela elaboração e aplicação (seção 2) | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit 142c6cb](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/142c6cb) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -22,12 +22,13 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 17/09/2026 | 1.0 | Elaboração da estrutura, definição do público-alvo e criação do bloco de perguntas do questionário. | Henrique Schneider | Alexandre Vilar |
 | 27/09/2026 | 2.0 | Revisão metodológica, adequação das instruções de preenchimento, inclusão da fundamentação teórica e consolidação dos dados. | Henrique Schneider | Eduardo Ribeiro |
-| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, legendas), das citações e referências (ABNT), retirada dos campos "[Inserir…]" e inclusão da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 2.2 | Inclusão das fotos dos trechos de Barbosa e Silva (2010) citados como Figuras 1 a 4, correção das páginas citadas e retirada dos campos de link e de total de respostas sem conteúdo | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, legendas), das citações e referências (ABNT), retirada dos campos "[Inserir…]" e inclusão da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 2.2 | Inclusão das fotos dos trechos de Barbosa e Silva (2010) citados como Figuras 1 a 4, correção das páginas citadas e retirada dos campos de link e de total de respostas sem conteúdo | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
-| 22/11/2026 | 2.4 | Correção dos nomes das personas e da numeração da Tabela 3, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 2.5 | Citação do portal do Detran-DF e da NBR 6023 e retirada de Courage e Baxter (2005), que não é citado no texto, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 2.4 | Correção dos nomes das personas e da numeração da Tabela 3, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 2.5 | Citação do portal do Detran-DF e da NBR 6023 e retirada de Courage e Baxter (2005), que não é citado no texto, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 2.6 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução e Importância no Contexto de IHC
@@ -190,3 +191,5 @@ Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic)
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para corrigir os nomes das personas, conforme a página Perfis e Personas, e a numeração dos itens da Tabela 3, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para citar no texto o portal do Detran-DF e a NBR 6023, que estavam só nas referências, e retirar uma obra não citada, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

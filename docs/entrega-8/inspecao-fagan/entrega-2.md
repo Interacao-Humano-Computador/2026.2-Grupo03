@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Preparação da inspeção (passo 3 de Fagan): leitura das páginas e registro preliminar das avaliações | [Inspeção da Entrega 2 – Perfil do Usuário, Aspectos Éticos e Análise de Tarefas](entrega-2.md) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -19,9 +19,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
-| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 0.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -39,7 +40,7 @@ A Tabela 3 resume as avaliações das listas desta página na preparação e dep
 | Momento | Artefatos inspecionados | Conforme | Parcial | Não conforme | Não se aplica | A confirmar |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | Preparação (19/11/2026) | 12 | 96 | — | 28 | 1 | 0 |
-| Após a correção (22/11/2026) | 12 | 102 | 1 | 21 | 1 | 0 |
+| Após a correção (22/11/2026) | 12 | 103 | 1 | 20 | 1 | 0 |
 
 Fonte: elaborado pelos autores (2026), a partir das listas desta página.
 
@@ -79,11 +80,11 @@ Artefato: [Contribuições](../../entrega-2/contribuicoes.md). A Tabela 5 traz a
 | G3 | O artefato tem referências no padrão ABNT, e as citações indicam capítulo e página? | Conforme | — | — | — |
 | G4 | As tabelas e imagens têm legenda, fonte e chamada no texto? | Conforme | — | — | — |
 | G5 | O artefato tem uma introdução? | Conforme | — | — | — |
-| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não conforme | Ausência | Eduardo e João Vitor com "—" | Registrar a contribuição deles nesta matriz |
+| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não conforme | Ausência | Eduardo e João Vitor com "—" (a parte que trata de ex-integrante não é considerada) | Registrar a contribuição deles nesta matriz |
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
-| E2-3 | As atividades atribuídas na matriz têm evidência publicada? | Não conforme | Inconsistência | A Tabela 3 atribui a Alexandre, Henrique e João Vitor "modelagem HTA/CTT individual" que não está publicada; a Tabela 4 diz que Gabriel fez "HTA e CTT", mas não há CTT | Publicar as modelagens ou retirar a atribuição |
-| E2-4 | Os revisores e os participantes da reunião correspondem aos históricos e à ata? | Não conforme | Inconsistência | A coluna "Revisor(es)" da Tabela 3 não bate com os históricos; a Tabela 5 lista Eduardo e João Vitor na reunião, mas a ata registra os dois como ausentes; links e duração em "—" | Corrigir com base nos históricos e na ata da Reunião 01 |
+| E2-3 | As atividades atribuídas na matriz têm evidência publicada? | Não conforme | Inconsistência | A Tabela 3 atribui a Alexandre, Henrique e João Vitor "modelagem HTA/CTT individual" que não está publicada; a Tabela 4 diz que Gabriel fez "HTA e CTT", mas não há CTT (a parte que trata de ex-integrante não é considerada) | Publicar as modelagens ou retirar a atribuição |
+| E2-4 | Os revisores e os participantes da reunião correspondem aos históricos e à ata? | Não conforme | Inconsistência | A coluna "Revisor(es)" da Tabela 3 não bate com os históricos; a Tabela 5 lista Eduardo e João Vitor na reunião, mas a ata registra os dois como ausentes; links e duração em "—" (a parte que trata de ex-integrante não é considerada) | Corrigir com base nos históricos e na ata da Reunião 01 |
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
 
@@ -237,7 +238,7 @@ Artefato: [Listas da Entrega 2](../../entrega-2/verificacao/listas.md). A Tabela
 | G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Conforme | — | — | — |
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
-| E2-13 | Há uma lista de verificação para cada artefato, com as quantidades mínimas da monitoria (itens 10 a 15)? | Não conforme | Ausência | Não há lista de Cenários (≥ 8); Henrique não tem lista; Gabriel não tem lista de Perfil nem de CTT; a lista de Elenco de João Vitor tem 6 itens; as listas de técnicas de coleta estão dentro das listas de Perfil | Elaborar as listas que faltam ou registrar a ausência |
+| E2-13 | Há uma lista de verificação para cada artefato, com as quantidades mínimas da monitoria (itens 10 a 15)? | Não conforme | Ausência | Não há lista de Cenários (≥ 8); Henrique não tem lista; Gabriel não tem lista de Perfil nem de CTT; a lista de Elenco de João Vitor tem 6 itens; as listas de técnicas de coleta estão dentro das listas de Perfil (a parte que trata de ex-integrante não é considerada) | Elaborar as listas que faltam ou registrar a ausência |
 | E2-14 | Cada integrante elaborou ao menos um item de conteúdo com referência e foto? (Plano) | Não conforme | Ausência | Henrique Schneider não tem item de conteúdo na Entrega 2 | Registrar a ausência ou incluir o item |
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
@@ -278,7 +279,7 @@ Artefato: [Alexandre Vilar](../../entrega-2/integrantes/alexandre-vilar/index.md
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
 | E2-15 | Cada item das listas tem fonte com capítulo e página e foto do trecho? | Conforme | — | — | — |
-| E2-16 | As atividades declaradas como realizadas nas visões gerais têm evidência publicada? | Não conforme | Inconsistência | As visões gerais de Alexandre, Gabriel e Henrique citam modelagem HTA/CTT individual sem página publicada | Publicar as modelagens ou corrigir o texto |
+| E2-16 | As atividades declaradas como realizadas nas visões gerais têm evidência publicada? | Não conforme | Inconsistência | As visões gerais de Alexandre, Gabriel e Henrique citam modelagem HTA/CTT individual sem página publicada (a parte que trata de ex-integrante não é considerada) | Publicar as modelagens ou corrigir o texto |
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
 
@@ -304,9 +305,9 @@ Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) 
 
 ## 4. Correção e acompanhamento
 
-Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. A Tabela 16 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
+Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. Os itens de ex-integrantes (Camile Barbosa, Eduardo Ribeiro e Gabriel Robson) foram sinalizados como Não se aplica e saíram desta tabela. A Tabela 16 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
 
-Nesta página, 28 itens foram retomados: 6 ficaram conformes, 1 foram corrigidos em parte e 21 continuam pendentes.
+Nesta página, 28 itens foram retomados: 7 ficaram conformes, 1 foram corrigidos em parte e 20 continuam pendentes.
 
 **Tabela 16 – Correção e acompanhamento das não conformidades**
 
@@ -315,9 +316,9 @@ Nesta página, 28 itens foram retomados: 6 ficaram conformes, 1 foram corrigidos
 | 3.1 | [Relatório da Entrega 2](../../entrega-2/relatorio.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída (versão 3.3) |
 | 3.1 | [Relatório da Entrega 2](../../entrega-2/relatorio.md) | E2-1 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.1 | [Relatório da Entrega 2](../../entrega-2/relatorio.md) | E2-2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
-| 3.2 | [Matriz de Contribuição da Entrega 2](../../entrega-2/contribuicoes.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.2 | [Matriz de Contribuição da Entrega 2](../../entrega-2/contribuicoes.md) | E2-3 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
-| 3.2 | [Matriz de Contribuição da Entrega 2](../../entrega-2/contribuicoes.md) | E2-4 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.2 | [Matriz de Contribuição da Entrega 2](../../entrega-2/contribuicoes.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo; a parte de ex-integrante não é considerada |
+| 3.2 | [Matriz de Contribuição da Entrega 2](../../entrega-2/contribuicoes.md) | E2-3 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir); a parte de ex-integrante não é considerada |
+| 3.2 | [Matriz de Contribuição da Entrega 2](../../entrega-2/contribuicoes.md) | E2-4 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir); a parte de ex-integrante não é considerada |
 | 3.3 | [Perfis de Usuário e Personas](../../entrega-2/perfil-e-tarefas/perfis-e-personas.md) | G3 | Não conforme | Forma | Parcial | NBR 6023 e Detran-DF passaram a ser citados no texto; a fonte “Rosa (2026)” da Tabela 5 continua |
 | 3.3 | [Perfis de Usuário e Personas](../../entrega-2/perfil-e-tarefas/perfis-e-personas.md) | C1 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
 | 3.3 | [Perfis de Usuário e Personas](../../entrega-2/perfil-e-tarefas/perfis-e-personas.md) | C3 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
@@ -335,10 +336,10 @@ Nesta página, 28 itens foram retomados: 6 ficaram conformes, 1 foram corrigidos
 | 3.7 | [Questionário](../../entrega-2/perfil-e-tarefas/questionarios.md) | E2-10 | Não conforme | Ausência | Corrigida | Itens renumerados de 1 a 4 |
 | 3.8 | [Inspeção do Grupo 02](../../entrega-2/verificacao/inspecao-grupo-02.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.8 | [Inspeção do Grupo 02](../../entrega-2/verificacao/inspecao-grupo-02.md) | E2-12 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.9 | [Listas de Verificação da Entrega 2](../../entrega-2/verificacao/listas.md) | E2-13 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.9 | [Listas de Verificação da Entrega 2](../../entrega-2/verificacao/listas.md) | E2-13 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo; a parte de ex-integrante não é considerada |
 | 3.9 | [Listas de Verificação da Entrega 2](../../entrega-2/verificacao/listas.md) | E2-14 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.11 | [Listas individuais da Entrega 2 (Alexandre, Gabriel e João Vitor)](../../entrega-2/integrantes/alexandre-vilar/index.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
-| 3.11 | [Listas individuais da Entrega 2 (Alexandre, Gabriel e João Vitor)](../../entrega-2/integrantes/alexandre-vilar/index.md) | E2-16 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.11 | [Listas individuais da Entrega 2 (Alexandre, Gabriel e João Vitor)](../../entrega-2/integrantes/alexandre-vilar/index.md) | G2 | Não conforme | Inconsistência | Corrigida | Revisor Gabriel Robson, ex-integrante, trocado por integrante atual nas listas dele |
+| 3.11 | [Listas individuais da Entrega 2 (Alexandre, Gabriel e João Vitor)](../../entrega-2/integrantes/alexandre-vilar/index.md) | E2-16 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir); a parte de ex-integrante não é considerada |
 | 3.12 | [Página de Henrique Schneider na Entrega 2](../../entrega-2/integrantes/henrique-schneider/index.md) | E2-17 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 
 Fonte: elaborado pelos autores (2026), a partir das listas da Seção 3 e dos históricos de versões das páginas corrigidas.
@@ -352,3 +353,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler as páginas dos artefatos, montar as listas de inspeção e registrar as avaliações da preparação, com o problema e a ação corretiva de cada não conformidade. As avaliações não substituem a reunião de inspeção do grupo. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
 
 Em 22/11/2026, o Claude foi usado, a pedido de Henrique Schneider, para corrigir nas páginas do site as não conformidades que não dependiam de dados novos, registrar na Seção 4 a situação de cada item retomado e recalcular o resumo. As situações devem ser confirmadas na reunião de inspeção.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

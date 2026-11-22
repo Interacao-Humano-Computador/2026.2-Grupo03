@@ -7,7 +7,7 @@
 | Integrante | Material | Evidência | Gravação |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro, piloto, entrevista, relato individual e consolidação de P2/Fluxo 5 no relatório do grupo; apoio de IA na organização e análise | [Visão geral](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
-| Gabriel Robson Nunes Neiva da Silva | Proposta de renovação guiada da CNH: HTAs, roteiro textual de storyboard, roteiro de entrevista e protótipo demonstrativo; avaliação pendente | [Visão geral](integrantes/gabriel-robson/index.md) | Não realizada |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Proposta de renovação guiada da CNH: HTAs, roteiro textual de storyboard, roteiro de entrevista e protótipo demonstrativo; avaliação pendente | [Visão geral](integrantes/gabriel-robson/index.md) | Não realizada |
 | Henrique Schneider Fernandes da Rosa | Storyboard, HTA, roteiro, entrevistas com P1 e P2, relato dos resultados, planejamento individual do protótipo de papel e relatório do grupo; apoio de IA na organização e análise | [Visão geral](integrantes/henrique-schneider/index.md) | [Vídeos](integrantes/henrique-schneider/video-entrevista.md) |
 | João Vitor Tavares de Sá Lima | HTAs de biometria, storyboard, roteiro, avaliação e relato dos resultados; gravações publicadas | [Visão geral](integrantes/joao-vitor/index.md) | [Vídeos](integrantes/joao-vitor/video-entrevista.md) |
 
@@ -19,14 +19,15 @@ Fonte: materiais fornecidos para esta atualização (2026). As demais contribui�
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Organização dos materiais disponíveis de Alexandre | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.1 | Atualização das evidências de Alexandre com gravações, piloto e análise pós-entrevista | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.2 | Inclusão dos materiais de João Vitor | João Vitor, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.3 | Atualização do status dos vídeos, avaliação e relato de João Vitor | João Vitor, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider | Henrique Schneider, com apoio do Claude | Gabriel Robson |
-| 25/10/2026 | 1.5 | Registro da consolidação de Alexandre, conferência do Fluxo 5 e escopo preparatório do protótipo | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.6 | Registro do apoio e revisão previstos de João Vitor e da logística provisória do protótipo | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 10/11/2026 | 1.7 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.0 | Organização dos materiais disponíveis de Alexandre | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.1 | Atualização das evidências de Alexandre com gravações, piloto e análise pós-entrevista | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.2 | Inclusão dos materiais de João Vitor | João Vitor, com apoio do ChatGPT | Alexandre Vilar |
+| 25/10/2026 | 1.3 | Atualização do status dos vídeos, avaliação e relato de João Vitor | João Vitor, com apoio do ChatGPT | Alexandre Vilar |
+| 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider | Henrique Schneider, com apoio do Claude | Alexandre Vilar |
+| 25/10/2026 | 1.5 | Registro da consolidação de Alexandre, conferência do Fluxo 5 e escopo preparatório do protótipo | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.6 | Registro do apoio e revisão previstos de João Vitor e da logística provisória do protótipo | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 10/11/2026 | 1.7 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.8 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 ## 1. Introdução
 
@@ -99,3 +100,5 @@ Fonte: materiais fornecidos por Henrique Schneider (2026). O Claude (Anthropic) 
 João Vitor foi indicado por Alexandre como revisor previsto dos materiais. A revisão ainda não está registrada como realizada; por isso, os históricos não o apresentam como revisor de uma versão já conferida.
 
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

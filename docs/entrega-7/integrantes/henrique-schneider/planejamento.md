@@ -16,7 +16,8 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/11/2026 | 1.0 | Criação do resumo do planejamento na estrutura das páginas da Entrega 7, a partir do roteiro do teste de usabilidade (v1.4) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/11/2026 | 1.0 | Criação do resumo do planejamento na estrutura das páginas da Entrega 7, a partir do roteiro do teste de usabilidade (v1.4) | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.1 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -89,3 +90,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para resumir o roteiro do teste de usabilidade na estrutura das páginas da Entrega 7, sem acrescentar dados. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

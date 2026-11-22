@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Decisão de aplicar a inspeção de Fagan com uma lista por artefato; levantamento do material conceitual; planejamento, preparação, correção e acompanhamento da inspeção | [Inspeção de Fagan](index.md) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -19,9 +19,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 19/11/2026 | 0.1 | Criação da página com o material conceitual da inspeção de Fagan, o planejamento da inspeção dos artefatos e o formato das listas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (passos 5 e 6), inclusão das páginas gerais do site entre os objetos da inspeção, dos itens do Plano de Ensino sobre a avaliação do projeto e do resultado depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 0.1 | Criação da página com o material conceitual da inspeção de Fagan, o planejamento da inspeção dos artefatos e o formato das listas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (passos 5 e 6), inclusão das páginas gerais do site entre os objetos da inspeção, dos itens do Plano de Ensino sobre a avaliação do projeto e do resultado depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 0.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
+| 22/11/2026 | 0.4 | Exclusão da inspeção dos itens de ex-integrantes (Camile Barbosa, Eduardo Ribeiro e Gabriel Robson) e novo cálculo do resultado | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -89,7 +91,7 @@ Fonte: Univesp ([20--], aula 06, 15:26).
 
 ### 3.1 Objetos da inspeção
 
-Os objetos da inspeção são **todos os artefatos do projeto**, e não apenas as entregas: os artefatos das Entregas 1 a 7 publicados no site, no estado em que estavam em 19/11/2026, e as páginas gerais (página inicial, atas, apresentações e gravações, Plano de Ensino, integrantes, listas de verificação, relatórios e trabalhos avaliativos), além dos itens que valem para o site, o repositório e os vídeos como um todo. Cada artefato tem a sua lista; as páginas gerais foram incluídas em 22/11/2026.
+Os objetos da inspeção são **todos os artefatos do projeto**, e não apenas as entregas: os artefatos das Entregas 1 a 7 publicados no site, no estado em que estavam em 19/11/2026, e as páginas gerais (página inicial, atas, apresentações e gravações, Plano de Ensino, integrantes, listas de verificação, relatórios e trabalhos avaliativos), além dos itens que valem para o site, o repositório e os vídeos como um todo. Cada artefato tem a sua lista; as páginas gerais foram incluídas em 22/11/2026. Só são considerados os integrantes atuais do grupo (Alexandre Vilar, Henrique Schneider e João Vitor). Os itens dos ex-integrantes Camile Barbosa, Eduardo Ribeiro e Gabriel Robson, incluindo os três artefatos com o material de Gabriel Robson nas Entregas 5 a 7, ficam sinalizados como Não se aplica e não entram nos totais; nos históricos de versões, o revisor Gabriel Robson foi trocado por João Vitor ou Alexandre Vilar.
 
 ### 3.2 Os seis passos neste projeto
 
@@ -110,21 +112,21 @@ Fonte: elaborado pelos autores (2026), com os passos de Serrano e Serrano ([20--
 
 ### 3.3 Listas por entrega
 
-O Quadro 3 indica onde estão as listas de cada entrega e resume o resultado da preparação e o da correção. Dos 768 itens aplicáveis, 544 (71%) estavam conformes na preparação; depois da correção, 601 (78%) estão conformes, 9 foram corrigidos em parte e 158 continuam pendentes, quase todos por dependerem de material que não existe (vídeos, atas, gravações, material de um integrante) ou de dados e decisões dos autores (revisores, datas reais, contribuições).
+O Quadro 3 indica onde estão as listas de cada entrega e resume o resultado da preparação e o da correção. Dos 738 itens aplicáveis, 535 (72%) estavam conformes na preparação; depois da correção, 598 (81%) estão conformes, 10 foram corrigidos em parte e 130 continuam pendentes, quase todos por dependerem de material que não existe (vídeos, atas, gravações) ou de dados e decisões dos autores (revisores, datas reais, contribuições).
 
 **Quadro 3 – Listas de inspeção por entrega e resultado da preparação e da correção**
 
 | Página | Artefatos | Conforme (preparação) | Não conforme (preparação) | A confirmar (preparação) | Conforme (após a correção) | Parcial | Pendente | Não se aplica |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Itens gerais do projeto](projeto.md) | 10 | 77 | 13 | 0 | 79 | 0 | 11 | 17 |
-| [Entrega 1](entrega-1.md) | 15 | 106 | 44 | 0 | 110 | 3 | 37 | 1 |
-| [Entrega 2](entrega-2.md) | 12 | 96 | 28 | 0 | 102 | 1 | 21 | 1 |
-| [Entrega 3](entrega-3.md) | 10 | 66 | 27 | 0 | 72 | 2 | 19 | 8 |
-| [Entrega 4](entrega-4.md) | 7 | 52 | 26 | 0 | 56 | 1 | 21 | 0 |
-| [Entrega 5](entrega-5.md) | 9 | 60 | 28 | 6 | 73 | 2 | 19 | 0 |
-| [Entrega 6](entrega-6.md) | 7 | 48 | 21 | 5 | 61 | 0 | 13 | 0 |
-| [Entrega 7](entrega-7.md) | 6 | 39 | 22 | 4 | 48 | 0 | 17 | 8 |
-| **Total** | **76** | **544** | **209** | **15** | **601** | **9** | **158** | **35** |
+| [Itens gerais do projeto](projeto.md) | 10 | 77 | 12 | 0 | 79 | 0 | 10 | 18 |
+| [Entrega 1](entrega-1.md) | 15 | 106 | 44 | 0 | 117 | 5 | 28 | 1 |
+| [Entrega 2](entrega-2.md) | 12 | 96 | 28 | 0 | 103 | 1 | 20 | 1 |
+| [Entrega 3](entrega-3.md) | 10 | 66 | 25 | 0 | 73 | 2 | 16 | 10 |
+| [Entrega 4](entrega-4.md) | 7 | 52 | 23 | 0 | 56 | 0 | 19 | 3 |
+| [Entrega 5](entrega-5.md) | 9 | 56 | 21 | 5 | 67 | 2 | 13 | 12 |
+| [Entrega 6](entrega-6.md) | 7 | 43 | 16 | 5 | 55 | 0 | 9 | 10 |
+| [Entrega 7](entrega-7.md) | 6 | 39 | 20 | 4 | 48 | 0 | 15 | 10 |
+| **Total** | **76** | **535** | **189** | **14** | **598** | **10** | **130** | **65** |
 
 Fonte: elaborado pelos autores (2026), a partir das listas de cada página.
 
@@ -161,3 +163,5 @@ WASHIZAKI, Hironori (ed.). *Guide to the Software Engineering Body of Knowledge 
 **Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para levantar no material de consulta do grupo os trechos sobre inspeção e sobre o método de Fagan (slides de Serrano e Serrano, videoaula da Univesp já capturada nas listas de exercícios da Entrega 1, SWEBOK v4 e modelo de lista de verificação da disciplina), redigir esta página e organizar o planejamento. As figuras são capturas já publicadas nas listas de exercícios da Entrega 1. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para corrigir as não conformidades que não dependiam de dados novos, registrar a correção e o acompanhamento nas listas, incluir as páginas gerais do site e os itens do Plano de Ensino sobre a avaliação do projeto e recalcular o resultado. As correções estão no histórico de versões de cada página corrigida.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

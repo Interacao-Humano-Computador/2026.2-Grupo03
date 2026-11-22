@@ -7,7 +7,7 @@
 | Integrante | Contribuição registrada na Entrega 3 | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Princípios gerais e conformidades do Detran-DF (v1.1, com Henrique Schneider); cenários das personas; inspeção em dupla do Grupo 07 (itens 20 a 22) | [Princípios Gerais](principios-metas-e-guia/principios-gerais.md); [Inspeção do Grupo 07](verificacao/inspecao-grupo-07.md) | [Inspeção em dupla](https://www.youtube.com/watch?v=ObXAAFdPD_I) |
-| Gabriel Robson Nunes Neiva da Silva | Guia de Estilo (v1.1) | [Commit 3687d52](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/3687d52) | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Guia de Estilo (v1.1) | [Commit 3687d52](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/3687d52) | — |
 | Henrique Schneider Fernandes da Rosa | Estrutura das páginas; princípios gerais (v1.0 e v1.1); relatório da entrega e GitHub Pages; inspeção individual do Grupo 07 (itens 11 a 15) | [Commit d803534](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d803534); [commit 54c77f2](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/54c77f2) | [Inspeção individual](https://youtu.be/TYv1vovnuYc) |
 | João Vitor Tavares de Sá Lima | Metas de usabilidade (v1.1); inspeção em dupla do Grupo 07 (itens 16 a 19) | [Commit 5b5041f](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/5b5041f) | [Inspeção em dupla](https://www.youtube.com/watch?v=ObXAAFdPD_I) |
 
@@ -19,11 +19,12 @@ Fonte: elaborado pelos autores (2026), com base nos históricos de versão, nos 
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/10/2026 | 1.0 | Relatório entregue no Moodle em PDF | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, matriz de conformidade com a lista do Plano de Ensino após a refatoração e inspeção | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 2.1 | Inclusão da avaliação da monitoria e organização da página | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 2.3 | Inclusão da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 06/10/2026 | 1.0 | Relatório entregue no Moodle em PDF | Henrique Schneider | João Vitor |
+| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, matriz de conformidade com a lista do Plano de Ensino após a refatoração e inspeção | Henrique Schneider | João Vitor |
+| 17/10/2026 | 2.1 | Inclusão da avaliação da monitoria e organização da página | Henrique Schneider | João Vitor |
+| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 2.3 | Inclusão da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 2.4 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -94,3 +95,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta o conteúdo já existente na página, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

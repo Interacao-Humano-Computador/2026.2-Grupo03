@@ -7,8 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Listas de verificação individuais de perfil de usuário, personas, elenco de personas, HTA e CTT (Quadro 2) | [Lista – Perfil de usuário](../integrantes/alexandre-vilar/lista-perfil-usuario.md) e demais listas do Quadro 2 | — |
-| Eduardo Ribeiro Gomes da Silva | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | Listas de verificação individuais de personas, elenco de personas e HTA (Quadro 2) | [Lista – Personas](../integrantes/gabriel-robson/lista-personas.md) e demais listas do Quadro 2 | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Listas de verificação individuais de personas, elenco de personas e HTA (Quadro 2) | [Lista – Personas](../integrantes/gabriel-robson/lista-personas.md) e demais listas do Quadro 2 | — |
 | Henrique Schneider Fernandes da Rosa | Autoavaliação da Entrega 2 com a lista do Plano de Ensino | [Autoavaliação](../../listas-verificacao/autoavaliacao.md), Tabela 4 | [Reunião 01](https://youtu.be/jhhM3LJIpgA) |
 | João Vitor Tavares de Sá Lima | Listas de verificação individuais de perfil de usuário, personas, elenco de personas, HTA e CTT (Quadro 2) | [Lista – Perfil de usuário](../integrantes/joao-vitor/lista-perfil-usuario.md) e demais listas do Quadro 2 | — |
 
@@ -20,10 +20,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da página: transcrição da lista do Plano de Ensino e da lista aplicada pela monitoria em 01/10/2026, levantamento das listas do grupo, das listas por artefato pedidas pelo professor e das aplicações | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.1 | Transferência da avaliação da monitoria para página própria, inclusão do quadro das listas de verificação individuais e reorganização das seções | Henrique Schneider | Gabriel Robson |
-| 19/10/2026 | 1.2 | Inclusão das listas de verificação individuais de Gabriel Robson (personas, elenco de personas e HTA) | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/10/2026 | 1.0 | Criação da página: transcrição da lista do Plano de Ensino e da lista aplicada pela monitoria em 01/10/2026, levantamento das listas do grupo, das listas por artefato pedidas pelo professor e das aplicações | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.1 | Transferência da avaliação da monitoria para página própria, inclusão do quadro das listas de verificação individuais e reorganização das seções | Henrique Schneider | Alexandre Vilar |
+| 19/10/2026 | 1.2 | Inclusão das listas de verificação individuais de Gabriel Robson (personas, elenco de personas e HTA) | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.4 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -78,9 +79,9 @@ As listas individuais correspondem às atividades do Moodle "Lista de verificaç
 | Alexandre Vilar Valadares Fonsêca | Elenco de personas | 8 | [Lista de verificação – Elenco de personas](../integrantes/alexandre-vilar/lista-elenco-personas.md) |
 | Alexandre Vilar Valadares Fonsêca | Análise Hierárquica de Tarefas (HTA) | 10 | [Lista de verificação – HTA](../integrantes/alexandre-vilar/lista-hta.md) |
 | Alexandre Vilar Valadares Fonsêca | Árvores de Tarefas Concorrentes (CTT) | 14 | [Lista de verificação – CTT](../integrantes/alexandre-vilar/lista-ctt.md) |
-| Gabriel Robson Nunes Neiva da Silva | Personas | 12 | [Lista de verificação – Personas](../integrantes/gabriel-robson/lista-personas.md) |
-| Gabriel Robson Nunes Neiva da Silva | Elenco de personas | 8 | [Lista de verificação – Elenco de personas](../integrantes/gabriel-robson/lista-elenco-personas.md) |
-| Gabriel Robson Nunes Neiva da Silva | Análise Hierárquica de Tarefas (HTA) | 8 | [Lista de verificação – HTA](../integrantes/gabriel-robson/lista-hta.md) |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Personas | 12 | [Lista de verificação – Personas](../integrantes/gabriel-robson/lista-personas.md) |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Elenco de personas | 8 | [Lista de verificação – Elenco de personas](../integrantes/gabriel-robson/lista-elenco-personas.md) |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Análise Hierárquica de Tarefas (HTA) | 8 | [Lista de verificação – HTA](../integrantes/gabriel-robson/lista-hta.md) |
 | João Vitor Tavares de Sá Lima | Perfil de usuário | 42 | [Lista de verificação – Perfil de usuário](../integrantes/joao-vitor/lista-perfil-usuario.md) |
 | João Vitor Tavares de Sá Lima | Personas | 13 | [Lista de verificação – Personas](../integrantes/joao-vitor/lista-personas.md) |
 | João Vitor Tavares de Sá Lima | Elenco de personas | 6 | [Lista de verificação – Elenco de personas](../integrantes/joao-vitor/lista-elenco-personas.md) |
@@ -150,3 +151,5 @@ SILVA, Giovana Barbosa da. *Atividade avaliativa: IHC: Etapa 2: Grupo 3*. Brasí
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever a lista do Plano de Ensino e o enunciado da atividade de listas de verificação, levantar nas páginas do site as listas do grupo, as listas individuais e as aplicações já registradas, montar os quadros e transferir a transcrição da avaliação da monitoria para página própria. Nenhum item, resposta ou autoria foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

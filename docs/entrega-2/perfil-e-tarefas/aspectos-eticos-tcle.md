@@ -7,8 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Eduardo Ribeiro Gomes da Silva | "Ajuda inicial na elaboração do TCLE", registrada na ata da Reunião 01 | [Ata da Reunião 01](../../atas/ata-reuniao-20260927-01.md), Tabela 7 | — |
-| Gabriel Robson Nunes Neiva da Silva | Apoio aos aspectos éticos e ao TCLE, registrado na matriz de contribuição da Entrega 2 | [Matriz de Contribuição](../contribuicoes.md), Tabela 4 | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | "Ajuda inicial na elaboração do TCLE", registrada na ata da Reunião 01 | [Ata da Reunião 01](../../atas/ata-reuniao-20260927-01.md), Tabela 7 | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Apoio aos aspectos éticos e ao TCLE, registrado na matriz de contribuição da Entrega 2 | [Matriz de Contribuição](../contribuicoes.md), Tabela 4 | — |
 | Henrique Schneider Fernandes da Rosa | Ajustes nas cláusulas de anonimato e desistência (v1.1) e introdução sobre os 4 princípios (v1.2); revisão da v1.0 | [Commit 142c6cb](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/142c6cb); [commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | — |
 | João Vitor Tavares de Sá Lima | Elaboração inicial das diretrizes éticas e do TCLE (v1.0); revisão das v1.1 e v1.2 | [Commit 01df6a6](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/01df6a6) | — |
 
@@ -23,11 +23,12 @@ Fonte: elaborado pelos autores (2026).
 | 17/09/2026 | 1.0 | Elaboração inicial das diretrizes éticas e estruturação do TCLE para pesquisas no Portal Detran-DF. | João Vitor | Henrique Schneider |
 | 27/09/2026 | 1.1 | Ajustes nas cláusulas de salvaguarda de anonimato e direito de desistência do participante. | Henrique Schneider | João Vitor |
 | 27/09/2026 | 1.2 | Inclusão de texto introdutório fundamentando a importância teórica dos 4 princípios éticos e do TCLE em IHC. | Henrique Schneider | João Vitor |
-| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, numeração das seções), das citações e referências (ABNT), inclusão da seção de itens de conteúdo e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 138, 139, 141 e 142) como Figuras 1 a 4, da fonte do termo de consentimento e retirada da seção de itens de conteúdo | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, numeração das seções), das citações e referências (ABNT), inclusão da seção de itens de conteúdo e da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 138, 139, 141 e 142) como Figuras 1 a 4, da fonte do termo de consentimento e retirada da seção de itens de conteúdo | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
-| 22/11/2026 | 1.6 | Registro de que a Resolução CNS nº 196/96 foi revogada pela Resolução nº 466/2012, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 1.6 | Registro de que a Resolução CNS nº 196/96 foi revogada pela Resolução nº 466/2012, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.7 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução e Importância no Contexto de IHC
@@ -118,3 +119,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para registrar que a Resolução nº 196/96, citada pelo livro, foi revogada pela Resolução nº 466/2012 e incluir esta nas referências, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

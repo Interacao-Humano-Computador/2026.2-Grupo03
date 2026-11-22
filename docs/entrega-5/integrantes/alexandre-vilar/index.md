@@ -16,11 +16,12 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Elaboração do storyboard e organização do HTA, do redesign e do roteiro de entrevista | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.1 | Atualização dos materiais publicados, situação da avaliação e pendências de registro | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.3 | Atualização da situação com dados confirmados das sessões e intenções para o protótipo | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.0 | Elaboração do storyboard e organização do HTA, do redesign e do roteiro de entrevista | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.1 | Atualização dos materiais publicados, situação da avaliação e pendências de registro | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.3 | Atualização da situação com dados confirmados das sessões e intenções para o protótipo | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.5 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução
@@ -72,3 +73,5 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selba
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

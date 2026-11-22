@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Preparação da inspeção (passo 3 de Fagan): leitura das páginas e registro preliminar das avaliações | [Inspeção da Entrega 3 – Princípios Gerais, Metas de Usabilidade e Guia de Estilo](entrega-3.md) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -19,9 +19,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
-| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 0.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -38,8 +39,8 @@ A Tabela 3 resume as avaliações das listas desta página na preparação e dep
 
 | Momento | Artefatos inspecionados | Conforme | Parcial | Não conforme | Não se aplica | A confirmar |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| Preparação (19/11/2026) | 10 | 66 | — | 27 | 8 | 0 |
-| Após a correção (22/11/2026) | 10 | 72 | 2 | 19 | 8 | 0 |
+| Preparação (19/11/2026) | 10 | 66 | — | 25 | 10 | 0 |
+| Após a correção (22/11/2026) | 10 | 73 | 2 | 16 | 10 | 0 |
 
 Fonte: elaborado pelos autores (2026), a partir das listas desta página.
 
@@ -99,7 +100,7 @@ Artefato: [Princípios Gerais](../../entrega-3/principios-metas-e-guia/principio
 | G3 | O artefato tem referências no padrão ABNT, e as citações indicam capítulo e página? | Não conforme | Forma | A introdução cita "Barbosa e Silva (2010)" sem página | Indicar cap. 8, seç. 8.2, p. 265 (Figura 1) |
 | G4 | As tabelas e imagens têm legenda, fonte e chamada no texto? | Conforme | — | — | — |
 | G5 | O artefato tem uma introdução? | Conforme | — | — | — |
-| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não conforme | Ausência | Gabriel com "—"; a revisão de João Vitor não tem link | Registrar a contribuição ou "nenhuma" |
+| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não conforme | Ausência | Gabriel com "—"; a revisão de João Vitor não tem link (a parte que trata de ex-integrante não é considerada) | Registrar a contribuição ou "nenhuma" |
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Não conforme | Forma | O parágrafo de aplicação de "Promoção da eficiência" aparece duas vezes na seção 2.9 | Retirar a repetição |
 | C11 | Os princípios gerais usados no projeto estão fundamentados, com referência, foto e autor? | Conforme | — | — | — |
@@ -122,7 +123,7 @@ Artefato: [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-d
 | G3 | O artefato tem referências no padrão ABNT, e as citações indicam capítulo e página? | Conforme | — | — | — |
 | G4 | As tabelas e imagens têm legenda, fonte e chamada no texto? | Conforme | — | — | — |
 | G5 | O artefato tem uma introdução? | Não conforme | Ausência | Não há seção "Introdução"; a página começa em "1. Fundamentação teórica" | Incluir uma introdução |
-| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não conforme | Ausência | Alexandre e Gabriel com "—" | Registrar a contribuição ou "nenhuma" |
+| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não conforme | Ausência | Alexandre e Gabriel com "—" (a parte que trata de ex-integrante não é considerada) | Registrar a contribuição ou "nenhuma" |
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
 | C13 | As metas de usabilidade que devem ser alcançadas no projeto estão definidas, com referência, foto e autor? | Não conforme | Ausência | A seção 2 descreve como o portal atual se sai em cada fator, sem definir as metas do projeto, indicadores e faixas (inaceitável, aceitável, ideal), que a própria seção 1 apresenta (monitoria, OBS 19) | Definir para cada meta o indicador e as faixas de valores |
@@ -170,7 +171,7 @@ Artefato: [Contribuições](../../entrega-3/contribuicoes.md). A Tabela 9 traz a
 | G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Conforme | — | — | — |
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
-| E3-7 | Cada integrante aparece uma vez, com revisor e evidência? | Não conforme | Forma | Henrique aparece em duas linhas; Alexandre e Gabriel com revisor "—" | Unificar as linhas e registrar os revisores |
+| E3-7 | Cada integrante aparece uma vez, com revisor e evidência? | Não conforme | Forma | Henrique aparece em duas linhas; Alexandre e Gabriel com revisor "—" (a parte que trata de ex-integrante não é considerada) | Unificar as linhas e registrar os revisores |
 | E3-8 | A matriz registra a gravação da apresentação e de reunião? (Plano, D8 e D9) | Não conforme | Ausência | Só traz as gravações das inspeções | Vincular as gravações ou registrar que não existem |
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
@@ -188,7 +189,7 @@ Artefato: [Inspeção do Grupo 07](../../entrega-3/verificacao/inspecao-grupo-07
 | G3 | O artefato tem referências no padrão ABNT, e as citações indicam capítulo e página? | Conforme | — | — | — |
 | G4 | As tabelas e imagens têm legenda, fonte e chamada no texto? | Conforme | — | — | — |
 | G5 | O artefato tem uma introdução? | Conforme | — | — | — |
-| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não conforme | Forma | Gabriel com "—", sem registro de ausência | Registrar a ausência ou a participação |
+| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
 | E3-9 | A inspeção do grupo +1 foi feita com gravação, com itens com autor e fonte? | Conforme | — | — | — |
@@ -212,7 +213,7 @@ Artefato: [Listas da Entrega 3](../../entrega-3/verificacao/listas.md). A Tabela
 | G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Conforme | — | — | — |
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
-| E3-11 | Cada integrante elaborou ao menos um item de conteúdo com referência e foto? (monitoria, item 20) | Não conforme | Ausência | Gabriel Robson não tem item na Entrega 3 | Incluir o item ou registrar a ausência |
+| E3-11 | Cada integrante elaborou ao menos um item de conteúdo com referência e foto? (monitoria, item 20) | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
 | E3-12 | Foi feita a inspeção do próprio grupo com gravação? | Não conforme | Ausência | Há a autoavaliação de 06/10/2026, sem gravação | Registrar a inspeção do grupo na reunião da Entrega 8 |
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
@@ -258,9 +259,9 @@ Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) 
 
 ## 4. Correção e acompanhamento
 
-Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. A Tabela 14 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
+Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. Os itens de ex-integrantes (Camile Barbosa, Eduardo Ribeiro e Gabriel Robson) foram sinalizados como Não se aplica e saíram desta tabela. A Tabela 14 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
 
-Nesta página, 27 itens foram retomados: 6 ficaram conformes, 2 foram corrigidos em parte e 19 continuam pendentes.
+Nesta página, 25 itens foram retomados: 7 ficaram conformes, 2 foram corrigidos em parte e 16 continuam pendentes.
 
 **Tabela 14 – Correção e acompanhamento das não conformidades**
 
@@ -271,26 +272,24 @@ Nesta página, 27 itens foram retomados: 6 ficaram conformes, 2 foram corrigidos
 | 3.1 | [Relatório da Entrega 3](../../entrega-3/relatorio.md) | E3-2 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.2 | Características da Plataforma | C10 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.3 | [Princípios Gerais de Projeto](../../entrega-3/principios-metas-e-guia/principios-gerais.md) | G3 | Não conforme | Forma | Corrigida | Página incluída na citação da introdução (versão 1.5) |
-| 3.3 | [Princípios Gerais de Projeto](../../entrega-3/principios-metas-e-guia/principios-gerais.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.3 | [Princípios Gerais de Projeto](../../entrega-3/principios-metas-e-guia/principios-gerais.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo; a parte de ex-integrante não é considerada |
 | 3.3 | [Princípios Gerais de Projeto](../../entrega-3/principios-metas-e-guia/principios-gerais.md) | G8 | Não conforme | Forma | Corrigida | Parágrafo repetido da Seção 2.9 retirado (versão 1.5) |
 | 3.3 | [Princípios Gerais de Projeto](../../entrega-3/principios-metas-e-guia/principios-gerais.md) | E3-3 | Não conforme | Inconsistência | Corrigida | Texto corrigido para nove princípios (versão 1.5) |
 | 3.3 | [Princípios Gerais de Projeto](../../entrega-3/principios-metas-e-guia/principios-gerais.md) | E3-4 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.4 | [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída (versão 1.5) |
-| 3.4 | [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
+| 3.4 | [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo; a parte de ex-integrante não é considerada |
 | 3.4 | [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | C13 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.4 | [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | C14 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.4 | [Metas de Usabilidade](../../entrega-3/principios-metas-e-guia/metas-de-usabilidade.md) | E3-5 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
-| 3.5 | [Guia de Estilo](../../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.5 | [Guia de Estilo](../../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | G2 | Não conforme | Inconsistência | Corrigida | Revisor Gabriel Robson, ex-integrante, trocado por integrante atual |
 | 3.5 | [Guia de Estilo](../../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | G3 | Não conforme | Forma | Parcial | Referências em parágrafos e NBR 6023 citada; as entradas do Detran-DF continuam com “tentativa de acesso” |
 | 3.5 | [Guia de Estilo](../../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.5 | [Guia de Estilo](../../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | C17 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
 | 3.5 | [Guia de Estilo](../../entrega-3/principios-metas-e-guia/guia-de-estilo.md) | E3-6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.6 | [Matriz de Contribuição da Entrega 3](../../entrega-3/contribuicoes.md) | G3 | Não conforme | Forma | Corrigida | NBR 6023 citada e Barbosa e Silva (2010), não citado, retirado |
-| 3.6 | [Matriz de Contribuição da Entrega 3](../../entrega-3/contribuicoes.md) | E3-7 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.6 | [Matriz de Contribuição da Entrega 3](../../entrega-3/contribuicoes.md) | E3-7 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir); a parte de ex-integrante não é considerada |
 | 3.6 | [Matriz de Contribuição da Entrega 3](../../entrega-3/contribuicoes.md) | E3-8 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.7 | [Inspeção do Grupo 07](../../entrega-3/verificacao/inspecao-grupo-07.md) | G6 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
 | 3.7 | [Inspeção do Grupo 07](../../entrega-3/verificacao/inspecao-grupo-07.md) | E3-10 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
-| 3.8 | [Listas de Verificação da Entrega 3](../../entrega-3/verificacao/listas.md) | E3-11 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.8 | [Listas de Verificação da Entrega 3](../../entrega-3/verificacao/listas.md) | E3-12 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.10 | [Páginas dos integrantes na Entrega 3](../../entrega-3/integrantes/alexandre-vilar/index.md) | E3-13 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 
@@ -305,3 +304,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler as páginas dos artefatos, montar as listas de inspeção e registrar as avaliações da preparação, com o problema e a ação corretiva de cada não conformidade. As avaliações não substituem a reunião de inspeção do grupo. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
 
 Em 22/11/2026, o Claude foi usado, a pedido de Henrique Schneider, para corrigir nas páginas do site as não conformidades que não dependiam de dados novos, registrar na Seção 4 a situação de cada item retomado e recalcular o resumo. As situações devem ser confirmadas na reunião de inspeção.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

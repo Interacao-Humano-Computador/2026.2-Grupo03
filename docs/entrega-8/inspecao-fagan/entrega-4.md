@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Preparação da inspeção (passo 3 de Fagan): leitura das páginas e registro preliminar das avaliações | [Inspeção da Entrega 4 – Planejamento da Avaliação do Storyboard e da Análise de Tarefas](entrega-4.md) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -19,9 +19,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 19/11/2026 | 0.1 | Criação das listas de inspeção dos artefatos e registro da preparação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
-| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (Seção 4) e do resumo depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 0.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -38,8 +39,8 @@ A Tabela 3 resume as avaliações das listas desta página na preparação e dep
 
 | Momento | Artefatos inspecionados | Conforme | Parcial | Não conforme | Não se aplica | A confirmar |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| Preparação (19/11/2026) | 7 | 52 | — | 26 | 0 | 0 |
-| Após a correção (22/11/2026) | 7 | 56 | 1 | 21 | 0 | 0 |
+| Preparação (19/11/2026) | 7 | 52 | — | 23 | 3 | 0 |
+| Após a correção (22/11/2026) | 7 | 56 | 0 | 19 | 3 | 0 |
 
 Fonte: elaborado pelos autores (2026), a partir das listas desta página.
 
@@ -62,7 +63,7 @@ Artefato: [Relatório da Entrega 4](../../entrega-4/relatorio.md). A Tabela 4 tr
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
 | E4-1 | O relatório indica o vídeo da apresentação? (Plano, D9) | Não conforme | Ausência | Não há vídeo da Entrega 4 (Apresentações, Tabela 3: "—") | Vincular o vídeo ou registrar que não foi gravado |
-| E4-2 | Os períodos planejados incluem todos os integrantes? | Não conforme | Ausência | A Tabela 4 não tem linha de Gabriel Robson | Incluir a linha ou registrar que não houve cronograma de Gabriel no relatório entregue |
+| E4-2 | Os períodos planejados incluem todos os integrantes? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
 
@@ -79,7 +80,7 @@ Artefato: [Planejamento DECIDE](../../entrega-4/planejamento-da-avaliacao/decide
 | G3 | O artefato tem referências no padrão ABNT, e as citações indicam capítulo e página? | Não conforme | Forma | A seção 2.5 cita "(Barbosa; Silva, 2010)" sem página | Indicar capítulo e página |
 | G4 | As tabelas e imagens têm legenda, fonte e chamada no texto? | Conforme | — | — | — |
 | G5 | O artefato tem uma introdução? | Conforme | — | — | — |
-| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não conforme | Ausência | Gabriel com "—" | Registrar a contribuição ou "nenhuma" |
+| G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
 | C2 | O planejamento da avaliação segue o framework DECIDE? | Não conforme | Ausência | O DECIDE cobre só o storyboard; para a análise de tarefas e para os dois relatos há apenas cronogramas | Elaborar o DECIDE da análise de tarefas e o planejamento dos relatos |
@@ -114,7 +115,7 @@ Artefato: [Alexandre Vilar](../../entrega-4/integrantes/alexandre-vilar/planejam
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Não conforme | Forma | Na página de Henrique, o parágrafo sobre a troca de revisor ficou depois da linha de rodapé | Mover o parágrafo para a seção de IA |
 | E4-3 | Cada integrante tem um planejamento próprio? | Não conforme | Inconsistência | As quatro páginas usam o mesmo modelo, com as mesmas tarefas, mudando só as datas | Registrar o que é específico de cada integrante |
-| E4-4 | O cronograma tem datas definidas? | Não conforme | Ausência | O planejamento de Gabriel Robson tem todas as datas "a definir" | Definir as datas ou registrar a ausência |
+| E4-4 | O cronograma tem datas definidas? | Não se aplica | — | Item de ex-integrante, sinalizado e não considerado na inspeção | — |
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
 
@@ -134,7 +135,7 @@ Artefato: [Contribuições](../../entrega-4/contribuicoes.md). A Tabela 7 traz a
 | G6 | A tabela de contribuição está no início, com todos os integrantes e os links da atividade e da gravação? | Conforme | — | — | — |
 | G7 | A seção de agradecimentos declara o uso de IA generativa e o que a ferramenta fez? | Conforme | — | — | — |
 | G8 | O texto está livre de trechos de exemplo, marcadores de pendência e frases incompletas? | Conforme | — | — | — |
-| E4-5 | Cada integrante aparece de forma organizada, com revisor? | Não conforme | Forma | Alexandre e João Vitor aparecem em três linhas e Henrique em duas; várias linhas com revisor "—"; Gabriel sem cronograma individual | Organizar a Tabela 3 por integrante |
+| E4-5 | Cada integrante aparece de forma organizada, com revisor? | Não conforme | Forma | Alexandre e João Vitor aparecem em três linhas e Henrique em duas; várias linhas com revisor "—"; Gabriel sem cronograma individual (a parte que trata de ex-integrante não é considerada) | Organizar a Tabela 3 por integrante |
 | E4-6 | A matriz registra a gravação da apresentação? (Plano, D9) | Não conforme | Ausência | A Tabela 5 só tem a inspeção do Grupo 01 | Vincular a apresentação ou registrar que não foi gravada |
 
 Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) e o formato do modelo de lista de verificação da disciplina.
@@ -202,9 +203,9 @@ Fonte: elaborado pelos autores (2026), com os itens de Sales (2026, pp. 8–13) 
 
 ## 4. Correção e acompanhamento
 
-Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. A Tabela 11 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
+Os passos 5 (correção) e 6 (acompanhamento) da inspeção de Fagan foram feitos em 22/11/2026. Os itens de ex-integrantes (Camile Barbosa, Eduardo Ribeiro e Gabriel Robson) foram sinalizados como Não se aplica e saíram desta tabela. A Tabela 11 retoma cada item que a preparação avaliou como **Não conforme** ou **A confirmar** e registra a situação depois da correção: **Corrigida** (a página foi alterada e a alteração está no histórico de versões dela), **Conforme na reconferência** (o item foi conferido de novo e atende à lista), **Parcial** (parte do problema foi resolvida) ou **Pendente** (a correção depende de material ou de decisão do autor e fica registrada para o grupo).
 
-Nesta página, 26 itens foram retomados: 4 ficaram conformes, 1 foram corrigidos em parte e 21 continuam pendentes.
+Nesta página, 23 itens foram retomados: 4 ficaram conformes, 0 foram corrigidos em parte e 19 continuam pendentes.
 
 **Tabela 11 – Correção e acompanhamento das não conformidades**
 
@@ -212,10 +213,8 @@ Nesta página, 26 itens foram retomados: 4 ficaram conformes, 1 foram corrigidos
 | :---: | --- | :---: | :---: | :---: | :---: | --- |
 | 3.1 | [Relatório da Entrega 4](../../entrega-4/relatorio.md) | G5 | Não conforme | Ausência | Corrigida | Introdução incluída (versão 2.3) |
 | 3.1 | [Relatório da Entrega 4](../../entrega-4/relatorio.md) | E4-1 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
-| 3.1 | [Relatório da Entrega 4](../../entrega-4/relatorio.md) | E4-2 | Não conforme | Ausência | Parcial | Nota sobre a ausência do cronograma de Gabriel Robson incluída; o cronograma continua ausente |
 | 3.2 | [Planejamento da Avaliação (DECIDE)](../../entrega-4/planejamento-da-avaliacao/decide.md) | G2 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
 | 3.2 | [Planejamento da Avaliação (DECIDE)](../../entrega-4/planejamento-da-avaliacao/decide.md) | G3 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
-| 3.2 | [Planejamento da Avaliação (DECIDE)](../../entrega-4/planejamento-da-avaliacao/decide.md) | G6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.2 | [Planejamento da Avaliação (DECIDE)](../../entrega-4/planejamento-da-avaliacao/decide.md) | C2 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.2 | [Planejamento da Avaliação (DECIDE)](../../entrega-4/planejamento-da-avaliacao/decide.md) | C3 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
 | 3.2 | [Planejamento da Avaliação (DECIDE)](../../entrega-4/planejamento-da-avaliacao/decide.md) | C4 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
@@ -229,9 +228,8 @@ Nesta página, 26 itens foram retomados: 4 ficaram conformes, 1 foram corrigidos
 | 3.3 | [Planejamentos individuais da Entrega 4](../../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md) | G2 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
 | 3.3 | [Planejamentos individuais da Entrega 4](../../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md) | G8 | Não conforme | Forma | Corrigida | Parágrafo reposicionado antes da linha de rodapé na página de Henrique |
 | 3.3 | [Planejamentos individuais da Entrega 4](../../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md) | E4-3 | Não conforme | Inconsistência | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
-| 3.3 | [Planejamentos individuais da Entrega 4](../../entrega-4/integrantes/alexandre-vilar/planejamento-individual.md) | E4-4 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.4 | [Matriz de Contribuição da Entrega 4](../../entrega-4/contribuicoes.md) | G3 | Não conforme | Forma | Corrigida | NBR 6023 citada e Barbosa e Silva (2010), não citado, retirado |
-| 3.4 | [Matriz de Contribuição da Entrega 4](../../entrega-4/contribuicoes.md) | E4-5 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir) |
+| 3.4 | [Matriz de Contribuição da Entrega 4](../../entrega-4/contribuicoes.md) | E4-5 | Não conforme | Forma | Pendente | Depende do autor do artefato (dados ou decisão que a inspeção não pode suprir); a parte de ex-integrante não é considerada |
 | 3.4 | [Matriz de Contribuição da Entrega 4](../../entrega-4/contribuicoes.md) | E4-6 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
 | 3.5 | [Inspeção do Grupo 01](../../entrega-4/verificacao/inspecao-grupo-01.md) | G8 | Não conforme | Forma | Corrigida | Referências antes de Agradecimentos, introdução renomeada e legendas sem HTML |
 | 3.6 | [Listas de Verificação da Entrega 4](../../entrega-4/verificacao/listas.md) | E4-8 | Não conforme | Ausência | Pendente | Depende de material que não existe no site; fica registrada para o grupo |
@@ -248,3 +246,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 19/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para ler as páginas dos artefatos, montar as listas de inspeção e registrar as avaliações da preparação, com o problema e a ação corretiva de cada não conformidade. As avaliações não substituem a reunião de inspeção do grupo. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
 
 Em 22/11/2026, o Claude foi usado, a pedido de Henrique Schneider, para corrigir nas páginas do site as não conformidades que não dependiam de dados novos, registrar na Seção 4 a situação de cada item retomado e recalcular o resumo. As situações devem ser confirmadas na reunião de inspeção.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -7,9 +7,9 @@
 | Integrante | Contribuição registrada na Entrega 1 | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Avaliação individual do SouGov.br; inspeção do Grupo 05; redação de ferramentas e processo de design (cronograma) | [Sites Avaliados](planejamento/sites-avaliados.md); [Inspeção do Grupo 05](verificacao/inspecao-grupo-05.md) | Gravações de 07/09/2026 ([Apresentações](../apresentacoes.md)) |
-| Camile Barbosa Gonzaga de Oliveira | Detalhamento da escolha do site, detalhamento da justificativa das ferramentas e organização detalhada do cronograma da equipe; organização e formatação do relatório de inspeção do Grupo 05, verificação de corretude e produção do resumo | [Relatório da Entrega 1, seção 6](../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf); [Relatório de inspeção, seção 6](../assets/pdfs/entregas/inspecao-entrega-1-grupo-05.pdf) | — |
-| Eduardo Ribeiro Gomes da Silva | Configuração do GitHub Pages; estudo e escolha do processo de design; páginas Site Escolhido, Sites Avaliados, Ferramentas e Processo de Design; avaliação individual do Meu SUS Digital; inspeção do Grupo 05 | [Cronograma Executado](planejamento/cronograma-executado.md), Tabela 3 | Gravações de 07/09/2026 ([Apresentações](../apresentacoes.md)) |
-| Gabriel Robson Nunes Neiva da Silva | Não se aplica (integrante a partir da Entrega 2) | — | — |
+| Camile Barbosa Gonzaga de Oliveira (ex-integrante) | Detalhamento da escolha do site, detalhamento da justificativa das ferramentas e organização detalhada do cronograma da equipe; organização e formatação do relatório de inspeção do Grupo 05, verificação de corretude e produção do resumo | [Relatório da Entrega 1, seção 6](../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf); [Relatório de inspeção, seção 6](../assets/pdfs/entregas/inspecao-entrega-1-grupo-05.pdf) | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Configuração do GitHub Pages; estudo e escolha do processo de design; páginas Site Escolhido, Sites Avaliados, Ferramentas e Processo de Design; avaliação individual do Meu SUS Digital; inspeção do Grupo 05 | [Cronograma Executado](planejamento/cronograma-executado.md), Tabela 3 | Gravações de 07/09/2026 ([Apresentações](../apresentacoes.md)) |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Não se aplica (integrante a partir da Entrega 2) | — | — |
 | Henrique Schneider Fernandes da Rosa | Estrutura base do relatório (capa, resumo, sumário, introdução e objetivo); heatmap de disponibilidade; avaliação individual da Época Cosméticos | [Heatmap](planejamento/heatmap.md); [Relatório entregue, seção 6](../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
 | João Vitor Tavares de Sá Lima | Avaliação individual do Portal de Serviços do Detran-DF; inspeção do Grupo 05; redação de ferramentas e processo de design (cronograma) | [Sites Avaliados](planejamento/sites-avaliados.md); [commit 968f18d](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/968f18d) | Gravações de 07/09/2026 ([Apresentações](../apresentacoes.md)) |
 
@@ -21,11 +21,12 @@ Fonte: elaborado pelos autores (2026), com base no relatório entregue (Grupo 03
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/09/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Relatório da Etapa 1: Planejamento do Projeto") | Grupo 03 (ver seção 6 do PDF) | Gabriel Robson |
-| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, transcrição da comparação dos sites preliminares, matriz de conformidade com a lista do Plano de Ensino após a refatoração e inspeção; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 2.1 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira nas tabelas de contribuição e de artefatos e do link do vídeo registrado no relatório entregue; retirada da matriz de conformidade | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 2.3 | Inclusão da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 06/09/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Relatório da Etapa 1: Planejamento do Projeto") | Grupo 03 (ver seção 6 do PDF) | João Vitor |
+| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, transcrição da comparação dos sites preliminares, matriz de conformidade com a lista do Plano de Ensino após a refatoração e inspeção; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | João Vitor |
+| 17/10/2026 | 2.1 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira nas tabelas de contribuição e de artefatos e do link do vídeo registrado no relatório entregue; retirada da matriz de conformidade | Henrique Schneider | João Vitor |
+| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 2.3 | Inclusão da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 2.4 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -119,3 +120,5 @@ As declarações de uso de IA generativa dos artefatos da Entrega 1 estão nas p
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta o conteúdo já existente na página, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

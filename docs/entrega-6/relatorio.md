@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Protótipo de papel do agendamento de vistoria e planejamento da avaliação de alta fidelidade | [Material de Alexandre Vilar](integrantes/alexandre-vilar/index.md) | [Vídeo da avaliação](integrantes/alexandre-vilar/video-avaliacao.md) |
-| Gabriel Robson Nunes Neiva da Silva | Prototipação em papel da funcionalidade de renovação da CNH, especificação do protótipo de alta fidelidade e planejamento do teste de usabilidade (planejamento inicial) | [Material de Gabriel Robson](integrantes/gabriel-robson/index.md) | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Prototipação em papel da funcionalidade de renovação da CNH, especificação do protótipo de alta fidelidade e planejamento do teste de usabilidade (planejamento inicial) | [Material de Gabriel Robson](integrantes/gabriel-robson/index.md) | — |
 | Henrique Schneider Fernandes da Rosa | Roteiro e relato da avaliação do protótipo de papel, especificação e construção do protótipo de alta fidelidade no Figma, planejamento do teste de usabilidade e organização desta página | [Material de Henrique Schneider](integrantes/henrique-schneider/index.md) | [Apresentação da Entrega 6](https://youtu.be/sI_3rqIQbCU) |
 | João Vitor Tavares de Sá Lima | Protótipo de papel do fluxo de biometria e planejamento da avaliação do protótipo de alta fidelidade | [Material de João Vitor](integrantes/joao-vitor/index.md) | [Vídeo da avaliação](integrantes/joao-vitor/video-avaliacao.md) |
 
@@ -19,9 +19,10 @@ Fonte: elaborado pelos autores (2026), a partir das tabelas de contribuição de
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/11/2026 | 1.0 | Criação da página com a identificação da entrega, os artefatos de cada integrante, a situação do protótipo de papel e do protótipo de alta fidelidade e os links dos vídeos, a partir das páginas individuais já publicadas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 1.1 | Inclusão do link para a versão em PDF da página | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 1.2 | Atualização da situação de Alexandre Vilar (sessão de 03/11/2026) e de João Vitor (teste-piloto publicado), inclusão da situação do planejamento de Gabriel Robson e correção de frase incompleta | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.0 | Criação da página com a identificação da entrega, os artefatos de cada integrante, a situação do protótipo de papel e do protótipo de alta fidelidade e os links dos vídeos, a partir das páginas individuais já publicadas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 15/11/2026 | 1.1 | Inclusão do link para a versão em PDF da página | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.2 | Atualização da situação de Alexandre Vilar (sessão de 03/11/2026) e de João Vitor (teste-piloto publicado), inclusão da situação do planejamento de Gabriel Robson e correção de frase incompleta | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -116,3 +117,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir das páginas individuais da Entrega 6 já publicadas (datas, horários, participantes, links e situação de cada material foram copiados dessas páginas, sem acréscimo de dados). Nada foi inventado: o que não consta nas páginas aparece como “—”. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (Sales, 2026, p. 3). Em 15/11/2026, também foi usado para gerar a versão em PDF desta página.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para atualizar a Tabela 5 e a Seção 5 com o que as páginas individuais já registram e corrigir uma frase que ficou incompleta depois da retirada dos marcadores de verificação, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

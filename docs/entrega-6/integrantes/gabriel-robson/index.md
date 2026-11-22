@@ -8,7 +8,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Gabriel Robson Nunes Neiva da Silva | Prototipação em papel da funcionalidade de renovação da CNH, especificação do protótipo de alta fidelidade e planejamento do teste de usabilidade | [Visão geral](index.md) | A realizar |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Prototipação em papel da funcionalidade de renovação da CNH, especificação do protótipo de alta fidelidade e planejamento do teste de usabilidade | [Visão geral](index.md) | A realizar |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -18,8 +18,9 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 03/11/2026 | 1.0 | Criação da visão geral e estrutura inicial dos materiais individuais para a proposta de renovação da CNH | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Gabriel Robson |
-| 04/11/2026 | 1.1 | Organização das legendas e da sequência das sete fotografias; publicação das imagens originais ainda pendente | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Gabriel Robson |
+| 03/11/2026 | 1.0 | Criação da visão geral e estrutura inicial dos materiais individuais para a proposta de renovação da CNH | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Alexandre Vilar |
+| 04/11/2026 | 1.1 | Organização das legendas e da sequência das sete fotografias; publicação das imagens originais ainda pendente | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.2 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -59,3 +60,5 @@ Vídeo da apresentação: a definir após a gravação.
 ## Agradecimentos e uso de IA generativa
 
 O ChatGPT (OpenAI) foi utilizado como apoio à organização e redação inicial desta documentação, a pedido do autor. O autor deve revisar, complementar e validar o conteúdo. Não foram inventados participantes, sessões, resultados, gravações ou problemas observados.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

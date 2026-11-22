@@ -16,12 +16,13 @@ Fonte: meus registros (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 02/11/2026 | 1.0 | Criação dos espaços para os vídeos da avaliação | Alexandre Vilar Valadares Fonsêca | Gabriel Robson |
-| 03/11/2026 | 1.1 | Inclusão dos vídeos do teste-piloto e da entrevista | Alexandre Vilar Valadares Fonsêca | Gabriel Robson |
-| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 12/11/2026 | 1.3 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 02/11/2026 | 1.0 | Criação dos espaços para os vídeos da avaliação | Alexandre Vilar Valadares Fonsêca | João Vitor |
+| 03/11/2026 | 1.1 | Inclusão dos vídeos do teste-piloto e da entrevista | Alexandre Vilar Valadares Fonsêca | João Vitor |
+| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 12/11/2026 | 1.3 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
 
-| 22/11/2026 | 1.4 | Inclusão da introdução e retirada dos parâmetros de rastreamento dos links do YouTube, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 1.4 | Inclusão da introdução e retirada dos parâmetros de rastreamento dos links do YouTube, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.5 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: registro desta versão (2026).
 
 ## Introdução
@@ -57,3 +58,5 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes e retirar dos links do YouTube os parâmetros de rastreamento, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

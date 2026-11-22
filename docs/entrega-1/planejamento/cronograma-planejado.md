@@ -7,9 +7,9 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Camile Barbosa Gonzaga de Oliveira | Organização detalhada do cronograma da equipe no relatório entregue (GRUPO 03, 2026, seções 4 e 6) | [Relatório da Entrega 1, seção 6](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
-| Eduardo Ribeiro Gomes da Silva | Migração do cronograma para a estrutura atual do site | [Commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Camile Barbosa Gonzaga de Oliveira (ex-integrante) | Organização detalhada do cronograma da equipe no relatório entregue (GRUPO 03, 2026, seções 4 e 6) | [Relatório da Entrega 1, seção 6](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Migração do cronograma para a estrutura atual do site | [Commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Alteração de autores e prazos (versões 1.1, 1.2 e 1.3) | [Commit df30e39](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/df30e39); [commit 142c6cb](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/142c6cb); [commit f60769e](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f60769e) | — |
 | João Vitor Tavares de Sá Lima | Revisão da versão 1.2 | — | — |
 
@@ -21,16 +21,17 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Consolidação das atividades, responsáveis, prazos e marcos do projeto. | — | Gabriel Robson |
-| 17/09/2026 | 1.1 | Alteração de autores e adequação ás mudanças descritas em aula. | Henrique | Gabriel Robson |
+| 10/09/2026 | 1.0 | Consolidação das atividades, responsáveis, prazos e marcos do projeto. | — | Alexandre Vilar |
+| 17/09/2026 | 1.1 | Alteração de autores e adequação ás mudanças descritas em aula. | Henrique | Alexandre Vilar |
 | 24/09/2026 | 1.2 | Alteração do autor da tarefa: "Redigir o Termo de Consentimento (TCLE)" e finalização da tarefa | Henrique | João Vitor |
-| 06/10/2026 | 1.3 | Alteração de autores e de prazos da entrega 3 | Henrique | Gabriel Robson |
-| 15/10/2026 | 1.4 | Padronização da estrutura (tabela de contribuição, numeração das seções e dos quadros), inclusão do Quadro 18 (gravação e ajustes por etapa), do vínculo com o cronograma executado e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.5 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição; retirada do Quadro 18 | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.6 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 1.7 | Atualização da situação das tarefas da Entrega 3 e das inspeções das Entregas 2 a 5, conforme o cronograma executado, e correção da data de entrega da Entrega 3 (06/10/2026, segundo o Plano de Ensino) | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 06/10/2026 | 1.3 | Alteração de autores e de prazos da entrega 3 | Henrique | Alexandre Vilar |
+| 15/10/2026 | 1.4 | Padronização da estrutura (tabela de contribuição, numeração das seções e dos quadros), inclusão do Quadro 18 (gravação e ajustes por etapa), do vínculo com o cronograma executado e da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.5 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição; retirada do Quadro 18 | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.6 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.7 | Atualização da situação das tarefas da Entrega 3 e das inspeções das Entregas 2 a 5, conforme o cronograma executado, e correção da data de entrega da Entrega 3 (06/10/2026, segundo o Plano de Ensino) | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
-| 22/11/2026 | 1.8 | Citação da NBR 6023, já listada nas referências, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 1.8 | Citação da NBR 6023, já listada nas referências, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.9 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -275,3 +276,5 @@ Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic)
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para atualizar a coluna Situação das linhas registradas no cronograma executado, incluir a nota sobre essa atualização e corrigir a data de entrega da Entrega 3, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a citação da NBR 6023, que estava nas referências sem chamada no texto, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

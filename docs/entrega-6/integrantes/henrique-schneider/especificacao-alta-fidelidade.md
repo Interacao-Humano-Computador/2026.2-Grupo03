@@ -19,8 +19,9 @@ Fonte: elaborado pelo autor (2026).
 | 27/10/2026 | 1.0    | Criação da especificação: escopo, requisitos visuais do guia de estilo, fluxo, telas, estados para as tarefas do teste e checklist de construção, a partir do modelo do protótipo de papel (v1.0), da HTA (v1.2) e do relato da avaliação do storyboard (v3.1). A Seção 8 fica para ser preenchida com os resultados do protótipo de papel | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.2 | Seção 8 e Tabela 12 preenchidas com os problemas PC01, PC02 e PN01 a PN04 da Sessão 1 do protótipo de papel; datas de exemplo e cronograma atualizados | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
-| 10/11/2026 | 1.3 | Protótipo construído no Figma: ferramenta, inclusão da Tela 0 e forma dos atalhos do avaliador definidas; nova Seção 10 com o link, as telas construídas e as diferenças em relação a esta especificação; situação do checklist da Seção 9 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 10/11/2026 | 1.4 | Inclusão do link para o Apêndice E do roteiro do protótipo de papel, que liga as telas e as peças do papel aos quadros do Figma | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.3 | Protótipo construído no Figma: ferramenta, inclusão da Tela 0 e forma dos atalhos do avaliador definidas; nova Seção 10 com o link, as telas construídas e as diferenças em relação a esta especificação; situação do checklist da Seção 9 | Henrique Schneider, com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 10/11/2026 | 1.4 | Inclusão do link para o Apêndice E do roteiro do protótipo de papel, que liga as telas e as peças do papel aos quadros do Figma | Henrique Schneider, com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.5 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -334,3 +335,5 @@ Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este
 Em 10/11/2026, também a pedido do autor, o Claude foi usado para construir o protótipo no Figma a partir desta especificação: componentes, cores e estilos de texto, telas do celular e plugins locais que montaram a versão para computador e ligaram as interações, rodados pelo autor no Figma. Na mesma data, foi usado para registrar o protótipo na Seção 10. O autor rodou os plugins e é responsável por conferir o protótipo antes do teste-piloto.
 
 A versão em PDF deste artefato está disponível para download: [Especificação do Protótipo de Alta Fidelidade (PDF)](arquivos/especificacao-prototipo-alta-fidelidade.pdf).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

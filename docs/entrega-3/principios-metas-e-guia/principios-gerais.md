@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Adição dos princípios gerais e conformidades do Detran-DF (v1.1, com Henrique Schneider) | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Criação do documento (v1.0) e adição dos princípios gerais e conformidades do Detran-DF (v1.1, com Alexandre Vilar) | [Commit d803534](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d803534); [commit 54c77f2](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/54c77f2) | — |
 | João Vitor Tavares de Sá Lima | Revisão da v1.1 | — | — |
 
@@ -19,12 +19,13 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Gabriel Robson |
+| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | João Vitor |
 | 06/10/2026 | 1.1 | Adição dos principios gerais e conformidades do Detran-DF | Henrique Schneider, Alexandre Vilar | João Vitor |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, seções numeradas), conversão dos "Quadros" com fotos do livro em Figuras com legenda, texto alternativo e fonte, correção da página das Figuras 1 e 2 (p. 265) após conferência no livro e inclusão da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.3 | Revisão das citações de Tognazzini (2003) e Cooper (1999), feitas por meio de Barbosa e Silva (2010), e organização da página | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 1.5 | Correção do número de princípios (nove, como na Figura 1), retirada do parágrafo repetido na Seção 2.9 e inclusão da página na citação da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, seções numeradas), conversão dos "Quadros" com fotos do livro em Figuras com legenda, texto alternativo e fonte, correção da página das Figuras 1 e 2 (p. 265) após conferência no livro e inclusão da seção de uso de IA | Henrique Schneider | João Vitor |
+| 17/10/2026 | 1.3 | Revisão das citações de Tognazzini (2003) e Cooper (1999), feitas por meio de Barbosa e Silva (2010), e organização da página | Henrique Schneider | João Vitor |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.5 | Correção do número de princípios (nove, como na Figura 1), retirada do parágrafo repetido na Seção 2.9 e inclusão da página na citação da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.6 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -174,3 +175,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para corrigir o número de princípios, retirar o parágrafo repetido da Seção 2.9 e incluir na citação da introdução a página do trecho já mostrado na Figura 1, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

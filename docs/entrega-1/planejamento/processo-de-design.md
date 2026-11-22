@@ -7,8 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Redação das ferramentas do projeto e do processo de design, segundo o cronograma (GRUPO 03, 2026, seção 4.1) | — | — |
-| Eduardo Ribeiro Gomes da Silva | Estudo e escolha do processo de design (GRUPO 03, 2026, seção 6); registro da Engenharia de Usabilidade de Mayhew e do DECIDE (versão 1.0) e ampliação da fundamentação (versão 1.1) | [Commit 7f93ba5](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/7f93ba5); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
-| Gabriel Robson Nunes Neiva da Silva | Não se aplica (integrante a partir da Entrega 2) | — | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Estudo e escolha do processo de design (GRUPO 03, 2026, seção 6); registro da Engenharia de Usabilidade de Mayhew e do DECIDE (versão 1.0) e ampliação da fundamentação (versão 1.1) | [Commit 7f93ba5](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/7f93ba5); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Não se aplica (integrante a partir da Entrega 2) | — | — |
 | Henrique Schneider Fernandes da Rosa | — | — | — |
 | João Vitor Tavares de Sá Lima | Redação das ferramentas do projeto e do processo de design, segundo o cronograma (GRUPO 03, 2026, seção 4.1) | — | — |
 
@@ -20,11 +20,12 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Registro da Engenharia de Usabilidade de Mayhew e do framework DECIDE. | Eduardo Ribeiro | Gabriel Robson |
-| 10/09/2026 | 1.1 | Ampliação da fundamentação teórica, das etapas e da aplicação do processo ao Portal de Serviços do Detran-DF. | Eduardo Ribeiro | Gabriel Robson |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções), das referências (ABNT), inclusão da Figura 1 (ciclo de vida de Mayhew, a partir do material de consulta do grupo) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.3 | Organização por entrega; foto do trecho de Barbosa e Silva (2010, p. 109) e citação indireta de Mayhew (1999); identificação do autor do item | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/09/2026 | 1.0 | Registro da Engenharia de Usabilidade de Mayhew e do framework DECIDE. | Eduardo Ribeiro | Alexandre Vilar |
+| 10/09/2026 | 1.1 | Ampliação da fundamentação teórica, das etapas e da aplicação do processo ao Portal de Serviços do Detran-DF. | Eduardo Ribeiro | Alexandre Vilar |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções), das referências (ABNT), inclusão da Figura 1 (ciclo de vida de Mayhew, a partir do material de consulta do grupo) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.3 | Organização por entrega; foto do trecho de Barbosa e Silva (2010, p. 109) e citação indireta de Mayhew (1999); identificação do autor do item | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.5 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -121,3 +122,5 @@ As sugestões geradas foram revisadas e validadas pelos integrantes. A responsab
 Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções e das figuras), padronizar as citações e as referências conforme a ABNT, inserir a Figura 2 com legenda e fonte e recortar, do PDF de Barbosa e Silva (2010), a foto do trecho da Figura 1. A imagem da Figura 2 já estava no material de consulta do grupo; a página e a figura do livro foram conferidas no PDF de Barbosa e Silva (2010). A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

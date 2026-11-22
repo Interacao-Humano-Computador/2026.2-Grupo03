@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Itens adicionais 20 a 22 (Entrega 3) e N4 (Entrega 4); inspeções dos Grupos 05, 07 e 01; listas individuais (DECIDE, perfil de usuário, personas, elenco de personas, HTA, CTT e storyboard) | [Entrega 3](../entrega-3/verificacao/listas.md); [Entrega 4](../entrega-4/verificacao/listas.md); Quadro 2 | [Inspeção do Grupo 07](https://www.youtube.com/watch?v=ObXAAFdPD_I); [Inspeção do Grupo 01](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
-| Gabriel Robson Nunes Neiva da Silva | Listas individuais de personas, elenco de personas e HTA (Entrega 2); itens adicionais N6 e N7 (Entrega 4); inspeção do Grupo 01 | [Entrega 2](../entrega-2/verificacao/listas.md); [Entrega 4](../entrega-4/verificacao/listas.md) | [Inspeção do Grupo 01](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Listas individuais de personas, elenco de personas e HTA (Entrega 2); itens adicionais N6 e N7 (Entrega 4); inspeção do Grupo 01 | [Entrega 2](../entrega-2/verificacao/listas.md); [Entrega 4](../entrega-4/verificacao/listas.md) | [Inspeção do Grupo 01](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | Henrique Schneider Fernandes da Rosa | Itens adicionais 11 a 15 (Entrega 3) e N1 a N3 (Entrega 4); autoavaliações das Entregas 1 a 3; inspeções dos Grupos 07 e 01; criação desta página | [Entrega 3](../entrega-3/verificacao/listas.md); [Entrega 4](../entrega-4/verificacao/listas.md); [Autoavaliação](autoavaliacao.md) | [Inspeção do Grupo 07](https://youtu.be/TYv1vovnuYc); [Inspeção do Grupo 01](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | João Vitor Tavares de Sá Lima | Itens adicionais 16 a 19 (Entrega 3) e N5 (Entrega 4); inspeções dos Grupos 05, 07 e 01; listas individuais (DECIDE, métodos de avaliação, perfil de usuário, personas, elenco de personas, HTA, CTT e storyboard) | [Entrega 3](../entrega-3/verificacao/listas.md); [Entrega 4](../entrega-4/verificacao/listas.md); Quadro 2 | [Inspeção do Grupo 07](https://www.youtube.com/watch?v=ObXAAFdPD_I); [Inspeção do Grupo 01](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 
@@ -19,12 +19,13 @@ Fonte: elaborado pelos autores (2026), com base nas páginas de verificação de
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da aba "Listas de Verificação", que reúne por entrega as listas do professor, da monitoria e do grupo e as inspeções | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 2.0 | Reestruturação como página-guia da aba: quadro por entrega com os endereços atuais, listas individuais dos integrantes, inspeções realizadas (quadro trazido da antiga página Verificação, versão 1.2) e orientações de aplicação | Henrique Schneider | Gabriel Robson |
-| 19/10/2026 | 2.1 | Inclusão das listas de verificação individuais de Gabriel Robson no Quadro 2 | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/10/2026 | 1.0 | Criação da aba "Listas de Verificação", que reúne por entrega as listas do professor, da monitoria e do grupo e as inspeções | Henrique Schneider | João Vitor |
+| 17/10/2026 | 2.0 | Reestruturação como página-guia da aba: quadro por entrega com os endereços atuais, listas individuais dos integrantes, inspeções realizadas (quadro trazido da antiga página Verificação, versão 1.2) e orientações de aplicação | Henrique Schneider | João Vitor |
+| 19/10/2026 | 2.1 | Inclusão das listas de verificação individuais de Gabriel Robson no Quadro 2 | Henrique Schneider | João Vitor |
+| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
-| 22/11/2026 | 2.3 | Inclusão das Entregas 5 a 8 no Quadro 1 e da inspeção do Grupo 08 no Quadro 3, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 2.3 | Inclusão das Entregas 5 a 8 no Quadro 1 e da inspeção do Grupo 08 no Quadro 3, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 2.4 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -144,3 +145,5 @@ SILVA, Giovana Barbosa da. *Atividade avaliativa: IHC: Etapa 2: Grupo 3*. Brasí
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir no Quadro 1 as listas das Entregas 5 a 8 e no Quadro 3 a inspeção do Grupo 08, a partir das páginas já publicadas, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

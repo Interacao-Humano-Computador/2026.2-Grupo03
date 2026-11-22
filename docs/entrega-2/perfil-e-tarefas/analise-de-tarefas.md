@@ -7,8 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Modelagem HTA/CTT individual da tarefa "Emissão de Guia de Débitos do Veículo", registrada na Matriz de Contribuição da Entrega 2 | [Matriz de Contribuição](../contribuicoes.md), Tabela 3 | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
-| Eduardo Ribeiro Gomes da Silva | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | Correção da sequência e da identificação da tarefa 2 no fluxo de consulta de débitos (v1.1); revisão das v1.0 e v1.2 | [Commit 43cb9a1](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/43cb9a1) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Correção da sequência e da identificação da tarefa 2 no fluxo de consulta de débitos (v1.1); revisão das v1.0 e v1.2 | [Commit 43cb9a1](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/43cb9a1) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
 | Henrique Schneider Fernandes da Rosa | Catalogação e mapeamento dos fluxos (v1.0); introdução sobre HTA e golfos de interação (v1.2); revisão da v1.1 | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
 | João Vitor Tavares de Sá Lima | Modelagem HTA/CTT individual da tarefa "Localização e Consulta de CFCs Credenciados", registrada na Matriz de Contribuição da Entrega 2 | [Matriz de Contribuição](../contribuicoes.md), Tabela 3 | — |
 
@@ -20,14 +20,15 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 17/09/2026 | 1.0 | Catalogação e mapeamento dos fluxos de trabalho do usuário no portal do Detran-DF para a Entrega 2. | Henrique Schneider | Gabriel Robson |
+| 17/09/2026 | 1.0 | Catalogação e mapeamento dos fluxos de trabalho do usuário no portal do Detran-DF para a Entrega 2. | Henrique Schneider | Alexandre Vilar |
 | 27/09/2026 | 1.1 | Correção da sequência e da identificação da tarefa 2 no fluxo de consulta de débitos. | Gabriel Robson | Henrique Schneider |
-| 27/09/2026 | 1.2 | Inclusão da introdução fundamentando a relevância da Análise de Tarefas (HTA) e dos Golfos de Interação no contexto de IHC. | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, legendas e chamadas dos quadros), remoção de marcadores de citação residuais ("3") e do rótulo "(Exemplo)" no Fluxo 1, inclusão das seções 6 e 7 e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 191 e 193) como Figuras 1 e 2, correção da página citada na introdução e retirada das seções 6 e 7 | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 27/09/2026 | 1.2 | Inclusão da introdução fundamentando a relevância da Análise de Tarefas (HTA) e dos Golfos de Interação no contexto de IHC. | Henrique Schneider | Alexandre Vilar |
+| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, legendas e chamadas dos quadros), remoção de marcadores de citação residuais ("3") e do rótulo "(Exemplo)" no Fluxo 1, inclusão das seções 6 e 7 e da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 191 e 193) como Figuras 1 e 2, correção da página citada na introdução e retirada das seções 6 e 7 | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
-| 22/11/2026 | 1.6 | Citação da NBR 6023, já listada nas referências, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 1.6 | Citação da NBR 6023, já listada nas referências, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.7 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução e Importância no Contexto de IHC
@@ -153,3 +154,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a citação da NBR 6023, que estava nas referências sem chamada no texto, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

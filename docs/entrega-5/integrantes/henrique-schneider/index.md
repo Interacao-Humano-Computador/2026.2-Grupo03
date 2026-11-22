@@ -16,8 +16,9 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Publicação da visão geral do material de Henrique Schneider na Entrega 5 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 25/10/2026 | 1.1 | Inclusão do vídeo de apresentação da Entrega 5 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.0 | Publicação da visão geral do material de Henrique Schneider na Entrega 5 | Henrique Schneider, com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 25/10/2026 | 1.1 | Inclusão do vídeo de apresentação da Entrega 5 | Henrique Schneider, com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.2 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -59,3 +60,5 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir do Relatório da Entrega 5 e dos documentos individuais do autor. Não foram gerados dados de participantes, datas de sessão ou resultados. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

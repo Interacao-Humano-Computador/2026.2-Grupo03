@@ -7,9 +7,9 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Redação das ferramentas do projeto e do processo de design, segundo o cronograma (GRUPO 03, 2026, seção 4.1) | — | — |
-| Camile Barbosa Gonzaga de Oliveira | Detalhamento da justificativa das ferramentas no relatório entregue (GRUPO 03, 2026, seções 3 e 6) | [Relatório da Entrega 1, seção 6](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
-| Eduardo Ribeiro Gomes da Silva | Documentação das ferramentas e de suas finalidades (versão 1.0); atualização das ferramentas e inclusão dos logos (versão 1.1) | [Commit 8205c95](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/8205c95); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
-| Gabriel Robson Nunes Neiva da Silva | Não se aplica (integrante a partir da Entrega 2) | — | — |
+| Camile Barbosa Gonzaga de Oliveira (ex-integrante) | Detalhamento da justificativa das ferramentas no relatório entregue (GRUPO 03, 2026, seções 3 e 6) | [Relatório da Entrega 1, seção 6](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Documentação das ferramentas e de suas finalidades (versão 1.0); atualização das ferramentas e inclusão dos logos (versão 1.1) | [Commit 8205c95](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/8205c95); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Não se aplica (integrante a partir da Entrega 2) | — | — |
 | Henrique Schneider Fernandes da Rosa | — | — | — |
 | João Vitor Tavares de Sá Lima | Redação das ferramentas do projeto e do processo de design, segundo o cronograma (GRUPO 03, 2026, seção 4.1) | — | — |
 
@@ -21,14 +21,15 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/09/2026 | 1.0 | Documentação das ferramentas usadas no projeto e de suas finalidades. | Eduardo Ribeiro | Gabriel Robson |
-| 10/09/2026 | 1.1 | Atualização das ferramentas utilizadas e inclusão dos respectivos logos. | Eduardo Ribeiro | Gabriel Robson |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções, legenda da tabela), das referências (ABNT) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.3 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 1.5 | Retirada do número de integrantes do texto, porque a equipe teve cinco pessoas na Entrega 1 e quatro a partir da Entrega 2 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 06/09/2026 | 1.0 | Documentação das ferramentas usadas no projeto e de suas finalidades. | Eduardo Ribeiro | João Vitor |
+| 10/09/2026 | 1.1 | Atualização das ferramentas utilizadas e inclusão dos respectivos logos. | Eduardo Ribeiro | João Vitor |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções, legenda da tabela), das referências (ABNT) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | João Vitor |
+| 17/10/2026 | 1.3 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | João Vitor |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.5 | Retirada do número de integrantes do texto, porque a equipe teve cinco pessoas na Entrega 1 e quatro a partir da Entrega 2 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
-| 22/11/2026 | 1.6 | Inclusão das ferramentas usadas ao longo do projeto e registradas em outras páginas (Figma, When2Meet, Canva, ChatGPT e Claude), a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 1.6 | Inclusão das ferramentas usadas ao longo do projeto e registradas em outras páginas (Figma, When2Meet, Canva, ChatGPT e Claude), a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.7 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -111,3 +112,5 @@ Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic)
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para retirar do texto o número de integrantes, que mudou ao longo do projeto, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir na Tabela 3 as ferramentas usadas ao longo do projeto e registradas em outras páginas do site, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

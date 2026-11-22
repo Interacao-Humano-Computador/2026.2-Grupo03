@@ -7,8 +7,8 @@
 | Integrante | Contribuição registrada na Entrega 2 | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Perfis de usuário e personas (v1.0); revisão das v2.0 e v2.1 | [Perfis e Personas](perfil-e-tarefas/perfis-e-personas.md) | [Reunião 01](https://youtu.be/jhhM3LJIpgA) |
-| Eduardo Ribeiro Gomes da Silva | Revisão da v1.0 de Perfis e Personas e da v2.0 de Questionários; "ajuda inicial na elaboração do TCLE" (ata da Reunião 01) | [Perfis e Personas](perfil-e-tarefas/perfis-e-personas.md), Tabela 2 | Ausente na Reunião 01 |
-| Gabriel Robson Nunes Neiva da Silva | Correção da HTA (v1.1); revisões da Análise de Tarefas e de Perfis e Personas | [Commit 43cb9a1](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/43cb9a1) | [Reunião 01](https://youtu.be/jhhM3LJIpgA) |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Revisão da v1.0 de Perfis e Personas e da v2.0 de Questionários; "ajuda inicial na elaboração do TCLE" (ata da Reunião 01) | [Perfis e Personas](perfil-e-tarefas/perfis-e-personas.md), Tabela 2 | Ausente na Reunião 01 |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Correção da HTA (v1.1); revisões da Análise de Tarefas e de Perfis e Personas | [Commit 43cb9a1](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/43cb9a1) | [Reunião 01](https://youtu.be/jhhM3LJIpgA) |
 | Henrique Schneider Fernandes da Rosa | Estrutura do relatório e do site; consolidação de perfis e personas (v2.0 e v2.1); Análise de Tarefas (v1.0 e v1.2); Entrevistas; Questionários; ajustes no TCLE; autoavaliação | [Cronograma Executado](../entrega-1/planejamento/cronograma-executado.md), Tabela 4 | [Reunião 01](https://youtu.be/jhhM3LJIpgA) |
 | João Vitor Tavares de Sá Lima | Aspectos éticos e TCLE (v1.0 da página e v1.1 do relatório) | [Commit 01df6a6](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/01df6a6) | Ausente na Reunião 01 |
 
@@ -20,13 +20,14 @@ Fonte: elaborado pelos autores (2026), com base nos históricos de versão, no r
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 17/09/2026 | 1.0 | Criação e definição da estrutura inicial do relatório final | Henrique Schneider | Gabriel Robson |
-| 24/09/2026 | 1.1 | Redação dos Aspectos Éticos e elaboração do TCLE | João Vitor Tavares | Gabriel Robson |
-| 27/09/2026 | 2.0 | Toques finais e Revisão | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 3.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, matriz de conformidade com a lista do Plano de Ensino, avaliação recebida e inspeção | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 3.1 | Retirada da matriz de conformidade e da seção de acompanhamento, vínculo com a página da avaliação da monitoria e revisão das referências | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 3.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 3.3 | Inclusão da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 17/09/2026 | 1.0 | Criação e definição da estrutura inicial do relatório final | Henrique Schneider | João Vitor |
+| 24/09/2026 | 1.1 | Redação dos Aspectos Éticos e elaboração do TCLE | João Vitor Tavares | Alexandre Vilar |
+| 27/09/2026 | 2.0 | Toques finais e Revisão | Henrique Schneider | João Vitor |
+| 15/10/2026 | 3.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, matriz de conformidade com a lista do Plano de Ensino, avaliação recebida e inspeção | Henrique Schneider | João Vitor |
+| 17/10/2026 | 3.1 | Retirada da matriz de conformidade e da seção de acompanhamento, vínculo com a página da avaliação da monitoria e revisão das referências | Henrique Schneider | João Vitor |
+| 10/11/2026 | 3.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 3.3 | Inclusão da introdução | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 3.4 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelos autores (2026). As versões 1.0 a 2.0 foram transcritas do relatório entregue (Grupo 03, 2026a, p. 17).
 
@@ -100,3 +101,5 @@ O relatório entregue tem a seção "Agradecimentos e Suportes Tecnológicos", q
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta o conteúdo já existente na página, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

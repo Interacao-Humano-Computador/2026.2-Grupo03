@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Elaboração da lista: itens do desenvolvimento do projeto (Plano de Ensino), itens de conteúdo propostos para a Entrega 6 e quadros de registro das inspeções | [Lista de verificação](lista-de-verificacao.md) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -19,8 +19,9 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/11/2026 | 1.0 | Criação da lista: itens do desenvolvimento do projeto com autoavaliação preliminar, 11 itens de conteúdo propostos com fonte e quadros de registro para a inspeção do próprio grupo e do Grupo +1 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 22/11/2026 | 1.1 | Atualização da situação do item D6, porque o cronograma executado passou a trazer a Entrega 6 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.0 | Criação da lista: itens do desenvolvimento do projeto com autoavaliação preliminar, 11 itens de conteúdo propostos com fonte e quadros de registro para a inspeção do próprio grupo e do Grupo +1 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.1 | Atualização da situação do item D6, porque o cronograma executado passou a trazer a Entrega 6 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.2 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -106,3 +107,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir esta lista a partir do Plano de Ensino, da lista da Entrega 5 e das fontes citadas nas páginas da Entrega 6, para propor os itens de conteúdo C1 a C11 (a confirmar pelo grupo) e para executar a verificação automática que sustenta a autoavaliação do Quadro 1. Não foram criadas respostas de inspeção do Grupo +1 nem dados de outros grupos. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para atualizar a situação do item D6 do Quadro 1, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -18,7 +18,8 @@ Fonte: elaborado pelo autor (2026).
 | --- | --- | --- | --- | --- |
 | 02/11/2026 | 1.0 | Publicação da visão geral do material de Henrique Schneider na Entrega 6, das três páginas de planejamento e dos PDFs | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.1 | Link do vídeo da apresentação; registro da Sessão 1 e do teste-piloto do protótipo de papel (03/11/2026), com links das gravações; novas versões do roteiro da sessão (v1.3), do TCLE do protótipo de papel (v1.1), da especificação (v1.2), do planejamento do teste de usabilidade (v1.2) e do roteiro da apresentação (v1.2); novo cronograma da avaliação de alta fidelidade | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
-| 10/11/2026 | 1.2 | Registro do protótipo de alta fidelidade construído no Figma (link na Tabela 3); novas versões da especificação (v1.3) e do planejamento do teste de usabilidade (v1.3) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.2 | Registro do protótipo de alta fidelidade construído no Figma (link na Tabela 3); novas versões da especificação (v1.3) e do planejamento do teste de usabilidade (v1.3) | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -70,3 +71,5 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 27/10/2026, 02/11/2026 e 03/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir os documentos listados na Tabela 3, organizar esta página e, em 03/11/2026, redigir o relato da Sessão 1 a partir da gravação e das informações dadas pelo autor. Em 10/11/2026, foi usado para construir o protótipo de alta fidelidade no Figma a partir da especificação e para registrar o link nesta página. As datas, os horários, os papéis e o participante foram informados pelo autor ou conferidos na gravação; não foram inventados dados. A ferramenta não é autora do artefato, e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Nenhuma até esta versão | — | — |
-| Gabriel Robson Nunes Neiva da Silva | Nenhuma até esta versão | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Nenhuma até esta versão | — | — |
 | Henrique Schneider Fernandes da Rosa | Organização da página a partir dos registros do site | — | — |
 | João Vitor Tavares de Sá Lima | Nenhuma até esta versão | — | — |
 
@@ -19,9 +19,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 17/10/2026 | 1.0 | Criação da aba "Trabalhos Avaliativos", com os trabalhos individuais de cada integrante por entrega | Henrique Schneider | Gabriel Robson |
-| 19/10/2026 | 1.1 | Inclusão das listas de verificação de Personas, Elenco de Personas e HTA de Gabriel Robson | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 17/10/2026 | 1.0 | Criação da aba "Trabalhos Avaliativos", com os trabalhos individuais de cada integrante por entrega | Henrique Schneider | Alexandre Vilar |
+| 19/10/2026 | 1.1 | Inclusão das listas de verificação de Personas, Elenco de Personas e HTA de Gabriel Robson | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -43,7 +44,7 @@ Cada trabalho fica na pasta do integrante dentro da entrega correspondente (aba 
 | Integrante | Trabalhos publicados | Página |
 | --- | :---: | --- |
 | Alexandre Vilar Valadares Fonsêca | 13 | [Trabalhos Avaliativos – Alexandre Vilar](alexandre-vilar.md) |
-| Gabriel Robson Nunes Neiva da Silva | 5 | [Trabalhos Avaliativos – Gabriel Robson](gabriel-robson.md) |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | 5 | [Trabalhos Avaliativos – Gabriel Robson](gabriel-robson.md) |
 | Henrique Schneider Fernandes da Rosa | 5 | [Trabalhos Avaliativos – Henrique Schneider](henrique-schneider.md) |
 | João Vitor Tavares de Sá Lima | 13 | [Trabalhos Avaliativos – João Vitor](joao-vitor.md) |
 
@@ -105,3 +106,5 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 **Uso de IA generativa nesta página.** Em 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para criar esta aba e montar os quadros a partir dos trabalhos publicados nas pastas dos integrantes. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

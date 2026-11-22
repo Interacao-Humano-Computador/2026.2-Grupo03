@@ -13,7 +13,7 @@ Integrantes do grupo: Alexandre Vilar, Gabriel Robson, Henrique Schneider e Joã
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Não se aplica (página individual de Gabriel Robson) | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Publicação da página no site | [Commit 661c014](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/661c014) | — |
 | João Vitor Tavares de Sá Lima | Não se aplica (página individual de Gabriel Robson) | — | — |
 
@@ -25,11 +25,12 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
-| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Gabriel Robson |
-| 13/10/2026 | 2.0 | Atualização do Documento | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 2.1 | Padronização da estrutura no modelo da disciplina (tabela de contribuição, legenda do histórico corrigida, introdução, seções numeradas, legendas dos cronogramas, seções do storyboard e da relação com a análise de tarefas) e inclusão da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 2.2 | Organização por entrega; fotos das fontes; revisão das citações e das referências; reorganização das seções | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Alexandre Vilar |
+| 13/10/2026 | 2.0 | Atualização do Documento | Henrique Schneider | Alexandre Vilar |
+| 15/10/2026 | 2.1 | Padronização da estrutura no modelo da disciplina (tabela de contribuição, legenda do histórico corrigida, introdução, seções numeradas, legendas dos cronogramas, seções do storyboard e da relação com a análise de tarefas) e inclusão da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 2.2 | Organização por entrega; fotos das fontes; revisão das citações e das referências; reorganização das seções | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 2.4 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -144,3 +145,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 *Interação Humano Computador — André Barros de Sales — 2026.2 — Grupo 03*
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

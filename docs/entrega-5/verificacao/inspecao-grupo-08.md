@@ -15,7 +15,7 @@ Integrantes do grupo: Alexandre Vilar, Gabriel Robson, Henrique Schneider e Joã
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | :--- | :--- | :--- | :--- |
 | Alexandre Vilar Valadares Fonsêca | Autoria dos itens R1, R2 e N1 | [Itens R1, R2 e N1](#12-itens-do-conteudo-da-disciplina) | — |
-| Gabriel Robson Nunes Neiva da Silva | Autoria dos itens R3, R4 e N3 | [Itens R3, R4 e N3](#12-itens-do-conteudo-da-disciplina) | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Autoria dos itens R3, R4 e N3 | [Itens R3, R4 e N3](#12-itens-do-conteudo-da-disciplina) | — |
 | Henrique Schneider Fernandes da Rosa | Autoria dos itens R7, R8, N2 e N5; condução da inspeção e preenchimento das respostas | [Itens R7, R8, N2 e N5](#12-itens-do-conteudo-da-disciplina) | [Inspeção de 26/10/2026](https://youtu.be/4tzU4B-RVis) |
 | João Vitor Tavares de Sá Lima | Autoria dos itens R5, R6, R9 e N4 | [Itens R5, R6, R9 e N4](#12-itens-do-conteudo-da-disciplina) | — |
 
@@ -31,7 +31,8 @@ Fonte: Elaborado pelos autores (2026).
 | :---: | :---: | :--- | :--- | :--- |
 | 26/10/2026 | 1.0 | Criação da lista de verificação da Entrega 5 e registro dos resultados da inspeção do Grupo 08: respostas, evidências (minutos da gravação e links), versão, data e hora de cada item e fundamentação com foto das fontes. | Henrique Schneider | **Alexandre Vilar** |
 
-| 22/11/2026 | 1.1 | Padronização das legendas e fontes (sem HTML), do nome da introdução e da ordem das seções finais (Referências antes de Agradecimentos), a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 1.1 | Padronização das legendas e fontes (sem HTML), do nome da introdução e da ordem das seções finais (Referências antes de Agradecimentos), a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.2 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: Elaborado pelos autores (2026).
 
 ---
@@ -282,3 +283,5 @@ Fonte: Elaborado pelos autores (2026).
 ---
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para padronizar as legendas, as fontes e a ordem das seções finais desta página, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo da inspeção. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

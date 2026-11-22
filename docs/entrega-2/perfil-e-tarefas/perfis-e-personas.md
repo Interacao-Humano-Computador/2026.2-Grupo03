@@ -7,8 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Estruturação e catalogação inicial dos perfis e do elenco de personas (v1.0); inclusão dos cenários (v2.2); revisão das v2.0 e v2.1 | [Commit 749868d](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/749868d) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
-| Eduardo Ribeiro Gomes da Silva | Revisão da v1.0 | — | — |
-| Gabriel Robson Nunes Neiva da Silva | Revisão da v2.1 | — | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Revisão da v1.0 | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Revisão da v2.1 | — | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
 | Henrique Schneider Fernandes da Rosa | Consolidação dos três perfis e personas (v2.0); padronização das citações e comprovação visual (v2.1) | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | [Reunião 01 (27/09/2026)](https://youtu.be/jhhM3LJIpgA) |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -22,13 +22,14 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 17/09/2026 | 1.0 | Estruturação e catalogação inicial dos perfis de usuário e elenco de personas. | Alexandre Vilar | Eduardo Ribeiro |
 | 27/09/2026 | 2.0 | Atualização e consolidação com os 3 perfis/personas do estudo (Condutor, Candidato e Agente). | Henrique Schneider | Alexandre Vilar |
-| 27/09/2026 | 2.1 | Releitura e refinamento do documento, padronização ABNT de citações e adição das referências de comprovação visual do livro de IHC. | Henrique Schneider | Alexandre Vilar, Gabriel Robson |
-| 06/10/2026 | 2.2 | Inclusão dos cenários em seção própria. | Alexandre Vilar | Gabriel Robson |
-| 15/10/2026 | 2.3 | Padronização da estrutura (tabela de contribuição, seções numeradas), correção das páginas citadas após conferência no livro, inclusão das fotos das pp. 135 e 175 como Figuras 1 e 2, substituição do marcador `caminho_imagem…` e inclusão da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 2.4 | Inclusão da foto da p. 134 de Barbosa e Silva (2010) como Figura 3 e revisão das citações | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 2.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 27/09/2026 | 2.1 | Releitura e refinamento do documento, padronização ABNT de citações e adição das referências de comprovação visual do livro de IHC. | Henrique Schneider | Alexandre Vilar, Alexandre Vilar |
+| 06/10/2026 | 2.2 | Inclusão dos cenários em seção própria. | Alexandre Vilar | João Vitor |
+| 15/10/2026 | 2.3 | Padronização da estrutura (tabela de contribuição, seções numeradas), correção das páginas citadas após conferência no livro, inclusão das fotos das pp. 135 e 175 como Figuras 1 e 2, substituição do marcador `caminho_imagem…` e inclusão da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 2.4 | Inclusão da foto da p. 134 de Barbosa e Silva (2010) como Figura 3 e revisão das citações | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 2.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
-| 22/11/2026 | 2.6 | Citação do portal do Detran-DF e da NBR 6023, que estavam só nas referências, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 22/11/2026 | 2.6 | Citação do portal do Detran-DF e da NBR 6023, que estavam só nas referências, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 2.7 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução e Escopo
@@ -325,3 +326,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para citar no texto o portal do Detran-DF e a NBR 6023, que estavam só nas referências, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

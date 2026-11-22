@@ -7,8 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Eduardo Ribeiro Gomes da Silva | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Criação da estrutura da página (06/10/2026) | [Commit a0d81cd](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/a0d81cd) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -20,10 +20,11 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/10/2026 | 0.1 | Criação do arquivo vazio da página | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 1.0 | Transcrição, para o site, do relatório de inspeção entregue em 02/10/2026 (identificação, 21 itens com resposta e hora, fontes dos itens adicionais) | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.1 | Inclusão das fotos dos trechos citados como fonte dos itens adicionais (Figuras 1 a 5) e conferência das páginas dos itens 17, 18 e 19 | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 06/10/2026 | 0.1 | Criação do arquivo vazio da página | Henrique Schneider | Alexandre Vilar |
+| 15/10/2026 | 1.0 | Transcrição, para o site, do relatório de inspeção entregue em 02/10/2026 (identificação, 21 itens com resposta e hora, fontes dos itens adicionais) | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.1 | Inclusão das fotos dos trechos citados como fonte dos itens adicionais (Figuras 1 a 5) e conferência das páginas dos itens 17, 18 e 19 | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -127,3 +128,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever para o site o relatório de inspeção da Entrega 2 entregue pelo grupo (extração do texto do PDF e organização nas Tabelas 3 e 4), sem alterar perguntas, respostas ou horários. Em 17/10/2026, a ferramenta foi usada para localizar nos livros e nos slides os trechos citados como fonte dos itens adicionais e recortar as fotos desses trechos (Figuras 1 a 5). A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
