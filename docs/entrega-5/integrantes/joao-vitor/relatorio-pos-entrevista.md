@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| João Vitor Tavares de Sá Lima | Condução da entrevista e consolidação dos resultados da avaliação do HTA e do storyboard | [Visão geral](index.md) | [Entrevista](https://youtu.be/n3JVUZSXZl4?is=M3ZSvo13Y-uiOahZ) |
+| João Vitor Tavares de Sá Lima | Condução da entrevista e consolidação dos resultados da avaliação do HTA e do storyboard | [Visão geral](index.md) | [Entrevista](https://youtu.be/n3JVUZSXZl4) |
 
 Fonte: materiais e registros fornecidos pelo responsável (2026).
 
@@ -16,13 +16,19 @@ Fonte: materiais e registros fornecidos pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Criação da estrutura do relatório, sem antecipar resultados não verificados | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.1 | Inclusão do link da entrevista definitiva e manutenção dos resultados como pendentes de análise | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.2 | Registro do consentimento formal e preservação de anonimato do participante | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.3 | Consolidação dos resultados da entrevista a partir do registro resumido das respostas | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.0 | Criação da estrutura do relatório, sem antecipar resultados não verificados | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Alexandre Vilar |
+| 25/10/2026 | 1.1 | Inclusão do link da entrevista definitiva e manutenção dos resultados como pendentes de análise | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Alexandre Vilar |
+| 25/10/2026 | 1.2 | Registro do consentimento formal e preservação de anonimato do participante | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Alexandre Vilar |
+| 25/10/2026 | 1.3 | Consolidação dos resultados da entrevista a partir do registro resumido das respostas | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Alexandre Vilar |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
+| 22/11/2026 | 1.5 | Inclusão da introdução e retirada dos parâmetros de rastreamento dos links do YouTube, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.6 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: registro desta versão (2026).
+
+## Introdução
+
+Esta página registra o artefato “Relatório Pós-Entrevista”, de João Vitor, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de João Vitor e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Identificação e objetivo”, a Seção 2 trata de “Método e procedimento registrado”, a Seção 3 trata de “Resultados por questão”, a Seção 4 trata de “Síntese dos achados e recomendações”, a Seção 5 trata de “Implicações para o HTA e o redesign”, a Seção 6 trata de “Limitações e cuidados na interpretação”, a Seção 7 trata de “Conclusão” e a Seção 8 trata de “Encaminhamento das recomendações”.
 
 ## 1. Identificação e objetivo
 
@@ -36,7 +42,7 @@ O participante da entrevista definitiva é identificado como **P01**. Houve cons
 
 A avaliação foi conduzida por meio de entrevista semiestruturada apoiada no HTA atual, no storyboard e no HTA do redesign.
 
-A [gravação da entrevista definitiva](https://youtu.be/n3JVUZSXZl4?is=M3ZSvo13Y-uiOahZ) está publicada. Para esta versão do relatório, os resultados foram consolidados a partir do **registro resumido das respostas fornecido pelo entrevistador**. Portanto, as evidências abaixo são paráfrases do conteúdo relatado, e não transcrições literais do participante.
+A [gravação da entrevista definitiva](https://youtu.be/n3JVUZSXZl4) está publicada. Para esta versão do relatório, os resultados foram consolidados a partir do **registro resumido das respostas fornecido pelo entrevistador**. Portanto, as evidências abaixo são paráfrases do conteúdo relatado, e não transcrições literais do participante.
 
 O registro recebido contém **nove respostas**, identificadas como Q01 a Q09. Não foi presumida uma décima resposta que não tenha sido fornecida.
 
@@ -159,3 +165,7 @@ Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de João Vitor, para o
 [Voltar à avaliação individual](avaliacao.md).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes e retirar dos links do YouTube os parâmetros de rastreamento, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

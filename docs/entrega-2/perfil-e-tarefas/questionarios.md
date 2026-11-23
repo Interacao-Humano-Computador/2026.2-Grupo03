@@ -7,8 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Revisão da v1.0 | — | — |
-| Eduardo Ribeiro Gomes da Silva | Revisão da v2.0 | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Revisão da v2.0 | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Estrutura, público-alvo e bloco de perguntas (v1.0); revisão metodológica e fundamentação (v2.0); responsável pela elaboração e aplicação (seção 2) | [Commit d53cf07](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/d53cf07); [commit 142c6cb](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/142c6cb) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -22,15 +22,18 @@ Fonte: elaborado pelos autores (2026).
 | --- | --- | --- | --- | --- |
 | 17/09/2026 | 1.0 | Elaboração da estrutura, definição do público-alvo e criação do bloco de perguntas do questionário. | Henrique Schneider | Alexandre Vilar |
 | 27/09/2026 | 2.0 | Revisão metodológica, adequação das instruções de preenchimento, inclusão da fundamentação teórica e consolidação dos dados. | Henrique Schneider | Eduardo Ribeiro |
-| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, legendas), das citações e referências (ABNT), retirada dos campos "[Inserir…]" e inclusão da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 2.2 | Inclusão das fotos dos trechos de Barbosa e Silva (2010) citados como Figuras 1 a 4, correção das páginas citadas e retirada dos campos de link e de total de respostas sem conteúdo | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, legendas), das citações e referências (ABNT), retirada dos campos "[Inserir…]" e inclusão da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 2.2 | Inclusão das fotos dos trechos de Barbosa e Silva (2010) citados como Figuras 1 a 4, correção das páginas citadas e retirada dos campos de link e de total de respostas sem conteúdo | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
+| 22/11/2026 | 2.4 | Correção dos nomes das personas e da numeração da Tabela 3, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 2.5 | Citação do portal do Detran-DF e da NBR 6023 e retirada de Courage e Baxter (2005), que não é citado no texto, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 2.6 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução e Importância no Contexto de IHC
 
-Este documento consolida o planejamento, a estrutura do instrumento, a amostragem e a análise dos dados referentes à investigação quantitativa por **Questionário**. A aplicação deste método visa fundamentar de forma estatística a caracterização do perfil de usuário, o mapeamento das tarefas primárias/secundárias e o levantamento de gargalos no Portal Detran-DF.
+Este documento consolida o planejamento, a estrutura do instrumento, a amostragem e a análise dos dados referentes à investigação quantitativa por **Questionário**. A aplicação deste método visa fundamentar de forma estatística a caracterização do perfil de usuário, o mapeamento das tarefas primárias/secundárias e o levantamento de gargalos no Portal Detran-DF. O questionário trata dos serviços do portal do Detran-DF (Departamento de Trânsito do Distrito Federal, 2026).
 
 O levantamento de dados por meio de **Questionários** representa uma técnica indireta de investigação fundamental para coletar informações de um grupo amostral amplo e geograficamente disperso no Design Centrado no Usuário (Barbosa; Silva, 2010, cap. 5, seç. 5.5.2, p. 150). Em Interação Humano-Computador, o uso do questionário estruturado permite mensurar padrões demográficos, verificar a frequência do uso de dispositivos e aferir o grau de satisfação e as principais barreiras enfrentadas pelos cidadãos no acesso a serviços públicos virtuais. O trecho do livro está na Figura 1.
 
@@ -142,7 +145,7 @@ O formulário foi organizado em seções lógicas que progridem de questões dem
 ## 5. Conclusões e Aplicação no Projeto
 
 * **Síntese dos Achados:** O questionário confirmou estatisticamente a hipótese de que a consulta de débitos e a emissão de boletos constituem a tarefa primária dos usuários. Os dados indicam a necessidade urgente de simplificar a interface móvel e aprimorar a clareza das mensagens de diagnóstico.
-* **Encaminhamentos para IHC:** Os resultados obtidos alimentam diretamente a validação dos Perfis de Usuário, o refinamento das Personas (Carlos Eduardo e Camila) e o mapeamento dos Golfos de Execução e Avaliação na Análise de Tarefas HTA.
+* **Encaminhamentos para IHC:** Os resultados obtidos alimentam diretamente a validação dos Perfis de Usuário, o refinamento das Personas (João Paulo, Camila e Ricardo) e o mapeamento dos Golfos de Execução e Avaliação na Análise de Tarefas HTA.
 
 ## 6. Checklist de Verificação da Técnica de Questionários
 
@@ -152,14 +155,14 @@ A Tabela 3 apresenta a lista de verificação da técnica de questionário.
 
 | Item | Pergunta de Verificação | Resposta | Fonte Teórica / Justificativa |
 | :---: | :--- | :---: | :--- |
-| **31** | O questionário contém instruções claras sobre como responder cada item e indica se a pergunta admite resposta única ou múltipla? | **Sim** | Cap. 5, p. 150 (Barbosa; Silva, 2010). Instruções explícitas foram adicionadas aos cabeçalhos de cada seção. |
-| **32** | As perguntas demográficas e de fundo foram colocadas no início do questionário para classificar o perfil dos respondentes? | **Sim** | Cap. 5, p. 151 (Barbosa; Silva, 2010). A Seção 2 mapeia idade, ocupação e dispositivo antes dos serviços. |
-| **33** | As perguntas foram ordenadas de forma lógica, partindo de conceitos gerais para aspectos específicos dos serviços do Detran-DF? | **Sim** | Cap. 5, p. 151 (Barbosa; Silva, 2010). Progressão: TCLE -> Demografia -> Uso do Sistema -> Dificuldades/Opinião. |
-| **34** | Foi realizado um teste-piloto do questionário antes do envio em massa para detectar ambiguidades e estimar o tempo de resposta? | **Sim** | Cap. 5, pp. 133–134 e 171 (Barbosa; Silva, 2010). Teste-piloto executado com 2 participantes para ajuste de enunciados. |
+| **1** | O questionário contém instruções claras sobre como responder cada item e indica se a pergunta admite resposta única ou múltipla? | **Sim** | Cap. 5, p. 150 (Barbosa; Silva, 2010). Instruções explícitas foram adicionadas aos cabeçalhos de cada seção. |
+| **2** | As perguntas demográficas e de fundo foram colocadas no início do questionário para classificar o perfil dos respondentes? | **Sim** | Cap. 5, p. 151 (Barbosa; Silva, 2010). A Seção 2 mapeia idade, ocupação e dispositivo antes dos serviços. |
+| **3** | As perguntas foram ordenadas de forma lógica, partindo de conceitos gerais para aspectos específicos dos serviços do Detran-DF? | **Sim** | Cap. 5, p. 151 (Barbosa; Silva, 2010). Progressão: TCLE -> Demografia -> Uso do Sistema -> Dificuldades/Opinião. |
+| **4** | Foi realizado um teste-piloto do questionário antes do envio em massa para detectar ambiguidades e estimar o tempo de resposta? | **Sim** | Cap. 5, pp. 133–134 e 171 (Barbosa; Silva, 2010). Teste-piloto executado com 2 participantes para ajuste de enunciados. |
 
 Fonte: elaborado pelos autores (2026), com base em Barbosa e Silva (2010).
 
-Os trechos citados nos itens 31 a 33 estão nas Figuras 1 e 2; os do item 34, nas Figuras 3 e 4.
+Os trechos citados nos itens 1 a 3 estão nas Figuras 1 e 2; os do item 4, nas Figuras 3 e 4.
 
 ??? quote "Figura 4 – Trecho de Barbosa e Silva (2010, cap. 5, p. 171) com perguntas para revisar um questionário"
 
@@ -167,13 +170,13 @@ Os trechos citados nos itens 31 a 33 estão nas Figuras 1 e 2; os do item 34, na
 
     Fonte: Barbosa e Silva (2010, cap. 5, p. 171).
 
-## Referências Bibliográficas
+## Referências
+
+As referências seguem a NBR 6023 (ABNT, 2018).
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
-
-COURAGE, Catherine; BAXTER, Kathy. *Understanding your users*: a practical guide to user requirements methods, tools, and techniques. San Francisco: Morgan Kaufmann, 2005.
 
 DEPARTAMENTO DE TRÂNSITO DO DISTRITO FEDERAL. *Detran Digital: Portal de Serviços*. Brasília, DF, 2026. Disponível em: https://portal.detran.df.gov.br. Acesso em: 25 set. 2026.
 
@@ -184,3 +187,9 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, legendas) e padronizar citações e referências conforme a ABNT. Em 17/10/2026, a ferramenta foi usada para conferir no PDF de Barbosa e Silva (2010) as páginas citadas e recortar as fotos dos trechos (Figuras 1 a 4). Perguntas, achados e conclusões não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para corrigir os nomes das personas, conforme a página Perfis e Personas, e a numeração dos itens da Tabela 3, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para citar no texto o portal do Detran-DF e a NBR 6023, que estavam só nas referências, e retirar uma obra não citada, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Nenhuma até esta versão | — | — |
-| Gabriel Robson Nunes Neiva da Silva | Nenhuma até esta versão | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Nenhuma até esta versão | — | — |
 | Henrique Schneider Fernandes da Rosa | Criação do modelo de ata (versões 1.0 e 1.1) | [Modelo](#2-modelo) | — |
 | João Vitor Tavares de Sá Lima | Nenhuma até esta versão | — | — |
 
@@ -19,9 +19,10 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação do modelo a partir do modelo de ata do MCTIC, dos itens 7 a 9 do desenvolvimento do projeto do Plano de Ensino e da lista aplicada pela monitoria na Entrega 2 | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.1 | Organização por entrega: equipe atual na tabela de contribuição do modelo e orientação para campos sem informação | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/10/2026 | 1.0 | Criação do modelo a partir do modelo de ata do MCTIC, dos itens 7 a 9 do desenvolvimento do projeto do Plano de Ensino e da lista aplicada pela monitoria na Entrega 2 | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.1 | Organização por entrega: equipe atual na tabela de contribuição do modelo e orientação para campos sem informação | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -62,7 +63,7 @@ Fonte: adaptado de MCTI ([20--], p. 2).
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | [participação, redação ou "Não participou"] | [link] | [link da gravação] |
-| Gabriel Robson Nunes Neiva da Silva | [...] | [...] | [...] |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | [...] | [...] | [...] |
 | Henrique Schneider Fernandes da Rosa | [...] | [...] | [...] |
 | João Vitor Tavares de Sá Lima | [...] | [...] | [...] |
 
@@ -170,3 +171,5 @@ SILVA, Giovana Barbosa da. *Atividade avaliativa: IHC: Etapa 2: Grupo 3*. Brasí
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar este modelo a partir do modelo de ata do MCTIC, do Plano de Ensino e da lista da monitoria. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

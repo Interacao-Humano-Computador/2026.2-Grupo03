@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | Elaboração do roteiro proposto de avaliação (planejamento e perguntas) | [Visão geral](index.md) | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Elaboração do roteiro proposto de avaliação (planejamento e perguntas) | [Visão geral](index.md) | — |
 | Henrique Schneider Fernandes da Rosa | — | — | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -19,10 +19,16 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Proposta inicial de renovação guiada da CNH e documentação da Entrega 5 | Gabriel Robson, com apoio do ChatGPT | Gabriel Robson |
-| 10/11/2026 | 1.1 | Padronização da estrutura: tabela de contribuição e histórico de versões no formato do grupo, com legendas e fonte | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.0 | Proposta inicial de renovação guiada da CNH e documentação da Entrega 5 | Gabriel Robson, com apoio do ChatGPT | Alexandre Vilar |
+| 10/11/2026 | 1.1 | Padronização da estrutura: tabela de contribuição e histórico de versões no formato do grupo, com legendas e fonte | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
+| 22/11/2026 | 1.2 | Inclusão da introdução e inclusão das legendas e fontes das tabelas que não as tinham, com a renumeração das tabelas seguintes, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelo autor (2026).
+
+## Introdução
+
+Esta página registra o artefato “Roteiro proposto de avaliação”, de Gabriel Robson, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de Gabriel e está ligada à [visão geral](index.md) da entrega. A página está organizada nas seções “Planejamento”, “Perguntas” e “Registro a preencher após a sessão”.
 
 ## Planejamento
 
@@ -43,9 +49,13 @@ Fonte: elaborado pelo autor (2026).
 
 ## Registro a preencher após a sessão
 
+**Tabela 3 – a preencher após a sessão**
+
 | Código do participante | Data/local | Consentimento | Problemas observados | Recomendações |
 | --- | --- | --- | --- | --- |
 | A definir | A definir | Pendente | Pendente | Pendente |
+
+Fonte: elaborado pelo autor (2026).
 
 Não há respostas ou resultados coletados nesta versão.
 
@@ -61,3 +71,9 @@ Não há respostas ou resultados coletados nesta versão.
 O ChatGPT (OpenAI) auxiliou na redação da proposta, estruturação dos HTAs, roteiro exploratório e protótipo demonstrativo em 25/10/2026, a pedido de Gabriel Robson. O conteúdo necessita de revisão pelo responsável. Nenhum resultado de avaliação foi inventado.
 
 Em 10/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado apenas para padronizar a estrutura desta página (tabela de contribuição e histórico de versões), sem alterar o conteúdo escrito por Gabriel Robson. A declaração do uso do ChatGPT acima é do autor.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir as legendas e as fontes das tabelas que não as tinham e renumerar as tabelas seguintes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

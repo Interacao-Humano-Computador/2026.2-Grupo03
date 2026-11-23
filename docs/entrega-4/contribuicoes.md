@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Criação do documento (v1.0) e registro da inspeção do Grupo 01 (v1.1 e v1.2) | [Commit c5b8430](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/c5b8430); [commit 2a95590](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/2a95590) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -19,13 +19,15 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | Gabriel Robson |
-| 14/10/2026 | 1.1 | Registro da lista de verificação para a inspeção da Entrega 4 do Grupo 01 (Grupo -1) e da declaração de uso de IA correspondente | Henrique Schneider | Gabriel Robson |
-| 14/10/2026 | 1.2 | Registro da reunião de inspeção do Grupo 01 (Grupo -1), dos autores dos itens adicionais N1 a N7 e do vídeo da inspeção | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 1.3 | Correção do tema da entrega na introdução e das legendas (constavam "Entrega 2" e "Entrega 3"); inclusão da linha de Eduardo Ribeiro, das contribuições do planejamento (cronogramas individuais), dos vídeos registrados e da seção de uso de IA; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.4 | Organização por entrega; retirada da linha de Eduardo Ribeiro, que não integrava mais o grupo na Entrega 4; inclusão das listas individuais de verificação do storyboard | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 06/10/2026 | 1.0 | Criação do Documento | Henrique Schneider | João Vitor |
+| 14/10/2026 | 1.1 | Registro da lista de verificação para a inspeção da Entrega 4 do Grupo 01 (Grupo -1) e da declaração de uso de IA correspondente | Henrique Schneider | João Vitor |
+| 14/10/2026 | 1.2 | Registro da reunião de inspeção do Grupo 01 (Grupo -1), dos autores dos itens adicionais N1 a N7 e do vídeo da inspeção | Henrique Schneider | João Vitor |
+| 15/10/2026 | 1.3 | Correção do tema da entrega na introdução e das legendas (constavam "Entrega 2" e "Entrega 3"); inclusão da linha de Eduardo Ribeiro, das contribuições do planejamento (cronogramas individuais), dos vídeos registrados e da seção de uso de IA; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | João Vitor |
+| 17/10/2026 | 1.4 | Organização por entrega; retirada da linha de Eduardo Ribeiro, que não integrava mais o grupo na Entrega 4; inclusão das listas individuais de verificação do storyboard | Henrique Schneider | João Vitor |
+| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
+| 22/11/2026 | 1.6 | Citação da NBR 6023 e retirada de Barbosa e Silva (2010), que não é citado na página, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.7 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: elaborado pelos autores (2026).
 
 ## Introdução
@@ -78,11 +80,11 @@ A Tabela 5 registra os vídeos da Entrega 4.
 
 Fonte: elaborado pelos autores (2026), com base na ata da Reunião 02.
 
-## Referências Bibliográficas
+## Referências
+
+As referências seguem a NBR 6023 (ABNT, 2018).
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
-
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
 
@@ -104,3 +106,7 @@ Fonte: elaborado pelos autores (2026).
 Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para corrigir o tema da entrega e as legendas copiadas de outras entregas, incluir as contribuições dos cronogramas individuais (Relatório da Entrega 4, pp. 7–14), as listas individuais de verificação do storyboard, o uso do Gemini declarado no relatório e os vídeos registrados na ata da Reunião 02, e organizar as tabelas. As contribuições já registradas não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a citação da NBR 6023 e retirar das referências uma obra não citada no texto, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -16,18 +16,26 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Reserva do espaço para inclusão posterior do relatório | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.1 | Publicação da análise das dez questões, evidências, limitações e encaminhamentos | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.3 | Inclusão de local, modalidade, recrutamento, duração, limite do piloto e revisão prevista | Alexandre Vilar, com apoio do ChatGPT | Gabriel Robson |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.0 | Reserva do espaço para inclusão posterior do relatório | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.1 | Publicação da análise das dez questões, evidências, limitações e encaminhamentos | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 25/10/2026 | 1.3 | Inclusão de local, modalidade, recrutamento, duração, limite do piloto e revisão prevista | Alexandre Vilar, com apoio do ChatGPT | João Vitor |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.5 | Inclusão da introdução e inclusão das legendas e fontes das tabelas que não as tinham, com a renumeração das tabelas seguintes, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.6 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: registro desta versão (2026).
+
+## Introdução
+
+Esta página registra o artefato “Relatório Pós-Entrevista”, de Alexandre Vilar, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de Alexandre e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Identificação e objetivo”, a Seção 2 trata de “Método e procedimento registrado”, a Seção 3 trata de “Resultados por questão - Q01 a Q05”, a Seção 3 trata de “Resultados por questão - Q06 a Q10”, a Seção 4 trata de “Síntese dos achados e recomendações”, a Seção 5 trata de “Implicações para o HTA e o redesign”, a Seção 6 trata de “Limitações e cuidados na interpretação”, a Seção 7 trata de “Conclusão” e a Seção 8 trata de “Encaminhamento das recomendações”.
 
 ## 1. Identificação e objetivo
 
 Projeto: Interação Humano-Computador, Grupo 03, Entrega 5. Material individual: Alexandre Vilar. Cenário: vistoria veicular para transferência de propriedade.
 
 Objetivo: analisar as dificuldades relatadas na busca de orientações para vistoria, examinar a correspondência percebida do HTA com a tarefa e avaliar compreensão, utilidade e preferência em relação ao storyboard de agendamento pelo portal.
+
+**Tabela 3 – Identificação e objetivo**
 
 | Campo | Registro |
 | --- | --- |
@@ -39,6 +47,8 @@ Objetivo: analisar as dificuldades relatadas na busca de orientações para vist
 | Local e modalidade | Casa de Alexandre; presencial, conforme informação do responsável. |
 | Duração total da sessão | Aproximadamente 10 minutos, estimativa informada por Alexandre. |
 | Data deste relatório | 25/10/2026; não corresponde necessariamente à data da sessão. |
+
+Fonte: elaborado pelo autor (2026).
 
 ## 2. Método e procedimento registrado
 
@@ -116,12 +126,16 @@ As respostas foram analisadas individualmente, relacionando cada evidência às 
 
 Os relatos de Q01 a Q03 convergem para dificuldades de localizar orientações e identificar uma empresa credenciada. Q05 registra reconhecimento da correspondência do HTA com o caminho percebido, acompanhado de complexidade. Q06 a Q10 indicam recepção favorável da proposta, com evidência insuficiente sobre o funcionamento de suas escolhas específicas.
 
+**Tabela 4 – Síntese dos achados e recomendações**
+
 | Achado | Evidência e impacto relatado | Recomendação do avaliador |
 | --- | --- | --- |
 | A1. Localização pouco clara | Q01-Q03, 1:58-3:26. P01 relata não encontrar o serviço e as informações para escolher a empresa. | Tornar mais visível o acesso às orientações de vistoria por finalidade e à relação de empresas credenciadas. Verificar a dificuldade em uma tarefa observada. |
 | A2. Preparação sem informações suficientes | Q02 e Q04, 2:38-2:59 e 3:29-4:01. P01 sente falta de orientação e cita as informações que esperaria obter. | Organizar modalidade, local, credenciamento e preparação em um percurso claro. Na proposta de agendamento, apresentar resumo e confirmação. Não transformar expectativas em requisitos oficiais sem conferência. |
 | A3. Caminho percebido como complexo | Q01 e Q05, 2:11-2:37 e 4:27-5:34. São mencionados encaminhamentos e dificuldade de compreensão. | Revisar rótulos e encadeamento das orientações; prototipar uma alternativa e testar se reduz dúvidas. |
 | A4. Escolhas do redesign ainda pouco verificadas | Q06-Q07, 5:36-7:00. As respostas tratam do benefício geral, sem explicar as escolhas passo a passo. | Em próxima avaliação, usar um protótipo que permita selecionar local, data e horário e revisar a confirmação. |
+
+Fonte: elaborado pelo autor (2026).
 
 As recomendações acima são interpretações do avaliador, apoiadas nas evidências indicadas. Não equivalem a funcionalidades implementadas nem a sugestões literais de P01. Não foi atribuída uma classificação formal de gravidade: o registro não permite medir frequência, recorrência ou impacto em diferentes perfis.
 
@@ -161,7 +175,7 @@ Os resultados foram incorporados ao [relatório coletivo](../../relatorio-do-gru
 
 ## 8. Encaminhamento das recomendações
 
-**Tabela – Decisões de escopo e encaminhamentos**
+**Tabela 5 – Decisões de escopo e encaminhamentos**
 
 | Item | Encaminhamento nesta versão | Fundamentação |
 | --- | --- | --- |
@@ -188,3 +202,9 @@ João Vitor foi indicado por Alexandre como revisor previsto dos materiais. A re
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
 
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir as legendas e as fontes das tabelas que não as tinham e renumerar as tabelas seguintes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

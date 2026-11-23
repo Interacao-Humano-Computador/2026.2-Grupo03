@@ -2,7 +2,7 @@
 
 ## Tabela de contribuição
 
-**Tabela 1 - Contribuições nesta versão do artefato**
+**Tabela 1 – Contribuições nesta versão do artefato**
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
@@ -12,16 +12,18 @@ Fonte: minha elaboração (2026).
 
 ## Histórico de versões
 
-**Tabela 2 - Histórico de versões**
+**Tabela 2 – Histórico de versões**
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 14/11/2026 | 1.2 | Organizei as seis divisões da entrega e separei o protótipo interativo | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 15/11/2026 | 1.3 | Vinculei os resultados das entrevistas e atualizei a situação da minha entrega | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 15/11/2026 | 1.4 | Acrescentei P03 e vinculei sua entrevista, captura de tela e sugestão de histórico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
+| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
+| 14/11/2026 | 1.2 | Organizei as seis divisões da entrega e separei o protótipo interativo | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
+| 15/11/2026 | 1.3 | Vinculei os resultados das entrevistas e atualizei a situação da minha entrega | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
+| 15/11/2026 | 1.4 | Acrescentei P03 e vinculei sua entrevista, captura de tela e sugestão de histórico | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
 
+| 22/11/2026 | 1.5 | Padronização das legendas das tabelas e figuras, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.6 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução {#introducao}
@@ -34,7 +36,7 @@ Publiquei o [relato das três entrevistas de alta fidelidade](relato.md), com [l
 
 Na Tabela 3, reuni os materiais da minha entrega.
 
-**Tabela 3 - Materiais da Entrega 7 de Alexandre**
+**Tabela 3 – Materiais da Entrega 7 de Alexandre**
 
 | Artefato | Conteúdo | Acesso |
 | --- | --- | --- |
@@ -54,7 +56,7 @@ Separei meu protótipo em uma [página própria](prototipo.md#prototipo-interati
 
 Na Tabela 4, relacionei as ações da minha HTA com as fotos do papel e as telas da alta fidelidade.
 
-**Tabela 4 - Rastreabilidade entre a análise da tarefa, o papel e a alta fidelidade**
+**Tabela 4 – Rastreabilidade entre a análise da tarefa, o papel e a alta fidelidade**
 
 | Objetivo / ação da tarefa | Evidência do papel | Tela ou estado de alta fidelidade | Avaliação |
 | --- | --- | --- | --- |
@@ -71,7 +73,7 @@ Fonte: [HTA revisada da Entrega 5](../../../entrega-5/integrantes/alexandre-vila
 
 Na Tabela 5, registrei o andamento da minha parte e as atividades que ainda preciso concluir.
 
-**Tabela 5 - Execução documentada desta versão**
+**Tabela 5 – Execução documentada desta versão**
 
 | Atividade | Responsável | Início | Fim | Evidência |
 | --- | --- | --- | --- | --- |
@@ -106,3 +108,7 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para padronizar as legendas das tabelas e figuras (travessão, legenda em negrito antes da figura e fonte depois dela), a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -7,9 +7,9 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Camile Barbosa Gonzaga de Oliveira | Organização detalhada do cronograma da equipe no relatório entregue (GRUPO 03, 2026, seções 4 e 6) | [Relatório da Entrega 1, seção 6](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
-| Eduardo Ribeiro Gomes da Silva | Migração do cronograma para a estrutura atual do site | [Commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Camile Barbosa Gonzaga de Oliveira (ex-integrante) | Organização detalhada do cronograma da equipe no relatório entregue (GRUPO 03, 2026, seções 4 e 6) | [Relatório da Entrega 1, seção 6](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Migração do cronograma para a estrutura atual do site | [Commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Alteração de autores e prazos (versões 1.1, 1.2 e 1.3) | [Commit df30e39](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/df30e39); [commit 142c6cb](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/142c6cb); [commit f60769e](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f60769e) | — |
 | João Vitor Tavares de Sá Lima | Revisão da versão 1.2 | — | — |
 
@@ -21,14 +21,17 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Consolidação das atividades, responsáveis, prazos e marcos do projeto. | — | Gabriel Robson |
-| 17/09/2026 | 1.1 | Alteração de autores e adequação ás mudanças descritas em aula. | Henrique | Gabriel Robson |
+| 10/09/2026 | 1.0 | Consolidação das atividades, responsáveis, prazos e marcos do projeto. | — | Alexandre Vilar |
+| 17/09/2026 | 1.1 | Alteração de autores e adequação ás mudanças descritas em aula. | Henrique | Alexandre Vilar |
 | 24/09/2026 | 1.2 | Alteração do autor da tarefa: "Redigir o Termo de Consentimento (TCLE)" e finalização da tarefa | Henrique | João Vitor |
-| 06/10/2026 | 1.3 | Alteração de autores e de prazos da entrega 3 | Henrique | Gabriel Robson |
-| 15/10/2026 | 1.4 | Padronização da estrutura (tabela de contribuição, numeração das seções e dos quadros), inclusão do Quadro 18 (gravação e ajustes por etapa), do vínculo com o cronograma executado e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.5 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição; retirada do Quadro 18 | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.6 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 06/10/2026 | 1.3 | Alteração de autores e de prazos da entrega 3 | Henrique | Alexandre Vilar |
+| 15/10/2026 | 1.4 | Padronização da estrutura (tabela de contribuição, numeração das seções e dos quadros), inclusão do Quadro 18 (gravação e ajustes por etapa), do vínculo com o cronograma executado e da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.5 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição; retirada do Quadro 18 | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.6 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.7 | Atualização da situação das tarefas da Entrega 3 e das inspeções das Entregas 2 a 5, conforme o cronograma executado, e correção da data de entrega da Entrega 3 (06/10/2026, segundo o Plano de Ensino) | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
+| 22/11/2026 | 1.8 | Citação da NBR 6023, já listada nas referências, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.9 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -39,7 +42,7 @@ O que de fato foi realizado, por quem e em que datas está no [Cronograma Execut
 
 ## 2. Cronograma detalhado das atividades
 
-Os Quadros 1 a 17 apresentam as tarefas de cada etapa, com responsável, datas e dependências.
+Os Quadros 1 a 17 apresentam as tarefas de cada etapa, com responsável, datas e dependências. Em 22/11/2026, a coluna "Situação" foi atualizada apenas nas linhas cuja realização está registrada no [Cronograma Executado](cronograma-executado.md) (Entrega 3 e inspeções das Entregas 2 a 5). As demais linhas continuam como planejadas: a partir da Entrega 4, as tarefas e os responsáveis mudaram, e o que foi feito, por quem e quando está no Cronograma Executado.
 
 ### 2.1 Planejamento do Projeto — Vencimento: 06/09/2026
 
@@ -84,20 +87,20 @@ Fonte: elaborado pelos autores (2026).
 
 | Tarefa | Responsável | Início | Término | Dependências | Situação | Feito |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
-| Revisar entrega do grupo designado e preencher formulário de inspeção | Todos os integrantes | 28/09 | 02/10 | Entrega 2 | Não iniciado | [ ] |
+| Revisar entrega do grupo designado e preencher formulário de inspeção | Todos os integrantes | 28/09 | 02/10 | Entrega 2 | Concluído (Grupo 02, 02/10/2026) | [x] |
 
 Fonte: elaborado pelos autores (2026).
 
-### 2.5 Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo (Entrega 3) — Vencimento: 08/10/2026
+### 2.5 Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo (Entrega 3) — Vencimento: 06/10/2026
 
 **Quadro 5 – Cronograma de Princípios Gerais, Metas e Guia de Estilo.**
 
 | Tarefa | Responsável | Início | Término | Dependências | Situação | Feito |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
-| Definir princípios gerais de projeto | Henrique Schneider, Alexandre Vilar | 06/10 | 06/10 | Perfil e análise de tarefas | Não Finalizado | [ ] |
-| Definir metas de usabilidade | João Vitor | 06/10 | 06/10 | Perfil e análise de tarefas | Não Finalizado | [ ] |
-| Elaborar guia de estilo | Gabriel | 06/10 | 06/10 | Princípios e metas | Não Finalizado | [ ] |
-| Consolidação e revisão final | Henrique Schneider | 06/10 | 06/10 | Elaboração do guia | Não Finalizado | [ ] |
+| Definir princípios gerais de projeto | Henrique Schneider, Alexandre Vilar | 06/10 | 06/10 | Perfil e análise de tarefas | Concluído | [x] |
+| Definir metas de usabilidade | João Vitor | 06/10 | 06/10 | Perfil e análise de tarefas | Concluído | [x] |
+| Elaborar guia de estilo | Gabriel | 06/10 | 06/10 | Princípios e metas | Concluído | [x] |
+| Consolidação e revisão final | Henrique Schneider | 06/10 | 06/10 | Elaboração do guia | Concluído | [x] |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -107,7 +110,7 @@ Fonte: elaborado pelos autores (2026).
 
 | Tarefa | Responsável | Início | Término | Dependências | Situação | Feito |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
-| Revisar entrega do grupo designado e preencher formulário de inspeção | Todos os integrantes | 09/10 | 11/10 | Entrega 3 | Não iniciado | [ ] |
+| Revisar entrega do grupo designado e preencher formulário de inspeção | Todos os integrantes | 09/10 | 11/10 | Entrega 3 | Concluído (Grupo 07, 10/10/2026) | [x] |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -130,7 +133,7 @@ Fonte: elaborado pelos autores (2026).
 
 | Tarefa | Responsável | Início | Término | Dependências | Situação | Feito |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
-| Revisar entrega do grupo designado e preencher formulário de inspeção | Todos os integrantes | 14/10 | 19/10 | Entrega 4 | Não iniciado | [ ] |
+| Revisar entrega do grupo designado e preencher formulário de inspeção | Todos os integrantes | 14/10 | 19/10 | Entrega 4 | Concluído no Grupo 01 (Grupo -1), 14/10/2026 | [x] |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -153,7 +156,7 @@ Fonte: elaborado pelos autores (2026).
 
 | Tarefa | Responsável | Início | Término | Dependências | Situação | Feito |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
-| Revisar entrega do grupo designado e preencher formulário de inspeção | Todos os integrantes | 26/10 | 26/10 | Entrega 5 | Não iniciado | [ ] |
+| Revisar entrega do grupo designado e preencher formulário de inspeção | Todos os integrantes | 26/10 | 26/10 | Entrega 5 | Concluído no Grupo 08 (Grupo +1), 26/10/2026 | [x] |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -242,7 +245,7 @@ Fonte: elaborado pelos autores (2026).
 
 - **06/09/2026**: Entrega do Planejamento do Projeto (Entrega 1).
 - **27/09/2026**: Entrega do Perfil do Usuário e da Análise de Tarefas (Entrega 2).
-- **08/10/2026**: Entrega dos Princípios Gerais, Metas de Usabilidade e Guia de Estilo (Entrega 3).
+- **06/10/2026**: Entrega dos Princípios Gerais, Metas de Usabilidade e Guia de Estilo (Entrega 3).
 - **13/10/2026**: Entrega do Planejamento da Avaliação do Storyboard e da Análise de Tarefas (Entrega 4).
 - **25/10/2026**: Entrega do Relato dos Resultados do Storyboard e Planejamento do Protótipo de Papel (Entrega 5).
 - **03/11/2026**: Entrega do Relato da Avaliação do Protótipo de Baixa Fidelidade e Planejamento do Protótipo de Alta Fidelidade (Entrega 6).
@@ -256,6 +259,8 @@ O cronograma deve ser revisado a cada reunião do grupo. Alterações de prazo d
 
 ## Referências
 
+As referências seguem a NBR 6023 (ABNT, 2018).
+
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
 
 GRUPO 03. *Relatório da Etapa 1: Planejamento do Projeto – Portal do Detran-DF*. Brasília: Universidade de Brasília, 2026. Disponível em: [PDF](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf).
@@ -267,3 +272,9 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, numeração das seções e legendas dos quadros), incluir o vínculo com o cronograma executado e corrigir a grafia de um nome. Tarefas, responsáveis, datas e situações do planejamento não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para atualizar a coluna Situação das linhas registradas no cronograma executado, incluir a nota sobre essa atualização e corrigir a data de entrega da Entrega 3, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a citação da NBR 6023, que estava nas referências sem chamada no texto, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

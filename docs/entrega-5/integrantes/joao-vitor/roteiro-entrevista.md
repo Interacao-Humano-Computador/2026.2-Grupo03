@@ -16,11 +16,17 @@ Fonte: organização para esta atividade (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Organização do roteiro de entrevista no padrão da Entrega 5 | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.1 | Inclusão dos recortes de fundamentação abaixo das perguntas | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Gabriel Robson |
-| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.0 | Organização do roteiro de entrevista no padrão da Entrega 5 | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Alexandre Vilar |
+| 25/10/2026 | 1.1 | Inclusão dos recortes de fundamentação abaixo das perguntas | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | Alexandre Vilar |
+| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
+| 22/11/2026 | 1.3 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.4 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: registro desta versão (2026).
+
+## Introdução
+
+Esta página registra o artefato “Roteiro de Entrevista”, de João Vitor, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de João Vitor e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Fundamentação”, a Seção 2 trata de “Orientações de aplicação”, a Seção 3 trata de “Perguntas” e a Seção 4 trata de “Cuidados de interpretação”.
 
 ## 1. Fundamentação
 
@@ -107,3 +113,7 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selba
 ## Agradecimentos e uso de IA generativa
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página. O uso de IA generativa pelos autores no conteúdo desta página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

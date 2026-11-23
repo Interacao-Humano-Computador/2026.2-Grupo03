@@ -7,9 +7,9 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Organização e formatação do documento, checagem das informações adicionadas | [Relatório, seção 6](../../assets/pdfs/entregas/inspecao-entrega-1-grupo-05.pdf) | Gravação de 07/09/2026 ([Apresentações e gravações](../../apresentacoes.md)) |
-| Camile Barbosa Gonzaga de Oliveira | Organização e formatação do documento, verificação de corretude e produção do resumo | [Relatório, seção 6](../../assets/pdfs/entregas/inspecao-entrega-1-grupo-05.pdf) | — |
-| Eduardo Ribeiro Gomes da Silva | Organização e formatação do documento; inspeção do GitHub Pages do Grupo 05 seguindo a lista de verificação da Entrega 1; criação desta página (v1.0) | [Relatório, seção 6](../../assets/pdfs/entregas/inspecao-entrega-1-grupo-05.pdf); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | Gravação de 07/09/2026 ([Apresentações e gravações](../../apresentacoes.md)) |
-| Gabriel Robson Nunes Neiva da Silva | Não se aplica (integrante a partir da Entrega 2) | — | — |
+| Camile Barbosa Gonzaga de Oliveira (ex-integrante) | Organização e formatação do documento, verificação de corretude e produção do resumo | [Relatório, seção 6](../../assets/pdfs/entregas/inspecao-entrega-1-grupo-05.pdf) | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Organização e formatação do documento; inspeção do GitHub Pages do Grupo 05 seguindo a lista de verificação da Entrega 1; criação desta página (v1.0) | [Relatório, seção 6](../../assets/pdfs/entregas/inspecao-entrega-1-grupo-05.pdf); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | Gravação de 07/09/2026 ([Apresentações e gravações](../../apresentacoes.md)) |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Não se aplica (integrante a partir da Entrega 2) | — | — |
 | Henrique Schneider Fernandes da Rosa | — | — | — |
 | João Vitor Tavares de Sá Lima | Formatação do documento, verificação de corretude e inspeção do GitHub Pages do Grupo 05 | [Relatório, seção 6](../../assets/pdfs/entregas/inspecao-entrega-1-grupo-05.pdf) | Gravação de 07/09/2026 ([Apresentações e gravações](../../apresentacoes.md)) |
 
@@ -21,11 +21,13 @@ Fonte: elaborado pelos autores (2026), com base na seção 6 do relatório de in
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Criação da lista de verificação da Entrega 1 do Grupo 05. | Grupo 03 | Gabriel Robson |
-| 15/10/2026 | 1.1 | Transcrição, para o site, do relatório de inspeção entregue em 07/09/2026 (identificação, checklist de conformidade, pontos positivos e conclusão), recuperado do histórico do repositório; o modelo de lista da v1.0 foi mantido na seção 5 | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.2 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição; retirada do modelo de lista da versão 1.0, que não foi aplicado | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/09/2026 | 1.0 | Criação da lista de verificação da Entrega 1 do Grupo 05. | Grupo 03 | Alexandre Vilar |
+| 15/10/2026 | 1.1 | Transcrição, para o site, do relatório de inspeção entregue em 07/09/2026 (identificação, checklist de conformidade, pontos positivos e conclusão), recuperado do histórico do repositório; o modelo de lista da v1.0 foi mantido na seção 5 | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.2 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição; retirada do modelo de lista da versão 1.0, que não foi aplicado | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
+| 22/11/2026 | 1.4 | Registro da diferença entre os itens da Tabela 4 e o resultado citado, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.5 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -65,7 +67,7 @@ A Tabela 4 resume a verificação de cada item obrigatório da entrega, indicand
 
 Fonte: Grupo 03 (2026), transcrito do relatório de inspeção.
 
-O relatório registra como resultado geral: "10 dos 10 itens obrigatórios presentes e completos (100%)" (Grupo 03, 2026).
+O relatório registra como resultado geral: "10 dos 10 itens obrigatórios presentes e completos (100%)" (Grupo 03, 2026). A Tabela 4, transcrita do mesmo relatório, tem nove itens; a diferença vem do relatório entregue e foi registrada na inspeção da Entrega 8.
 
 ## 3. Pontos positivos registrados
 
@@ -88,3 +90,7 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para recuperar do histórico do Git o relatório de inspeção da Entrega 1, transcrevê-lo para as seções 1 a 4 sem alterar status, locais ou conclusões e organizar as tabelas de identificação e de contribuição. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para registrar a diferença entre o número de itens da Tabela 4 e o resultado citado do relatório, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

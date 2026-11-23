@@ -19,9 +19,11 @@ Fonte: elaborado pelo autor (2026).
 | 27/10/2026 | 1.0    | Criação do roteiro: método, questões e medidas, valores-alvo propostos, participantes e logística, ética, teste-piloto, roteiro da sessão e apêndices (questionário pré-teste, cartões de cenário, folha de medição, entrevista pós-teste e consolidação), a partir do capítulo 2 do relatório da Entrega 6 | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.2 | Novo cronograma (Tabela 4): construção em 07 e 08/11, piloto em 08/11, sessões de 09 a 11/11, consolidação e relato até 15/11; número de participantes e observador definidos; piloto passa a considerar a experiência do piloto do protótipo de papel | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
-| 10/11/2026 | 1.3 | Registro do protótipo construído no Figma (link e fluxos de início das tarefas); a T1 passa a começar na Tela 0 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 1.4 | Mudança da modalidade das sessões: remota pelo Microsoft Teams, com o participante usando o protótipo pelo controle remoto do Teams, no computador do avaliador (Seção 5); registro do efeito dessa escolha nos tempos medidos | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.3 | Registro do protótipo construído no Figma (link e fluxos de início das tarefas); a T1 passa a começar na Tela 0 | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 15/11/2026 | 1.4 | Mudança da modalidade das sessões: remota pelo Microsoft Teams, com o participante usando o protótipo pelo controle remoto do Teams, no computador do avaliador (Seção 5); registro do efeito dessa escolha nos tempos medidos | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
 
+| 22/11/2026 | 1.5 | Inclusão das legendas e fontes das tabelas que não as tinham, com a renumeração das tabelas seguintes, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.6 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: elaborado pelo autor (2026).
 
 ## 1. Introdução
@@ -180,6 +182,8 @@ Fonte: elaborado pelo autor (2026), com a sequência de Barbosa e Silva (2010, c
 
 O questionário coleta informações que podem influenciar a interação: características pessoais, experiência com tecnologia e conhecimento do domínio (Barbosa; Silva, 2010, cap. 9, seç. 9.7.2, p. 306, 1º parágrafo).
 
+**Tabela 6 – Apêndice A – Questionário pré-teste**
+
 |     |                                                                                         |                                                                                                                |
 |-----|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | 1   | Faixa de idade                                                                          | ☐ até 20 ☐ 21–30 ☐ 31–45 ☐ 46 ou mais                                                                          |
@@ -189,6 +193,8 @@ O questionário coleta informações que podem influenciar a interação: caract
 | 5   | Você tem conta gov.br?                                                                  | ☐ não ☐ sim ☐ não sei                                                                                          |
 | 6   | Já usou o portal do Detran-DF?                                                          | ☐ não ☐ sim, para: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                    |
 | 7   | Já pagou alguma taxa por PIX?                                                           | ☐ não ☐ sim                                                                                                    |
+
+Fonte: elaborado pelo autor (2026).
 
 ## Apêndice B – Cartões de cenário (recortar e entregar um por vez)
 
@@ -204,12 +210,16 @@ Mesmos textos do protótipo de papel (Grupo 03, Relatório da Entrega 5, seç. 3
 
 ## Apêndice C – Folha de medição (uma por participante)
 
+**Tabela 7 – Apêndice C – Folha de medição (uma por participante)**
+
 |                               |                          |                                                   |
 |-------------------------------|--------------------------|---------------------------------------------------|
 | Participante: P\_\_\_         | Data: \_\_\_/\_\_\_/2026 | Início: \_\_\_:\_\_\_ · Término: \_\_\_:\_\_\_    |
 | Avaliador: Henrique Schneider | Observador:              | ☐ TCLE ☐ áudio ☐ tela · Dispositivo: \_\_\_\_\_\_ |
 
-**Tabela 6 – Medidas por tarefa**
+Fonte: elaborado pelo autor (2026).
+
+**Tabela 8 – Medidas por tarefa**
 
 <table>
 <colgroup>
@@ -288,7 +298,7 @@ Mesmos textos do protótipo de papel (Grupo 03, Relatório da Entrega 5, seç. 3
 
 Definições: **sem ajuda** = chega à tela-alvo sem intervenção; **com ajuda** = precisou de uma dica ou o avaliador sugeriu um caminho; **erro** = ação que não leva à tela-alvo (por exemplo, tocar num dia sem vagas sem perceber o aviso); **desvio** = passo fora do caminho previsto na HTA, mesmo que depois corrigido.
 
-**Tabela 7 – Momentos a retomar na entrevista**
+**Tabela 9 – Momentos a retomar na entrevista**
 
 | Tarefa / tempo | O que aconteceu |
 |----------------|-----------------|
@@ -300,19 +310,23 @@ Definições: **sem ajuda** = chega à tela-alvo sem intervenção; **com ajuda*
 
 A entrevista coleta a opinião e os sentimentos do participante sobre a experiência e esclarece intenções e interpretações durante as tarefas (Barbosa; Silva, 2010, cap. 9, seç. 9.7.3, p. 310, 3º parágrafo).
 
+**Tabela 10 – Apêndice D – Entrevista pós-teste**
+
 | Nº  | Pergunta                                                                                         | Resposta resumida / frase literal |
 |-----|--------------------------------------------------------------------------------------------------|-----------------------------------|
 | 1   | O que foi mais fácil e o que foi mais difícil?                                                   |                                   |
-| 2   | Em algum momento você não soube o que fazer? Onde? (retomar a Tabela 7)                          |                                   |
+| 2   | Em algum momento você não soube o que fazer? Onde? (retomar a Tabela 9)                          |                                   |
 | 3   | Ficou claro por quanto tempo o horário ficaria guardado e o que acontece se o PIX não compensar? |                                   |
 | 4   | Você se sentiria seguro(a) de que a prova estava confirmada? Por quê?                            |                                   |
 | 5   | A lista de pré-requisitos e de documentos ajudou? Faltou alguma informação?                      |                                   |
 | 6   | Comparando com o agendamento atual (ou com o que você imagina), essas telas ajudariam? Em quê?   |                                   |
 | 7   | O que você mudaria?                                                                              |                                   |
 
+Fonte: elaborado pelo autor (2026).
+
 ## Apêndice E – Consolidação (preencher depois de todas as sessões)
 
-**Tabela 8 – Sumário das medições por tarefa**
+**Tabela 11 – Sumário das medições por tarefa**
 
 | Tarefa | Concluíram sem ajuda (n/N) | Tempo médio (desvio) | Erros (total) | Ajuda (total) | Nota média | Valor-alvo atingido? |
 |--------|----------------------------|----------------------|---------------|---------------|------------|----------------------|
@@ -321,7 +335,7 @@ A entrevista coleta a opinião e os sentimentos do participante sobre a experiê
 | T3     |                            |                      |               |               |            |                      |
 | T4     |                            |                      |               |               |            |                      |
 
-**Tabela 9 – Lista de problemas do teste de usabilidade**
+**Tabela 12 – Lista de problemas do teste de usabilidade**
 
 | ID   | Local (tela · elemento) | Descrição e justificativa | Fatores de usabilidade prejudicados | Sev. (1–4) | Freq. | Sugestão de solução |
 |------|-------------------------|---------------------------|-------------------------------------|------------|-------|---------------------|
@@ -364,3 +378,7 @@ Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p.
 Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site, e em 03/11/2026, para atualizar o calendário e os papéis. Em 10/11/2026, foi usado para registrar o link do protótipo construído no Figma. Em 15/11/2026, foi usado para registrar a mudança da modalidade das sessões (controle remoto do Teams) a pedido do autor.
 
 A versão em PDF deste artefato está disponível para download: [Planejamento do Teste de Usabilidade (PDF)](arquivos/roteiro-teste-usabilidade-alta-fidelidade.pdf).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir as legendas e as fontes das tabelas que não as tinham e renumerar as tabelas seguintes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

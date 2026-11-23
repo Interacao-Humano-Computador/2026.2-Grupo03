@@ -16,9 +16,15 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Publicação do storyboard “Agendamento da prova teórica com reserva de horário” (versão de 22/10/2026) e do resumo da avaliação | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.0 | Publicação do storyboard “Agendamento da prova teórica com reserva de horário” (versão de 22/10/2026) e do resumo da avaliação | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
 
+| 22/11/2026 | 1.1 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.2 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: elaborado pelo autor (2026).
+
+## Introdução
+
+Esta página registra o artefato “Storyboard”, de Henrique Schneider, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de Henrique e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Contexto e proposta”, a Seção 2 trata de “Storyboard”, a Seção 3 trata de “Relação com a análise de tarefas” e a Seção 4 trata de “Avaliação do storyboard”.
 
 ## 1. Contexto e proposta
 
@@ -85,3 +91,7 @@ SALES, André Barros de. *Lista de exercícios*: Capítulo 8: Design, Prototipa�
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir do Relatório da Entrega 5 e dos documentos individuais do autor. Não foram gerados dados de participantes, datas de sessão ou resultados. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026a, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

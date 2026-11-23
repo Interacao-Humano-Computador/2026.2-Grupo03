@@ -7,8 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Eduardo Ribeiro Gomes da Silva | "Ajuda inicial na elaboração do TCLE", registrada na ata da Reunião 01 | [Ata da Reunião 01](../../atas/ata-reuniao-20260927-01.md), Tabela 7 | — |
-| Gabriel Robson Nunes Neiva da Silva | Apoio aos aspectos éticos e ao TCLE, registrado na matriz de contribuição da Entrega 2 | [Matriz de Contribuição](../contribuicoes.md), Tabela 4 | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | "Ajuda inicial na elaboração do TCLE", registrada na ata da Reunião 01 | [Ata da Reunião 01](../../atas/ata-reuniao-20260927-01.md), Tabela 7 | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Apoio aos aspectos éticos e ao TCLE, registrado na matriz de contribuição da Entrega 2 | [Matriz de Contribuição](../contribuicoes.md), Tabela 4 | — |
 | Henrique Schneider Fernandes da Rosa | Ajustes nas cláusulas de anonimato e desistência (v1.1) e introdução sobre os 4 princípios (v1.2); revisão da v1.0 | [Commit 142c6cb](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/142c6cb); [commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | — |
 | João Vitor Tavares de Sá Lima | Elaboração inicial das diretrizes éticas e do TCLE (v1.0); revisão das v1.1 e v1.2 | [Commit 01df6a6](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/01df6a6) | — |
 
@@ -23,10 +23,12 @@ Fonte: elaborado pelos autores (2026).
 | 17/09/2026 | 1.0 | Elaboração inicial das diretrizes éticas e estruturação do TCLE para pesquisas no Portal Detran-DF. | João Vitor | Henrique Schneider |
 | 27/09/2026 | 1.1 | Ajustes nas cláusulas de salvaguarda de anonimato e direito de desistência do participante. | Henrique Schneider | João Vitor |
 | 27/09/2026 | 1.2 | Inclusão de texto introdutório fundamentando a importância teórica dos 4 princípios éticos e do TCLE em IHC. | Henrique Schneider | João Vitor |
-| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, numeração das seções), das citações e referências (ABNT), inclusão da seção de itens de conteúdo e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 138, 139, 141 e 142) como Figuras 1 a 4, da fonte do termo de consentimento e retirada da seção de itens de conteúdo | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/10/2026 | 1.3 | Padronização da estrutura (tabela de contribuição, numeração das seções), das citações e referências (ABNT), inclusão da seção de itens de conteúdo e da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.4 | Inclusão das fotos dos trechos de Barbosa e Silva (2010, pp. 138, 139, 141 e 142) como Figuras 1 a 4, da fonte do termo de consentimento e retirada da seção de itens de conteúdo | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.5 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
+| 22/11/2026 | 1.6 | Registro de que a Resolução CNS nº 196/96 foi revogada pela Resolução nº 466/2012, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.7 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução e Importância no Contexto de IHC
@@ -45,6 +47,8 @@ Inspirado na Resolução nº 196/96 do Conselho Nacional de Saúde e na conduta 
 2. **Princípio da Beneficência:** Compromete os pesquisadores com a ponderação entre riscos e benefícios, garantindo o máximo de proveito científico/social com o mínimo de danos e impactos indesejados.
 3. **Princípio da Não Maleficência:** Garante a prevenção de danos previsíveis, constrangimentos, estresse ou prejuízos à reputação e autoestima do participante, tanto imediatos quanto tardios.
 4. **Princípio da Justiça e Equidade:** Assegura a distribuição justa dos benefícios da pesquisa e a igual consideração dos direitos de todos os participantes envolvidos.
+
+A Resolução nº 196/96 é a citada por Barbosa e Silva (2010); ela foi revogada pela Resolução nº 466/2012 do Conselho Nacional de Saúde (Brasil, 2012), que hoje regula as pesquisas com seres humanos no país.
 
 O trecho do livro com a responsabilidade da equipe de design sobre o bem-estar dos participantes, a Resolução nº 196/96 e os quatro princípios está na Figura 2.
 
@@ -102,6 +106,8 @@ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. *NBR 6023*: informação e document
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
+BRASIL. Conselho Nacional de Saúde. *Resolução nº 466, de 12 de dezembro de 2012*. Aprova diretrizes e normas regulamentadoras de pesquisas envolvendo seres humanos. Brasília, DF: CNS, 2012.
+
 CONSELHO NACIONAL DE SAÚDE. *Resolução nº 196/96* sobre pesquisas envolvendo seres humanos. Brasília, DF: CNS, 1996.
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026.
@@ -111,3 +117,7 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 15/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reorganizar a página no modelo de artefato da disciplina (tabela de contribuição, histórico, numeração das seções) e padronizar as citações após conferir as páginas no PDF de Barbosa e Silva (2010). Em 17/10/2026, a ferramenta foi usada para recortar do PDF do livro as fotos dos trechos citados (Figuras 1 a 4) e para identificar no livro o exemplo de termo de consentimento em que o termo da seção 2 se baseia. O texto da introdução e do termo não foi alterado; o campo do e-mail de contato aparece em branco, como os demais campos do formulário. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para registrar que a Resolução nº 196/96, citada pelo livro, foi revogada pela Resolução nº 466/2012 e incluir esta nas referências, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Elaboração da lista: itens do desenvolvimento do projeto (Plano de Ensino), itens de conteúdo propostos para a Entrega 6 e quadros de registro das inspeções | [Lista de verificação](lista-de-verificacao.md) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -19,7 +19,9 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/11/2026 | 1.0 | Criação da lista: itens do desenvolvimento do projeto com autoavaliação preliminar, 11 itens de conteúdo propostos com fonte e quadros de registro para a inspeção do próprio grupo e do Grupo +1 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.0 | Criação da lista: itens do desenvolvimento do projeto com autoavaliação preliminar, 11 itens de conteúdo propostos com fonte e quadros de registro para a inspeção do próprio grupo e do Grupo +1 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.1 | Atualização da situação do item D6, porque o cronograma executado passou a trazer a Entrega 6 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.2 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -42,7 +44,7 @@ O Plano de Ensino traz a lista de referência só até a Entrega 4 (Sales, 2026,
 | D3 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | Todas as 18 páginas individuais e as 3 páginas da entrega têm seção de referências |
 | D4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto? | Incompleto | Verificação por contagem: 9 páginas têm menos legendas ou fontes do que tabelas e imagens (5 de Alexandre Vilar; 2 de Gabriel Robson; 2 de Henrique Schneider). A chamada no texto precisa de conferência humana |
 | D5 | Um texto fazendo uma introdução dos artefatos? | Incompleto | 9 das 18 páginas individuais não têm introdução (4 de Alexandre Vilar; 2 de Gabriel Robson; 3 de João Vitor); as 3 páginas da entrega têm |
-| D6 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | Incompleto | O [Cronograma executado](../../entrega-1/planejamento/cronograma-executado.md) registra as atividades das Entregas 1 a 4 e ainda não traz as da Entrega 6 |
+| D6 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | Incompleto | O [Cronograma executado](../../entrega-1/planejamento/cronograma-executado.md) registrava, em 10/11/2026, só as Entregas 1 a 4; desde 15/11/2026 (versão 1.3) traz também a Entrega 6, na Tabela 8 |
 | D7 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc.)? | Incompleto | As [atas publicadas](../../atas/index.md) são de 27/09/2026 e 14/10/2026; não há ata da semana da Entrega 6 |
 | D8 | A gravação da reunião do grupo? | Incompleto | Nenhum link de gravação de reunião do grupo na Entrega 6 |
 | D9 | Vídeo de apresentação na categoria “não listado” no YouTube? | Incompleto | A apresentação de Henrique Schneider está publicada como não listada, segundo a página dele. Os vídeos de Alexandre Vilar, de Gabriel Robson e de João Vitor não têm link nas páginas |
@@ -103,3 +105,7 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 10/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir esta lista a partir do Plano de Ensino, da lista da Entrega 5 e das fontes citadas nas páginas da Entrega 6, para propor os itens de conteúdo C1 a C11 (a confirmar pelo grupo) e para executar a verificação automática que sustenta a autoavaliação do Quadro 1. Não foram criadas respostas de inspeção do Grupo +1 nem dados de outros grupos. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para atualizar a situação do item D6 do Quadro 1, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

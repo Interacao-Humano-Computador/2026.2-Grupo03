@@ -7,9 +7,9 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Redação das ferramentas do projeto e do processo de design, segundo o cronograma (GRUPO 03, 2026, seção 4.1) | — | — |
-| Camile Barbosa Gonzaga de Oliveira | Detalhamento da justificativa das ferramentas no relatório entregue (GRUPO 03, 2026, seções 3 e 6) | [Relatório da Entrega 1, seção 6](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
-| Eduardo Ribeiro Gomes da Silva | Documentação das ferramentas e de suas finalidades (versão 1.0); atualização das ferramentas e inclusão dos logos (versão 1.1) | [Commit 8205c95](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/8205c95); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
-| Gabriel Robson Nunes Neiva da Silva | Não se aplica (integrante a partir da Entrega 2) | — | — |
+| Camile Barbosa Gonzaga de Oliveira (ex-integrante) | Detalhamento da justificativa das ferramentas no relatório entregue (GRUPO 03, 2026, seções 3 e 6) | [Relatório da Entrega 1, seção 6](../../assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf) | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Documentação das ferramentas e de suas finalidades (versão 1.0); atualização das ferramentas e inclusão dos logos (versão 1.1) | [Commit 8205c95](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/8205c95); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Não se aplica (integrante a partir da Entrega 2) | — | — |
 | Henrique Schneider Fernandes da Rosa | — | — | — |
 | João Vitor Tavares de Sá Lima | Redação das ferramentas do projeto e do processo de design, segundo o cronograma (GRUPO 03, 2026, seção 4.1) | — | — |
 
@@ -21,17 +21,20 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 06/09/2026 | 1.0 | Documentação das ferramentas usadas no projeto e de suas finalidades. | Eduardo Ribeiro | Gabriel Robson |
-| 10/09/2026 | 1.1 | Atualização das ferramentas utilizadas e inclusão dos respectivos logos. | Eduardo Ribeiro | Gabriel Robson |
-| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções, legenda da tabela), das referências (ABNT) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.3 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 06/09/2026 | 1.0 | Documentação das ferramentas usadas no projeto e de suas finalidades. | Eduardo Ribeiro | João Vitor |
+| 10/09/2026 | 1.1 | Atualização das ferramentas utilizadas e inclusão dos respectivos logos. | Eduardo Ribeiro | João Vitor |
+| 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição, numeração das seções, legenda da tabela), das referências (ABNT) e reunião das declarações de uso de IA em uma seção final | Henrique Schneider | João Vitor |
+| 17/10/2026 | 1.3 | Organização por entrega; inclusão de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | João Vitor |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.5 | Retirada do número de integrantes do texto, porque a equipe teve cinco pessoas na Entrega 1 e quatro a partir da Entrega 2 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
+| 22/11/2026 | 1.6 | Inclusão das ferramentas usadas ao longo do projeto e registradas em outras páginas (Figma, When2Meet, Canva, ChatGPT e Claude), a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.7 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-Para desenvolver o projeto da disciplina de Interação Humano-Computador (IHC) de forma organizada, foram escolhidas ferramentas para auxiliar os quatro integrantes durante as diferentes etapas do trabalho. Esses recursos foram utilizados principalmente para facilitar a comunicação, organizar as tarefas, colaborar no desenvolvimento do projeto e registrar os materiais produzidos (Grupo 03, 2026).
+Para desenvolver o projeto da disciplina de Interação Humano-Computador (IHC) de forma organizada, foram escolhidas ferramentas para auxiliar os integrantes durante as diferentes etapas do trabalho. Esses recursos foram utilizados principalmente para facilitar a comunicação, organizar as tarefas, colaborar no desenvolvimento do projeto e registrar os materiais produzidos (Grupo 03, 2026).
 
 A escolha das plataformas considerou principalmente a facilidade de acesso, a praticidade, a colaboração remota e a possibilidade de integração entre elas. Com isso, foi possível organizar melhor as etapas de análise, síntese e avaliação, além de manter os registros e documentos do projeto centralizados e de fácil acesso para a equipe.
 
@@ -43,7 +46,7 @@ A **Tabela 3** apresenta as ferramentas utilizadas no projeto e explica o motivo
 
 | Ferramenta | Logo | Motivo da escolha |
 | --- | --- | --- |
-| Google Docs | ![Logo do Google Docs](https://cdn.simpleicons.org/googledocs/4285F4){ width="42" } | Permite edição simultânea pelos quatro integrantes, comentários e histórico de versões, reduzindo conflitos entre arquivos locais. |
+| Google Docs | ![Logo do Google Docs](https://cdn.simpleicons.org/googledocs/4285F4){ width="42" } | Permite edição simultânea pelos integrantes, comentários e histórico de versões, reduzindo conflitos entre arquivos locais. |
 | Git e GitHub Pages | ![Logo do GitHub](https://cdn.simpleicons.org/github/181717){ width="42" } | Mantém os documentos e artefatos versionados e publica a documentação para acompanhamento do projeto. |
 | Microsoft Teams | ![Logo do Microsoft Teams](https://img.icons8.com/color/96/microsoft-teams.png){ width="42" } | Permite gravar tela e áudio, gerar transcrições e registrar apresentações e inspeções. |
 | WhatsApp | ![Logo do WhatsApp](https://cdn.simpleicons.org/whatsapp/25D366){ width="42" } | Facilita a comunicação rápida da equipe, o alinhamento de tarefas e o envio de avisos durante o desenvolvimento. |
@@ -51,6 +54,10 @@ A **Tabela 3** apresenta as ferramentas utilizadas no projeto e explica o motivo
 | MkDocs | ![Logo do MkDocs](https://www.mkdocs.org/img/favicon.ico){ width="42" } | Gera a documentação em formato de site estático a partir dos arquivos Markdown. |
 | Google Gemini | ![Logo do Google Gemini](https://cdn.simpleicons.org/googlegemini/8E75B2){ width="42" } | Apoia pesquisas, organização de ideias e revisão do conteúdo, sempre com validação dos integrantes. |
 | Visual Studio Code | ![Logo do Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg){ width="42" } | Permite editar os arquivos Markdown, YAML e CSS, além de acompanhar a estrutura do projeto. |
+| Figma | ![Logo do Figma](https://cdn.simpleicons.org/figma/F24E1E){ width="42" } | Usado nas Entregas 5 a 7 para os protótipos de papel digitalizados e os protótipos de alta fidelidade navegáveis, avaliados com participantes. |
+| When2Meet | — | Usado na Entrega 1 para levantar a disponibilidade dos integrantes e gerar o mapa de calor de horários. |
+| Canva | ![Logo do Canva](https://cdn.simpleicons.org/canva/00C4CC){ width="42" } | Usado nos slides da apresentação da Entrega 1, vinculados na página Apresentações. |
+| ChatGPT (OpenAI) e Claude (Anthropic) | — | Ferramentas de IA generativa usadas como apoio à redação e à organização de páginas, sempre declaradas na seção de agradecimentos de cada artefato, conforme o Plano de Ensino (Sales, 2026, p. 3). |
 
 Fonte: elaborado pelos autores (2026), com base nas páginas oficiais das ferramentas (Google, 2026a, 2026b; Git SCM, 2026; GitHub, 2026; Microsoft, 2026a, 2026b; WhatsApp, 2026; YouTube, 2026; MkDocs, 2026) e nos repositórios de logos (Simple Icons, 2026; Icons8, 2026; Devicon, 2026).
 
@@ -101,3 +108,9 @@ Todo conteúdo sugerido pela inteligência artificial foi analisado, conferido e
 Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico em ordem cronológica, numeração das seções e legenda da tabela), padronizar as referências conforme a ABNT e reunir as declarações de uso de IA nesta seção. A tabela de ferramentas e o texto da página não foram alterados. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para retirar do texto o número de integrantes, que mudou ao longo do projeto, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir na Tabela 3 as ferramentas usadas ao longo do projeto e registradas em outras páginas do site, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -7,9 +7,9 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Lista de verificação individual do framework DECIDE (12 itens); organização e formatação do relatório da inspeção do Grupo 05 e checagem das informações | [Lista – DECIDE](../integrantes/alexandre-vilar/lista-decide.md); [Inspeção do Grupo 05](inspecao-grupo-05.md) | Gravação de 07/09/2026 ([Apresentações e gravações](../../apresentacoes.md)) |
-| Camile Barbosa Gonzaga de Oliveira | Organização e formatação do relatório da inspeção do Grupo 05, verificação de corretude e produção do resumo | [Inspeção do Grupo 05](inspecao-grupo-05.md) | — |
-| Eduardo Ribeiro Gomes da Silva | Inspeção do Grupo 05 seguindo a lista da Entrega 1; organização e formatação do relatório | [Inspeção do Grupo 05](inspecao-grupo-05.md) | Gravação de 07/09/2026 ([Apresentações e gravações](../../apresentacoes.md)) |
-| Gabriel Robson Nunes Neiva da Silva | Não se aplica (integrante a partir da Entrega 2) | — | — |
+| Camile Barbosa Gonzaga de Oliveira (ex-integrante) | Organização e formatação do relatório da inspeção do Grupo 05, verificação de corretude e produção do resumo | [Inspeção do Grupo 05](inspecao-grupo-05.md) | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Inspeção do Grupo 05 seguindo a lista da Entrega 1; organização e formatação do relatório | [Inspeção do Grupo 05](inspecao-grupo-05.md) | Gravação de 07/09/2026 ([Apresentações e gravações](../../apresentacoes.md)) |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Não se aplica (integrante a partir da Entrega 2) | — | — |
 | Henrique Schneider Fernandes da Rosa | Autoavaliação da Entrega 1 com a lista do Plano de Ensino | [Autoavaliação](../../listas-verificacao/autoavaliacao.md), Tabela 3 | — |
 | João Vitor Tavares de Sá Lima | Listas de verificação individuais do framework DECIDE (13 itens) e de métodos de avaliação (15 itens); inspeção do Grupo 05; formatação e verificação de corretude do relatório | [Lista – DECIDE](../integrantes/joao-vitor/lista-decide.md); [Lista – Métodos de avaliação](../integrantes/joao-vitor/lista-metodos-avaliacao.md); [Inspeção do Grupo 05](inspecao-grupo-05.md) | Gravação de 07/09/2026 ([Apresentações e gravações](../../apresentacoes.md)) |
 
@@ -21,10 +21,11 @@ Fonte: elaborado pelos autores (2026), com base nas páginas de inspeção, de a
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da página: transcrição da lista do Plano de Ensino, levantamento das listas do grupo e das aplicações | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.1 | Organização por entrega; inclusão do quadro das listas de verificação individuais, da avaliação da monitoria e de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.2 | Inclusão do link para a página Avaliação da Monitoria no Quadro 6 | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/10/2026 | 1.0 | Criação da página: transcrição da lista do Plano de Ensino, levantamento das listas do grupo e das aplicações | Henrique Schneider | João Vitor |
+| 17/10/2026 | 1.1 | Organização por entrega; inclusão do quadro das listas de verificação individuais, da avaliação da monitoria e de Camile Barbosa Gonzaga de Oliveira na tabela de contribuição | Henrique Schneider | João Vitor |
+| 17/10/2026 | 1.2 | Inclusão do link para a página Avaliação da Monitoria no Quadro 6 | Henrique Schneider | João Vitor |
+| 10/11/2026 | 1.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.4 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -136,3 +137,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever a lista do Plano de Ensino, levantar nas páginas do site as listas do grupo e as aplicações já registradas, contar as respostas da avaliação da monitoria e montar os quadros. Nenhum item, resposta ou autoria foi criado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

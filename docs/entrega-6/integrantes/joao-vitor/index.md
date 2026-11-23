@@ -16,8 +16,9 @@ Fonte: materiais elaborados pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 02/11/2026 | 1.0 | Criação e organização das páginas individuais da Entrega 6 | João Vitor Tavares de Sá Lima | Gabriel Robson |
-| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 02/11/2026 | 1.0 | Criação e organização das páginas individuais da Entrega 6 | João Vitor Tavares de Sá Lima | Alexandre Vilar |
+| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.2 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: registro desta versão (2026).
 
@@ -58,3 +59,5 @@ Não se aplica: a página não cita obras.
 Em 02/11/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de João Vitor, para apoiar a organização das páginas Markdown conforme o padrão da Entrega 5, a revisão dos textos do protótipo de papel e a estruturação do planejamento da avaliação do protótipo de alta fidelidade. Não foram gerados dados de participantes, resultados de avaliações, datas de sessões realizadas ou links de gravação. A responsabilidade pela revisão acadêmica e pelo conteúdo publicado é do autor.
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

@@ -2,7 +2,7 @@
 
 ## Tabela de contribuição
 
-**Tabela 1 - Minha contribuição neste artefato**
+**Tabela 1 – Minha contribuição neste artefato**
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
@@ -12,13 +12,19 @@ Fonte: minha elaboração (2026).
 
 ## Histórico de versões
 
-**Tabela 2 - Histórico de versões**
+**Tabela 2 – Histórico de versões**
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 12/11/2026 | 1.0 | Organizei meus registros do papel e a conferência individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 12/11/2026 | 1.0 | Organizei meus registros do papel e a conferência individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
 
+| 22/11/2026 | 1.1 | Inclusão da introdução e padronização das legendas, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.2 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: meus registros (2026).
+
+## Introdução
+
+Esta página registra o artefato “Lista de verificação da Entrega 6”, de Alexandre Vilar, na Entrega 6 (relato do protótipo de papel e planejamento do protótipo de alta fidelidade). Ela faz parte do material individual de Alexandre e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Escopo”, a Seção 2 trata de “Conferência individual” e a Seção 3 trata de “Próximas atualizações”.
 
 ## 1. Escopo {#escopo}
 
@@ -30,7 +36,7 @@ Usei **Sim** para informações presentes, **Incompleto** para registros parciai
 
 Na Tabela 3, vinculei cada resposta ao local da informação na minha entrega.
 
-**Tabela 3 - Verificação dos meus materiais de prototipação em papel**
+**Tabela 3 – Verificação dos meus materiais de prototipação em papel**
 
 | Item | Questão adaptada | Resposta | Versão, data e hora | Evidência e observação |
 | --- | --- | --- | --- | --- |
@@ -75,3 +81,9 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT como apoio para organizar os materiais, adaptar o planejamento e revisar a redação. Mantive as fontes e separei os registros da sessão das atividades ainda pendentes.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para padronizar as legendas das tabelas e figuras (travessão, legenda em negrito antes da figura e fonte depois dela), a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar e João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

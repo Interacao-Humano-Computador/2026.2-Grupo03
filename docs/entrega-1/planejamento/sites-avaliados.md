@@ -7,8 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Avaliação individual do SouGov.br (FONSECA, 2026) | [PDF da avaliação](../../assets/pdfs/SouGovMetodoeAvali%C3%A7%C3%A3o.pdf) | — |
-| Eduardo Ribeiro Gomes da Silva | Avaliação individual do Meu SUS Digital (SILVA, 2026); estruturação dos critérios e do quadro comparativo (versão 1.0) e consolidação das avaliações (versão 2.0) | [PDF da avaliação](../../assets/pdfs/avaliaoMeuSUSDigital.pdf); [commit 4d40b86](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/4d40b86); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
-| Gabriel Robson Nunes Neiva da Silva | Não se aplica (integrante a partir da Entrega 2) | — | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | Avaliação individual do Meu SUS Digital (SILVA, 2026); estruturação dos critérios e do quadro comparativo (versão 1.0) e consolidação das avaliações (versão 2.0) | [PDF da avaliação](../../assets/pdfs/avaliaoMeuSUSDigital.pdf); [commit 4d40b86](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/4d40b86); [commit f88c791](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/f88c791) | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Não se aplica (integrante a partir da Entrega 2) | — | — |
 | Henrique Schneider Fernandes da Rosa | Avaliação individual da Época Cosméticos (ROSA, 2026) | [PDF da avaliação](../../assets/pdfs/ProjetoParteIndividualMetodoEAvali%C3%A7%C3%A3o.pdf) | — |
 | João Vitor Tavares de Sá Lima | Avaliação individual do Portal de Serviços do Detran-DF (LIMA, 2026); inclusão na tabela de sites avaliados | [PDF da avaliação](../../assets/pdfs/PlojetoParteIndividualMetodoeAvali%C3%A7%C3%A3o.pdf); [commit 968f18d](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/968f18d) | — |
 
@@ -20,11 +20,12 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Estruturação inicial dos critérios e do quadro comparativo. | Eduardo Ribeiro | Gabriel Robson |
-| 10/09/2026 | 2.0 | Consolidação das avaliações individuais de SouGov.br, Meu SUS Digital, Época Cosméticos e Portal de Serviços do Detran-DF. | Eduardo Ribeiro | Gabriel Robson |
-| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, numeração e legendas das tabelas, chamadas no texto), das referências (ABNT) e inclusão da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 2.2 | Organização por entrega; revisão da tabela de contribuição e da nota sobre a lista de sites do relatório entregue | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/09/2026 | 1.0 | Estruturação inicial dos critérios e do quadro comparativo. | Eduardo Ribeiro | Alexandre Vilar |
+| 10/09/2026 | 2.0 | Consolidação das avaliações individuais de SouGov.br, Meu SUS Digital, Época Cosméticos e Portal de Serviços do Detran-DF. | Eduardo Ribeiro | Alexandre Vilar |
+| 15/10/2026 | 2.1 | Padronização da estrutura (tabela de contribuição, numeração e legendas das tabelas, chamadas no texto), das referências (ABNT) e inclusão da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 2.2 | Organização por entrega; revisão da tabela de contribuição e da nota sobre a lista de sites do relatório entregue | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 2.3 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 2.4 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -168,3 +169,5 @@ SILVA, Eduardo Ribeiro Gomes da. *Projeto de avaliação de IHC: Meu SUS Digital
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar esta página no modelo de artefato da disciplina (tabela de contribuição, histórico em ordem cronológica, numeração das seções, legendas e chamadas das tabelas), ordenar e padronizar as referências conforme a ABNT e incluir a nota sobre a lista de sites do relatório da Entrega 1. As sínteses das avaliações individuais não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

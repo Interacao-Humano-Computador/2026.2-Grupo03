@@ -7,7 +7,7 @@
 | Integrante | Contribuição registrada na Entrega 4 | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Cronogramas individuais (storyboard, relato e HTA); lista individual de verificação do storyboard; item N4 da inspeção do Grupo 01 | [Planejamento – Alexandre Vilar](integrantes/alexandre-vilar/planejamento-individual.md); [Lista de Verificação – Storyboard](integrantes/alexandre-vilar/lista-storyboard.md) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
-| Gabriel Robson Nunes Neiva da Silva | Itens N6 e N7 e preenchimento das respostas, evidências e horários da inspeção do Grupo 01 | [Inspeção do Grupo 01](verificacao/inspecao-grupo-01.md) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Itens N6 e N7 e preenchimento das respostas, evidências e horários da inspeção do Grupo 01 | [Inspeção do Grupo 01](verificacao/inspecao-grupo-01.md) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | Henrique Schneider Fernandes da Rosa | Cronogramas individuais; publicação das páginas de planejamento; lista de verificação e itens N1 a N3; condução da inspeção do Grupo 01; ata da Reunião 02 | [Commit 661c014](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/661c014); [commit 2a95590](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/2a95590) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | João Vitor Tavares de Sá Lima | Cronogramas individuais (storyboard, relato e HTA); lista individual de verificação do storyboard; item N5 da inspeção do Grupo 01 | [Planejamento – João Vitor](integrantes/joao-vitor/planejamento-individual.md); [Lista de Verificação – Storyboard](integrantes/joao-vitor/lista-storyboard.md) | [Inspeção de 14/10/2026](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 
@@ -19,12 +19,18 @@ Fonte: elaborado pelos autores (2026), com base no relatório entregue (Grupo 03
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 13/10/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Planejamento Entrega 4") | Grupo 03 (relatório assinado pelo grupo) | Gabriel Robson |
-| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento DECIDE publicado em página própria, artefatos, matriz de conformidade com a lista do Plano de Ensino e inspeção; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 2.1 | Organização por entrega; atualização da equipe, dos artefatos e das listas individuais; reorganização das seções | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 13/10/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Planejamento Entrega 4") | Grupo 03 (relatório assinado pelo grupo) | João Vitor |
+| 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento DECIDE publicado em página própria, artefatos, matriz de conformidade com a lista do Plano de Ensino e inspeção; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | João Vitor |
+| 17/10/2026 | 2.1 | Organização por entrega; atualização da equipe, dos artefatos e das listas individuais; reorganização das seções | Henrique Schneider | João Vitor |
+| 10/11/2026 | 2.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 2.3 | Inclusão da introdução e da nota sobre a ausência do cronograma de Gabriel Robson | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 2.4 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelos autores (2026).
+
+## Introdução
+
+Esta página reúne o que o Grupo 03 produziu na Entrega 4: o planejamento da avaliação pelo framework DECIDE, os planejamentos individuais, as listas de verificação e a inspeção do Grupo 01. Ela indica onde está cada artefato no site e resume os períodos planejados por integrante. A Tabela 3 identifica a entrega, a Tabela 4 resume os períodos planejados e a Tabela 5 relaciona os artefatos.
 
 ## 1. Identificação
 
@@ -59,6 +65,8 @@ O planejamento pelo framework DECIDE, que estava apenas no relatório entregue (
 | João Vitor | 15/10 – 25/10/2026 | 18/10 – 25/10/2026 | 14/10 – 25/10/2026 |
 
 Fonte: Grupo 03 (2026a, pp. 7–14).
+
+O relatório entregue não traz cronograma de Gabriel Robson; a página individual dele tem as datas "a definir".
 
 O planejamento geral desta etapa está no [Cronograma Planejado](../entrega-1/planejamento/cronograma-planejado.md), seções 2.7 e 2.8, e o que foi realizado, no [Cronograma Executado](../entrega-1/planejamento/cronograma-executado.md), Tabela 6.
 
@@ -97,3 +105,7 @@ O relatório entregue registra o uso do Claude (Anthropic) e do Gemini (Google) 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever o relatório da Entrega 4 como página do site, a partir do texto do PDF entregue, e para organizar as Tabelas 1 e 3 a 5. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta o conteúdo já existente na página, e a nota sobre o cronograma de Gabriel Robson, a partir da inspeção de Fagan da Entrega 8. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

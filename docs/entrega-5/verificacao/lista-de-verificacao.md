@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Elaboração da lista: transcrição dos itens do Plano de Ensino, autoria dos itens de conteúdo C1 a C22, fundamentação com recortes das fontes e quadros de registro | [Lista de verificação](lista-de-verificacao.md) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -19,8 +19,9 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Criação da lista: itens do desenvolvimento do projeto (Plano de Ensino), 22 itens de conteúdo com fonte e recorte do texto e quadros de registro para a inspeção do próprio grupo e do Grupo +1 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.0 | Criação da lista: itens do desenvolvimento do projeto (Plano de Ensino), 22 itens de conteúdo com fonte e recorte do texto e quadros de registro para a inspeção do próprio grupo e do Grupo +1 | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor |
+| 10/11/2026 | 1.1 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.2 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -422,3 +423,5 @@ Agradecemos ao Prof. Dr. André Barros de Sales pela lista sugerida no Plano de 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever os itens do Plano de Ensino, localizar no livro de Barbosa e Silva (2010) os trechos de origem dos itens, recortar as figuras, propor a redação dos itens C1 a C22 e montar os quadros. A seleção e a revisão dos itens são do autor. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

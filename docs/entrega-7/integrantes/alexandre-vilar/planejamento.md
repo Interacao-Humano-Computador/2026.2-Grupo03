@@ -2,7 +2,7 @@
 
 ## Tabela de contribuição
 
-**Tabela 1 - Contribuições nesta versão do artefato**
+**Tabela 1 – Contribuições nesta versão do artefato**
 
 | Integrante | Contribuição | Atividade | Gravação |
 | --- | --- | --- | --- |
@@ -12,16 +12,18 @@ Fonte: minha elaboração (2026).
 
 ## Histórico de versões
 
-**Tabela 2 - Histórico de versões**
+**Tabela 2 – Histórico de versões**
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 14/11/2026 | 1.2 | Defini o OBS Studio como meio de gravação e vinculei os instrumentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 15/11/2026 | 1.3 | Vinculei a execução e diferenciei as datas propostas dos registros das entrevistas | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
-| 15/11/2026 | 1.4 | Registrei a ampliação para três participantes e mantive a distinção entre plano e execução | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | Gabriel Robson |
+| 11/11/2026 | 1.0 | Organização inicial da avaliação de alta fidelidade | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
+| 12/11/2026 | 1.1 | Reescrevi os textos em primeira pessoa e organizei minha verificação individual | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
+| 14/11/2026 | 1.2 | Defini o OBS Studio como meio de gravação e vinculei os instrumentos | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
+| 15/11/2026 | 1.3 | Vinculei a execução e diferenciei as datas propostas dos registros das entrevistas | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
+| 15/11/2026 | 1.4 | Registrei a ampliação para três participantes e mantive a distinção entre plano e execução | Alexandre Vilar Valadares Fonsêca, com apoio do ChatGPT | João Vitor |
 
+| 22/11/2026 | 1.5 | Padronização das legendas das tabelas e figuras, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 22/11/2026 | 1.6 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução e adaptação {#introducao}
@@ -36,7 +38,7 @@ O planejamento abaixo registra o procedimento que propus. Depois das entrevistas
 
 Barbosa et al. (2021, seção 11.8, p. 264) apresentam seis atividades interligadas. Usei o trecho da Figura 1 como base para organizar meu planejamento.
 
-**Figura 1 - Framework DECIDE e suas seis atividades**
+**Figura 1 – Framework DECIDE e suas seis atividades**
 
 [![Framework DECIDE e suas seis atividades](imagens/decide-p264.jpg)](imagens/decide-p264.jpg)
 
@@ -52,7 +54,7 @@ Também quero verificar a descoberta do serviço, a seleção correta de local/d
 
 Na Tabela 3, relacionei minhas perguntas com os dados que vou observar.
 
-**Tabela 3 - Questões e indicadores propostos**
+**Tabela 3 – Questões e indicadores propostos**
 
 | Código | Pergunta de avaliação | Evidência a registrar |
 | --- | --- | --- |
@@ -70,7 +72,7 @@ Para orientar minha análise, defini estes critérios: concluir cada tarefa sem 
 
 Vou realizar um **teste de usabilidade por observação**, com uma breve entrevista antes e depois das tarefas. Vou pedir ao participante que pense em voz alta enquanto eu registro suas ações e comentários. Barbosa et al. (2021, seção 12.2.1, p. 288-290) relacionam o teste de usabilidade ao uso pelos usuários-alvo, a tarefas em ambiente controlado e a dados de desempenho e opinião, como mostra a Figura 2.
 
-**Figura 2 - Definição e atividades do teste de usabilidade**
+**Figura 2 – Definição e atividades do teste de usabilidade**
 
 [![Definição e atividades do teste de usabilidade](imagens/metodo-p288.jpg)](imagens/metodo-p288.jpg)
 
@@ -84,7 +86,7 @@ Vou manter as mesmas condições, instruções e versão do arquivo para todos. 
 
 Na Tabela 4, organizei os recursos e a logística que pretendo usar. Ainda preciso confirmar a participação das pessoas, o apoio e os horários.
 
-**Tabela 4 - Logística e recursos da avaliação**
+**Tabela 4 – Logística e recursos da avaliação**
 
 | Aspecto | Planejamento |
 | --- | --- |
@@ -115,7 +117,7 @@ Vou guardar os arquivos brutos e os termos assinados com acesso restrito à equi
 
 A Figura 3 fundamenta os cuidados com informação, confidencialidade e anonimato (Barbosa et al., 2021, seção 7.4, p. 127-128). No [roteiro](roteiro.md#consentimento), deixei o modelo de termo que vou preparar e apresentar antes da sessão.
 
-**Figura 3 - Diretrizes de ética, informação e privacidade**
+**Figura 3 – Diretrizes de ética, informação e privacidade**
 
 [![Diretrizes de ética, informação e privacidade](imagens/etica-p127.jpg)](imagens/etica-p127.jpg)
 
@@ -133,7 +135,7 @@ Como pretendo avaliar com duas pessoas, vou apresentar as contagens e descrever 
 
 O teste-piloto avalia o **planejamento e o procedimento de avaliação**: clareza das instruções, tarefas, funcionamento do protótipo, equipamentos, duração e utilidade dos dados. Vou conduzi-lo como uma sessão normal, analisar brevemente os dados e corrigir o procedimento quando necessário (Barbosa et al., 2021, p. 260; Figura 4).
 
-**Figura 4 - Finalidade do teste-piloto e separação de seus dados**
+**Figura 4 – Finalidade do teste-piloto e separação de seus dados**
 
 [![Finalidade do teste-piloto e separação de seus dados](imagens/piloto-p260.jpg)](imagens/piloto-p260.jpg)
 
@@ -153,7 +155,7 @@ Os dados de desempenho do piloto **não entram** nas contagens, tempos ou proble
 
 Na Tabela 5, preservei os horários originalmente propostos. O registro posterior confirma a data de P01 em 13/11/2026 e mantém as datas de P02, P03 e do ensaio técnico a confirmar; consultei as falas, sem usar a data de publicação dos vídeos como data de sessão. A consolidação foi realizada em 15/11/2026, conforme o [relato](relato.md#participantes). Os estados da tabela são os do plano original.
 
-**Tabela 5 - Cronograma operacional proposto**
+**Tabela 5 – Cronograma operacional proposto**
 
 | Atividade | Data | Horário (Brasília) | Local | Situação |
 | --- | --- | --- | --- | --- |
@@ -172,7 +174,7 @@ Fonte: proposta operacional desta versão; [cronograma anterior](../../../entreg
 
 Reuni os instrumentos no [roteiro de aplicação](roteiro.md). A Figura 5 reproduz a orientação de preparar TCLE, pré-teste, pós-teste, cenários e acompanhamento da observação, com tarefas de até 20 minutos (Barbosa et al., 2021, p. 259).
 
-**Figura 5 - Material de apoio, preparação e tempo das tarefas**
+**Figura 5 – Material de apoio, preparação e tempo das tarefas**
 
 [![Material de apoio, preparação e tempo das tarefas](imagens/material-p259.jpg)](imagens/material-p259.jpg)
 
@@ -187,3 +189,7 @@ SALES, André Barros de. **Plano de Ensino de Interação Humano-Computador, 202
 ## Agradecimentos e uso de IA generativa
 
 Utilizei o ChatGPT (OpenAI) como apoio para organizar os materiais, revisar a redação e adaptar o planejamento com base nos livros e nos registros do meu trabalho. Mantive as referências e diferenciei o que já realizei do que ainda está planejado. Os resultados, vídeos, autorizações e revisões dependem dos registros reais de cada atividade.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para padronizar as legendas das tabelas e figuras (travessão, legenda em negrito antes da figura e fonte depois dela), a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

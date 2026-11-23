@@ -7,7 +7,7 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Participação nas Reuniões 01 e 02 | [Reunião 01](ata-reuniao-20260927-01.md); [Reunião 02](ata-reuniao-20261014-02.md) | [Reunião 01](https://youtu.be/jhhM3LJIpgA); [Reunião 02](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
-| Gabriel Robson Nunes Neiva da Silva | Participação nas Reuniões 01 e 02 | [Reunião 01](ata-reuniao-20260927-01.md); [Reunião 02](ata-reuniao-20261014-02.md) | [Reunião 01](https://youtu.be/jhhM3LJIpgA); [Reunião 02](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | Participação nas Reuniões 01 e 02 | [Reunião 01](ata-reuniao-20260927-01.md); [Reunião 02](ata-reuniao-20261014-02.md) | [Reunião 01](https://youtu.be/jhhM3LJIpgA); [Reunião 02](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | Henrique Schneider Fernandes da Rosa | Registro das atas das Reuniões 01 e 02 | [Commit df6cdea](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/df6cdea); [commit 2a95590](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/2a95590) | [Reunião 01](https://youtu.be/jhhM3LJIpgA); [Reunião 02](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 | João Vitor Tavares de Sá Lima | Participação na Reunião 02 | [Reunião 02](ata-reuniao-20261014-02.md) | [Reunião 02](https://www.youtube.com/watch?v=uZxKqHfh_zI) |
 
@@ -19,13 +19,14 @@ Fonte: elaborado pelos autores (2026). A versão 1.0 da página de atas foi cria
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 10/09/2026 | 1.0 | Criação da página de atas (registro recuperado do commit f88c791) | Eduardo Ribeiro | Gabriel Robson |
-| 27/09/2026 | 1.1 | Registro da Reunião 01 (registro recuperado do commit df6cdea) | Henrique Schneider | Gabriel Robson |
-| 14/10/2026 | 1.2 | Registro da Reunião 02 (registro recuperado do commit 2a95590) | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 2.0 | Reestruturação das atas no modelo de ata do MCTIC e no item 7 do desenvolvimento do projeto (identificação, objetivo, pauta, pendências, assuntos tratados, compromissos e próxima reunião); inclusão da tabela de contribuição e da seção de uso de IA | Henrique Schneider | Gabriel Robson |
-| 15/10/2026 | 3.0 | Criação da aba "Atas": cada ata passa a ter página própria, nomeada conforme o modelo do MCTIC; esta página vira o índice, com o quadro das reuniões, as recomendações do professor e da monitoria, a conformidade de cada ata, as sessões gravadas sem ata e o link para o modelo de ata | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 3.1 | Organização por entrega: índice reduzido às recomendações da disciplina, ao quadro das reuniões e ao roteiro de registro; atualização dos nomes e dos links | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 3.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/09/2026 | 1.0 | Criação da página de atas (registro recuperado do commit f88c791) | Eduardo Ribeiro | Alexandre Vilar |
+| 27/09/2026 | 1.1 | Registro da Reunião 01 (registro recuperado do commit df6cdea) | Henrique Schneider | Alexandre Vilar |
+| 14/10/2026 | 1.2 | Registro da Reunião 02 (registro recuperado do commit 2a95590) | Henrique Schneider | Alexandre Vilar |
+| 15/10/2026 | 2.0 | Reestruturação das atas no modelo de ata do MCTIC e no item 7 do desenvolvimento do projeto (identificação, objetivo, pauta, pendências, assuntos tratados, compromissos e próxima reunião); inclusão da tabela de contribuição e da seção de uso de IA | Henrique Schneider | Alexandre Vilar |
+| 15/10/2026 | 3.0 | Criação da aba "Atas": cada ata passa a ter página própria, nomeada conforme o modelo do MCTIC; esta página vira o índice, com o quadro das reuniões, as recomendações do professor e da monitoria, a conformidade de cada ata, as sessões gravadas sem ata e o link para o modelo de ata | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 3.1 | Organização por entrega: índice reduzido às recomendações da disciplina, ao quadro das reuniões e ao roteiro de registro; atualização dos nomes e dos links | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 3.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 3.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -84,3 +85,5 @@ SILVA, Giovana Barbosa da. *Atividade avaliativa: IHC: Etapa 2: Grupo 3*. Brasí
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar as atas nos campos do modelo de ata do MCTIC e do item 7 do desenvolvimento do projeto, separar cada ata em página própria, montar os Quadros 1 e 2 a partir do Plano de Ensino, da avaliação da monitoria, do modelo do MCTIC e dos registros de gravação já publicados, e escrever o roteiro da seção 2. Nenhum horário, decisão ou participante foi acrescentado. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

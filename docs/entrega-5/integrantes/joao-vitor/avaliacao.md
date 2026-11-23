@@ -16,13 +16,19 @@ Fonte: materiais disponibilizados pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 25/10/2026 | 1.0 | Organização do procedimento e dos campos de registro no padrão da Entrega 5 | João Vitor Tavares | Gabriel Robson |
-| 25/10/2026 | 1.1 | Publicação dos links do teste-piloto e da entrevista definitiva | João Vitor Tavares | Gabriel Robson |
-| 25/10/2026 | 1.2 | Registro do TCLE assinado e dos cuidados de privacidade | João Vitor Tavares, com apoio do ChatGPT | Gabriel Robson |
-| 25/10/2026 | 1.3 | Remoção de marcadores pendentes e atualização do status da análise | João Vitor Tavares, com apoio do ChatGPT | Gabriel Robson |
-| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
+| 25/10/2026 | 1.0 | Organização do procedimento e dos campos de registro no padrão da Entrega 5 | João Vitor Tavares | Alexandre Vilar |
+| 25/10/2026 | 1.1 | Publicação dos links do teste-piloto e da entrevista definitiva | João Vitor Tavares | Alexandre Vilar |
+| 25/10/2026 | 1.2 | Registro do TCLE assinado e dos cuidados de privacidade | João Vitor Tavares, com apoio do ChatGPT | Alexandre Vilar |
+| 25/10/2026 | 1.3 | Remoção de marcadores pendentes e atualização do status da análise | João Vitor Tavares, com apoio do ChatGPT | Alexandre Vilar |
+| 10/11/2026 | 1.4 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
+| 22/11/2026 | 1.5 | Inclusão da introdução e retirada dos parâmetros de rastreamento dos links do YouTube e inclusão das legendas e fontes das tabelas que não as tinham, com a renumeração das tabelas seguintes, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.6 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: registro desta versão (2026).
+
+## Introdução
+
+Esta página registra o artefato “Avaliação da HTA e do Storyboard”, de João Vitor, na Entrega 5 (relato da avaliação do storyboard e da análise de tarefas e planejamento da avaliação do protótipo de papel). Ela faz parte do material individual de João Vitor e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Objetivo e escopo”, a Seção 2 trata de “Método e procedimento”, a Seção 3 trata de “Perfil dos participantes”, a Seção 4 trata de “Aspectos éticos e consentimento”, a Seção 5 trata de “Materiais avaliados”, a Seção 6 trata de “Teste-piloto”, a Seção 7 trata de “Vídeo da entrevista”, a Seção 8 trata de “Relatório pós-entrevista” e a Seção 9 trata de “Critérios de análise”.
 
 ## 1. Objetivo e escopo
 
@@ -50,14 +56,18 @@ A entrevista definitiva foi realizada com o participante identificado como **P01
 
 ### 3.1 Registro da sessão definitiva
 
+**Tabela 3 – Registro da sessão definitiva**
+
 | Campo | Registro disponível |
 | --- | --- |
-| Fonte | [Gravação da entrevista](https://youtu.be/n3JVUZSXZl4?is=M3ZSvo13Y-uiOahZ) |
+| Fonte | [Gravação da entrevista](https://youtu.be/n3JVUZSXZl4) |
 | Responsável pelo material | João Vitor |
 | Duração da entrevista definitiva | Aproximadamente 6 min 08 s |
 | Materiais apresentados | HTA atual, storyboard e HTA do redesign |
 | Coleta | Entrevista semiestruturada |
 | Análise | Concluída no [relatório pós-entrevista](relatorio-pos-entrevista.md) |
+
+Fonte: elaborado pelo autor (2026).
 
 ## 4. Aspectos éticos e consentimento
 
@@ -67,7 +77,7 @@ O documento informa a finalidade acadêmica da coleta, a participação voluntá
 
 ## 5. Materiais avaliados
 
-**Tabela 3 – Materiais e finalidade**
+**Tabela 4 – Materiais e finalidade**
 
 | Material | Finalidade | Acesso |
 | --- | --- | --- |
@@ -82,7 +92,7 @@ Fonte: materiais desta atividade (2026).
 
 O teste-piloto foi gravado e deve ser analisado separadamente dos resultados definitivos, registrando clareza das perguntas, apresentação dos materiais, funcionamento dos equipamentos e eventuais ajustes executados.
 
-[Assistir ao teste-piloto](https://youtu.be/sRd1cayuclE?is=bXcCp5_Hjm_scVqf)
+[Assistir ao teste-piloto](https://youtu.be/sRd1cayuclE)
 
 Os resultados do piloto não devem ser somados aos resultados da entrevista definitiva.
 
@@ -90,7 +100,7 @@ Os resultados do piloto não devem ser somados aos resultados da entrevista defi
 
 A entrevista definitiva está publicada na [página do vídeo](video-entrevista.md).
 
-[Assistir à entrevista](https://youtu.be/n3JVUZSXZl4?is=M3ZSvo13Y-uiOahZ)
+[Assistir à entrevista](https://youtu.be/n3JVUZSXZl4)
 
 ## 8. Relatório pós-entrevista
 
@@ -109,3 +119,9 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selba
 ## Agradecimentos e uso de IA generativa
 
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página. O uso de IA generativa pelos autores no conteúdo desta página.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes e retirar dos links do YouTube os parâmetros de rastreamento, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir as legendas e as fontes das tabelas que não as tinham e renumerar as tabelas seguintes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

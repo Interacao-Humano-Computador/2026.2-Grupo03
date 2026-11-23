@@ -7,8 +7,8 @@
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
-| Eduardo Ribeiro Gomes da Silva | — | — | — |
-| Gabriel Robson Nunes Neiva da Silva | — | — | — |
+| Eduardo Ribeiro Gomes da Silva (ex-integrante) | — | — | — |
+| Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Solicitação da criação da página (refatoração de 15/10/2026) e atualização com as Entregas 5 a 7 | — | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
@@ -20,11 +20,12 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 15/10/2026 | 1.0 | Criação da página com as atividades realizadas nas Entregas 1 a 4, a partir dos históricos de versão, dos commits e dos relatórios entregues; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | Gabriel Robson |
-| 17/10/2026 | 1.1 | Organização por entrega; inclusão das contribuições de Camile Barbosa Gonzaga de Oliveira registradas nos relatórios da Entrega 1 e das revisões de Eduardo Ribeiro na Entrega 2 | Henrique Schneider | Gabriel Robson |
-| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 1.3 | Inclusão das Entregas 5, 6 e 7 (Tabelas 7 a 9), a partir dos históricos de versão das páginas e das gravações; a escrita do relatório da Entrega 7 começou em 10/11/2026 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
-| 15/11/2026 | 1.4 | Inclusão do teste-piloto da Entrega 7 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 15/10/2026 | 1.0 | Criação da página com as atividades realizadas nas Entregas 1 a 4, a partir dos históricos de versão, dos commits e dos relatórios entregues; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | Alexandre Vilar |
+| 17/10/2026 | 1.1 | Organização por entrega; inclusão das contribuições de Camile Barbosa Gonzaga de Oliveira registradas nos relatórios da Entrega 1 e das revisões de Eduardo Ribeiro na Entrega 2 | Henrique Schneider | Alexandre Vilar |
+| 10/11/2026 | 1.2 | Substituição do revisor genérico ou vazio por Gabriel Robson no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 15/11/2026 | 1.3 | Inclusão das Entregas 5, 6 e 7 (Tabelas 7 a 9), a partir dos históricos de versão das páginas e das gravações; a escrita do relatório da Entrega 7 começou em 10/11/2026 | Henrique Schneider, com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 15/11/2026 | 1.4 | Inclusão do teste-piloto da Entrega 7 | Henrique Schneider, com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.5 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -176,3 +177,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 Em 10/11/2026 e 15/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para substituir, no histórico de versões, o revisor genérico ou vazio por Gabriel Robson, indicado por Henrique Schneider como revisor, sem alterar o conteúdo da página.
 
 Em 15/11/2026, também a pedido do autor, o Claude foi usado para incluir as Tabelas 7 a 9, com as atividades das Entregas 5, 6 e 7, a partir dos históricos de versão das páginas, dos links das gravações e das datas declaradas nos relatos de cada integrante.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

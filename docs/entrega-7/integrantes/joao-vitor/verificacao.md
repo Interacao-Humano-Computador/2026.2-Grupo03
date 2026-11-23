@@ -16,12 +16,18 @@ Fonte: elaboração do autor (2026).
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 14/11/2026 | 1.0 | Lista individual com respostas, fontes e links das evidências | João Vitor | Gabriel Robson |
-| 15/11/2026 | 1.1 | Vinculação das gravações e atualização da situação da análise preliminar | João Vitor | Gabriel Robson |
-| 15/11/2026 | 1.2 | Atualização das datas de aplicação e da situação do relato com o complemento de P03 | João Vitor | Gabriel Robson |
-| 15/11/2026 | 1.3 | Atualização das respostas de D6, D7, D8, D9 e dos itens de conteúdo 5, 8 e 11, conforme revisão do autor | João Vitor | Gabriel Robson |
+| 14/11/2026 | 1.0 | Lista individual com respostas, fontes e links das evidências | João Vitor | Alexandre Vilar |
+| 15/11/2026 | 1.1 | Vinculação das gravações e atualização da situação da análise preliminar | João Vitor | Alexandre Vilar |
+| 15/11/2026 | 1.2 | Atualização das datas de aplicação e da situação do relato com o complemento de P03 | João Vitor | Alexandre Vilar |
+| 15/11/2026 | 1.3 | Atualização das respostas de D6, D7, D8, D9 e dos itens de conteúdo 5, 8 e 11, conforme revisão do autor | João Vitor | Alexandre Vilar |
 
+| 22/11/2026 | 1.4 | Inclusão da introdução, a partir da inspeção de Fagan da Entrega 8 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 1.5 | Troca do revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 Fonte: registro desta versão (2026).
+
+## Introdução
+
+Esta página registra o artefato “Lista de verificação da Entrega 7”, de João Vitor, na Entrega 7 (relato dos resultados do protótipo de alta fidelidade). Ela faz parte do material individual de João Vitor e está ligada à [visão geral](index.md) da entrega. A Seção 1 trata de “Escopo da verificação”, a Seção 2 trata de “Dez itens de desenvolvimento”, a Seção 3 trata de “Itens de conteúdo” e a Seção 4 trata de “Evidências e atualização”.
 
 ## 1. Escopo da verificação {#escopo}
 
@@ -95,3 +101,7 @@ JOÃO VITOR. **Planejamento da avaliação do protótipo de alta fidelidade – 
 Utilizei o ChatGPT (OpenAI) como apoio à implementação do protótipo em HTML, CSS e JavaScript, à organização das páginas, à adaptação dos instrumentos e à verificação técnica dos arquivos e links. A estrutura da área de Alexandre Vilar serviu como referência de organização. As capturas do meu protótipo foram produzidas em execução técnica; não são registros de avaliação com participantes. O apoio de IA não substitui a revisão humana nem a realização do piloto e das sessões. A responsabilidade pelo conteúdo publicado e por sua conferência acadêmica é minha.
 
 Em 15/11/2026, o ChatGPT apoiou a revisão da redação e das tabelas. Confirmei as aplicações em 14/11/2026 e complementei o relato de P03 com a mudança de data e o reagendamento. A responsabilidade pela conferência do material é minha.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para incluir a introdução, que apresenta as seções já existentes, a partir da inspeção de Fagan da Entrega 8, sem alterar o conteúdo do autor. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por Alexandre Vilar no histórico de versões; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
