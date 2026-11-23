@@ -6,10 +6,10 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | — | — | — |
+| Alexandre Vilar Valadares Fonsêca | Participação na reunião de inspeção do próprio grupo (visão geral, inspeção e conferência) | [Inspeção de Fagan](index.md) | [Reunião de inspeção do grupo](https://youtu.be/PXa3Pye4lW4) |
 | Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
-| Henrique Schneider Fernandes da Rosa | Decisão de aplicar a inspeção de Fagan com uma lista por artefato; levantamento do material conceitual; planejamento, preparação, correção e acompanhamento da inspeção | [Inspeção de Fagan](index.md) | — |
-| João Vitor Tavares de Sá Lima | — | — | — |
+| Henrique Schneider Fernandes da Rosa | Decisão de aplicar a inspeção de Fagan com uma lista por artefato; levantamento do material conceitual; planejamento, preparação, correção e acompanhamento da inspeção; condução da reunião de inspeção do próprio grupo | [Inspeção de Fagan](index.md) | [Reunião de inspeção do grupo](https://youtu.be/PXa3Pye4lW4) |
+| João Vitor Tavares de Sá Lima | Participação na reunião de inspeção do próprio grupo, como leitor dos itens (visão geral, inspeção e conferência) | [Inspeção de Fagan](index.md) | [Reunião de inspeção do grupo](https://youtu.be/PXa3Pye4lW4) |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -22,9 +22,9 @@ Fonte: elaborado pelos autores (2026).
 | 19/11/2026 | 0.1 | Criação da página com o material conceitual da inspeção de Fagan, o planejamento da inspeção dos artefatos e o formato das listas | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 | 22/11/2026 | 0.2 | Registro da correção e do acompanhamento (passos 5 e 6), inclusão das páginas gerais do site entre os objetos da inspeção, dos itens do Plano de Ensino sobre a avaliação do projeto e do resultado depois da correção | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 | 22/11/2026 | 0.3 | Troca do revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões; sinalização dos ex-integrantes na tabela de contribuição | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
-
 | 22/11/2026 | 0.4 | Exclusão da inspeção dos itens de ex-integrantes (Camile Barbosa, Eduardo Ribeiro e Gabriel Robson) e novo cálculo do resultado | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
 | 22/11/2026 | 0.5 | Inclusão da foto da página do SWEBOK (nova Figura 2) e renumeração das figuras seguintes, conforme a exigência do Plano de Ensino de trazer a foto de cada fonte | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | Alexandre Vilar |
+| 22/11/2026 | 0.6 | Registro da reunião gravada de inspeção do próprio grupo (passos 2, 4 e 6), com o link do vídeo, o título e a descrição; registro de que a inspeção dos grupos +1 e −1, prevista para a mesma reunião, ficou para outra reunião por causa do tamanho da lista de verificação | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
@@ -78,9 +78,9 @@ Fonte: Serrano e Serrano ([20--], slide 21).
 | 1. Planejamento | Definir o escopo (quais artefatos), a equipe, os critérios (listas de verificação) e as datas |
 | 2. Visão geral | Apresentar aos inspetores o artefato e seus objetivos |
 | 3. Preparação | Cada inspetor lê o artefato sozinho, com a lista de verificação, e anota os possíveis defeitos |
-| 4. Inspeção | Reunião em que os defeitos são discutidos e registrados |
+| 4. Inspeção | Reunião gravada em que o grupo confirma ou altera cada avaliação, com um leitor que não é o autor do artefato | Todos os integrantes | 22/11/2026 | Feita na reunião gravada ([vídeo](https://youtu.be/PXa3Pye4lW4)) para os itens não conformes; os itens conformes não foram revistos um a um por causa do volume |
 | 5. Correção | O autor corrige os defeitos registrados |
-| 6. Acompanhamento | Verificar se os defeitos foram corrigidos ou se é preciso uma nova reunião |
+| 6. Acompanhamento | Conferência das correções, registrada na Seção 4 de cada página de listas, e nova verificação automática das páginas | Henrique Schneider; leitor de cada artefato | 22/11/2026 | Feito: primeira conferência e conferência das correções pelo grupo na reunião gravada |
 
 Fonte: elaborado pelos autores (2026), com base em Serrano e Serrano ([20--], slide 21) e na resposta à pergunta 14 da [lista de exercícios de Alexandre Vilar](../../entrega-1/integrantes/alexandre-vilar/exercicio-verificacao-validacao.md).
 
@@ -109,13 +109,23 @@ O Quadro 2 mostra como cada passo de Fagan é aplicado e em que situação está
 | Passo | Aplicação no Grupo 03 | Responsável | Data | Situação |
 | --- | --- | --- | --- | --- |
 | 1. Planejamento | Escolha dos artefatos, das listas (formato da Seção 4) e do cronograma; esta página | Henrique Schneider | 19/11/2026 | Feito |
-| 2. Visão geral | Apresentação de cada artefato pelo autor aos demais integrantes, no início da reunião de inspeção | Autor de cada artefato | A marcar pelo grupo, até 22/11/2026 | A fazer |
+| 2. Visão geral | Apresentação, no início da reunião de inspeção, do método e dos artefatos não conformes, com o responsável por cada um | Henrique Schneider; autor de cada artefato | 22/11/2026 | Feita na reunião gravada ([vídeo](https://youtu.be/PXa3Pye4lW4)), só para os itens não conformes |
 | 3. Preparação | Leitura de cada artefato com a sua lista e registro preliminar da avaliação, do problema e da ação corretiva (páginas do Quadro 3) | Henrique Schneider (primeira leitura); demais integrantes | 19/11/2026 | Primeira leitura feita; leitura dos demais integrantes a fazer |
 | 4. Inspeção | Reunião gravada em que o grupo confirma ou altera cada avaliação, com um leitor que não é o autor do artefato | Todos os integrantes | A marcar pelo grupo | A fazer; as avaliações da preparação e do acompanhamento ficam sujeitas a ela |
 | 5. Correção | Correção das não conformidades de forma e de texto que não dependem de dados novos (introduções, legendas, referências, frases incompletas, links); as demais ficam com o autor de cada artefato | Henrique Schneider; autor de cada artefato | 22/11/2026 | Feita para as não conformidades que não dependem do autor |
 | 6. Acompanhamento | Conferência das correções, registrada na Seção 4 de cada página de listas, e nova verificação automática das páginas | Henrique Schneider; leitor de cada artefato | 22/11/2026 | Primeira conferência feita; a conferência pelo leitor fica para depois da reunião |
 
 Fonte: elaborado pelos autores (2026), com os passos de Serrano e Serrano ([20--], slide 21).
+
+### 3.2.1 Reunião de inspeção do próprio grupo
+
+A inspeção do próprio grupo foi feita em reunião gravada em 22/11/2026, por Alexandre Vilar, Henrique Schneider e João Vitor, e publicada no YouTube: [Inspeção do Grupo 03 – inspeção do próprio grupo (itens não conformes)](https://youtu.be/PXa3Pye4lW4). A gravação tem cerca de 2 h dentro de uma reunião de aproximadamente 5 h 26 min, registrada no relatório de presença do Microsoft Teams.
+
+O planejamento era fazer, na mesma reunião, a inspeção do próprio grupo e a dos grupos +1 e −1. O grupo não contava com o tamanho da lista de verificação (738 itens aplicáveis): só a inspeção do próprio grupo coube na reunião gravada, e a dos grupos +1 e −1 ficou para outra reunião, que será gravada e registrada em página própria. Para caber no tempo, a reunião cobriu apenas os itens não conformes (cerca de 130) e a conferência das correções; os itens conformes, mais de 600, foram verificados na preparação e não foram revistos um a um.
+
+**Título sugerido para o vídeo:** Inspeção de Fagan do Grupo 03 – Inspeção do próprio grupo (itens não conformes) | IHC 2026.2 – UnB
+
+**Descrição sugerida para o vídeo:** Reunião de inspeção do próprio grupo (Grupo 03, Interação Humano-Computador, UnB, 2026.2), gravada em 22/11/2026, com Alexandre Vilar, Henrique Schneider e João Vitor. Aplica a inspeção de Fagan, de seis passos, aos artefatos do projeto publicados no site: visão geral, inspeção dos itens não conformes de cada artefato, com quem produziu o artefato e o motivo da não conformidade, e conferência das correções. Por causa do tamanho da lista de verificação, a inspeção dos grupos +1 e −1, que estava prevista para esta mesma reunião, será feita e gravada em outra reunião. Os itens conformes foram verificados na preparação, com apoio de IA generativa, e não foram revistos um a um. Material: https://interacao-humano-computador.github.io/2026.2-Grupo03/entrega-8/inspecao-fagan/
 
 ### 3.3 Listas por entrega
 
@@ -151,7 +161,7 @@ Cada lista tem duas partes:
 
 **Classificação dos defeitos.** Para atender à característica de classificar os defeitos (Figura 5), cada não conformidade recebe um tipo: **Ausência** (o elemento pedido não existe), **Inconsistência** (o elemento existe, mas contradiz outra página ou a fonte) ou **Forma** (o elemento existe, mas fora do padrão). Essa classificação é uma proposta do grupo.
 
-**Limite desta versão.** As avaliações registradas nas listas são o resultado da **preparação** (passo 3), feita por leitura das páginas, e da **correção e acompanhamento** (passos 5 e 6), feitos em 22/11/2026. Elas devem ser confirmadas ou alteradas na reunião de inspeção (passo 4), conduzida por um leitor que não seja o autor de cada artefato, como pede o método.
+**Limite desta versão.** As avaliações registradas nas listas são o resultado da **preparação** (passo 3), feita por leitura das páginas, e da **correção e acompanhamento** (passos 5 e 6), feitos em 22/11/2026. Elas foram confirmadas ou alteradas, para os itens não conformes, na [reunião de inspeção do próprio grupo](https://youtu.be/PXa3Pye4lW4) (passo 4), em 22/11/2026; a inspeção dos grupos +1 e −1 ainda será feita em outra reunião.
 
 ## Referências
 
@@ -171,4 +181,6 @@ WASHIZAKI, Hironori (ed.). *Guide to the Software Engineering Body of Knowledge 
 
 Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para corrigir as não conformidades que não dependiam de dados novos, registrar a correção e o acompanhamento nas listas, incluir as páginas gerais do site e os itens do Plano de Ensino sobre a avaliação do projeto e recalcular o resultado. As correções estão no histórico de versões de cada página corrigida.
 
-Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para trocar o revisor Gabriel Robson, que deixou o grupo, por João Vitor no histórico de versões e sinalizar os ex-integrantes na tabela de contribuição; os revisores foram indicados por Henrique Schneider.
+
+Em 22/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi usado para redigir o título, a descrição e o registro da reunião de inspeção do próprio grupo, a partir da transcrição e do relatório de presença; o link do vídeo foi indicado por Henrique Schneider. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
