@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
-| Alexandre Vilar Valadares Fonsêca | — | — | — |
+| Alexandre Vilar Valadares Fonsêca | Elaboração das fichas de inspeção (Lista de Inspeção G02) | [Lista de Inspeção G02](https://docs.google.com/document/d/1gcXUOK05QTGt55CzKkkouvXiDb9zyD0r0_EK7fr35UY/edit) | — |
 | Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
 | Henrique Schneider Fernandes da Rosa | Preparação da inspeção (passo 3 de Fagan): download das páginas e dos PDFs e registro preliminar das avaliações | [Inspeção do Grupo 02](inspecao-grupo-02.md) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
@@ -19,48 +19,49 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 23/11/2026 | 0.1 | Reestruturação da página: a inspeção passa a cobrir os 203 páginas, 24 PDFs e vídeos do site, em páginas por entrega, e não só as 16 páginas do menu | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 23/11/2026 | 0.1 | Reestruturação da página: a inspeção passa a usar as 314 fichas da Lista de Inspeção G02 (Alexandre Vilar), por entrega, no mesmo formato da inspeção do próprio grupo | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-Esta página registra a inspeção dos artefatos do projeto do Grupo 02 (NoFluxoUnB, [site](https://interacao-humano-computador.github.io/2026.2-Grupo02/index.html)) pelo Grupo 03, na Entrega 8. A inspeção segue o método de Fagan e a lista de inspeção descrita na [página do material conceitual](inspecao-fagan/index.md), com o mesmo formato adotado na inspeção do [próprio grupo](inspecao-grupo-03.md). O planejamento era fazer a inspeção dos grupos +1 e −1 na mesma reunião da inspeção do próprio grupo, mas o tamanho da lista de verificação não permitiu, e cada grupo ficou com a sua página.
+Esta página registra a inspeção dos artefatos do projeto do Grupo 02 (NoFluxoUnB, [site](https://interacao-humano-computador.github.io/2026.2-Grupo02/index.html)) pelo Grupo 03, na Entrega 8. A inspeção segue o método de Fagan e a lista de inspeção descrita na [página do material conceitual](inspecao-fagan/index.md), com o mesmo formato adotado na inspeção do [próprio grupo](inspecao-grupo-03.md) e na do [Grupo 05](inspecao-grupo-05.md). O planejamento era fazer a inspeção dos grupos +1 e −1 na mesma reunião da inspeção do próprio grupo, mas o tamanho da lista de verificação não permitiu, e cada grupo ficou com a sua página.
 
-Os artefatos inspecionados são todos os do projeto: as páginas do site, os PDFs entregues e os vídeos linkados, por entrega, da Entrega 1 à Entrega 8. Este levantamento substitui o primeiro, que cobria só as 16 páginas do menu de entregas e deixava de fora as páginas internas dos documentos, os PDFs e os vídeos.
+As fichas vêm da Lista de Inspeção G02, elaborada por Alexandre Vilar com apoio do ChatGPT (OpenAI), em [documento do Google Docs](https://docs.google.com/document/d/1gcXUOK05QTGt55CzKkkouvXiDb9zyD0r0_EK7fr35UY/edit). Cada ficha avalia uma página, um PDF, um modelo individualizado ou um recurso externo, com os itens G1 a G8 e P1 a P8 do Plano de Ensino (Sales, 2026) e, quando cabível, itens técnicos C. O relatório da inspeção do Grupo 02 (versão 1.1, de 23/11/2026) reúne as mesmas fichas e foi entregue em arquivo Word.
 
 ## 2. Escopo
 
-O site do Grupo 02 não tem sitemap, então a lista de artefatos vem dos links do menu de entregas e das páginas internas, seguidos de forma recursiva em 23/11/2026. Foram baixados 203 páginas HTML e 24 PDFs, e foram contados 38 vídeos diferentes no YouTube. Cada versão registrada na tabela de histórico de cada página é contada na verificação de autor e revisor. Sete links levam a páginas inexistentes ([links quebrados](inspecao-grupo-02/projeto.md#5-links-quebrados)). Os vídeos não foram assistidos nesta preparação: confere-se só que o link existe. Cada documento de entrega é dividido em várias páginas, e cada uma tem o seu histórico de versões e é avaliada como um artefato.
+A lista usa a versão do código-fonte do site consultada em 22/11/2026 e cobre 240 arquivos HTML e PDF, 36 modelos individualizados dentro de páginas (nove perfis, oito personas, oito cenários e onze análises de tarefas), 36 recursos externos vinculados (vídeos e o arquivo Figma) e duas fichas de requisitos do conjunto, num total de 314 fichas. Os vídeos e o arquivo Figma foram catalogados, mas não assistidos nem executados; os PDFs foram lidos por extração de texto. A página da [Entrega 8](inspecao-grupo-02/entrega-8.md) traz a verificação automática do artefato da própria Entrega 8.
 
-**Tabela 3 – Artefatos do Grupo 02 por entrega e itens não conformes**
+**Tabela 3 – Fichas do Grupo 02 e avaliações por conjunto**
 
-| Entrega | Páginas | PDFs | Vídeos | G1 NC | G2 NC | G4 NC | G8 NC |
-| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Projeto](inspecao-grupo-02/projeto.md) | 8 | 5 | 0 | 3 | 2 | 1 | 0 |
-| [1](inspecao-grupo-02/entrega-1.md) | 23 | 0 | 2 | 0 | 18 | 0 | 5 |
-| [2](inspecao-grupo-02/entrega-2.md) | 28 | 1 | 7 | 0 | 28 | 0 | 5 |
-| [3](inspecao-grupo-02/entrega-3.md) | 19 | 1 | 2 | 0 | 19 | 0 | 1 |
-| [4](inspecao-grupo-02/entrega-4.md) | 45 | 1 | 3 | 0 | 45 | 0 | 7 |
-| [5](inspecao-grupo-02/entrega-5.md) | 25 | 4 | 7 | 1 | 24 | 1 | 3 |
-| [6](inspecao-grupo-02/entrega-6.md) | 32 | 4 | 6 | 1 | 31 | 1 | 5 |
-| [7](inspecao-grupo-02/entrega-7.md) | 22 | 5 | 7 | 2 | 20 | 0 | 6 |
-| [8](inspecao-grupo-02/entrega-8.md) | 1 | 3 | 4 | 0 | 1 | 0 | 0 |
-| **Total** | **203** | **24** | **38** | **7** | **188** | **3** | **32** |
+| Conjunto | Fichas | Conforme | Não conforme | A confirmar | Não se aplica |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| [Entrega 1](inspecao-grupo-02/entrega-1.md) | 16 | 57 | 57 | 61 | 103 |
+| [Entrega 2](inspecao-grupo-02/entrega-2.md) | 66 | 446 | 144 | 211 | 401 |
+| [Entrega 3](inspecao-grupo-02/entrega-3.md) | 20 | 114 | 65 | 77 | 99 |
+| [Entrega 4](inspecao-grupo-02/entrega-4.md) | 47 | 220 | 185 | 183 | 243 |
+| [Entrega 5](inspecao-grupo-02/entrega-5.md) | 28 | 150 | 89 | 115 | 147 |
+| [Entrega 6](inspecao-grupo-02/entrega-6.md) | 37 | 149 | 159 | 155 | 187 |
+| [Entrega 7](inspecao-grupo-02/entrega-7.md) | 24 | 103 | 99 | 97 | 128 |
+| [Itens gerais do projeto](inspecao-grupo-02/projeto.md) | 76 | 145 | 92 | 227 | 860 |
+| **Total** | **314** | **1384** | **890** | **1126** | **2168** |
 
-Fonte: elaborado pelos autores (2026). Itens: G1, histórico de versões; G2, autor e revisor nominais, com revisor diferente do autor e sem “A definir”; G4, imagens com fonte; G8, sem marcadores de pendência.
+Fonte: elaborado pelos autores (2026), a partir da Lista de Inspeção G02. As contagens são ocorrências de itens, e não defeitos únicos: uma mesma pendência pode reaparecer no documento hospedeiro, nos seus modelos e numa cópia em PDF.
 
 ## 3. Resultado da preparação
 
-A verificação foi automática, com o apoio de IA generativa: ela confere se o elemento existe e como está preenchido, mas não se o conteúdo está certo. O resultado é o da **preparação** (passo 3) e fica sujeito à reunião de inspeção (passo 4). Os principais achados são:
+A verificação é documental e assistida por IA: ela confere se o elemento existe, mas não se o conteúdo está certo, e fica sujeita à reunião de inspeção (passo 4). “A confirmar” não equivale a “Não conforme”. Os achados que a lista indica para discussão primeiro são:
 
-- **G2 (autor e revisor):** 130 páginas têm versões com revisor “A definir (validação pendente)”; 32 têm autor igual ao revisor; 40 têm autor ou revisor genérico, como “Todos os integrantes”.
-- **G5 e G6 (introdução e contribuição):** os documentos das Entregas 1, 2, 3, 4, 7 têm página ou seção de contribuição; os das Entregas 5, 6, 8 não têm (ver as páginas de cada entrega). Têm introdução os documentos das Entregas 1, 2, 3, 4, 5.
-- **G7 (IA):** 53 páginas e 13 PDFs mencionam o uso de IA; as demais não declaram.
-- **G8:** 32 páginas têm marcador de pendência ou de citação no texto (por exemplo “[cite: n]”).
-- **Participação:** o site lista cinco integrantes, mas só Felipe Lopes Pedroza, Matheus do Vale Lameira e Victor Andreozzi de La Rocque Couto têm material nas Entregas 5 a 8.
+- Revisão nominal da versão atual: várias páginas conservam “A definir (validação pendente)” como revisor. A ficha registra esse dado sem trocar o nome por alguém que ainda não revisou. No relato de Matheus da Entrega 7, o cabeçalho identifica a mesma pessoa como autor e validador; isso não identifica uma revisão independente. O autor precisa indicar quem revisou a versão efetiva, depois da revisão.
+- Fotos das referências: há listas nas Entregas 2, 3 e 7 sem imagens de trechos bibliográficos no HTML. A presença de citação ou link para um PDF não demonstra a foto exigida para cada resposta. Nas listas com imagens, a contagem sozinha também não comprova a cobertura item a item. As fichas P2 distinguem a ausência localizada da necessidade de conferir as imagens disponíveis.
+- DECIDE: o planejamento do protótipo de papel de Felipe, na Entrega 5, reúne práticas e ética em I e utiliza o segundo D para decidir a análise. A sugestão é preservar os seis sentidos: D objetivos; E perguntas; C métodos; I práticas; D questões éticas; E avaliar, interpretar e apresentar os dados. O conteúdo existente pode ser reorganizado sem inventar outra atividade.
+- Piloto da alta fidelidade de Matheus: o relato informa um piloto “sem participante”. Isso documenta uma calibração técnica, mas não demonstra um ensaio da sessão com uma pessoa alheia ao planejamento, conforme a orientação do livro. O achado foi registrado separadamente dos resultados da avaliação, sem incluir dados do piloto na amostra (BARBOSA; SILVA, 2010, pp. 307–308).
+- Completude das medidas: o relato de Felipe da Entrega 7 informa que os dados vieram de anotações automáticas ainda não conferidas com os vídeos. Há tempo e satisfação sem registro. No relato de Matheus, há medidas disponíveis para apenas um dos dois participantes. A correção deve partir de registros existentes; onde o dado não puder ser recuperado, a limitação precisa permanecer e o denominador das análises deve refletir os dados válidos.
+- Base empírica do perfil administrativo: o acervo identifica a persona Helena e TAR-11 como adições sem pesquisa com administradores. Os modelos podem funcionar como hipóteses de design, mas não devem ser apresentados como necessidades comprovadas desse público. Esse problema afeta a ligação entre coleta, persona, cenário e tarefa, e não apenas uma frase isolada.
+- Participação e projeto final: a equipe histórica tem sete nomes, enquanto a Entrega 7 concentra três autores. Isso não prova falta de participação nem permite inferir automaticamente o elenco ativo. A confirmação depende das contribuições efetivas por período. A síntese final também precisa ser confrontada ao instrumento oficial; sua ausência antes do prazo não foi classificada como atraso.
 
-As avaliações de cada página, PDF e vídeo estão nas páginas de cada entrega:
+As avaliações de cada ficha estão nas páginas de cada entrega:
 
 - [Inspeção da Entrega 1](inspecao-grupo-02/entrega-1.md) – Planejamento do Projeto
 - [Inspeção da Entrega 2](inspecao-grupo-02/entrega-2.md) – Perfil do Usuário, Personas e Análise de Tarefas
@@ -74,15 +75,14 @@ As avaliações de cada página, PDF e vídeo estão nas páginas de cada entreg
 
 ## 4. Pontos para a reunião de inspeção
 
-- **Entrega 5:** o menu não aponta o vídeo da apresentação, embora haja vídeos nas páginas internas.
+- **Revisão:** várias páginas conservam “A definir (validação pendente)” como revisor, e a revisão efetiva precisa ser indicada pelo autor.
 - **Equipe:** a situação de Rafael Barbosa de Melo e de Tiago Sousa Nepomuceno deve ser confirmada, para que a participação de todos seja avaliada.
-- **Atas:** o site tem três atas, de 03/11, 04/11 e 16/11/2026; as dos encontros anteriores, se existirem, não estão no site.
-- **Vídeos:** não foi conferido se estão como “não listados” no YouTube.
-- **PDFs e páginas:** confirmar se o conteúdo dos PDFs corresponde ao das páginas.
+- **Vídeos:** não foi conferido se estão como “não listados” no YouTube nem a apresentação pelo próprio autor.
+- **Links quebrados:** sete links do menu da inspeção da Entrega 4 levam a páginas inexistentes.
 
 ## 5. Encaminhamentos
 
-Esta inspeção registra os defeitos; a correção cabe ao Grupo 02 (passo 5 de Fagan) e a conferência é o passo 6. As prioridades sugeridas são: preencher o revisor “A definir” e indicar nomes completos de autor e revisor em todas as versões (G2); incluir tabela de contribuição e declaração de IA nos documentos das entregas (G6 e G7); retirar marcadores de pendência (G8); corrigir os links quebrados. A reunião de inspeção do Grupo 02, com gravação, ainda será registrada nesta página.
+Esta inspeção registra os defeitos; a correção cabe ao Grupo 02 (passo 5 de Fagan) e a conferência é o passo 6. A reunião de inspeção do Grupo 02, com gravação, ainda será registrada nesta página.
 
 ## Referências
 
@@ -92,4 +92,4 @@ SERRANO, Milene; SERRANO, Maurício. *Requisitos*: aula 23: análise, verificaç
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 23/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi utilizado para baixar as páginas e os PDFs do site do Grupo 02, aplicar a verificação automática dos itens e redigir esta página. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 23/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi utilizado para organizar as fichas da Lista de Inspeção G02, de Alexandre Vilar, nesta página, sem alterar o conteúdo das avaliações. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
