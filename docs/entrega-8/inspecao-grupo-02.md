@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | — | — | — |
 | Gabriel Robson Nunes Neiva da Silva (ex-integrante) | — | — | — |
-| Henrique Schneider Fernandes da Rosa | Verificação das páginas do site do Grupo 02 e organização desta página | [Inspeção do Grupo 02](inspecao-grupo-02.md) | — |
+| Henrique Schneider Fernandes da Rosa | Preparação da inspeção (passo 3 de Fagan): download das páginas e dos PDFs e registro preliminar das avaliações | [Inspeção do Grupo 02](inspecao-grupo-02.md) | — |
 | João Vitor Tavares de Sá Lima | — | — | — |
 
 Fonte: elaborado pelos autores (2026).
@@ -19,90 +19,70 @@ Fonte: elaborado pelos autores (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 23/11/2026 | 0.1 | Criação da página com a preparação da inspeção do site do Grupo 02 (itens G1 a G8 em 16 páginas e cobertura das entregas) | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
+| 23/11/2026 | 0.1 | Reestruturação da página: a inspeção passa a cobrir os 203 páginas, 24 PDFs e vídeos do site, em páginas por entrega, e não só as 16 páginas do menu | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | João Vitor |
 
 Fonte: elaborado pelos autores (2026).
 
 ## 1. Introdução
 
-Esta página registra a inspeção do site do Grupo 02 (<https://interacao-humano-computador.github.io/2026.2-Grupo02/index.html>) pelo Grupo 03, na Entrega 8. A inspeção segue o método de Fagan e a lista de inspeção descrita na [página do material conceitual](inspecao-fagan/index.md). O planejamento era fazer a inspeção dos grupos +1 e −1 na mesma reunião da inspeção do [próprio grupo](inspecao-grupo-03.md), mas o tamanho da lista de verificação não permitiu, e cada grupo ficou com a sua página. A inspeção do [Grupo 05](inspecao-grupo-05.md) está em página própria.
+Esta página registra a inspeção dos artefatos do projeto do Grupo 02 (NoFluxoUnB, [site](https://interacao-humano-computador.github.io/2026.2-Grupo02/index.html)) pelo Grupo 03, na Entrega 8. A inspeção segue o método de Fagan e a lista de inspeção descrita na [página do material conceitual](inspecao-fagan/index.md), com o mesmo formato adotado na inspeção do [próprio grupo](inspecao-grupo-03.md). O planejamento era fazer a inspeção dos grupos +1 e −1 na mesma reunião da inspeção do próprio grupo, mas o tamanho da lista de verificação não permitiu, e cada grupo ficou com a sua página.
 
-O site do Grupo 02 é diferente do nosso: é um conjunto de páginas HTML com um menu de entregas, e os artefatos de cada entrega são, em grande parte, arquivos PDF e vídeos. Por isso a inspeção tem duas partes: os itens gerais, aplicados às 16 páginas HTML, e a cobertura de documentos e vídeos que o menu de entregas aponta.
+Os artefatos inspecionados são todos os do projeto: as páginas do site, os PDFs entregues e os vídeos linkados, por entrega, da Entrega 1 à Entrega 8. Este levantamento substitui o primeiro, que cobria só as 16 páginas do menu de entregas e deixava de fora as páginas internas dos documentos, os PDFs e os vídeos.
 
-## 2. Itens gerais nas páginas do site
+## 2. Escopo
 
-Foram verificadas as 16 páginas HTML do site em 23/11/2026, com os itens G1 a G8 da lista do Grupo 03 (histórico de versões, autor e revisor, referências, tabelas e imagens, introdução, contribuição, uso de IA e ausência de pendências). A verificação foi automática, com o apoio de IA generativa: ela confere se o elemento existe, mas não se o conteúdo está certo. O resultado é o da **preparação** (passo 3) e fica sujeito à reunião de inspeção (passo 4). O sitemap do site não existe, então a lista de páginas vem dos links do menu e das páginas internas.
+O site do Grupo 02 não tem sitemap, então a lista de artefatos vem dos links do menu de entregas e das páginas internas, seguidos de forma recursiva em 23/11/2026. Foram baixados 203 páginas HTML e 24 PDFs, e foram contados 38 vídeos diferentes no YouTube. Cada versão registrada na tabela de histórico de cada página é contada na verificação de autor e revisor. Sete links levam a páginas inexistentes ([links quebrados](inspecao-grupo-02/projeto.md#5-links-quebrados)). Os vídeos não foram assistidos nesta preparação: confere-se só que o link existe. Cada documento de entrega é dividido em várias páginas, e cada uma tem o seu histórico de versões e é avaliada como um artefato.
 
-**Tabela 3 – Resultado dos itens gerais por página do site do Grupo 02 (C = conforme, NC = não conforme)**
+**Tabela 3 – Artefatos do Grupo 02 por entrega e itens não conformes**
 
-| Página | G1 | G2 | G3 | G4 | G5 | G6 | G7 | G8 |
-| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| index.html | C | C | C | C | NC | NC | NC | C |
-| equipe.html | C | C | C | NC | NC | NC | NC | C |
-| entregas.html | C | NC | C | C | NC | NC | NC | NC |
-| atas.html | C | NC | C | C | NC | NC | NC | NC |
-| ata_20261103.html | NC | NC | NC | C | NC | NC | NC | C |
-| ata_20261104.html | NC | NC | NC | C | NC | NC | NC | NC |
-| ata_20261116.html | NC | NC | NC | C | NC | NC | C | C |
-| dashboard.html | C | C | NC | C | NC | NC | NC | C |
-| entrega1.html | C | C | C | C | C | C | NC | C |
-| planejamento.html | C | C | C | C | C | NC | NC | NC |
-| plan_equipe.html | C | C | C | C | C | NC | NC | C |
-| plan_heatmap.html | C | C | C | C | C | NC | NC | C |
-| plan_ferramentas.html | C | C | C | C | C | NC | C | C |
-| plan_design.html | C | C | C | C | C | NC | NC | C |
-| plan_sites.html | C | C | C | C | C | NC | NC | C |
-| plan_cronograma.html | C | C | C | C | C | NC | C | C |
+| Entrega | Páginas | PDFs | Vídeos | G1 NC | G2 NC | G4 NC | G8 NC |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Projeto](inspecao-grupo-02/projeto.md) | 8 | 5 | 0 | 3 | 2 | 1 | 0 |
+| [1](inspecao-grupo-02/entrega-1.md) | 23 | 0 | 2 | 0 | 18 | 0 | 5 |
+| [2](inspecao-grupo-02/entrega-2.md) | 28 | 1 | 7 | 0 | 28 | 0 | 5 |
+| [3](inspecao-grupo-02/entrega-3.md) | 19 | 1 | 2 | 0 | 19 | 0 | 1 |
+| [4](inspecao-grupo-02/entrega-4.md) | 45 | 1 | 3 | 0 | 45 | 0 | 7 |
+| [5](inspecao-grupo-02/entrega-5.md) | 25 | 4 | 7 | 1 | 24 | 1 | 3 |
+| [6](inspecao-grupo-02/entrega-6.md) | 32 | 4 | 6 | 1 | 31 | 1 | 5 |
+| [7](inspecao-grupo-02/entrega-7.md) | 22 | 5 | 7 | 2 | 20 | 0 | 6 |
+| [8](inspecao-grupo-02/entrega-8.md) | 1 | 3 | 4 | 0 | 1 | 0 | 0 |
+| **Total** | **203** | **24** | **38** | **7** | **188** | **3** | **32** |
 
-Fonte: elaborado pelos autores (2026).
+Fonte: elaborado pelos autores (2026). Itens: G1, histórico de versões; G2, autor e revisor nominais, com revisor diferente do autor e sem “A definir”; G4, imagens com fonte; G8, sem marcadores de pendência.
 
-**Tabela 4 – Resumo por item (16 páginas)**
+## 3. Resultado da preparação
 
-| Item | Conformes | Não conformes | Observação |
-| --- | :---: | :---: | --- |
-| G1 | 13 | 3 | As três atas individuais não têm histórico de versões |
-| G2 | 11 | 5 | Revisor “A definir (validação pendente)” em versões de `entregas.html`, `atas.html` e `ata_20261104.html`; atas sem autor e revisor; autores e revisores como “Todos os integrantes” ou só pelo primeiro nome |
-| G3 | 12 | 4 | As três atas individuais e o painel não têm referências |
-| G4 | 15 | 1 | A página da equipe tem 5 imagens sem fonte |
-| G5 | 8 | 8 | Faltam introduções na página inicial, equipe, entregas, atas, painel e atas individuais |
-| G6 | 1 | 15 | Só `entrega1.html` tem tabela de contribuição |
-| G7 | 3 | 13 | Declaração de uso de IA em `ata_20261116.html`, `plan_ferramentas.html` e `plan_cronograma.html` |
-| G8 | 12 | 4 | Marcador “[cite: 3]” esquecido no texto de `planejamento.html` e campos “A definir” em `entregas.html`, `atas.html` e `ata_20261104.html` |
+A verificação foi automática, com o apoio de IA generativa: ela confere se o elemento existe e como está preenchido, mas não se o conteúdo está certo. O resultado é o da **preparação** (passo 3) e fica sujeito à reunião de inspeção (passo 4). Os principais achados são:
 
-Fonte: elaborado pelos autores (2026).
+- **G2 (autor e revisor):** 130 páginas têm versões com revisor “A definir (validação pendente)”; 32 têm autor igual ao revisor; 40 têm autor ou revisor genérico, como “Todos os integrantes”.
+- **G5 e G6 (introdução e contribuição):** os documentos das Entregas 1, 2, 3, 4, 7 têm página ou seção de contribuição; os das Entregas 5, 6, 8 não têm (ver as páginas de cada entrega). Têm introdução os documentos das Entregas 1, 2, 3, 4, 5.
+- **G7 (IA):** 53 páginas e 13 PDFs mencionam o uso de IA; as demais não declaram.
+- **G8:** 32 páginas têm marcador de pendência ou de citação no texto (por exemplo “[cite: n]”).
+- **Participação:** o site lista cinco integrantes, mas só Felipe Lopes Pedroza, Matheus do Vale Lameira e Victor Andreozzi de La Rocque Couto têm material nas Entregas 5 a 8.
 
-Os defeitos mais claros são o marcador “[cite: 3]” deixado no texto de `planejamento.html` (tipo: forma), o revisor “A definir (validação pendente)” registrado em várias versões (ausência) e o uso de “Todos os integrantes” como autor ou revisor, que não identifica quem fez a revisão (inconsistência). O painel (`dashboard.html`) carrega os dados por script, e o que ele mostra não foi verificado.
+As avaliações de cada página, PDF e vídeo estão nas páginas de cada entrega:
 
-## 3. Cobertura das entregas
+- [Inspeção da Entrega 1](inspecao-grupo-02/entrega-1.md) – Planejamento do Projeto
+- [Inspeção da Entrega 2](inspecao-grupo-02/entrega-2.md) – Perfil do Usuário, Personas e Análise de Tarefas
+- [Inspeção da Entrega 3](inspecao-grupo-02/entrega-3.md) – Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo
+- [Inspeção da Entrega 4](inspecao-grupo-02/entrega-4.md) – Planejamento da Avaliação do Storyboard e da Análise de Tarefas
+- [Inspeção da Entrega 5](inspecao-grupo-02/entrega-5.md) – Relato dos Resultados do Storyboard e da Análise de Tarefas e Planejamento do Protótipo de Papel
+- [Inspeção da Entrega 6](inspecao-grupo-02/entrega-6.md) – Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade e Planejamento do de Alta Fidelidade
+- [Inspeção da Entrega 7](inspecao-grupo-02/entrega-7.md) – Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade
+- [Inspeção da Entrega 8](inspecao-grupo-02/entrega-8.md) – Verificação dos Artefatos (inspeção do próprio grupo)
+- [Inspeção dos itens gerais do projeto](inspecao-grupo-02/projeto.md)
 
-O menu de entregas do Grupo 02 aponta documentos, vídeos e as inspeções feitas por eles. A Tabela 5 mostra o que está linkado em cada entrega. Os documentos em PDF e os vídeos não foram abertos nesta preparação: a tabela confere só se o link existe, e não o conteúdo.
+## 4. Pontos para a reunião de inspeção
 
-**Tabela 5 – Documentos e vídeos linkados no menu de entregas do Grupo 02**
+- **Entrega 5:** o menu não aponta o vídeo da apresentação, embora haja vídeos nas páginas internas.
+- **Equipe:** a situação de Rafael Barbosa de Melo e de Tiago Sousa Nepomuceno deve ser confirmada, para que a participação de todos seja avaliada.
+- **Atas:** o site tem três atas, de 03/11, 04/11 e 16/11/2026; as dos encontros anteriores, se existirem, não estão no site.
+- **Vídeos:** não foi conferido se estão como “não listados” no YouTube.
+- **PDFs e páginas:** confirmar se o conteúdo dos PDFs corresponde ao das páginas.
 
-| Entrega | Documento | Vídeo de apresentação | Inspeção do Grupo 03 feita por eles |
-| --- | --- | --- | --- |
-| 1 | Sim | Sim | Documento e vídeo |
-| 2 | Sim, com gravações das sessões com usuários | Sim | Documento e PDF, sem vídeo |
-| 3 | Sim | Sim | Documento, vídeo e PDF |
-| 4 | Sim, com lista de verificação do storyboard | Sim, com vídeo da lista | Documento, vídeo e PDF (o título cita o NoFluxoUnB) |
-| 5 | Sim, com PDF de Felipe, Matheus e Victor | Não há | Documento, vídeo e PDF |
-| 6 | Sim, com entrega geral e lista de verificação | Sim, com vídeo da lista | Documento, vídeo e PDF |
-| 7 | Sim, com partes de Felipe, Matheus e Victor | Vídeos de Felipe e de Victor; Matheus tem vídeos de teste-piloto e de sessões | Documento, vídeo, ata e PDF |
-| 8 | Documento de inspeção do próprio grupo, com gráficos | 4 vídeos de inspeção | Não se aplica |
+## 5. Encaminhamentos
 
-Fonte: elaborado pelos autores (2026), a partir do menu de entregas do site do Grupo 02.
-
-Pontos para a reunião de inspeção:
-
-- **Entrega 5:** o menu não aponta vídeo da apresentação.
-- **Equipe:** a página da equipe lista cinco integrantes (Felipe Lopes Pedroza, Victor Andreozzi de La Rocque Couto, Rafael Barbosa de Melo, Matheus Do Vale Lameira e Tiago Sousa Nepomuceno), mas as partes individuais das Entregas 5 e 7 e as inspeções da Entrega 8 trazem só Felipe, Matheus e Victor. A reunião deve confirmar a situação de Rafael e de Tiago, para que a participação de todos seja avaliada.
-- **Atas:** o site tem três atas, de 03/11, 04/11 e 16/11/2026. As atas dos encontros anteriores, se existirem, não estão no site.
-- **Vídeos:** não foi conferido se os vídeos estão como “não listados” no YouTube.
-- **Entrega 8:** a inspeção do próprio grupo é feita por cada integrante sobre os artefatos de outro (Felipe sobre Victor, Matheus sobre Felipe e Victor sobre Matheus), com três PDFs e quatro vídeos.
-
-## 4. Encaminhamentos
-
-Esta inspeção registra os defeitos; a correção cabe ao Grupo 02 (passo 5 de Fagan) e a conferência é o passo 6. As prioridades sugeridas são: retirar o marcador “[cite: 3]” (G8); indicar nome completo de autor e revisor em todas as versões e preencher o revisor pendente (G2); incluir histórico de versões e referências nas atas individuais (G1 e G3); declarar o uso de IA onde houve (G7); e incluir a tabela de contribuição nas páginas dos artefatos (G6). A reunião de inspeção do Grupo 02, com gravação, ainda será registrada nesta página.
+Esta inspeção registra os defeitos; a correção cabe ao Grupo 02 (passo 5 de Fagan) e a conferência é o passo 6. As prioridades sugeridas são: preencher o revisor “A definir” e indicar nomes completos de autor e revisor em todas as versões (G2); incluir tabela de contribuição e declaração de IA nos documentos das entregas (G6 e G7); retirar marcadores de pendência (G8); corrigir os links quebrados. A reunião de inspeção do Grupo 02, com gravação, ainda será registrada nesta página.
 
 ## Referências
 
@@ -112,4 +92,4 @@ SERRANO, Milene; SERRANO, Maurício. *Requisitos*: aula 23: análise, verificaç
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa nesta página.** Em 23/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi utilizado para baixar as páginas do site do Grupo 02, aplicar a verificação automática dos itens G1 a G8, ler o menu de entregas e redigir esta página. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+**Uso de IA generativa nesta página.** Em 23/11/2026, a pedido de Henrique Schneider, o Claude (Anthropic) foi utilizado para baixar as páginas e os PDFs do site do Grupo 02, aplicar a verificação automática dos itens e redigir esta página. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
